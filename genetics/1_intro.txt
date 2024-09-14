@@ -1,0 +1,28 @@
+GENOME: complete set of genetic instructions
+Forms of life
+    LUCA: Last Universal Common Ancestor, the reason why mechanisms for genetics is so similar
+    PROKARYOTES: simple, unicellular, doesn't have nuclear membrane
+        BACTERIA: 
+        ARCHAEA
+    EUKARYOTES: multicellular. Has nucleus surrounding genetic material
+    VIRUS: simpler, doesn't have cell structure
+Fields of study
+GENOTYPE: internal hereditary factors
+PHENOTYPE: external expression, influenced by genotype, not all hereditary
+ALLELES: variability in genetic material within the same species
+    DISCONTINUOUS variation: discrete phenotype, 1-1 relationship to genotype
+    CONTINUOUS variation: continuous phenotype, influenced by many genotypes and environment
+    NORM OF REACTION: set of phenotypes that arise from changing the env, keeping genotype constant (e.g. plants). No uncoditional better genotype, depends on env. No knowledge of norm of reaction in humans
+    WILD TYPE: the most common
+Model genetic organisms: good to experiment in lab
+GMO: genetic modified organisms, e.g. corn
+Medicine: predict hereditary diseases
+    MONOGENIC disease: rare, little env influence => easy to predict, BRCA1 gene mutation => breast cancer
+    POLYGENIC disease: common, strong env influence
+    Treatments: e.g. introduce insuline gene into bacteria to produce it
+    Gene therapy: correct a mutant gene, underdeveloped yet
+History
+    Lamarck: acquired traits are inherited, unused characteristics are not transmitted. No longer accepted
+    Blending inheritance: traits mixed
+    Cell theory: cell is the fundamental unit. Cell come from pre-existing cells
+    Chromosome theory: TBC
