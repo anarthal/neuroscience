@@ -1,12 +1,16 @@
-GENOME: complete set of genetic instructions
-Forms of life
-    LUCA: Last Universal Common Ancestor, the reason why mechanisms for genetics is so similar
-    PROKARYOTES: simple, unicellular, doesn't have nuclear membrane
-        BACTERIA: 
-        ARCHAEA
-    EUKARYOTES: multicellular. Has nucleus surrounding genetic material
-    VIRUS: simpler, doesn't have cell structure
-Fields of study
+GENOME: complete set of genetic instructions. Different life forms, similar genetic mechanisms
+EVOLUTION: gradual change of a population's genetic composition for adaptability
+    LAST UNIVERSAL COMMON ANCESTOR (LUCA): common to all current life forms, the reason why mechanisms for genetics is so similar
+    PROKARYOTES: simple, unicellular
+        BACTERIA belong here
+        ARCHAEA: unicellular, in-between, some processes more similar to eukaryotes
+        Genetic material is in contact with other cell components (no nuclear membrane)
+    EUKARYOTES: more complex
+        May be uni or multi cellular
+        Has nuclear membrane surrounding genetic material and organelles
+    VIRUS: simpler, doesn't have cell structure. Not considered living beings
+    3 domain theory: bacteria, archaea, eukaryotes: archaea and euokaryotes descend from bacteria
+    2 domain theory: bacteria, (archaea + eukaryotes): bacteria => archaea => euokaryotes
 GENOTYPE: internal hereditary factors
 PHENOTYPE: external expression, influenced by genotype, not all hereditary
 ALLELES: variability in genetic material within the same species
