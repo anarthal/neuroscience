@@ -1,0 +1,24 @@
+ORGANELLE: specialized subunit within a cell, e.g. nucleus, ribosomes
+VESICLE: structure of liquid surrounded by lipid bilayer
+Cell structure
+    NUCLEUS: membrane bound organelle containing genetic material
+        NUCLEOLUS: structure within nucleus that synthesizes ribosomes
+        NUCLEAR ENVELOPE/MEMBRANE: bilayer membrane that isolates nucleus from cytoplasm
+    CYTOPLASM: evth inside the cell membrane, except the nucleus
+        CYTOSOL: liquid substance between membrane and nucleus, where organelles live
+        RIBOSOME: performs protein synthesis, translating messenger RNA into proteins
+        MITOCHONDRION: uses aerobic respiration to generate ATP, used as chemical energy
+    CELL/PLASMA/CYTOPLASMATIC MEMBRANE: layer isolating cell from exterior
+    GOLGI (APPARATUS): packages proteins in vesicles
+    LYSOSOME: vesicle containing enzymes to digest biomolecules. Mostly in animal cells
+    VACUOLE: vesicle for storing water, waste... more relevant in plants and fungi
+    CYTOSKELETON: network of protein filaments within the cytoplasm. Mechanical structure, transport...
+        MICROFILAMENT: protein filaments. Mechanical structure and motion
+        MICROTUBULE: Mechanical structure, transport...
+    ENDOPLASMIC RETICULUM: transport system & molecule synthesis
+        ROUGH ENDOPLASMIC RETICULUM: where ribosomes attach, so what they produce gets delivered
+        SMOOTH ENDOPLASMIC RETICULUM: no ribosomes, also molecule synthesis
+        
+
+
+

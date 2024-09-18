@@ -19,3 +19,4 @@ Calculate ratios: as the probability of independent events
     FORKED-LIKE method: diagram
 Ratios may deviate from the expected: may be random or not
     Chi square test to verify statistical significance
+GAMETES: reproductive cells in organisms that reproduce sexually

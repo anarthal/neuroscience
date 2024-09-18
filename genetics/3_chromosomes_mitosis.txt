@@ -1,0 +1,49 @@
+Background
+    MONOMER: molecule that can react with other molecules to compose a greater one (POLYMER)
+    PENTOSE: monosaccharide with 5 carbons. e.g. ribose, 2'-deoxyribose
+    N-TERMINAL: the "beginning" of a protein, an amine group (NH2-)
+    C-TERMINAL: the "end" of a protein, a carboxylic group
+    POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
+History
+    Mendel observed, no knowledge of why
+    Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
+Nucleic acid structure
+    NUCLEOTIDE BASE/NUCLEOBASE: nitrogen-based compound: adenine (A), thymine (T), cytosine (C), guanine (G), uracil (U)
+        DNA: ATCG
+        RNA: AUCG
+    COMPLEMENTARITY: each nucleobase binds to exactly one other: A <=> T/U C <=> G
+    BASE PAIR (bp): fundamental unit of nuclear acid: two nucleobases bound together by a hydrogen bond
+    NUCLEOTIDE: monomer formed by pentose + phosphate + nucleobase
+        Nucleobases bind together in base pairs, base pairs bind via the phosphates (phosphodiester bonds)
+        (Double) chain of nucleotides => ADN/ARN helix (~2nm ⌀)
+CHROMOSOME: package of DNA containing part of an individual's genetic material. Visible only during mitosis/meiasis
+    HISTONE: protein that helps packaging DNA
+    CHROMATIN: complex of DNA + protein. Chromosomes are highly-packed chromatin
+    NUCLEASE: enzyme that breaks phosphodiester bonds, splitting nucleotides
+    ELECTROPHORESIS: method of separating charged molecules
+        Apply an electric field with the molecules suspended in gel, so they move
+        Distance traveled is smaller the bigger the molecule is
+        Usually conducted within several lanes. Molecule weight size markers (known size) can be used to estimate unknown sizes
+    NUCLEOSOME: basic subunit of chromatin
+        Octamer of histones + 146bp DNA wrapping the octamer twice, spaced regularly every 200bp
+        Nuclease protection experiment: treat DNA with nuclease, cutting away free DNA
+            Limiting conditions: some free DNA ties are cut, others are not. Bands of N*200bp length => Regular spacing
+            Non-limiting conditions: all free DNA ties are cut. All bands 146bp length => Length of DNA closely attached to histone
+        LINKER DNA: free DNA that joins nucleosomes. May vary in length between species and cells
+        Beads on a string: chromatin structure of nucleosomes + linker DNA (~11nm ⌀)
+        Histone has N-terminal tails, undergo post-translational modifications when chromatin changes shape
+        Histone has + charge
+        Histone octamer: 2x (H2A, H2B, H3, H4) - histone variants
+    H1: histone that sits on top of nucleosome, binds to it and linker DNA
+
+
+
+
+        
+        
+        
+
+
+
+
+separase
