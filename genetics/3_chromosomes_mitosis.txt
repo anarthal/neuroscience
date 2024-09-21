@@ -17,7 +17,10 @@ Nucleic acid structure
     NUCLEOTIDE: monomer formed by pentose + phosphate + nucleobase
         Nucleobases bind together in base pairs, base pairs bind via the phosphates (phosphodiester bonds)
         (Double) chain of nucleotides => ADN/ARN helix (~2nm ⌀)
-CHROMOSOME: package of DNA containing part of an individual's genetic material. Visible only during mitosis/meiasis
+    (???? is this correct?)
+        5' END: the edge of a strand terminating in a carbon atom of the sugar ring, with an optional phosphate attached
+        3' END: the edge of a strand terminating in an OH group attached to the sugar ring
+Genetic material physical organization
     HISTONE: protein that helps packaging DNA
     CHROMATIN: complex of DNA + protein. Chromosomes are highly-packed chromatin
     NUCLEASE: enzyme that breaks phosphodiester bonds, splitting nucleotides
@@ -43,14 +46,36 @@ CHROMOSOME: package of DNA containing part of an individual's genetic material. 
             Solenoid: the helix axis is hollow
             Zig-zag: linker DNA crosses the helix axis, makes more sense for longer linkers
     300-NM FIBER: higher-order structure, composed of scaffolding (non-histone proteins) + 30-nm fiber loops binding to it (looped domain)
-    Metaphase CHROMOSOME: the tightest packed DNA structure (~10k fold)
+    Metaphase CHROMOSOME: the tightest packed DNA structure (~10k fold). Visible only during mitosis/meiasis
         CHROMATID: each of the strands in a chromosome. Composed of packed 300-nm fiber (700nm)
         SMC (structural maintenance of chromosomes) proteins: protein complexes that keep chromosomes together
             (???? is this true?) CONDENSIN: keep the 300-nm fiber loops that compose chromatids together
             COHESIN: keep sister chromatids together (along the whole chromosome)
     HETEROCHROMATIN: densely condensed chromatin, observable. Chromosomes composed of heterochromatin. More present during division
     EUCHROMATIN: relaxed state of chromatin, thin and difficult to observe. More present during the rest of cell cycle
+    TANDEM REPEAT: a short sequence of nucleotides that repeat consecutively
+    SATELLITE DNA: large portion of non-coding DNA that repeats in tandem
+    NON-CODING DNA: DNA that doesn't encode proteins
+Chromosome structure
+    SISTER CHROMATIDS: indicates that two chromatids are identical (after DNA replication). Vs non-sister chromatids (meiosis)
+    CENTROMERE: region that links two sister chromatids. Required by chromosome segregation during mitosis
+        Composed of ALPHA SATELLITE DNA. Pattern varies within species. Humans 171bp, 5k-15k repeats
+        Must be exactly one: zero yield uneven segregation, two yield chromosome breaks
+    TELOMERE: region at the end of chromosomes. Protection/stability functions
+        Composed of minisatellites: short, repetitive sequences. TTAGGG in vertebrates. Variable repeats, 500-3k in humans
+        T-LOOP: loop structure at the end of the telomeres, stabilizing them (as a knot)
+        TELOMERASE: specialized enzyme to replicate T-loops
+    Topography
+        METACENTRIC: centromere in the middle, symmetric
+        SUBMETACENTRIC: centromere between middle and end
+            P-ARM: upper, shorter arm (plotted like this by convention)
+            Q-ARM: lower, longer arm
+        ACROCENTRIC: centromere close to end
+        TELOCENTRIC: centromere at the end
     
+
+
+
 
 
 
