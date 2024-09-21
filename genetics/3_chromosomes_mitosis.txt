@@ -4,6 +4,7 @@ Background
     N-TERMINAL: the "beginning" of a protein, an amine group (NH2-)
     C-TERMINAL: the "end" of a protein, a carboxylic group
     POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
+    Protein DOMAIN: a region of a protein that self-stabilizes and folds independently of each other
 History
     Mendel observed, no knowledge of why
     Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
@@ -30,11 +31,31 @@ CHROMOSOME: package of DNA containing part of an individual's genetic material. 
             Limiting conditions: some free DNA ties are cut, others are not. Bands of N*200bp length => Regular spacing
             Non-limiting conditions: all free DNA ties are cut. All bands 146bp length => Length of DNA closely attached to histone
         LINKER DNA: free DNA that joins nucleosomes. May vary in length between species and cells
-        Beads on a string: chromatin structure of nucleosomes + linker DNA (~11nm ⌀)
         Histone has N-terminal tails, undergo post-translational modifications when chromatin changes shape
         Histone has + charge
         Histone octamer: 2x (H2A, H2B, H3, H4) - histone variants
-    H1: histone that sits on top of nucleosome, binds to it and linker DNA
+    BEADS ON A STRING: chromatin structure of nucleosomes + linker DNA (~11nm ⌀), loosely packed (~6-fold)
+    30-NM FIBER: further condensation of beads-on-a-string (~40-fold)
+        H1: histone that sits on top of nucleosome, binds to it and linker DNA. Compacts nucleosomes
+        N-terminals interact with each other and stabilize the fiber
+        CHROMATOSOME: nucleosome + H1 histone
+        Exact structure unknown. Accepted that arrangement along helix axis. Several models
+            Solenoid: the helix axis is hollow
+            Zig-zag: linker DNA crosses the helix axis, makes more sense for longer linkers
+    300-NM FIBER: higher-order structure, composed of scaffolding (non-histone proteins) + 30-nm fiber loops binding to it (looped domain)
+    Metaphase CHROMOSOME: the tightest packed DNA structure (~10k fold)
+        CHROMATID: each of the strands in a chromosome. Composed of packed 300-nm fiber (700nm)
+        SMC (structural maintenance of chromosomes) proteins: protein complexes that keep chromosomes together
+            (???? is this true?) CONDENSIN: keep the 300-nm fiber loops that compose chromatids together
+            COHESIN: keep sister chromatids together (along the whole chromosome)
+    HETEROCHROMATIN: densely condensed chromatin, observable. Chromosomes composed of heterochromatin. More present during division
+    EUCHROMATIN: relaxed state of chromatin, thin and difficult to observe. More present during the rest of cell cycle
+    
+
+
+
+        
+
 
 
 
