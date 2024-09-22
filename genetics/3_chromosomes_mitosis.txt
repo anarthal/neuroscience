@@ -5,6 +5,9 @@ Background
     C-TERMINAL: the "end" of a protein, a carboxylic group
     POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
     Protein DOMAIN: a region of a protein that self-stabilizes and folds independently of each other
+    GERM CELL: cell that undergoes meiosis to generate gametes
+    SOMATIC CELL: any cell in a multicellular organism excepting gametes, germ cells and stem cells. Divide by mitosis
+    HOMEOSTASIS: steady state of conditions in living organisms
 History
     Mendel observed, no knowledge of why
     Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
@@ -72,9 +75,63 @@ Chromosome structure
             Q-ARM: lower, longer arm
         ACROCENTRIC: centromere close to end
         TELOCENTRIC: centromere at the end
+    SPINDLE APPARATUS: cytoskeletal structure composed of microtubules. Required for chromosome segregation
+        Named mitotic/meiotic spindle, depending on the division process
+    CENTROSOME: organelle where the spindle apparatus microtubules are rooted at. Associated to the nuclear membrane (outside)
+    KINETOCHORE: disc-shaped proteins, located at centromeres, where spindle microtubules attach to segregate sister chromatids
+TBC: Chromosomal cytological analysis
+Number of chromosomes
+    Constant among members of the same species
+    LOCUS: position in a chromosome where a particular gene is located
+        Allele: the concrete variant of nucleotides present in a single locus for a single DNA molecule
+    HOMOLOGOUS CHROMOSOMES: a set (usually a pair) of chromosomes with the same structure (same centromere arrangement and arm length)
+        Usually coding the same alleles
+        With different info (usually one from father, other from mother)
+    PLOIDY: the size of each set of homologous chromosomes in a cell
+        HAPLOID: each chromosome is different in shape/size, and has no homologous
+        DIPLOID: chromosomes exist in pairs, every chromosome has an homologous
+        Most eukaryotic cells are diploid, excepting yeasts and molds
+        Gametes are haploid
+        In diploid cells, each homologous chromosome pair, for each loci, contains 2 alleles, codifying the same trait, but with different info
+    Number of chromosomes not related with biological complexity
+Cell reproduction keys: copy genetic info, separate copies, separate cells
+BINARY FISSION: how prokaryotes and single cell eukaryotes reproduce. Copy DNA, elongate cell, divide
+Cell cycle
+    INTERPHASE: set of phases where the cell is not actively dividing
+        GAP 1 (G1, ~10h): cell growth and metabolism
+        SYNTHESIS (S, ~9h): DNA is replicated
+        GAP 2 (G2, ~4h): cell growth, protein synthesis, preparation for mitosis
+    MITOSIS (M, ~1h): separation of chromosomes and cell division
+Mitosis
+    Yields two genetically identical cells, same num chromosomes (usually 2 diploid cells)
+    Employed by
+        Asexual reproduction in single-cell organisms
+        Development of new organisms (zygote)
+        Maintain tissue homeostasis by producing new cells
+    1. PROPHASE
+        Chromosome condensation (via condensins)
+        Mitotic spindle forms
+        Centrosomes migrate towards opposite poles
+        Nuclear envelope starts breaking down
+    2. PROMETAPHASE: transition period between prophase and metaphase
+        Nuclear envelope completely broken
+        Microtubules bind to kinetochores and start moving chromosomes towards the cell centre
+    3. METAPHASE: chromosomes aligned at the cell equator (metaphase plate)
+    4. ANAPHASE: sister chromatids are separated (chromosome segregation)
+        Cohesin rings degrade, so sister chromatids can separate
+        Spindle poles move outwards, microtubules shorten
+        From this point, sister chromatids are known as daughter chromosomes
+    5. TELOPHASE: chromosomes at poles, decondense
+        Mitosis ends when nuclear envelope reforms
+    CYTOKINESIS: separation of the cytoplasm
+        Begins late ahapahase, ends late telophase
+        Contractile ring (actin and myosin) splits the cell in two
+        CLEAVAGE FURROW: the actual indentation caused in the cell by the contractile ring
+MEIOSIS: special type of cell division that generates 4 haploid gametes from a diploid cell
     
 
 
+        
 
 
 
