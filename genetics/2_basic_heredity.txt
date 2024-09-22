@@ -1,22 +1,18 @@
+GAMETES: reproductive cells in organisms that reproduce sexually
 Published 1865~, rediscovered 1990
-LOCUS: position of a gene in a Chromosome
 Two individuals are HOMOZYGOUS if their alleles are the same for phenotype, otherwise HETEROZYGOUS
-Methodology
-    Ensure homozygous for each trait: self-breed, then leave it grow for 2 generations
-    Cross plants with != phenotypes, then self-cross
-    Obtains 1/4, 3/4 of each phenotype
-Conclusions (Mendel's 1st law)
-    F1 (gen 1) get alleles from both parents
-    Gametes separated
-    Dominant allele (Y), recessive allele (y)
-    Gametes form from alleles that segregate randomly with equal probability
-TESTCROSS: cross dominant with recessive, observe the ratio
-Dominance is not universal: phenotypes may merge
-DIHYBRID cross: cross two purebreeds with 2 != phenotypes
+    Ensure an individual is homozygous: self-breed, then leave it grow for 2 generations
+Mendel's 1st law: principle of equal segregation
+    MONOHYBRID CROSS: cross specimens varying a single characteristic
+    Cross pure-breeding (F1), then self-cross => 3:1 ratio
+    Diploid organisms contain 2 alleles for each characteristic. Segregate in equal proportions when gametes are formed
+    DOMINANCE: for heterozygous individuals, only the dominant allele expresses via the phenotype
+        Not universal: for some alleles, heterozygous individuals present an intermediate phenotype
+    Testcross: cross dominant unknown with recessive. Ratio 1:1
+Mendel's 2nd law: principal of independent assortment. Alleles of different genes segregate independently of each other
+    DIHYBRID cross: cross two purebreeds with 2 != phenotypes
+    Dihybrid cross (F1) + self-cross (F2), yields ratio 9:3:3:1
     PUNNET SQUARE: place gamets on the sides, calculate the ratios
-    Conclusion: different genes segregate independently (Mendel's 2nd law)
-Calculate ratios: as the probability of independent events
     FORKED-LIKE method: diagram
 Ratios may deviate from the expected: may be random or not
     Chi square test to verify statistical significance
-GAMETES: reproductive cells in organisms that reproduce sexually

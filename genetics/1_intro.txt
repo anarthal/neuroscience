@@ -12,7 +12,7 @@ EVOLUTION: gradual change of a population's genetic composition for adaptability
     3 domain theory: bacteria, archaea, eukaryotes: archaea and euokaryotes descend from bacteria
     2 domain theory: bacteria, (archaea + eukaryotes): bacteria => archaea => euokaryotes
 GENOTYPE: internal hereditary factors
-PHENOTYPE: external expression, influenced by genotype, not all hereditary
+PHENOTYPE: external expression, influenced by genotype + environment. Only the genotype is inherited
 ALLELES: variability in genetic material within the same species
     DISCONTINUOUS variation: discrete phenotype, 1-1 relationship to genotype
     CONTINUOUS variation: continuous phenotype, influenced by many genotypes and environment

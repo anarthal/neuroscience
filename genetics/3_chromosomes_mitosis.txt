@@ -83,7 +83,7 @@ TBC: Chromosomal cytological analysis
 Number of chromosomes
     Constant among members of the same species
     LOCUS: position in a chromosome where a particular gene is located
-        Allele: the concrete variant of nucleotides present in a single locus for a single DNA molecule
+        ALLELE: the concrete variant of nucleotides present in a single locus for a single DNA molecule
     HOMOLOGOUS CHROMOSOMES: a set (usually a pair) of chromosomes with the same structure (same centromere arrangement and arm length)
         Usually coding the same alleles
         With different info (usually one from father, other from mother)
@@ -157,9 +157,3 @@ MEIOSIS: special type of cell division that generates 4 != haploid gametes from 
         ANAPHASE II: sister chromatids separate into daughter chromosomes
         TELOPHASE II: chromosomes at poles, decondense. Nuclear envelope reforms. Cytokinesis
     Sources of genetic variation: crossovers and random segregation
-
-    
-
-
-        
-
