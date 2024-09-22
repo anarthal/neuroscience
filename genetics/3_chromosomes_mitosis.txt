@@ -118,7 +118,7 @@ Mitosis
         Microtubules bind to kinetochores and start moving chromosomes towards the cell centre
     3. METAPHASE: chromosomes aligned at the cell equator (metaphase plate)
     4. ANAPHASE: sister chromatids are separated (chromosome segregation)
-        Cohesin rings degrade, so sister chromatids can separate
+        Cohesin rings degrade (due to separase), so sister chromatids can separate
         Spindle poles move outwards, microtubules shorten
         From this point, sister chromatids are known as daughter chromosomes
     5. TELOPHASE: chromosomes at poles, decondense
@@ -127,26 +127,39 @@ Mitosis
         Begins late ahapahase, ends late telophase
         Contractile ring (actin and myosin) splits the cell in two
         CLEAVAGE FURROW: the actual indentation caused in the cell by the contractile ring
-MEIOSIS: special type of cell division that generates 4 haploid gametes from a diploid cell
+MEIOSIS: special type of cell division that generates 4 != haploid gametes from a diploid cell. Much longer than mitosis
+    Happens after the usual G1-S-G2 cycle (DNA replicated once)
+    Meiosis I
+        PROPHASE I: lengthy. Yields recombined chromosomes
+            LEPTOTENE: chromosomes condense, as in mitosis. Sister chromatids join at centromeres
+            ZYGOTENE: homologous chromosomes approach and pair (SYNAPSIS)
+            PACHYTENE: all homologous chromosomes have synapsed
+                Structure of 4 chromatids (TETRAD) / 2 homologous (BIVALENTS)
+                HOMOLOGOUS RECOMBINATION (or crossover): homologous chromosomes exchange genetic material to produce variation
+                DNA strands break, when repaired, some alleles from one chromatid inserted into the homologous (at the same position)
+            DIPLOTENE: homologous bonds relax
+                CHIASMA(TA): points where homologous are still joined
+            DIAKINESIS
+                Chromosomes fully condense, still bound at chiasmata
+                Nuclear envelope breaks
+                Meiotic spindle forms and microtubules attach to chromosomes
+        METAPHASE I: bivalents aligned at the cell equator (meiotic plate)
+            Microtubules attach to != homologous chromosomes (instead of a single chromosome)
+            Tension maintained by crossovers
+        ANAPHASE I: bivalents separate (chromosome disjunction). Sister chromatids still together
+            Segregation is random: some chromosomes from father, others from mother
+        TELOPHASE I: chromosome movement completes, nuclear envelope reforms
+        Yields 2 haploid cells (1/2 num chromosomes, but with 2 chromatids each), != from the original and each other
+    INTERKINESIS (interphase II): cell separation, spindle disassembly, chromosomes decondense. No DNA replication
+    Meiosis II: similar to mitosis. Segregates sister chromatids
+        PROPHASE II: chromosomes condense, nuclear envelope breaks, spindle reforms
+        METAPHASE II: chromosomes aligned across metaphase plate, each sister chromatid aligned towards one pole
+        ANAPHASE II: sister chromatids separate into daughter chromosomes
+        TELOPHASE II: chromosomes at poles, decondense. Nuclear envelope reforms. Cytokinesis
+    Sources of genetic variation: crossovers and random segregation
+
     
 
 
         
 
-
-
-
-        
-
-
-
-
-
-        
-        
-        
-
-
-
-
-separase
