@@ -1,0 +1,47 @@
+Background
+    HETEROMORPHIC CHROMOSOMES: a set of chromosomes with some homology but different shape and size
+    AUTOSOME: chromosome that is not a sex chromosome. In diploid individuals, has an homologous
+    TRANSCRIPTION FACTOR: protein that controls how much a gene transcribes
+BIOLOGICAL SEX: phenotype determining the type of gametes (male: smaller, female: larger) an individual produces
+Sex determined by
+    CHROMOSOMAL: sex is determined by a set of heteromorphic (sex) chromosomes
+        XX/XO: males 1X, females 2X. Females X gametes (homogametic sex), males X and O (heterogametic). Grasshoppers
+        ZZ/ZW: males ZZ, females ZW. Female if W present. Birds, reptiles...
+        XX/XY: males XY, females XX
+        X:A ratio (special case of XX/XY) (e.g. drosophila): (num X chromosomes) / (num autosomal sets)
+            X:A == 0.5 (e.g. XY, but not necessarily) => male
+            X:A == 1.0 (e.g. XX) => female
+            X:A between (0.5, 1.0) => intersex
+            X:A > 1.0 => metafemale (sterile)
+            X:A < 0.5 => metamale (sterile)
+            Sex not directly determined by autosomes, but these influence indirectly (development process)
+    GENIC: sex in autosomal chromosomes. Plants, fungi
+    Environmental: sex is determined by individual's life cycle
+        Sequential hermaphroditism: can be both male and female, but not at the same time
+        Turtles: depending on egg water temperature
+PSEUDOAUTOSOMAL REGION: small automsomal regions present in sex chromosomes, where recombination happens during meiosis
+    At telomeres. Primary: top of the chromosome. Secondary: bottom
+In humans
+    General rules
+        One X chromosome required for development
+        Male genes located in Y
+        Fertility in X and Y. Fertile females require XX
+        > 2X => affects development
+    Syndromes
+        Turner syndrome: XO females. Sterile, normal development, underdeveloped secondary sex traits
+        Klinefelter syndrome: XXY males. Sterile, normal development, underdeveloped secondary sex traits
+        Poly X: females. Sterile, development problems
+        XYY males: generally normal
+    Mechanism
+        TDF (Testis-determining factor): protein that causes primordial gonads to differentiate into testes
+            Effect on early development (6 weeks fetus)
+            Testes then produces testosterone (secondary sex traits), Anti-Müllerian (degenerates female ducts)
+        SRY (Sex-determining Region Y) gene: located in non-autosomal region of chromosome Y, expresses by producing TDF
+            XY females: not present in Y. Primordial gonads become ovaries
+            XX males: present in X (crossover)
+        TFM (Testicular Feminization Mutation) gene (in X): needs to be unaltered for correct male development
+            Testes produce testosterone => Receptors => Nucleus => Transcription factor for required genes
+            TFM mutation: no testosterone receptors => Female traits
+        
+
+
