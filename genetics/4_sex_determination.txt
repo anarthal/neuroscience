@@ -42,6 +42,29 @@ In humans
         TFM (Testicular Feminization Mutation) gene (in X): needs to be unaltered for correct male development
             Testes produce testosterone => Receptors => Nucleus => Transcription factor for required genes
             TFM mutation: no testosterone receptors => Female traits
-        
+X/Y-LINKAGE: applies to a gene that is present in the non-autosomal regions of X or Y
+    Inheritance doesn't follow Mendelian ratios. Gene dependent on the individual's sex
+    HEMIZYGOUS individual for a gene: diploid, but has only one copy of the gene (X/Y linkage)
+    X has >> genes than Y. Y mostly male-specific genes
+    E.g. color blindness X-linked recessive => More common in men
+SEX-LIMITED INHERITANCE: autosomal gene (present in both sexes) expressed only in one sex. E.g. breast/beard development
+SEX-INFLUENCED INHERITANCE: phenotype influenced by sex (but not limited to it). E.g. premature baldness, expresses more in men
+DOSAGE COMPENSATION of X-linked genes: process of equalizing gene expression across sexes that have != number of sex chromosomes
+    Females 2X, and protein synthesis depends on num X => Mechanism to compensate
+    Mechanisms
+        Hypertranscription (drosophila): males increase activity of their X
+        Hypotranscription: females reduce each X activity to 1/2
+        Inactivation (mammals): females inactivate one of their X
+    Inactivation
+        BARR BODY: inactivated X chromosome
+        Random in most mammals except marsupials
+        Happens early in development (humans: first weeks)
+        Once an instance of X is inactivated, remains inactive in the cell and its descendants
+        MOSAICISM: not all cells inactivate the same X instance, but neighbors do => Patchy pattern in cats
+            In females, 50% cells produce paternal proteins, 50% maternal. Never both
+            Females functionally hemizygous with respect to X-linked genes
+        Only 75-85% of genes are permanently inactivated => XXX females != XX females
+        Triggered by X-INACTIVATION CENTER gene, expressed in the X to be inactivated (Xi)
+        X-INACTIVE SPECIFIC TRANSCRIPT (Xist): lncRNA that coats Xi and inhibits expression
 
 
