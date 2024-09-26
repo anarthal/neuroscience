@@ -157,3 +157,6 @@ MEIOSIS: special type of cell division that generates 4 != haploid gametes from 
         ANAPHASE II: sister chromatids separate into daughter chromosomes
         TELOPHASE II: chromosomes at poles, decondense. Nuclear envelope reforms. Cytokinesis
     Sources of genetic variation: crossovers and random segregation
+Explanation of Mendel's laws
+    Equal segregation: chromosomes in pairs, homologous separate during meiosis anaphase I => Half alleles in each gamete
+    Independent assortment: applies for genes located in != chromosomes. Same chromosomes => travel together
