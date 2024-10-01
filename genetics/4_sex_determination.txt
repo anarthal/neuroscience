@@ -21,6 +21,7 @@ Sex determined by
         Turtles: depending on egg water temperature
 PSEUDOAUTOSOMAL REGION: small automsomal regions present in sex chromosomes, where recombination happens during meiosis
     At telomeres. Primary: top of the chromosome. Secondary: bottom
+    DIFFERENTIAL REGION: regions that are not pseudo-autosomal
 In humans
     General rules
         One X chromosome required for development
