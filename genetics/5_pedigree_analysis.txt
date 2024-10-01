@@ -1,5 +1,6 @@
 Background
     DE NOVO MUTATION: appearing in an individual for the 1st time, not seen in previous generation
+    PROPHYLACTIC: used to prevent a disease
 PEDIGREE ANALYSIS: chart-based analysis method to determine pattern of inheritance of a condition in humans (bc limited num offsprings)
 Autosomal recessive (e.g. albinism, Tay-Sachs)
     Present in males and females
@@ -28,3 +29,23 @@ Y-linked traits (e.g. webbed toes)
     Only affect men
     Affected men have all sons affected
     Not too many, mostly related to fertility
+GENETIC COUNSELLING: investigate individual/family's genetics to help them prevent/mitigate genetic diseases
+    When: woman >35yo pregnant, family has genetic diseases, parents carriers, consanguineous mating...
+    Procedure: diagnose parent's conditions, explain, assess risk of transmission => Reproductive options
+GENETIC TESTING: diagnose procedure
+    Preimplantation: when doing in-vitro fertilization, before implanting the zygote
+        Fertilize several zygotes and wait them to grow to 8-16 cells
+        Extract one cell and analyze => Pick up the ones that are healthy => Avoid passing the disorder
+    Prenatal: before birth. Make decisions about the pregnancy/early raising
+        AMNIOCENTESIS: sample of amniotic liquid (contains foetal cells), cultivate them, analyze
+        CHORIONIC VILLUS SAMPLING: sample of placental extensions. More cells, no need to cultivate, but more invasive
+        MATERNAL BLOOD SCREENING: protein levels may indicate disorders, no genetic analysis. Do we need a more invasive test?
+        CELL-FREE FOETAL ANALYSIS: some foetal cells in mother's circulation. Analyze those
+    NEWBORN SCREENING: after birth. Apply treatment for some disorders
+        E.g. phenylketonuria: phe enzyme not metabolized => Toxic accumulation. Change diet: low phe intake
+        Heel prick test: prick in the toe
+    PRESYMPTOMATIC GENETIC TESTING: for late adults, to prevent late onset diseases (e.g. breast cancer, BRCA1 gene)
+    Difficulties
+        Negative result != no defect. Same disease caused by multiple mutations (e.g. cystic fibrosis, 1k != mutations)
+        Positive result != disease, only higher predisposition. E.g. BRCA1
+        For some diseases, no test available

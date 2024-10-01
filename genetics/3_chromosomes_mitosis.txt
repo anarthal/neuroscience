@@ -8,6 +8,7 @@ Background
     GERM CELL: cell that undergoes meiosis to generate gametes
     SOMATIC CELL: any cell in a multicellular organism excepting gametes, germ cells and stem cells. Divide by mitosis
     HOMEOSTASIS: steady state of conditions in living organisms
+    KARYOTYPE: the specific set of chromosomes that an individual has
 History
     Mendel observed, no knowledge of why
     Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
