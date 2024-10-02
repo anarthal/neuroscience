@@ -7,7 +7,6 @@ Mendel's 1st law: principle of equal segregation
     Cross pure-breeding (F1), then self-cross => 3:1 ratio
     Diploid organisms contain 2 alleles for each characteristic. Segregate in equal proportions when gametes are formed
     DOMINANCE: for heterozygous individuals, only the dominant allele expresses via the phenotype
-        Not universal: for some alleles, heterozygous individuals present an intermediate phenotype
     Testcross: cross dominant unknown with recessive. Ratio 1:1
 Mendel's 2nd law: principal of independent assortment. Alleles of different genes segregate independently of each other
     DIHYBRID cross: cross two purebreeds with 2 != phenotypes

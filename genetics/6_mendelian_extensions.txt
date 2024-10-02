@@ -1,0 +1,43 @@
+INCOMPLETE/PARTIAL DOMINANCE: heterozygote phenotype = intermediate of homozygote's phenotypes (e.g. snapdragon flower)
+    F1 intercross ratio: 1:2:1 (vs. 3:1)
+CODOMINANCE: heterozygote phenotype includes the phenotypes of both homozygotes
+    E.g. MN blood types: allele LM codifies M antigen, LN codifies N antigen. Heterozygous individuals have both antigens
+Dominance can be studied at different phenotypical levels, and changes between levels
+    Anatomical: whole subject (TBC)
+    Physiological: subject functioning
+    Molecular: single cell
+    E.g. cystic fibrosis / CFTR gene. Mutation causes defective protein => thick mocus. Normal dominant physiological, codominant molecular
+Multiple alleles: population may have > 2 alleles for same locus. Max of 2 present in a single individual
+    Same inheritance patterns, more phenotypical variation within population
+    ALLELIC SERIES: dominant relationships between all the possible alleles
+    E.g. ABO blood type. 3 alleles IA, IB, i. IA = IB, IA > i, IB > i
+LETHAL ALLELES: when present, causes early death of individual. Usually recessive mutations, only homozygotes die
+    ESSENTIAL GENE: products required for development. Double mutation => lethal allele
+    F1 intercross ratio: 2:1 (vs. 3:1), if homozygote dies at early stages and is not observed
+PENETRANCE of a condition: sum(individuals expressing condition) / sum(individuals with genotype associated to condition)
+    Condition with INCOMPLETE PENETRANCE: if penetrance < 1. May lead to incorrect genotype assignments
+    Influenced by env and other genes
+EXPRESSIVITY of a condition: degree in which a condition is expressed for a certain genotype
+    E.g. level of polydactility
+    Influenced by env and other genes
+PLEIOTROPY: situation where single gene influences several phenotypes
+    E.g. phenylketonuria also produces blond hair, blue eyes
+GENE INTERACTION: phenotypes usually determined by the interaction of the products of several genes
+    Each gene is still segregated and assorted independently, genotypes follow mendelian ratios, but phenotypes don't
+    E.g. pepper color determined by the products of two genes => 4 phenotypes
+    != dominance: interaction refers to 2 != loci, dominance to 2 alleles in the same locus
+EPISTASIS: interaction where a gene masks another gene
+    EPISTATIC gene: the one that masks the other
+    HIPOSTATIC gene: the one that gets masked
+    Usually 3 phenotypes: masked, non-masked 1, non-masked 2 (e.g. pigments)
+    Recessive epistasis: epistatic gene is recessive
+        E.g. labrador color. Pigment hipostatic, pigment deposition epistatic recessive
+        F1 intercross ratio: 9:4:3 (non-masked-dominant:masked:non-masked-recessive) (vs. 9:3:3:1)
+    Dominant epistasis: epistatic gene is dominant
+        E.g. squash flower color. Pigment hipostatic, pigment deposition epistatic dominant
+        F1 intercross ratio: 12:3:1 (masked:non-masked-dominant:non-masked-recessive)
+    Duplicate recessive epistasis: both epistatic
+        If genotype has double recessive for any of the genes, masked phenotypes. Only 2 phenotypes.
+        E.g. pigment in snails
+        F1 intercross ratio: 9:7 (non-masked:masked) (vs. 9:3:3:1)
+    
