@@ -55,5 +55,12 @@ CYTOPLASMIC INHERITANCE: related to genes located in mitochondria or chloroplast
     E.g. variegation in four o'clock plant leaves. Mutation in cpDNA => white leaves
     Mitochondrial diseases: lethal unless heteroplasmy
         E.g. mutations affecting electron transport chain: affects muscle and nervous system
-
-    
+MATERNAL EFFECT: individual's phenotype determined by mother's genotype
+    Mother egg's cytoplasm contains substances determined by her genotype that affects offspring early development
+    Nuclear inheritance, but != form of genotype expression
+    Males don't contribute directly to children's phenotype, but may do to the grandchildren's
+    E.g. coil direction in sea snails
+GENETIC IMPRINTING: expression of an allele depends on whether it was inherited from father or mother
+    E.g. Prader-Willi Syndrome if a specific region of chromosome 15 deleted in father's chromosome
+    Angelman Syndrome if a similar region deleted in mother's chromosome
+    Presence of a normal copy on the homologous does not complement
