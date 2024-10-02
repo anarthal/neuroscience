@@ -46,5 +46,14 @@ COMPLEMENTATION ANALYSIS: given two pure-breed individuals with mutation affecti
         Resulting individuals are heterozygous for both loci => Functional
         Doesn't happen if the mutation affects the same loci
     Complementation test: cross two pure-breeding mutants to determine whether their mutation affects the same locus
+CYTOPLASMIC INHERITANCE: related to genes located in mitochondria or chloroplasts
+    Maternal inheritance: ovule contains organelles, but sperm only adds nuclear DNA
+    HETEROPLASMY: condition where single cell contains different cytoplasmic genotypes
+    No meiosis mechanism to ensure equal segregation: organelles segregate randomly, regardless of genotype
+        If a cell contains 2 genotypes with equal proportion, progeny may contain any other != proportion
+        Extensive phenotypic variation in progeny
+    E.g. variegation in four o'clock plant leaves. Mutation in cpDNA => white leaves
+    Mitochondrial diseases: lethal unless heteroplasmy
+        E.g. mutations affecting electron transport chain: affects muscle and nervous system
 
     
