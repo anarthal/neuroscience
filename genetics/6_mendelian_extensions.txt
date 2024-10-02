@@ -40,4 +40,11 @@ EPISTASIS: interaction where a gene masks another gene
         If genotype has double recessive for any of the genes, masked phenotypes. Only 2 phenotypes.
         E.g. pigment in snails
         F1 intercross ratio: 9:7 (non-masked:masked) (vs. 9:3:3:1)
+COMPLEMENTATION ANALYSIS: given two pure-breed individuals with mutation affecting single phenotype, is the affected gene the same for both?
+    COMPLEMENTATION: process where crossing two individuals with homozygous recessive genotypes affecting single genotype => wild type
+        Happens if the mutation occurs at != loci
+        Resulting individuals are heterozygous for both loci => Functional
+        Doesn't happen if the mutation affects the same loci
+    Complementation test: cross two pure-breeding mutants to determine whether their mutation affects the same locus
+
     
