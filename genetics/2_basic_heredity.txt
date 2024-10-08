@@ -15,3 +15,5 @@ Mendel's 2nd law: principal of independent assortment. Alleles of different gene
     FORKED-LIKE method: diagram
 Ratios may deviate from the expected: may be random or not
     Chi square test to verify statistical significance
+    chi2 = sum((expected - observed)^2 / expected)
+    dof = num phenotypic classes - 1
