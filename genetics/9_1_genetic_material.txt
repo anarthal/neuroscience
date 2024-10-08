@@ -1,0 +1,30 @@
+Background
+    RNase, DNase, protease: enzymes that destroy RNA, DNA, proteins
+    Bacteria phages: virus that infects bacteria
+    VIRION: a single, complete virus entity
+    Steps of virus infection: landing, attachment, penetration, protein/DNA synthesis, assembly, lysis
+    LYSIS: cell death by bursting
+    hnRNA: heterogeneous nuclear RNA - RNA that lives in the nucleus, usually because it's still not mature to get exported
+    CODON: a series of 3 consecutive nucleotides. Fundamental unit of translation
+Central dogma of biology: genetic information flows in direction DNA => RNA => proteins
+    REPLICATION: copying DNA
+    TRANSCRIPTION: using DNA to synthesize RNA
+    TRANSLATION: using RNA to synthesize proteins
+    RETROTRANSCRIPTION: using RNA to synthesize DNA. Exception to central dogma, rare (virus)
+    GENOME: the entire DNA in an organism, including nuclear, mitochondrial and chloroplast DNA
+    TRANSCRIPTOME: the set of all RNA transcripts of a cell/individual
+    PROTEOME: the set of all proteins that a cell may synthesize
+The transcriptome
+    CODING RNA (~4%): gets translated into proteins
+        DNA gets transcribed into precursor mRNA (pre-mRNA) - also called primary transcript
+        Then converted to messenger RNA (mRNA): the one that gets translated into proteins
+    NON-CODING RNA (rest): RNA that doesn't get translated into proteins, but has other functions
+        Ribosomal RNA (rRNA) (and pre-rRNA): the main component of ribosomes
+        Transfer RNA (tRNA): specifies the meaning of each codon in mRNA. Physically bound to amino-acids
+        Small non-coding RNA (sncRNA): <200bp
+            Micro RNA (miRNA): post-transcriptional regulation, RNA silencing
+            Small interfering RNA (siRNA): RNA silencing
+            Small nuclear RNA (snRNA): processes pre-mRNA => mRNA
+            Small nucleolar RNA (snoRNA): processes pre-mRNA => mRNA
+        Long non-coding RNA (lncRNA)
+    
