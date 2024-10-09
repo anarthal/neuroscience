@@ -6,6 +6,11 @@ Background
     LYSIS: cell death by bursting
     hnRNA: heterogeneous nuclear RNA - RNA that lives in the nucleus, usually because it's still not mature to get exported
     CODON: a series of 3 consecutive nucleotides. Fundamental unit of translation
+    Molecule structure levels
+        Primary: the linear chain of functional groups that composes it. E.g. chain of nucleotides
+        Secondary: local spatial conformation of molecules. E.g. DNA double-stranded helix
+        Tertiary: 3D structure of the molecule. E.g. DNA nucleosomes
+        Quaternary: grouping of several molecules. E.g. ribosomes
 Central dogma of biology: genetic information flows in direction DNA => RNA => proteins
     REPLICATION: copying DNA
     TRANSCRIPTION: using DNA to synthesize RNA
@@ -27,4 +32,34 @@ The transcriptome
             Small nuclear RNA (snRNA): processes pre-mRNA => mRNA
             Small nucleolar RNA (snoRNA): processes pre-mRNA => mRNA
         Long non-coding RNA (lncRNA)
-    
+Nucleic acid primary structure
+    NUCLEOTIDE BASE/NUCLEOBASE: nitrogen-based compound: adenine (A), thymine (T), cytosine (C), guanine (G), uracil (U)
+        PURINES (big): adenine (A), guanine (G)
+        PYRIMIDINES (small): uracil (U), thymine (T), cytosine (C)
+    PENTOSE: monosaccharide with 5 carbons
+        β-D-ribose for RNA, β-D-deoxyribose for DNA
+    Phosphate group: PO_4 anion (has negative charge)
+    PHOSPHODIESTER BOND: phosphate where two of the Os bind to C
+    NUCLEOTIDE: monomer formed by pentose + phosphate group + nucleobase
+    Backbone: alternating phosphate - pentose, nucleobases bind to pentose
+        Pentose 1': carbon where nucleobase binds
+        Pentose 3'/5': carbons binding to next/prev phosphate
+    Chain has polarity: orientation matters
+        3' end: ends in a pentose with an OH group instead of a phosphodiester bond
+        5' end: ends in a phosphate group with an extra O-
+        Read chains from 5' to 3', stating only nucleobases
+Nucleic acid secondary structure (Watson & Crick)
+    Chargaff's rules: in double-stranded helix, %A=%T, %G=%C
+    Double stranded helix
+        Each strand runs in anti-parallel: one from 5' to 3', the other from 3' to 5'
+        Nucleobases bind to the opposite strand's nucleobases via hydrogen bonds
+        COMPLEMENTARITY: each nucleobase binds to exactly one other: AT (AU), GC
+    BASE PAIR (bp): fundamental unit of nuclear acid: two nucleobases bound together by hydrogen bonds + backbone
+    DENATURATION: separating strands. RENATURATION: rebind strands together
+        H bonds weaker than phosphodiester bonds => Easier to separate strands than to break them
+        AT has 2 bonds, GC has 3 => != energy to separate
+        MELTING TEMPERATURE (Tm): temperature required to denature 1/2 of DNA
+            Increases with length, GC content, ionic strength (TBC: esto que es?)
+
+        
+        

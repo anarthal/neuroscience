@@ -1,6 +1,5 @@
 Background
     MONOMER: molecule that can react with other molecules to compose a greater one (POLYMER)
-    PENTOSE: monosaccharide with 5 carbons. e.g. ribose, 2'-deoxyribose
     N-TERMINAL: the "beginning" of a protein, an amine group (NH2-)
     C-TERMINAL: the "end" of a protein, a carboxylic group
     POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
@@ -12,18 +11,6 @@ Background
 History
     Mendel observed, no knowledge of why
     Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
-Nucleic acid structure
-    NUCLEOTIDE BASE/NUCLEOBASE: nitrogen-based compound: adenine (A), thymine (T), cytosine (C), guanine (G), uracil (U)
-        DNA: ATCG
-        RNA: AUCG
-    COMPLEMENTARITY: each nucleobase binds to exactly one other: A <=> T/U C <=> G
-    BASE PAIR (bp): fundamental unit of nuclear acid: two nucleobases bound together by a hydrogen bond
-    NUCLEOTIDE: monomer formed by pentose + phosphate + nucleobase
-        Nucleobases bind together in base pairs, base pairs bind via the phosphates (phosphodiester bonds)
-        (Double) chain of nucleotides => ADN/ARN helix (~2nm ⌀)
-    (???? is this correct?)
-        5' END: the edge of a strand terminating in a carbon atom of the sugar ring, with an optional phosphate attached
-        3' END: the edge of a strand terminating in an OH group attached to the sugar ring
 Genetic material physical organization
     HISTONE: protein that helps packaging DNA
     CHROMATIN: complex of DNA + protein. Chromosomes are highly-packed chromatin
