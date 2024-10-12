@@ -1,0 +1,58 @@
+Background
+    SUPERCOILING: further twisting of DNA. Can cause the helix to knot and change shape
+        Positive: twisting right-handedly (increasing the amount of twist)
+        Negative: un-twisting
+    POLYMERASE: enzyme that synthesizes polymer chains
+    NUCLEOSIDE: a nucleotide without the phosphate group
+    NTP (nucleoside triphosphate): a nucleoside + 3 phosphate groups. Precursor of ADN/ARN molecules
+        dNTP: deoxyribose nucleoside triphosphate
+        rNTP or just NTP: ribose nucleoside triphosphate
+Initial models
+    Conservative: double strand replicated as-is. Not real
+    Dispersive: fragments of double strand replicated as-is, then re-assembled. Not real
+    Semi-conservative: strands separate and replicate. Each child helix has 1 strand from parent. Real
+DNA TOPOISOMERASE: enzyme that catalyzes DNA topological changes (e.g. undoing supercoils)
+    Type I: nick in a single strand
+        Type IA: the intact strand passes through the nick
+        Type IB: the broken strand is rotated around the intact strand
+    Type II: nick in both strands
+    DECATENATION: process of separating two circular DNA molecules, topologically linked after replication
+Modes of replication
+    ORIGIN OF REPLICATION: point in genome where replication starts. Not random
+    REPLICATION FORKS: structure formed when the helix separates, where replication is actively taking place
+        Either 1 or (usually) 2 replication forks, opposite directions from origin
+    REPLICON: piece of DNA produced by a single replication origin
+    REPLICATION BUBBLE: structure formed when the helix separates, contains 2 replication forks
+    THETA REPLICATION (prokaryotes)
+        Circular chromosome unwinds at single replication origin => Replication bubble
+    LINEAR REPLICATION (eukaryotes)
+        Replication rate is slower than prokaryotes and genome bigger => Parallelization
+        Multiple replication origins with 2 forks, progress until fusing
+Overall structure
+    HELICASE: enzyme that breaks hydrogen bonds, splitting strands
+    PRIMASE: synthesizes RNA primers, so polymerase can work
+    DNA POLYMERASE: catalyzes synthesis, binding new nucleotides
+        Only 5' to 3': adds dNTPs to the OH groups in 3'
+        Requires a primer and a template strand
+        LEADING STRAND (5' to 3'): synthesized continuously
+        LAGGING STRAND (3' to 5'): synthesized in small fragments (OKAZAKI FRAGMENTS), starting with primer, 5' to 3'
+    Primers replaced with RNA
+    LIGASE: enzyme that seals DNA nicks
+DNA polymerase
+    Hand-like structure with 3 domains
+        Palm: adding new nucleotides and verification
+        Fingers: aid catalysis, close when correct nucleotide binds
+        Thumb: attachment to DNA
+    DNA-specific
+    Eukaryotes
+        Pol α: elongates primers created by primase
+        Pol δ: lagging strand
+        Pol ε: leading strand
+    PROCESSIVITY: enzyme's ability to catalyze consecutive reactions (i.e. adding consecutive nucleotides) without binding
+        Binding is slower than adding nucleotides => High processivity required for efficient synthesis
+    Proofreading activity: can detect and correct errors to decrease error rate (1/10^5 => 1/10^7)
+        Error => synthesis slows down, growing chain moves to exonuclease domain => Incorrect nucleotide removed
+        Post-replication error correction => 1/10^10
+    
+        
+    
