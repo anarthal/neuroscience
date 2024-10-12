@@ -75,5 +75,7 @@ RNA structure
     U replaces T, ribose (OH) replaces deoxyribose
     Secondary structure: more diverse. usually single-stranded, with loops, discontinuities, and non-complementaries
         E.g. tRNA: clover leaf structure that enables its function
+    Tertiary structure: varied (high rotational freedom), allows RNA to work as an enzyme
+        PSEUDOKNOT: structure formed when a secondary structure interacts with distant, complementary base pairs
     Less stable than ADN
     RIBOZYME: enzyme composed of RNA, e.g. RNase P (transforms pre-tRNA => rRNA)

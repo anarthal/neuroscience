@@ -44,9 +44,6 @@ Genetic material physical organization
             COHESIN: keep sister chromatids together (along the whole chromosome)
     HETEROCHROMATIN: densely condensed chromatin, observable. Chromosomes composed of heterochromatin. More present during division
     EUCHROMATIN: relaxed state of chromatin, thin and difficult to observe. More present during the rest of cell cycle
-    TANDEM REPEAT: a short sequence of nucleotides that repeat consecutively
-    SATELLITE DNA: large portion of non-coding DNA that repeats in tandem
-    NON-CODING DNA: DNA that doesn't encode proteins
 Chromosome structure
     SISTER CHROMATIDS: indicates that two chromatids are identical (after DNA replication). Vs non-sister chromatids (meiosis)
     CENTROMERE: region that links two sister chromatids. Required by chromosome segregation during mitosis
