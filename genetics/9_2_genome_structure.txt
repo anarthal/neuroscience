@@ -33,7 +33,16 @@ Biological complexity
     GENE DENSITY: num genes / total DNA
     C-value paradox: greater C-value, greater number of genes =!> greater complexity
         Complexity increases when gene density decreases: non-coding material. E.g. introns and protein diversity
-        
+Genome evolution: constantly changing with random processes
+    Gene mutation (exon): changes the structure of the produced protein
+    Regulatory DNA mutation: changes how much, when and where the protein is produced
+    Gene duplication and divergence: creates gene families
+    Exon shuffling: genes exchange exons. Changes gene functionality
+    Transposition: element changes position. Depends on where it's inserted. LINE-1, Alu can transpose.
+    Horizontal transfer: exchange of genetic material by individuals of the same generation, then inherited (mainly bacteria)
+        Transformation: DNA from surroundings (e.g. other dead bacteria)
+        Transduction: DNA from another individual packaged in a virion's DNA (e.g. phage)
+        Conjugation: two individuals in contact exchange DNA
     
 
 
