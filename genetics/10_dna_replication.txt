@@ -7,6 +7,7 @@ Background
     NTP (nucleoside triphosphate): a nucleoside + 3 phosphate groups. Precursor of ADN/ARN molecules
         dNTP: deoxyribose nucleoside triphosphate
         rNTP or just NTP: ribose nucleoside triphosphate
+    EXONUCLEASE ACTIVITY: removal of nucleotides at the end of a strand
 Initial models
     Conservative: double strand replicated as-is. Not real
     Dispersive: fragments of double strand replicated as-is, then re-assembled. Not real
@@ -53,6 +54,27 @@ DNA polymerase
     Proofreading activity: can detect and correct errors to decrease error rate (1/10^5 => 1/10^7)
         Error => synthesis slows down, growing chain moves to exonuclease domain => Incorrect nucleotide removed
         Post-replication error correction => 1/10^10
-    
-        
+Phases
+    1. Initiation: recognition of origins, helicase binding, polymerase binding
+    2. Elongation: leading/lagging strand synthesis, primer removal, Okazaki fragment binding
+    3. Termination: decatenation (prokaryotes), telomeres and nucleosomes (eukaryotes)
+In prokaryotes
+    Initiation
+        Initiator binds to origin of replication => Replication bubble
+        Helicases (DnaB) loaded with a loader protein (inactive)
+        Helicases activate when loader dissociates
+        Single-strand binding proteins (SSB) bind to unwound DNA to prevent secondary structure formation
+        Gyrase (type of Type II topoisomerase) reduces supercoiling. Ahead of replication forks
+    Elongation
+        Primase (RNA polymerase) creates primers
+        DNA polymerase III synthesizes both strands in parallel
+            2x subunits α, ε, θ catalytic core (5' => 3' polymerase). ε has also exonuclease activity
+            2x subunit β: sliding clamp, to maintain DNA binding
+            2x subunit 𝜏: maintain the dimer together, bind to helicases
+        DNA polymerase I: replaces RNA primers by DNA, has also proofreading capabilities
+        Ligase: seal nicks
+    Termination
+        Ter sequence: where replication ends
+        Topoisomerase II decatenates
+
     
