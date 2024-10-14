@@ -8,6 +8,9 @@ Background
         dNTP: deoxyribose nucleoside triphosphate
         rNTP or just NTP: ribose nucleoside triphosphate
     EXONUCLEASE ACTIVITY: removal of nucleotides at the end of a strand
+    ADENINE TRIPHOSPHATE (ATP): source of energy. Transformed into ADP or AMP when energy is released
+        PHOSPHORYLATION: transfer of a phosphate. Usually involving ATP conversion
+        KINASE: enzyme that catalyzes reactions involving ATP
 Initial models
     Conservative: double strand replicated as-is. Not real
     Dispersive: fragments of double strand replicated as-is, then re-assembled. Not real
@@ -45,10 +48,6 @@ DNA polymerase
         Fingers: aid catalysis, close when correct nucleotide binds
         Thumb: attachment to DNA
     DNA-specific
-    Eukaryotes
-        Pol α: elongates primers created by primase
-        Pol δ: lagging strand
-        Pol ε: leading strand
     PROCESSIVITY: enzyme's ability to catalyze consecutive reactions (i.e. adding consecutive nucleotides) without binding
         Binding is slower than adding nucleotides => High processivity required for efficient synthesis
     Proofreading activity: can detect and correct errors to decrease error rate (1/10^5 => 1/10^7)
@@ -58,14 +57,14 @@ Phases
     1. Initiation: recognition of origins, helicase binding, polymerase binding
     2. Elongation: leading/lagging strand synthesis, primer removal, Okazaki fragment binding
     3. Termination: decatenation (prokaryotes), telomeres and nucleosomes (eukaryotes)
-In prokaryotes
-    Initiation
+In prokaryotes: always replicating, even during cell division
+    1. Initiation
         Initiator binds to origin of replication => Replication bubble
         Helicases (DnaB) loaded with a loader protein (inactive)
         Helicases activate when loader dissociates
         Single-strand binding proteins (SSB) bind to unwound DNA to prevent secondary structure formation
         Gyrase (type of Type II topoisomerase) reduces supercoiling. Ahead of replication forks
-    Elongation
+    2. Elongation
         Primase (RNA polymerase) creates primers
         DNA polymerase III synthesizes both strands in parallel
             2x subunits α, ε, θ catalytic core (5' => 3' polymerase). ε has also exonuclease activity
@@ -73,8 +72,37 @@ In prokaryotes
             2x subunit 𝜏: maintain the dimer together, bind to helicases
         DNA polymerase I: replaces RNA primers by DNA, has also proofreading capabilities
         Ligase: seal nicks
-    Termination
+    3. Termination
         Ter sequence: where replication ends
         Topoisomerase II decatenates
+In eukaryotes: tied to cell cycle. More involved: all origins once and only once
+    1. Initiation
+        G1 phase
+            Origin of replication complex (ORC): recognizes origin
+            ORC loads helicases. Surround a single strand
+            Replication licensed: once helicases loaded and loaders dissociated. Still not active
+        S phase
+            Cyclin-dependent kinases (CDK): inhibit helicase loading, trigger activation
+            CDK remains active until next G1 => Load/activate once and only once per origin
+            Polymerases bind
+    2. Elongation
+        Pol α: creates RNA primers, then elongates it (!= subunits). Low processivity
+        Pol ε: leading strand, proofreading
+        Pol δ: lagging strand, proofreading
+        Sliding clamp (PCNA): circles DNA, increases polymerase processivity
+        RNase H: removes primers. Then replaced by pol δ
+        Ligase repairs nicks
+    3. Termination: end of replication problem (telomeres). Also nucleosome assembly
+        Lagging strand's end can't be copied: last Okazaki fragment not present/can't be replaced
+        After many replications, ends up losing genetic info
+        TELOMERASE: enzyme to extend telomeres
+            Composed of RNA. TER: telomerase RNA component
+            TER contains 1.5x the complementary of telomeres sequence
+            Binds to ssDNA 3' end (leading strand), synthesizes (reverse transcription), displaces, repeats
+        Afterwards, 5' end (lagging strand) forms Okazaki fragment
+        3' end must be longer to form T-loop
+        
+
+
 
     

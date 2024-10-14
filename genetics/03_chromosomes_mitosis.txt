@@ -51,8 +51,7 @@ Chromosome structure
         Must be exactly one: zero yield uneven segregation, two yield chromosome breaks
     TELOMERE: region at the end of chromosomes. Protection/stability functions
         Composed of minisatellites: short, repetitive sequences. TTAGGG in vertebrates. Variable repeats, 500-3k in humans
-        T-LOOP: loop structure at the end of the telomeres, stabilizing them (as a knot)
-        TELOMERASE: specialized enzyme to replicate T-loops
+        T-LOOP: loop structure at the end of the telomeres, stabilizing them (as a knot). 3' end longer, closing the loop
     Topography
         METACENTRIC: centromere in the middle, symmetric
         SUBMETACENTRIC: centromere between middle and end
