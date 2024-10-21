@@ -23,11 +23,6 @@ Composition
                 Satellite: repeats of ~100bp. Centromeres
                 Minisatellites: <25bp. Telomers
                 Microsatellites/short tandem repeats (STR): <6bp. Num repeats variable within individuals => Profiling (TBC)
-Gene structure
-    Upstream: 5' end. Downstream: 3' end
-    Transcriptional unit: upstream UTR + exons + introns + downstream UTR
-    Upstream flanking region: (maybe) enhancer and promoter
-    Downstream flanking region: (maybe) enhancer
 Biological complexity
     C-VALUE: total size of the genome
     GENE DENSITY: num genes / total DNA
@@ -43,8 +38,4 @@ Genome evolution: constantly changing with random processes
         Transformation: DNA from surroundings (e.g. other dead bacteria)
         Transduction: DNA from another individual packaged in a virion's DNA (e.g. phage)
         Conjugation: two individuals in contact exchange DNA
-    
-
-
-        
     

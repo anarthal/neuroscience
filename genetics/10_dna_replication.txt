@@ -102,7 +102,3 @@ In eukaryotes: tied to cell cycle. More involved: all origins once and only once
         Afterwards, 5' end (lagging strand) forms Okazaki fragment
         3' end must be longer to form T-loop
         
-
-
-
-    

@@ -1,0 +1,54 @@
+Background
+    CONSENSUS SEQUENCE of a set of sequences: sequence containing the most common nucleotide for each analyzed position
+        If conserved => important function
+General features
+    Direction 5' => 3' (adding nucleotides to 3' OH)
+    Single stranded: no Okazaki fragments
+    No primers needed
+    Topoisomerases important
+    Transcription rate slower
+RNA polymerase
+    Single enzyme that unwinds/rewinds DNA and synthesizes RNA
+    Limited proofreading activity => More mistakes
+    Crab claw structure
+Naming conventions
+    Upstream: 5' end. Downstream: 3' end
+    Transcriptional unit: linear sequence of DNA that gets transcribed to RNA + sequences required for transcription
+        Includes promoter + RNA coding region (UTRs, exons, introns), but not enhancer
+        TRANSCRIPTION START SITE: 1st transcribed nucleotide. Position +1, increasing downstream
+        TERMINATOR SITE: signals the end of the transcription
+    Position of a sequence: indicates mid-point
+    Control elements: regulate gene expression
+        Proximal: located in the promoter
+        Distal: Kb away. Silencers/enhancers
+    Each gene always uses the same template strand
+Phases
+    1. Initiation: RNA polymerase binds, DNA unwinds, synthesis of nucleotides until leaving the promoter
+    2. Elongation: actual synthesis
+    3. Termination: polymerase reaches terminator sequence, RNA released, polymerase dissociates
+Prokaryotic background
+    OPERON (e.g. lac): DNA sequence containing a single promoter/operator followed by several genes, sharing control sequence.
+        All/no genes transcribed.
+        The repressor might be encoded by an upstream regulatory sequence
+        a. Promoter
+        b. Operator: control sequence, downstream the promoter, to which a repressor binds, blocking the path for RNA polymerase
+        c. Structural genes
+    Pribnow box (-10): part of the promoter. 1st bind point of polymerase, where transcription bubble forms
+    SIGMA FACTOR: protein required to initiate transcription. f(gene)
+    RNA polymerase holoenzyme: sigma factor + core RNA polymerase
+In prokaryotes
+    1. Initiation
+        Sigma binds to core polymerase to form holoenzyme
+        Holoenzyme binds to promoter consensus sequences
+        DNA unwinds to form transcription bubble
+        Polymerase starts synthesis
+        Sigma factor released => No longer bound to consensus sequences
+    3. Termination: two types of sequences
+        Rho-independent
+            Inverted, repeated sequences => Form hairpin that slows down and destabilizes
+            Several consecutive A (weakest link)
+        Rho-dependent: depends on rho protein
+            Rho-utilization site (rut): point in RNA where rho binds
+            Rho binds to rut and moves downstream
+            Polymerase slows down => rho reaches it
+            Rho has helicase activity => separates DNA from RNA

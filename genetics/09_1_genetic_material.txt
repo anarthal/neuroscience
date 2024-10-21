@@ -27,11 +27,13 @@ The transcriptome
         Ribosomal RNA (rRNA) (and pre-rRNA): the main component of ribosomes
         Transfer RNA (tRNA): specifies the meaning of each codon in mRNA. Physically bound to amino-acids
         Small non-coding RNA (sncRNA): <200bp
-            Micro RNA (miRNA): post-transcriptional regulation, RNA silencing
-            Small interfering RNA (siRNA): RNA silencing
-            Small nuclear RNA (snRNA): processes pre-mRNA => mRNA
-            Small nucleolar RNA (snoRNA): processes pre-mRNA => mRNA
+            Small nuclear RNA (snRNA): splicing of pre-mRNA
+            Small nucleolar RNA (snoRNA): processes pre-rRNA
+            Small interfering RNA (siRNA): regulates gene expression
+            Micro RNA (miRNA): regulates gene expression
+            Piwi-interacting RNA (piRNA): regulates transcription of transposons (e.g. LINE-1, Alu)
         Long non-coding RNA (lncRNA)
+        CRISPR RNA (crRNA): immune system in prokaryotes
 Nucleic acid primary structure
     NUCLEOTIDE BASE/NUCLEOBASE: nitrogen-based compound: adenine (A), thymine (T), cytosine (C), guanine (G), uracil (U)
         PURINES (big): adenine (A), guanine (G)
@@ -66,7 +68,7 @@ DNA secondary structure (Watson & Crick)
     Helix characteristics
         Right-handed (clockwise)
         10bp/turn, 0.34nm/bp, 2nm diameter
-        (????) Major (2.4nm) and minor (1.0nm) grooves
+        Major (2.4nm) and minor (1.0nm) grooves
     Types of secondary structure
         B-DNA: the usual, when water-rich
         A-DNA: if water-poor, more compact
