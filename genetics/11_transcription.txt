@@ -1,6 +1,7 @@
 Background
     CONSENSUS SEQUENCE of a set of sequences: sequence containing the most common nucleotide for each analyzed position
         If conserved => important function
+    POST-TRANSCRIPTION MODIFICATIONS: changes applied to pre-mRNA. Capping, splicing and poly-adenylation
 General features
     Direction 5' => 3' (adding nucleotides to 3' OH)
     Single stranded: no Okazaki fragments
@@ -10,7 +11,7 @@ General features
 RNA polymerase
     Single enzyme that unwinds/rewinds DNA and synthesizes RNA
     Limited proofreading activity => More mistakes
-    Crab claw structure
+    Crab claw structure, with a tail (CTD)
 Naming conventions
     Upstream: 5' end. Downstream: 3' end
     Transcriptional unit: linear sequence of DNA that gets transcribed to RNA + sequences required for transcription
@@ -43,6 +44,7 @@ In prokaryotes
         DNA unwinds to form transcription bubble
         Polymerase starts synthesis
         Sigma factor released => No longer bound to consensus sequences
+    2. Elongation: coupled with translation (no nucleus)
     3. Termination: two types of sequences
         Rho-independent
             Inverted, repeated sequences => Form hairpin that slows down and destabilizes
@@ -52,3 +54,61 @@ In prokaryotes
             Rho binds to rut and moves downstream
             Polymerase slows down => rho reaches it
             Rho has helicase activity => separates DNA from RNA
+In eukaryotes
+    != RNA polymerases
+    BASAL TRANSCRIPTION FACTORS: bind to promoter, required for any transcription at all to happen. As opposed to binding to enhancers
+    BASAL TRANSCRIPTION APPARATUS: machinery required to have minimal transcription: RNA polymerase + basal TF + accessory proteins
+pre-mRNA: RNA polymerase II
+    Promoter consensus sequences (in order)
+        TFIIB Recognition Element (BRE)
+        TATA box
+        Initiation site
+        Downstream core promoter element: in genes that don't have TATA box
+    DNA template bends so enhancer-bound TFs can interact with basal transcription apparatus
+    Pre-initiation complex: molecules required to initiate transcription: RNA polymerase + general TFs
+    1. Initiation
+        TFIID recognizes TATA box
+        Rest of TFs and RNA polymerase recruited => Pre-initiation complex
+        TFIIH melts promoter (helicase) and phosphorylates polymerase CTD so it moves forward (kinase)
+        TFs released
+        Phosphorylation state of CTD determines which processing factors (e.g. capping, splicing) bind
+    2. Elongation
+        Capping: adding a 7-methyl-guanosine at the 5' end
+            Distinguish mRNA from other RNAs
+            Transportation to cytoplasm (cap binds to cap binding complex)
+            Recognized by translation initiation factors
+            Protects it from exonucleases
+            After capping is complete, CTD phosphorylation state changes => begin splicing
+        Splicing: parallel with transcription
+    3. Termination
+        RNA cleavage
+            Polyadenylation signals (PAS): sequence that indicates that termination site is close. Transcribed.
+            Cleavage and Polyadenylation Specificity Factor (CPSF): binds to transcribed poly-A signal
+            Cleave Stimulation Factor (CstF): recruited by CPSF, cleaves the RNA 3'
+        Poly-adenylation of 3' end
+            Poly-A-Polymerase: adds multiple A to 3' <= Poly-A tail, unique to mRNA
+            Poly-A-Binding Protein (PABP): binds to A tail, helps tail synthesis and RNA stability
+        Degradation of remaining RNA
+        Dissociation of RNA polymerase
+            Torpedo model: because exonuclease degrading RNA pushes the polymerase away
+            Allosteric model: conformational change in polymerase when poly-A signals transcribed => Detaches itself
+        
+
+
+
+
+
+
+Splicing: pre-mRNA processing to remove introns => mature RNA
+    Lariat model: introns removed by splicing 5', creating a lariat, splicing 3'
+    Recognition: conserved sequences in 5'/3' (splice site), in the middle (branch site)
+    SPLICEOSOME: protein (structural) + snRNA (catalytic) complex that performs the splicing
+    ALTERNATIVE SPLICING: combining exons of a single gene differently to generate != proteins with a single gene
+        Exon skipping: one exon not included
+        Exon extension: part of intron included
+        Intron retention: all of an intron included
+        Mutually exclusive exons: an exon gets included if another is not
+    ALTERNATIVE 3' CLEAVAGE: same gene can have several possible terminator sites => != proteins
+
+
+
