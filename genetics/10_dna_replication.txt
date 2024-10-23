@@ -8,7 +8,7 @@ Background
         dNTP: deoxyribose nucleoside triphosphate
         rNTP or just NTP: ribose nucleoside triphosphate
     EXONUCLEASE ACTIVITY: removal of nucleotides at the end of a strand
-    ADENINE TRIPHOSPHATE (ATP): source of energy. Transformed into ADP or AMP when energy is released
+    ADENOSINE TRIPHOSPHATE (ATP): source of energy. Transformed into ADP or AMP when energy is released
         PHOSPHORYLATION: transfer of a phosphate. Usually involving ATP conversion
         KINASE: enzyme that catalyzes reactions involving ATP
 Initial models
