@@ -2,6 +2,8 @@ Background
     CONSENSUS SEQUENCE of a set of sequences: sequence containing the most common nucleotide for each analyzed position
         If conserved => important function
     POST-TRANSCRIPTION MODIFICATIONS: changes applied to pre-mRNA. Capping, splicing and poly-adenylation
+    EXOSOME: vesicle type involved in waste management and coagulation
+    SVEDBERG: measure of sedimentation speed in centrifuge. Larger => Bigger molecule
 General features
     Direction 5' => 3' (adding nucleotides to 3' OH)
     Single stranded: no Okazaki fragments
@@ -92,13 +94,6 @@ pre-mRNA: RNA polymerase II
         Dissociation of RNA polymerase
             Torpedo model: because exonuclease degrading RNA pushes the polymerase away
             Allosteric model: conformational change in polymerase when poly-A signals transcribed => Detaches itself
-        
-
-
-
-
-
-
 Splicing: pre-mRNA processing to remove introns => mature RNA
     Lariat model: introns removed by splicing 5', creating a lariat, splicing 3'
     Recognition: conserved sequences in 5'/3' (splice site), in the middle (branch site)
@@ -109,6 +104,19 @@ Splicing: pre-mRNA processing to remove introns => mature RNA
         Intron retention: all of an intron included
         Mutually exclusive exons: an exon gets included if another is not
     ALTERNATIVE 3' CLEAVAGE: same gene can have several possible terminator sites => != proteins
-
-
-
+mRNA transport
+    Identification: retains processing proteins, exon-exon junction proteins, cap
+    Transport happens through nuclear pore complex
+    Proteins imported back once transport finishes
+mRNA degradation
+    Half-life: time required to degrade 50% of mRNA. Longer => more translation
+    Poly-A tail degraded first. Then, either decapping + exonuclease, or exosome degrading
+RNA polymerase I: produces all rRNAs except 5S
+    != promoters, != TFs, TATA Box is common
+    Upstream Control Element (UCE): where TFs and polymerase bind
+    rRNA is very abundant => Several tandem-repeated copies of rRNA genes
+    pre-rRNA: big 45S precursor. Modified and cleaved by snoRNAs to smaller, mature rRNAs
+RNA polymerase III: tRNA, 5S rRNA, other small nuclear RNAs
+    != promoters, != TFs, TATA Box is common
+    Promoters downstream the start site
+    pre-tRNA contains introns that are removed, and some bases are chemically modified
