@@ -59,7 +59,7 @@ Phases
     3. Termination: decatenation (prokaryotes), telomeres and nucleosomes (eukaryotes)
 In prokaryotes: always replicating, even during cell division
     1. Initiation
-        Initiator binds to origin of replication => Replication bubble
+        Initiator (DnaA) binds to origin of replication => Replication bubble
         Helicases (DnaB) loaded with a loader protein (inactive)
         Helicases activate when loader dissociates
         Single-strand binding proteins (SSB) bind to unwound DNA to prevent secondary structure formation
@@ -92,6 +92,7 @@ In eukaryotes: tied to cell cycle. More involved: all origins once and only once
         Sliding clamp (PCNA): circles DNA, increases polymerase processivity
         RNase H: removes primers. Then replaced by pol δ
         Ligase repairs nicks
+        Polymerase switch: replace α by ε and δ
     3. Termination: end of replication problem (telomeres). Also nucleosome assembly
         Lagging strand's end can't be copied: last Okazaki fragment not present/can't be replaced
         After many replications, ends up losing genetic info

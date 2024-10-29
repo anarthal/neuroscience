@@ -9,7 +9,7 @@ General features
     Single stranded: no Okazaki fragments
     No primers needed
     Topoisomerases important
-    Transcription rate slower
+    Transcription rate slower than replication rate
 RNA polymerase
     Single enzyme that unwinds/rewinds DNA and synthesizes RNA
     Limited proofreading activity => More mistakes
