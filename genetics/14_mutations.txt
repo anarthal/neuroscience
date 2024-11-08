@@ -1,3 +1,5 @@
+Background
+    TAUTOMERS: isomers that inter-convert quickly. Usually != in a H atom
 MUTATION: stable, heritable change in genetic info. In cells or organisms
     Random: they are not a response to selection pressure. Most cases => loss of meaning => diseases
 Types according to the type of cell where it happens
@@ -24,3 +26,12 @@ Functional results
 SUPPRESSOR: mutation that reverses another mutation
     Intragenic: in the same gene. E.g. in the same codon, so the mutation becomes silent
     Intergenic: in != gene. E.g. change in tRNA so stop codon changes meaning
+TAUTOMERIC SHIFTS: spontaneous mutation cause, during replication. Cause base point mutations
+    Bases exist in usual form (e.g. A) and tautomer (A*). [A] >>> [A*]
+    Tautomer may still be incorporated in rare cases
+    Tautomer pairs with != base (the other purine/pyrimidine => transition) => Incorporated error
+    If replication happens before repair => Incorrect pairing inherited, no way to correct it => Replicated error
+INCORRECT ALIGNMENT: spontaneous mutation cause, during replication. Causes INDELs
+    In repeated sequences
+    Synthesized strand loops out => Double replication of bp => Insertion
+    Template strand loops out => Skipping of bp => Deletion
