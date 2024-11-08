@@ -1,0 +1,26 @@
+MUTATION: stable, heritable change in genetic info. In cells or organisms
+    Random: they are not a response to selection pressure. Most cases => loss of meaning => diseases
+Types according to the type of cell where it happens
+    Somatic: happens in a somatic cell => affect daughter cells in the individual, but not progeny
+    Germ-line: happens in cells producing gametes => may affect progeny
+Types according size
+    Molecular/gene: small change in nucleotides. Affects one gene
+        1. POINT MUTATION/base substitution: single bp changed. Affects single codon
+            TRANSITION: purine <=> purine, pyrimidine <=> pyrimidine. More frequent, less consequences
+            TRANSVERSION: purine <=> pyrimidine
+        2. Small insertion/deletion (INDELs): more frequent than point mutations. Change reading frame.
+    Chromosomal: large portion of chromosome altered. Affects several genes
+    Genomic: alteration in number of chromosomes. Affects all genes
+Results at molecular level
+    SILENT/SYNONYMOUS: new codon specifies same amino acid. May still affect regulator binding and splice points
+    MISSENSE CONSERVATIVE/NEUTRAL: new codon specifies similar amino acid. Silent consequences + != protein folding, cofactors...
+    MISSENSE NON-CONSERVATIVE: new codon specifies very != amino acid. != protein
+    NONSENSE: new codon specifies stop. != protein
+    FRAMESHIFT (INDELs): != protein
+Functional results
+    Loss-of-function: WT function lost
+    Gain-of-function: silent WT function expressed
+    Conditional: only expressed under certain env conditions
+SUPPRESSOR: mutation that reverses another mutation
+    Intragenic: in the same gene. E.g. in the same codon, so the mutation becomes silent
+    Intergenic: in != gene. E.g. change in tRNA so stop codon changes meaning
