@@ -1,5 +1,8 @@
 Background
     TAUTOMERS: isomers that inter-convert quickly. Usually != in a H atom
+    BASE-EXCISION REPAIR: system to repair incorrect pairings and small base losses
+    ALKANE: CHi chain where all bonds are single (saturated)
+    ALKYL: alkane missing a hydrogen
 MUTATION: stable, heritable change in genetic info. In cells or organisms
     Random: they are not a response to selection pressure. Most cases => loss of meaning => diseases
 Types according to the type of cell where it happens
@@ -35,3 +38,24 @@ INCORRECT ALIGNMENT: spontaneous mutation cause, during replication. Causes INDE
     In repeated sequences
     Synthesized strand loops out => Double replication of bp => Insertion
     Template strand loops out => Skipping of bp => Deletion
+DEPURINATION: loss of a purine by severing the sugar-base bond. May be spontaneous or induced
+    If not repaired by BER, during replication => Random base selected in the empty space (usually A)
+DEAMINATION: loss of a NH2 group from a base => Transformed into a != base with != pairing
+MUTAGEN: env factor that may cause a mutation
+    Chemical
+        BASE ANALOGS: chemicals with similar structure as bases
+            During synthesis, polymerase may mistake them for bases and incorporate them
+            Have != pairing properties than bases => Mispairing
+        ALKYLATING AGENTS: donate alkyl groups to bases => Mispairing
+        DEAMINATING AGENTS: induce deamination. E.g. nitrous acid
+        HYDROXYLATION CAUSING AGENTS: change amine into hydroxyl-amine => Mispairing
+        INTERCALATING AGENTS: planar molecules that insert between bps and distort the helix => INDELs
+        OXIDATIVE RADICALS: donates oxygens to bps => Mispairing. E.g. H2O2
+    Physical
+        IONIZING RADIATION: capable of dislodging electrons from molecules
+            Directly break phosphodiester bonds => Double strand breaks
+            Ionize other molecules into reactive radicals that react with DNA
+            Repairing breaks => chromosome mutations
+            E.g. α particles, β particles, γ rays, X-rays
+        UV radiation (non-ionizing): forms bonds between pyrimidines (pyrimidine dimmers)
+            Block replication, can lead to repair errors
