@@ -3,6 +3,7 @@ Background
     BASE-EXCISION REPAIR: system to repair incorrect pairings and small base losses
     ALKANE: CHi chain where all bonds are single (saturated)
     ALKYL: alkane missing a hydrogen
+    HAPLO-INSUFFICIENT: gene that requires 2 working copies to work correctly
 MUTATION: stable, heritable change in genetic info. In cells or organisms
     Random: they are not a response to selection pressure. Most cases => loss of meaning => diseases
 Types according to the type of cell where it happens
@@ -15,7 +16,7 @@ Types according size
             TRANSVERSION: purine <=> pyrimidine
         2. Small insertion/deletion (INDELs): more frequent than point mutations. Change reading frame.
     Chromosomal: large portion of chromosome altered. Affects several genes
-    Genomic: alteration in number of chromosomes. Affects all genes
+    Genomic: alteration in number of chromosomes. Affects all genes. E.g. aneuploidy, poliploidy
 Results at molecular level
     SILENT/SYNONYMOUS: new codon specifies same amino acid. May still affect regulator binding and splice points
     MISSENSE CONSERVATIVE/NEUTRAL: new codon specifies similar amino acid. Silent consequences + != protein folding, cofactors...
@@ -59,3 +60,42 @@ MUTAGEN: env factor that may cause a mutation
             E.g. α particles, β particles, γ rays, X-rays
         UV radiation (non-ionizing): forms bonds between pyrimidines (pyrimidine dimmers)
             Block replication, can lead to repair errors
+Chromosome rearrangements: change the structure of a chromosome
+    Origin
+        Double-strand breaks: since they're severe, they're repaired ASAP, not always correctly
+        Unequal crossover: chromosomes incorrectly aligned
+    Duplication
+        Reverse: a segment is copied and inverted
+        Displaced: a segment is copied far away from the original
+        Tandem: a segment is copied near the original
+        Retroposition: a segment transcribed, retrotranscribed, inserted
+        Effects
+            Change in relative genetic dosage
+            May affect genetic regulation (change in structure)
+            Problems with mitosis/meiotic pairing (!= chromosome structure than homologue)
+    Deletion
+        Terminal: the end is deleted
+        Intersticial: an intermediate segment is deleted
+        Effects
+            Centromere deletion => Doesn't segregate when dividing => Chromosomal loss
+            Homozygous => Lethal, no required products generated
+            Heterozygous
+                Imbalance in gene products
+                PSEUDODOMINANCE: expression of recessive mutations, because dominant allele was deleted
+                Haplo-insufficient genes cause problems
+    Inversion: a segment is rotated 180º and re-attached
+        Pericentric: includes the centromere
+        Paracentric: doesn't include the centromere
+        Position effects: changes genetic regulation, can truncate genes
+    TRANSLOCATION: a piece of chromosome moves
+        Reciprocal: two segments exchanged
+        Robertsonian: one chromosome attached to the end of another one
+        Position effects: changes genetic regulation, can truncate genes
+ANEUPLOIDY: change in the number of chromosomes for an individual homologue set
+    Nullisomy/monosomy/trisomy/tetrasomy: having 0/1/3/4 copies of an homologue pair
+    Alters genetic dosage, lethal/affect development
+    Caused by meiosis I, meiosis II or mitosis (mosaicism) non-disjunction
+POLIPLOIDY: addition of one or more copies to each chromosome set
+    ALLOPOLYPLOIDY: poliploidy caused by hybridization (!= species crossed)
+    AUTOPOLIPLOIDY: poliploidy caused by accidents in mitosis/meiosis (cells don't separate). Only 1 species involved
+    Common in plants: non-chromosomal sex determination, vegetative reproduction, insect pollination leads to hybridization
