@@ -1,0 +1,12 @@
+farmacogenomica: que variaciones geneticas hay que afecten a respuesta a terapia?
+    genetica del tumor
+    farmacogenetica
+    citocromo: proteina que metaboliza farmacos, condiciona respuesta a fármacos
+    P450: principalmente localizado en hígado
+    entenderlo como una herramienta más, y no como una panacea/cambio de paradigma
+    muchos marcadores geneticos, pero solo ~30 farmacos que tengan marcadores suficientemente fiables como para usarse
+    SNP: single nucleotide polymorphism in > 1% population
+    dos sondas: una se une cuando sí existe mutación, otra cuando no => qPCR
+    si no se metaboliza, toxicidad, si demasiado rápido, no eficacia
+    bioequivalencia: para genéricos, en voluntarios sanos. Medir perfil farmacocinético (C_medicamento con tiempo)
+    siguiente step: algoritmos de predicción, testear en randomized trials
