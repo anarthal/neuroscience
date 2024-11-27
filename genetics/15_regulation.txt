@@ -1,0 +1,58 @@
+Background
+    Gene expressed CONSTITUTIVELY: expressed continuously by default (vs. facultatively)
+    METABOLITE: molecule (usually small) product of metabolism
+    PALINDROME: sequence that reads the same in the template and complementary strands (5'->3'). Equal to its reverse complement
+    ALLOSTERIC REGULATOR: molecule that binds to an enzyme/protein => conformation change => change in activity
+    LEADER SEQUENCE: 5' UTR of mRNA
+Regulation points
+    (Eukaryotes) before transcription: epigenetics
+    (All) transcription factors
+    (Eukaryotes) alternate RNA splicing
+    (Eukaryotes) RNA transport efficiency
+    (All) RNA stability
+    (All) Translation efficiency
+    (Prokaryotes) Coupled transcription and translation
+Regulation circuits
+    INDUCTION: activation of the expression of a gene that is off at basal levels
+    REPRESSION: deactivation of the expression of a gene that is on at basal levels
+    ACTIVATOR: DNA binding molecule that enables the expression of a gene
+    REPRESSOR: DNA binding molecule that inhibits the expression of a gene
+    INDUCER: molecule that interacts with an activator/repressor to produce induction
+    COREPRESSOR: molecule that interacts with an activator/repressor to produce repression
+    POSITIVE CONTROL: control mechanism that acts using an activator
+    NEGATIVE CONTROL: control mechanism that acts using a repressor
+    Induction by positive control: in basal state, gene off. Inducer + activator => Induction
+    Induction by negative control: in basal state, gene off because of repressor. Inactivating the repressor makes it express.
+    Repression by positive control: in basal state, gene on because of activator. Inactivating the activator represses it.
+    Repression by negative control: in basal state, gene on. Repressor + corepressor => Repression
+Control elements
+    REGULATOR GENE: gene that encodes a product that performs regulation. Vs. structural gene
+    REGULATOR SEQUENCE: DNA segment where a regulator product binds
+    CIS-ACTING elements: DNA segments on the same molecule as the genes they regulate. E.g. promoter, enhancer, silencer, operator
+    TRANS-ACTING elements: products (and genes encoding them) that regulate genes by interacting with cis-acting elements. Usually RNA/proteins. May act on any copy of its target DNA
+OPERON (mostly prokaryotes): DNA sequence containing a single promoter/operator followed by several genes, sharing control sequence.
+    All/no genes transcribed.
+    a. Promoter
+    b. Operator: control sequence, downstream the promoter, to which a trans control element (repressor or activator) binds. Physically linked to the structural genes (vs. enhancers)
+    c. Structural genes 
+    E.g. operon lac only expressed when lactose present: metabolite of lactose => inducer => inactivates repressor => induction by negative control
+    E.g. operon lac only expressed when no glucose present: no glucose => inducer => activates activator => induction by positive control
+    E.g. operon trp expressed when no tryptophan: repressor activated by tryptophan => repression by negative control
+ATTENUATION (prokaryotes): termination of transcription before structural genes by an interference of translation
+    E.g. operon trp has leader sequences containing trp, causing termination if trp is available
+TWO COMPONENT SYSTEMS (mostly prokaryotes)
+    Sensor kinase: transmembrane protein that senses changes in the environment
+    Response regulator: phosphorylated by sensor kinase on activation. Triggers regulation
+
+
+
+
+distal elements may affect the expression of more than one gene
+LCR = big enhancer that controls multiple genes. != is that it recruits chromatin-modifying elements
+DNA binding domain: identifies where to bind (the only one critical)
+sensor domain => identifies stimulus
+activating domain => performs actual activation
+terapeutic target: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
+ligands (?): something that can bind to your terapeutic target
+reporter gene: one whose product is very easy to see
+DNA binding domain: usually +ively charged, and interact with major groove

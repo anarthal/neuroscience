@@ -30,12 +30,6 @@ Phases
     2. Elongation: actual synthesis
     3. Termination: polymerase reaches terminator sequence, RNA released, polymerase dissociates
 Prokaryotic background
-    OPERON (e.g. lac): DNA sequence containing a single promoter/operator followed by several genes, sharing control sequence.
-        All/no genes transcribed.
-        The repressor might be encoded by an upstream regulatory sequence
-        a. Promoter
-        b. Operator: control sequence, downstream the promoter, to which a repressor binds, blocking the path for RNA polymerase
-        c. Structural genes
     Pribnow box (-10): part of the promoter. 1st bind point of polymerase, where transcription bubble forms
     SIGMA FACTOR: protein required to initiate transcription. f(gene)
     RNA polymerase holoenzyme: sigma factor + core RNA polymerase
