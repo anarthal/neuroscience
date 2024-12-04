@@ -5,6 +5,15 @@ Background
     ALLOSTERIC REGULATOR: molecule that binds to an enzyme/protein => conformation change => change in activity
     LEADER SEQUENCE: 5' UTR of mRNA
     DNASE HYPERSENSITIVE SITE: location where chromatin is not tightly packed
+    MODULAR PROTEIN: has several domains with uncoupled functions
+    STRUCTURAL MOTIF: common 3D structure in molecules like proteins. Appears in several != molecules
+    α-HELIX: protein motif where amino acids arrange in a helix. The most common one
+    β-SHEET: protein motif where amino acids arrange in a plane
+    HYDROPHILIC: polar molecule, attracted to and dissolved by water. Vs HYDROPHOBIC
+    LIPOPHILIC: non-polar molecule, attracted to and dissolved by fats
+    AMPHIPATH: molecule showing hydrophilic and lipophilic properties
+    ATP-ASE: enzyme that decomposes ATP into ADP and free ion to obtain energy and drive other reactions
+    TERAPEUTIC TARGET: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
 Regulation points
     (Eukaryotes) before transcription: epigenetics
     (All) transcription factors
@@ -57,15 +66,44 @@ INSULATOR (eukaryotes): cis, distal element that limits interaction between othe
         Elements within the domain interact, but can't interact with elements in other domains
     Working as barrier: prevents spreading of heterochromatin
     Working as enhancer-blocker: prevents interaction enhancer-gene
-
+TRANSCRIPTION ACTIVATION COMPLEX (eukaryotes): trans acting complex that binds to DNA and interacts with basal transcription apparatus
+    Activator: modular protein part of the activation complex that can bind to DNA
+    Domains of activators
+        DNA binding domain: binds to DNA. Provides specificity. The only required one. Usually positively charged.
+        Activating domain: interacts with RNA polymerase
+        Connecting domain: junction between other domains
+        Sensor domain: identifies stimulus
+    If the activator doesn't have an activator domain, may interact with another protein (co-activator)
+    Two-hybrid experiments: can two proteins interact?
+        Bind one to DNA binding domain, another to activation domain, see if there's transcription
+        REPORTER GENE: one whose product is very easy to see
+    DNA-binding domain motifs
+        ZN-FINGER: Zn ion coordinating a finger composed of an α-helix and a β-sheet. Inserts into the major groove
+        HELIX-TURN-HELIX: several α-helices that bind to DNA, separated by a small strand of amino acids
+    LEUCINE-ZIPPER: dimmer, each containing an α-helix and a bZIP
+        α-helix: amphipathic. Leucine residues (hydrophobic) on one side, charged on the other side. Dimmerizes.
+        bZIP (basic zipper): positively charged domain at the base of the zipper that binds to DNA
+    AMPHIPATHIC HELIX-LOOP-HELIX: generalization of leucine zippers
+CHROMATIN REMODELLING: process of changing DNA compaction to regulate transcription (e.g. removing nucleosomes)
+    Heterochromatin is usually not transcribed (except for rRNA) - nucleosomes cause basal apparatus to not bind
+    CONSTITUTIVE HETEROCHROMATIN: stays like that during the whole cell cycle
+        Replicates late
+        Has less recombination frequency
+    FACULTATIVE HETEROCHROMATIN: changes back and forth to euchromatine
+    May result in activation (leaving promoter accessible) or repression (blocking promoter)
+    Most transcribed genes retain nucleosomes, they're just displaced to allow transcription
+    Remodelling complex: can perform chromatin remodelling
+        Has an ATPase subunit
+        Doesn't has specificity. Recruited by other factors
+        Has domains that interact with histone markers, e.g. bromodomain
+EPIGENETIC CODE (hypothesis): set of chemical modifications in histones and DNA that affect regulation
+    E.g. signals for remodelling complexes
+    Histone modifications: groups added at particular positions in tails, recognized by other complexes
+    Histone acetylation => activation
+        Acetylated by default in replication, before nucleosome assembly. Partially deacetylated afterwards
+        Histone acetyltransferase: group A assembles nucleosomes, group B acetylates in DNA to activate transcription
+        Histone deacetyltransferase: represses transcription
+    DNA and histone methylation => repression
+    Histone phosphorylation => repression
+    Histone ubiquitination => repression
     
-
-
-
-DNA binding domain: identifies where to bind (the only one critical)
-sensor domain => identifies stimulus
-activating domain => performs actual activation
-terapeutic target: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
-ligands (?): something that can bind to your terapeutic target
-reporter gene: one whose product is very easy to see
-DNA binding domain: usually +ively charged, and interact with major groove

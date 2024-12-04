@@ -10,7 +10,7 @@ Background
     EXONUCLEASE ACTIVITY: removal of nucleotides at the end of a strand
     ADENOSINE TRIPHOSPHATE (ATP): source of energy. Transformed into ADP or AMP when energy is released
         PHOSPHORYLATION: transfer of a phosphate. Usually involving ATP conversion
-        KINASE: enzyme that catalyzes reactions involving ATP
+        KINASE: enzyme that catalyzes transferring phosphate groups from ATP to other substrates
 Initial models
     Conservative: double strand replicated as-is. Not real
     Dispersive: fragments of double strand replicated as-is, then re-assembled. Not real
