@@ -1,0 +1,10 @@
+Background
+    RESTRICTION ENZYME: enzyme that recognizes DNA and cuts it at a particular sequence
+    RESTRICTION SITE: DNA sequence recognized by a restriction enzyme
+NHEJ: non-homologous end joining. Emergency: quick but creates messes. Good to break functionality and introduce mutations
+HDR: homology-directed repair. Better but slower, requires a template. Good to perform precise editions
+    More sensitive to the cell type and cell cycle
+Meganucleases: problem: difficult to modify so that they target a different sequence
+Zn finger endonucleases: the Zn fingers generate the specificity, then appended to a nuclease. Difficult to generate
+restriction enzyme: cut DNA at particular, well-known sequences
+    recognizes a sequence and performs 2 nicks, one in each strand, at != positions inside the recognized sequence
