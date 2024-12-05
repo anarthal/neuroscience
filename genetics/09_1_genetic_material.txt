@@ -2,7 +2,6 @@ Background
     RNase, DNase, protease: enzymes that destroy RNA, DNA, proteins
     Bacteria phages: virus that infects bacteria
     VIRION: a single, complete virus entity
-    Steps of virus infection: landing, attachment, penetration, protein/DNA synthesis, assembly, lysis
     LYSIS: cell death by bursting
     hnRNA: heterogeneous nuclear RNA - RNA that lives in the nucleus, usually because it's still not mature to get exported
     CODON: a series of 3 consecutive nucleotides. Fundamental unit of translation

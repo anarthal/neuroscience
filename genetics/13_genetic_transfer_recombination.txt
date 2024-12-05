@@ -1,0 +1,40 @@
+Background
+    RecA: protein involved in bacterial DNA repair
+Mechanism of horizontal transfer
+    TRANSFORMATION: DNA acquired from surroundings (e.g. other dead bacteria)
+        COMPETENT bacteria: one that is able to take DNA through transformation
+        Naturally competent: competent in nature (vs. in the lab)
+    TRANSDUCTION: DNA from another individual packaged in a virion's DNA (e.g. phage)
+        LYTIC CYCLE: virus DNA is outside the host's chromosome, replicates and ends up with lysis
+            Attachment: phage attaches to cell wall
+            Penetration: phage inserts DNA
+            Biosynthesis: phage hijacks machinery and synthesizes components
+            Maturation: new phages are assembled from components
+            Lysis: cell dies
+        LYSOGENIC CYCLE: virus DNA integrates in the host's chromosome and replicates with it
+            Some phages insert at certain positions only
+            Does not cause immediate death
+            Can change to lytic cycle under certain environment conditions (e.g. unfavorable for bacterium)
+            PROPHAGE: phage DNA integrated into the host's chromosome
+        Generalized transduction: fragment of host DNA packaged by error in a capside, after lytic cycle
+            All DNA sequences in the host have the same probability to transduct
+        Specialized transduction: fragment of host DNA excised by error after lysogenic => lytic
+            Sequences close to the insertion point have higher probability to transduct
+    Conjugation: two individuals in contact exchange DNA
+
+Introgression: exchange of info across species via crosses and hybrids, common in plants
+Conjugation: insertion of a plasmid inside the other bacteria
+    Plasmid: independent replicon, independent from the main chromosome with the ability to replicate
+    Plasmid replicates using rolling circle
+    Each plasmid has a stable number of copies in each bacteria
+restriction enzyme: cut DNA at particular, well-known sequences
+    recognizes a sequence and performs 2 nicks, one in each strand, at != positions inside the recognized sequence
+polylinker: 
+Selectable marker: DNA genes that indicate that the event of interest happened.
+    E.g. did my bacteria capture the DNA I introduced?
+    E.g. if this was the resistance for antibiotic X plasmid, we can know the ones that took our DNA because they die with antibiotic X
+    You need these because Pr(plasmid takes DNA and integrates in the bacteria) is very low
+High frequence of recombination (Hfr)
+what's the benefit for the donor bacteria?
+    bacteria are populations - it's beneficial for the population
+    it's beneficial for the plasmid because it's replicating
