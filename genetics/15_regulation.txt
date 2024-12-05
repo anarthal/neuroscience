@@ -14,6 +14,10 @@ Background
     AMPHIPATH: molecule showing hydrophilic and lipophilic properties
     ATP-ASE: enzyme that decomposes ATP into ADP and free ion to obtain energy and drive other reactions
     TERAPEUTIC TARGET: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
+    ANTI-SENSE RNA (asRNA): complementary to mRNA, can bind to it to block its translation
+    OPEN READING FRAME (ORF): in prokaryotic DNA or mRNA, a sequence within a valid start and stop codons
+    CYTOSINE-PHOSPHATE-GUANINE SITE (CpG site): CG sequence in DNA
+    CpG ISLAND: region of genome rich in CpG sites
 Regulation points
     (Eukaryotes) before transcription: epigenetics
     (All) transcription factors
@@ -96,14 +100,37 @@ CHROMATIN REMODELLING: process of changing DNA compaction to regulate transcript
         Has an ATPase subunit
         Doesn't has specificity. Recruited by other factors
         Has domains that interact with histone markers, e.g. bromodomain
-EPIGENETIC CODE (hypothesis): set of chemical modifications in histones and DNA that affect regulation
+HISTONE CODE (hypothesis): set of chemical modifications in histones that affect regulation
     E.g. signals for remodelling complexes
     Histone modifications: groups added at particular positions in tails, recognized by other complexes
     Histone acetylation => activation
         Acetylated by default in replication, before nucleosome assembly. Partially deacetylated afterwards
         Histone acetyltransferase: group A assembles nucleosomes, group B acetylates in DNA to activate transcription
         Histone deacetyltransferase: represses transcription
-    DNA and histone methylation => repression
+    Histone methylation => repression
     Histone phosphorylation => repression
     Histone ubiquitination => repression
+RIBOSWITCH: mechanism consisting of a mRNA domain that binds a molecule to regulate mRNA expression
+    LIGAND: a small molecule that binds the riboswitch to perform regulation
+    APTAMER: mRNA domain where the ligand binds
+    EXPRESSION PLATFORM: undergoes structural changes in response to the aptamer binding, actually performing the regulation
+    Most common in prokaryotes
+lncRNA (eukaryotes): >200bp, no ORF
+    TRANSCRIPTION INTERFERENCE: condition where the transcription of a section affects negatively the transcription of other sections
+    Epigenetics: guide chromatin-remodelling and histone-modifying complexes
+    Can interfere or enhance transcription
+    Can affect mRNA splicing and stability
+    Can block translation and post-translational modifications
+SMALL RNA (sRNA) (prokaryotes): base-pair with mRNA + secondary structure => block translation, guide CRISPR
+RNA INTERFERENCE (RNAi) (eukaryotes): regulation of expression by RNA (miRNA/siRNA) that targets mRNA
+    RNA-INDUCED SILENCING COMPLEX (RISC): miRNA + proteins. Performs RNAi
+    miRNA binds to the mRNA to regulate, then proteins regulate expression through mechanisms like mRNA degradation
+EPIGENETICS: set of heritable traits that don't imply a change in DNA
+    Changes require a mechanism to perpetuate: e.g. HP1 binds to methylated histones and self-aggregates
+    Chromatin remodelling and histone modifications
+    POSITION-EFFECT VARIEGATION (PEV): != gene expression in != cells because of != heterochromatin patterns => mosaicism
+    DNA methylation: repression. Usually at CpG islands
+    RNA-INDUCED TRANSCRIPTION SILENCING (RITS): process where miRNA causes genes not to transcribe by generating heterochromatin
+    PRION: misfolded protein that can misfold other proteins => Infectious, heritable diseases
+    Changes are inherited within somatic cells, and some within generations
     
