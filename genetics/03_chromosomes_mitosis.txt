@@ -119,7 +119,7 @@ MEIOSIS: special type of cell division that generates 4 != haploid gametes from 
             ZYGOTENE: homologous chromosomes approach and pair (SYNAPSIS)
             PACHYTENE: all homologous chromosomes have synapsed
                 Structure of 4 chromatids (TETRAD) / 2 homologous (BIVALENTS)
-                HOMOLOGOUS RECOMBINATION (or crossover): homologous chromosomes exchange genetic material to produce variation
+                Homologous recombination/crossover: homologous chromosomes exchange genetic material to produce variation
                 DNA strands break, when repaired, some alleles from one chromatid inserted into the homologous (at the same position)
             DIPLOTENE: homologous bonds relax
                 CHIASMA(TA): points where homologous are still joined
