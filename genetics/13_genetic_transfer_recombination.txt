@@ -4,6 +4,7 @@ Background
     INTROGRESSION: exchange of info across species via crosses and hybrids, common in plants
     ENDOCYTOSIS: process where a cell uptakes external elements into its cytoplasm
     EXOCYTOSIS: process where a cell excretes elements outside of its cytoplasm
+    INVERTED REPEATS: palindromic sequence separated by another sequence, e.g. TTACGnnnnnnCGTAA
 Horizontal gene transfer requires
     Mechanism of transference: e.g. transformation, transduction...
     Mechanism of stabilization: e.g. insertion, recombination
@@ -60,3 +61,9 @@ GENERALIZED/HOMOLOGOUS RECOMBINATION: reaction between two DNA molecules contain
         Strand invasion: broken 3' strand invades the homolog strand. The displaced strand invades the other broken strand
         Branch migration: DNA synthesis 5' to 3' until the original chain is reached => Formation of two Holliday junctions
         Junction resolution: strands are cleaved and rejoined. May generate crossover, depending on the junction break point
+SPECIALIZED RECOMBINATION: integration of external DNA. No DNA exchange
+    LEGITIMATE/CONSERVATIVE SITE-SPECIFIC RECOMBINATION: requires short homolog sequences. E.g. prophage
+        Phage integrase: enzyme that catalyzes DNA cleavage and recombination
+    ILLEGITIMATE SITE-SPECIFIC RECOMBINATION (transposition phenomena): does not require any homology, random insertion
+        Transposon elements are flanked by inverted repeats
+        TRANSPOSASE: enzyme that catalyzes the transposing process
