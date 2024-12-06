@@ -4,6 +4,7 @@ Background
     ALKANE: CHi chain where all bonds are single (saturated)
     ALKYL: alkane missing a hydrogen
     HAPLO-INSUFFICIENT: gene that requires 2 working copies to work correctly
+    Transposons are the most common source of mutations
 MUTATION: stable, heritable change in genetic info. In cells or organisms
     Random: they are not a response to selection pressure. Most cases => loss of meaning => diseases
 Types according to the type of cell where it happens
