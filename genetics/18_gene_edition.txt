@@ -22,7 +22,7 @@ Endonucleases: must be specific and adaptable
         Problem: difficult to generate
     CRISPR-Cas: specific and easy to adapt: widely used
 CRISPR-CAS: part of the immune system of bacteria. RNA guide (specificity) + Cas protein (nuclease)
-    Guide RNA (sgRNA): ~20bp long, base-pairs with the target sequence
+    Guide RNA (sgRNA): ~20bp long, base-pairs with the target sequence. Easily editable
     PROTOSPACER ADJACENT MOTIF (PAM): short sequence that must be adjacent to the target sequence for the Cas to cut
         Present in viral DNA, but not in the CRISPR locus => Distinguish between them
     CRISPR-Cas9: the most common
@@ -47,4 +47,13 @@ CRISPR-CAS: part of the immune system of bacteria. RNA guide (specificity) + Cas
     Classification
         Class 1: effector complex has several proteins
         Class 2: effector complex has one protein (e.g. Cas9)
-    
+    Other applications: fuse another domain to the effector complex. E.g. base editor, activator, inhibitor, methyltransferase...
+        PRIME EDITING: modified Cas9 (only single-stranded nicks), reverse-transcriptase, guide RNA with a template. Edition without DSB
+    Limitations
+        Delivery to cells in the right concentration and right point in cell cycle is challenging. E.g. viral vector
+        Efficiency: after successful delivery, gene edition may not happen (e.g. HDR)
+        OFF-TARGET EFFECTS: edition of a genome section != original target
+            Because Cas protein tolerates certain base mismatches
+            Efforts: engineer Cas proteins that tolerate less mismatches
+        Immune response: Cas proteins may be recognized as bacterial and attacked
+        On-target side effects: correcting a gene defect may have other side effects (e.g. malaria)
