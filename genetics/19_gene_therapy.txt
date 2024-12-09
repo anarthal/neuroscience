@@ -1,0 +1,63 @@
+Background
+    TROPISM: the kind of cells a virus may infect
+    GENOTOXICITY: ability of a substance to damage functional genes, causing mutations
+    CHIMERIC GENE: one made of parts of other genes
+GENE THERAPY: introduce nucleic acid sequences in the cell to correct a disease or alter characteristic
+TRANSFECTION: process of deliberately introducing nucleic acids into a cell
+VECTOR: vehicle used to introduce genetic material into a cell
+MULTIPLICITY OF INFECTION (MOI): number of vector particles introduced per cell. MOI 3 = 3 particles/cell
+Easier to treat monogenic diseases than cancer
+Types
+    EX-VIVO: cells are extracted, modified, and inserted back. More controlled, but can't be applied to every disease
+    IN-VIVO: cells modified directly in the patient. More general, but less controlled.
+    EPISOMAL/NON-INTEGRATIVE: provided DNA doesn't integrate into the target cell's chromosome => Transient effect
+    INTEGRATIVE: provided DNA integrates into the target cell's chromosome => Permanent
+    Addition: add material. May be episomal or integrative
+    Edition: replace material. Always permanent. E.g. CRISPR-CAS9
+Viral vectors: modified virus used as vectors
+    High efficiency => The most common
+    May generate immune response
+    May generate replication-competent virus (RCVs): modified virus recombines back to wild-type, infectious one
+    Limited DNA size
+Engineering a viral vector
+    Virus genome
+        LTR: promoter, enhancer, start site and other non-coding sequences, required
+        Encapsidation signal (psi): DNA containing this signal will get inside the capside
+        Viral genes: toxic genes, capside protein genes, polymerases...
+    Vector DNA: virus, but viral genes replaced by therapeutic genes
+    Helper DNA: virus, but encapsidation signal has been removed
+    Place both in a helper cell: vector DNA replicates and gets encapsidated, but viral genes do not => Target
+    Retrovirus genome elements
+        gag (capside proteins)
+        pro (protease for maturation)
+        pol (replication: integrase and reverse-transcriptase)
+        env (proteins to attach to the host cell)
+    Separate helper DNA into packaging plasmid (gag, pol) and envelope plasmid (env) => Avoid generating RCVs
+    Retrovirae family
+        γ-retrovirus
+            Integrative
+            Only for replicating cells
+            Tends to integrate close to transcription start sites => Genotoxicity
+        Lentivirus (e.g. HIV)
+            Integrative
+            Both replicating and quiescent cells
+            Integrates randomly
+        Virus promoter/enhancer (LTR) are too powerful and may activate proximal genes (e.g. proto-oncogenes)
+            Self-inactivating vector: delete promoter from 3' region and incorporate custom promoter
+        Did the viral vector integrate correctly? (integration profile, ex-vivo)
+            Pick a cell, clone it, analyze some. Introduce the ones that had the desired modification
+    Adenovirus
+        Non-integrative
+        Both replicating and quiescent cells
+        May generate immune response, although has been made better with time
+        Allow big DNA segments
+    Adenovirus-associated vectors (AAV)
+        Non-integrative (wild-type virus is integrative, but vector is not)
+        Both replicating and quiescent cells
+        Low immune response
+        Allow small DNA segments only
+Cell differentiation
+    Totipotent cell: may yield any other cell type + placenta
+    Pluripotent cell: may yield any other body cell type
+    Multipotent cell: adult stem cells, yields a subset of body cell types
+    Differentiated cell: performs a single function, usually it does not divide

@@ -86,6 +86,7 @@ Cell cycle
         SYNTHESIS (S, ~9h): DNA is replicated
         GAP 2 (G2, ~4h): cell growth, protein synthesis, preparation for mitosis
     MITOSIS (M, ~1h): separation of chromosomes and cell division
+    QUIESCENT STAGE/GAP 0: cell has abandoned the proliferative cycle, and is in steady state
 Mitosis
     Yields two genetically identical cells, same num chromosomes (usually 2 diploid cells)
     Employed by

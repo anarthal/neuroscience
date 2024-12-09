@@ -13,7 +13,7 @@ Background
     LIPOPHILIC: non-polar molecule, attracted to and dissolved by fats
     AMPHIPATH: molecule showing hydrophilic and lipophilic properties
     ATP-ASE: enzyme that decomposes ATP into ADP and free ion to obtain energy and drive other reactions
-    TERAPEUTIC TARGET: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
+    THERAPEUTIC TARGET: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
     ANTI-SENSE RNA (asRNA): complementary to mRNA, can bind to it to block its translation
     OPEN READING FRAME (ORF): in prokaryotic DNA or mRNA, a sequence within a valid start and stop codons
     CYTOSINE-PHOSPHATE-GUANINE SITE (CpG site): CG sequence in DNA
