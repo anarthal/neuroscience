@@ -48,5 +48,16 @@ Pattern formation: how can cell patterns form from fields of identical cells?
     Reaction-diffusion systems: a molecule self-stimulates production, another inhibits it => Pattern
     Asymmetric cell divisions: cells are born different (no cell signalling involved). E.g. egg
     Sequential induction: process of refining patterns with space and time
-
-
+Conserved developmental genes (Drosophila)
+    SEGMENTATION GENE: involved in insect embryo segment formation. Only active during development
+    HOMEOTIC GENE: involved in the formation of anatomical structures (conserved)
+    HOX GENE: homeotic genes involved in the formation of regions along the A-P axis
+    HOX PROTEIN: the product of a hox gene (transcription regulator)
+    HOMEODOMAIN: DNA-binding region of a Hox protein
+    1. Egg-polarity genes (maternal)
+    2. Gap genes (segmentation): if mutated, there is a gap in the insect
+    3. Pair-rule genes (segmentation): if mutated, alternating segments are lost
+    4. Segment-polarity genes (segmentation): if mutated, segments become symmetrical
+    5. Hox genes/homeotic selector: confer segment identity (long-term memory of where in the A-P axis they were)
+        Cell memory achieved with positive feedback loops (they activate themselves) and heritable epigenetics
+        Present in many organisms, including humans
