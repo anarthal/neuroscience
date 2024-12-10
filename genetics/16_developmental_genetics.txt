@@ -1,0 +1,52 @@
+Background
+    HORMONE: signalling molecule that is sent far away from its origin, usually through blood stream
+Intro
+    Objective: from a single instruction set (DNA), generate != cell types
+    Achieved through != gene expression pattern in space and time => regulation, achieved by signalling
+    Comparative genomics: multicellular vs. unicellular: signalling and regulation
+CELL SIGNALLING: mechanism of interaction of a cell with others, env, itself
+    RECEPTOR: molecule that receives a signal. May be cell-surface or intracellular
+    EFFECTOR: molecule that executes the action responding to a signal
+        Metabolic enzyme => alter metabolism: fast response
+        Transcription regulator => alter gene expression: slow response
+        Cytoskeletal protein => alter cell shape and movement
+    Mechanisms
+        Contact-dependant: signal molecule and receptor bound to surfaces => Cell must be in contact
+        Paracrine: signal molecule diffuses in a short range of cells
+        Synaptic: neurotransmitter through axon
+        Endocrine: signal molecule (hormone) signals cells far away from where it's produced
+    Actions: survive, grow and divide, differentiate, die
+    COMBINATORIAL SIGNALLING: event where a regulatory outcome requires a certain combination of cellular signals
+        Required because the number of individual cell signals is limited (<< num outcomes)
+    CELL MEMORY: retention of altered patterns of gene expression by a cell and its descendants after a signal has gone off
+        Relies on epigenetics
+To perform development of multicellular organisms
+    Building blocks
+        Cell proliferation: create multiple cells from one
+        Cell differentiation: create != cell types from equal ones
+        Cell-cell interaction
+        Cell movement: create tissues and organs
+    Body plan: in animals, arrangement that determines where each future tissue/organ will be. Follows conserved axis:
+        Animal/vegetal (A-V) axis: internal vs. external parts
+        Anteroposterior (A-P) axis: head vs. tail
+        Dorsoventral (D-V) axis: belly vs. back
+        Left-right (L-R) axis: some species only
+    Embryo development
+        Morula: zygote divides rapidly (cleavage), does not grow because it can't feed => Controlled by maternal material
+        Blastula: embryo's genome activated. Big ball of cells
+        Gastrula: cells arrange in layers
+            ECTODERM: outer layer that yields epidermis, nervous system...
+            MESODERM: middle layer that yields muscle, connective tissue...
+            ENDODERM: inner layer that yields gut tube, lungs...
+Pattern formation: how can cell patterns form from fields of identical cells?
+    Inductive signalling: a signal appears in a certain point of space and time => induces a subset of cells close to it
+        Usually binary changes
+    Gradient signalling: signal molecule's concentration progressively varies across a cell field
+        MORPHOGEN: substance with non-uniform distribution that causes gradient signalling
+        Possible impl: != genes activated by the same transcription factor, but with cis-regulatory elements with != affinity
+    Positive feedback loop: process where existing asymmetry self-amplifies
+    Reaction-diffusion systems: a molecule self-stimulates production, another inhibits it => Pattern
+    Asymmetric cell divisions: cells are born different (no cell signalling involved). E.g. egg
+    Sequential induction: process of refining patterns with space and time
+
+
