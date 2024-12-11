@@ -12,10 +12,10 @@ Types according to the type of cell where it happens
     Germ-line: happens in cells producing gametes => may affect progeny
 Types according size
     Molecular/gene: small change in nucleotides. Affects one gene
-        1. POINT MUTATION/base substitution: single bp changed. Affects single codon
+        POINT MUTATION/base substitution: single bp changed. Affects single codon
             TRANSITION: purine <=> purine, pyrimidine <=> pyrimidine. More frequent, less consequences
             TRANSVERSION: purine <=> pyrimidine
-        2. Small insertion/deletion (INDELs): more frequent than point mutations. Change reading frame.
+        Small insertion/deletion (INDELs): more frequent than point mutations. Change reading frame.
     Chromosomal: large portion of chromosome altered. Affects several genes
     Genomic: alteration in number of chromosomes. Affects all genes. E.g. aneuploidy, poliploidy
 Results at molecular level
@@ -51,7 +51,7 @@ MUTAGEN: env factor that may cause a mutation
         ALKYLATING AGENTS: donate alkyl groups to bases => Mispairing
         DEAMINATING AGENTS: induce deamination. E.g. nitrous acid
         HYDROXYLATION CAUSING AGENTS: change amine into hydroxyl-amine => Mispairing
-        INTERCALATING AGENTS: planar molecules that insert between bps and distort the helix => INDELs
+        INTERCALATING AGENTS: planar molecules that insert between bps and distort the helix => INDELs after replication
         OXIDATIVE RADICALS: donates oxygens to bps => Mispairing. E.g. H2O2
     Physical
         IONIZING RADIATION: capable of dislodging electrons from molecules

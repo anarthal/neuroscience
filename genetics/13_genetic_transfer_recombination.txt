@@ -64,6 +64,14 @@ GENERALIZED/HOMOLOGOUS RECOMBINATION: reaction between two DNA molecules contain
 SPECIALIZED RECOMBINATION: integration of external DNA. No DNA exchange
     LEGITIMATE/CONSERVATIVE SITE-SPECIFIC RECOMBINATION: requires short homolog sequences. E.g. prophage
         Phage integrase: enzyme that catalyzes DNA cleavage and recombination
+        Can yield DNA insertion, deletion (if the element moves out) or inversion
     ILLEGITIMATE SITE-SPECIFIC RECOMBINATION (transposition phenomena): does not require any homology, random insertion
-        Transposon elements are flanked by inverted repeats
         TRANSPOSASE: enzyme that catalyzes the transposing process
+        Types of transposons
+            DNA transposons: don't go through RNA. Contain LTRs and transposase
+            Virus-like retrotransposons: viral origin without infectious capabilities. Contain LTRs, integrase, reverse-transcriptase
+            Poly-A retrotransposons: they don't contain LTRs. E.g. LINEs, SINEs
+        Target-site duplication: short duplication of the DNA close to the site where transposons insert, common to all types
+Horizontal gene transfer also present in eukaryotes, role less clear
+    ENDOSYMBIOTIC GENE TRANSFER: from mitochondria/chroloplasts to nucleus
+    INTROGRESSION: progressive introduction of genetic material of a species into another by back-crossing hybrids

@@ -40,7 +40,7 @@ Regulation circuits
 Control elements
     REGULATOR GENE: gene that encodes a product that performs regulation. Vs. structural gene
     REGULATOR SEQUENCE: DNA segment where a regulator product binds
-    CIS-ACTING elements: DNA segments on the same molecule as the genes they regulate. E.g. promoter, enhancer, silencer, operator
+    CIS-ACTING elements: DNA sites that affect only the DNA molecule where they are. E.g. promoter, enhancer, silencer, operator
     TRANS-ACTING elements: products (and genes encoding them) that regulate genes by interacting with cis-acting elements. Usually RNA/proteins. May act on any copy of its target DNA
 OPERON (mostly prokaryotes): DNA sequence containing a single promoter/operator followed by several genes, sharing control sequence.
     All/no genes transcribed.
@@ -84,10 +84,10 @@ TRANSCRIPTION ACTIVATION COMPLEX (eukaryotes): trans acting complex that binds t
     DNA-binding domain motifs
         ZN-FINGER: Zn ion coordinating a finger composed of an α-helix and a β-sheet. Inserts into the major groove
         HELIX-TURN-HELIX: several α-helices that bind to DNA, separated by a small strand of amino acids
-    LEUCINE-ZIPPER: dimmer, each containing an α-helix and a bZIP
-        α-helix: amphipathic. Leucine residues (hydrophobic) on one side, charged on the other side. Dimmerizes.
-        bZIP (basic zipper): positively charged domain at the base of the zipper that binds to DNA
-    AMPHIPATHIC HELIX-LOOP-HELIX: generalization of leucine zippers
+        LEUCINE-ZIPPER: dimmer, each containing an α-helix and a bZIP
+            α-helix: amphipathic. Leucine residues (hydrophobic) on one side, charged on the other side. Dimmerizes.
+            bZIP (basic zipper): positively charged domain at the base of the zipper that binds to DNA
+        AMPHIPATHIC HELIX-LOOP-HELIX: generalization of leucine zippers
 CHROMATIN REMODELLING: process of changing DNA compaction to regulate transcription (e.g. removing nucleosomes)
     Heterochromatin is usually not transcribed (except for rRNA) - nucleosomes cause basal apparatus to not bind
     CONSTITUTIVE HETEROCHROMATIN: stays like that during the whole cell cycle
@@ -105,7 +105,9 @@ HISTONE CODE (hypothesis): set of chemical modifications in histones that affect
     Histone modifications: groups added at particular positions in tails, recognized by other complexes
     Histone acetylation => activation
         Acetylated by default in replication, before nucleosome assembly. Partially deacetylated afterwards
-        Histone acetyltransferase: group A assembles nucleosomes, group B acetylates in DNA to activate transcription
+        Histone acetyltransferase
+            Group A: acetylates histones in DNA to activate transcription
+            Group B: acetylates newly created histones
         Histone deacetyltransferase: represses transcription
     Histone methylation => repression
     Histone phosphorylation => repression
@@ -116,7 +118,7 @@ RIBOSWITCH: mechanism consisting of a mRNA domain that binds a molecule to regul
     EXPRESSION PLATFORM: undergoes structural changes in response to the aptamer binding, actually performing the regulation
     Most common in prokaryotes
 lncRNA (eukaryotes): >200bp, no ORF
-    TRANSCRIPTION INTERFERENCE: condition where the transcription of a section affects negatively the transcription of other sections
+    TRANSCRIPTIONAL INTERFERENCE: condition where the transcription of a section affects negatively the transcription of other sections
     Epigenetics: guide chromatin-remodelling and histone-modifying complexes
     Can interfere or enhance transcription
     Can affect mRNA splicing and stability
@@ -127,10 +129,9 @@ RNA INTERFERENCE (RNAi) (eukaryotes): regulation of expression by RNA (miRNA/siR
     miRNA binds to the mRNA to regulate, then proteins regulate expression through mechanisms like mRNA degradation
 EPIGENETICS: set of heritable traits that don't imply a change in DNA
     Changes require a mechanism to perpetuate: e.g. HP1 binds to methylated histones and self-aggregates
-    Chromatin remodelling and histone modifications
     POSITION-EFFECT VARIEGATION (PEV): != gene expression in != cells because of != heterochromatin patterns => mosaicism
+    Changes are inherited within somatic cells, and some within generations
+    Chromatin remodelling and histone modifications
     DNA methylation: repression. Usually at CpG islands
     RNA-INDUCED TRANSCRIPTION SILENCING (RITS): process where miRNA causes genes not to transcribe by generating heterochromatin
     PRION: misfolded protein that can misfold other proteins => Infectious, heritable diseases
-    Changes are inherited within somatic cells, and some within generations
-    
