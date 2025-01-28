@@ -1,0 +1,137 @@
+Background
+    Gene expressed CONSTITUTIVELY: expressed continuously by default (vs. facultatively)
+    METABOLITE: molecule (usually small) product of metabolism
+    PALINDROME: sequence that reads the same in the template and complementary strands (5'->3'). Equal to its reverse complement
+    ALLOSTERIC REGULATOR: molecule that binds to an enzyme/protein => conformation change => change in activity
+    LEADER SEQUENCE: 5' UTR of mRNA
+    DNASE HYPERSENSITIVE SITE: location where chromatin is not tightly packed
+    MODULAR PROTEIN: has several domains with uncoupled functions
+    STRUCTURAL MOTIF: common 3D structure in molecules like proteins. Appears in several != molecules
+    α-HELIX: protein motif where amino acids arrange in a helix. The most common one
+    β-SHEET: protein motif where amino acids arrange in a plane
+    HYDROPHILIC: polar molecule, attracted to and dissolved by water. Vs HYDROPHOBIC
+    LIPOPHILIC: non-polar molecule, attracted to and dissolved by fats
+    AMPHIPATH: molecule showing hydrophilic and lipophilic properties
+    ATP-ASE: enzyme that decomposes ATP into ADP and free ion to obtain energy and drive other reactions
+    THERAPEUTIC TARGET: a molecule, receptor, enzyme... you want to modify when a cell is sick. E.g. for diabetes, insulin
+    ANTI-SENSE RNA (asRNA): complementary to mRNA, can bind to it to block its translation
+    OPEN READING FRAME (ORF): in prokaryotic DNA or mRNA, a sequence within a valid start and stop codons
+    CYTOSINE-PHOSPHATE-GUANINE SITE (CpG site): CG sequence in DNA
+    CpG ISLAND: region of genome rich in CpG sites
+Regulation points
+    (Eukaryotes) before transcription: epigenetics
+    (All) transcription factors
+    (Eukaryotes) alternate RNA splicing
+    (Eukaryotes) RNA transport efficiency
+    (All) RNA stability
+    (All) Translation efficiency
+    (Prokaryotes) Coupled transcription and translation
+Regulation circuits
+    INDUCTION: activation of the expression of a gene that is off at basal levels
+    REPRESSION: deactivation of the expression of a gene that is on at basal levels
+    ACTIVATOR: DNA binding molecule that enables the expression of a gene
+    REPRESSOR: DNA binding molecule that inhibits the expression of a gene
+    POSITIVE CONTROL: control mechanism that acts using an activator
+    NEGATIVE CONTROL: control mechanism that acts using a repressor
+    Induction by positive control: in basal state, gene off. Induction happens with an activator.
+    Induction by negative control: in basal state, gene off because of repressor. Inactivating the repressor makes it express.
+    Repression by positive control: in basal state, gene on because of activator. Inactivating the activator represses it.
+    Repression by negative control: in basal state, gene on. Repression happens with a repressor.
+Control elements
+    REGULATOR GENE: gene that encodes a product that performs regulation. Vs. structural gene
+    REGULATOR SEQUENCE: DNA segment where a regulator product binds
+    CIS-ACTING elements: DNA sites that affect only the DNA molecule where they are. E.g. promoter, enhancer, silencer, operator
+    TRANS-ACTING elements: products (and genes encoding them) that regulate genes by interacting with cis-acting elements. Usually RNA/proteins. May act on any copy of its target DNA
+OPERON (mostly prokaryotes): DNA sequence containing a single promoter/operator followed by several genes, sharing control sequence.
+    All/no genes transcribed.
+    a. Promoter
+    b. Operator: control sequence, downstream the promoter, to which a trans control element (repressor or activator) binds. Physically linked to the structural genes (vs. enhancers)
+    c. Structural genes 
+    E.g. operon lac only expressed when lactose present: metabolite of lactose => inducer => inactivates repressor => induction by negative control
+    E.g. operon lac only expressed when no glucose present: no glucose => inducer => activates activator => induction by positive control
+    E.g. operon trp expressed when no tryptophan: repressor activated by tryptophan => repression by negative control
+    INDUCER: molecule that interacts with an activator/repressor to produce induction
+    COREPRESSOR: molecule that interacts with an activator/repressor to produce repression
+ATTENUATION (prokaryotes): termination of transcription before structural genes by an interference of translation
+    E.g. operon trp has leader sequences containing trp, causing termination if trp is available
+TWO COMPONENT SYSTEMS (mostly prokaryotes)
+    Sensor kinase: transmembrane protein that senses changes in the environment
+    Response regulator: phosphorylated by sensor kinase on activation. Triggers regulation
+Eukaryotes generalities
+    Default status no transcription (chromatin superstructure) => Activators
+    COACTIVATOR: protein that enhances transcription but does not bind to DNA (i.e. not a transcription factor). E.g. mediator
+LOCUS CONTROL REGION (LCR) (eukaryotes): cis, distal element that increases expression of gene clusters
+    Tissue-specific: usually control genes that are expressed only in some types of cells
+    Copy-number dependent: the more copies of LCR, the bigger the expression
+    Contain DNAse hypersensitive sites
+    Recruit chromatin-modifying elements, co-activators, transcription complexes
+INSULATOR (eukaryotes): cis, distal element that limits interaction between other elements
+    TOPOLOGICALLY-ASSOCIATED DOMAIN (TAD): section of genome surrounded by insulators
+        Elements within the domain interact, but can't interact with elements in other domains
+    Working as barrier: prevents spreading of heterochromatin
+    Working as enhancer-blocker: prevents interaction enhancer-gene
+TRANSCRIPTION ACTIVATION COMPLEX (eukaryotes): trans acting complex that binds to DNA and interacts with basal transcription apparatus
+    Activator: modular protein part of the activation complex that can bind to DNA
+    Domains of activators
+        DNA binding domain: binds to DNA. Provides specificity. The only required one. Usually positively charged.
+        Activating domain: interacts with RNA polymerase
+        Connecting domain: junction between other domains
+        Sensor domain: identifies stimulus
+    If the activator doesn't have an activator domain, may interact with another protein (co-activator)
+    Two-hybrid experiments: can two proteins interact?
+        Bind one to DNA binding domain, another to activation domain, see if there's transcription
+        REPORTER GENE: one whose product is very easy to see
+    DNA-binding domain motifs
+        ZN-FINGER: Zn ion coordinating a finger composed of an α-helix and a β-sheet. Inserts into the major groove
+        HELIX-TURN-HELIX: several α-helices that bind to DNA, separated by a small strand of amino acids
+        LEUCINE-ZIPPER: dimmer, each containing an α-helix and a bZIP
+            α-helix: amphipathic. Leucine residues (hydrophobic) on one side, charged on the other side. Dimmerizes.
+            bZIP (basic zipper): positively charged domain at the base of the zipper that binds to DNA
+        AMPHIPATHIC HELIX-LOOP-HELIX: generalization of leucine zippers
+CHROMATIN REMODELLING: process of changing DNA compaction to regulate transcription (e.g. removing nucleosomes)
+    Heterochromatin is usually not transcribed (except for rRNA) - nucleosomes cause basal apparatus to not bind
+    CONSTITUTIVE HETEROCHROMATIN: stays like that during the whole cell cycle
+        Replicates late
+        Has less recombination frequency
+    FACULTATIVE HETEROCHROMATIN: changes back and forth to euchromatine
+    May result in activation (leaving promoter accessible) or repression (blocking promoter)
+    Most transcribed genes retain nucleosomes, they're just displaced to allow transcription
+    Remodelling complex: can perform chromatin remodelling
+        Has an ATPase subunit
+        Doesn't has specificity. Recruited by other factors
+        Has domains that interact with histone markers, e.g. bromodomain
+HISTONE CODE (hypothesis): set of chemical modifications in histones that affect regulation
+    E.g. signals for remodelling complexes
+    Histone modifications: groups added at particular positions in tails, recognized by other complexes
+    Histone acetylation => activation
+        Acetylated by default in replication, before nucleosome assembly. Partially deacetylated afterwards
+        Histone acetyltransferase
+            Group A: acetylates histones in DNA to activate transcription
+            Group B: acetylates newly created histones
+        Histone deacetyltransferase: represses transcription
+    Histone methylation => repression
+    Histone phosphorylation => repression
+    Histone ubiquitination => repression
+RIBOSWITCH: mechanism consisting of a mRNA domain that binds a molecule to regulate mRNA expression
+    LIGAND: a small molecule that binds the riboswitch to perform regulation
+    APTAMER: mRNA domain where the ligand binds
+    EXPRESSION PLATFORM: undergoes structural changes in response to the aptamer binding, actually performing the regulation
+    Most common in prokaryotes
+lncRNA (eukaryotes): >200bp, no ORF
+    TRANSCRIPTIONAL INTERFERENCE: condition where the transcription of a section affects negatively the transcription of other sections
+    Epigenetics: guide chromatin-remodelling and histone-modifying complexes
+    Can interfere or enhance transcription
+    Can affect mRNA splicing and stability
+    Can block translation and post-translational modifications
+SMALL RNA (sRNA) (prokaryotes): base-pair with mRNA + secondary structure => block translation, guide CRISPR
+RNA INTERFERENCE (RNAi) (eukaryotes): regulation of expression by RNA (miRNA/siRNA) that targets mRNA
+    RNA-INDUCED SILENCING COMPLEX (RISC): miRNA + proteins. Performs RNAi
+    miRNA binds to the mRNA to regulate, then proteins regulate expression through mechanisms like mRNA degradation
+EPIGENETICS: set of heritable traits that don't imply a change in DNA
+    Changes require a mechanism to perpetuate: e.g. HP1 binds to methylated histones and self-aggregates
+    POSITION-EFFECT VARIEGATION (PEV): != gene expression in != cells because of != heterochromatin patterns => mosaicism
+    Changes are inherited within somatic cells, and some within generations
+    Chromatin remodelling and histone modifications
+    DNA methylation: repression. Usually at CpG islands
+    RNA-INDUCED TRANSCRIPTION SILENCING (RITS): process where miRNA causes genes not to transcribe by generating heterochromatin
+    PRION: misfolded protein that can misfold other proteins => Infectious, heritable diseases

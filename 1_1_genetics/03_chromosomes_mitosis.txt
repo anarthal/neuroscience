@@ -1,0 +1,147 @@
+Background
+    MONOMER: molecule that can react with other molecules to compose a greater one (POLYMER)
+    N-TERMINAL DOMAIN: the "beginning" of a protein, an amine group (NH2-)
+    C-TERMINAL DOMAIN (CTD): the "end" of a protein, a carboxylic group
+    POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
+    Protein DOMAIN: a region of a protein that self-stabilizes and folds independently of each other
+    GERM CELL: cell that undergoes meiosis to generate gametes
+    SOMATIC CELL: any cell in a multicellular organism excepting gametes, germ cells and stem cells. Divide by mitosis
+    HOMEOSTASIS: steady state of conditions in living organisms
+    KARYOTYPE: the specific set of chromosomes that an individual has
+History
+    Mendel observed, no knowledge of why
+    Sutton (~1900) rediscovers his work, postulates that genes reside in chromosomes
+Genetic material physical organization
+    HISTONE: protein that helps packaging DNA
+    CHROMATIN: complex of DNA + protein. Chromosomes are highly-packed chromatin
+    NUCLEASE: enzyme that breaks phosphodiester bonds, splitting nucleotides
+    ELECTROPHORESIS: method of separating charged molecules
+        Apply an electric field with the molecules suspended in gel, so they move
+        Distance traveled is smaller the bigger the molecule is
+        Usually conducted within several lanes. Molecule weight size markers (known size) can be used to estimate unknown sizes
+    NUCLEOSOME: basic subunit of chromatin
+        Octamer of histones + 146bp DNA wrapping the octamer twice, spaced regularly every 200bp
+        Nuclease protection experiment: treat DNA with nuclease, cutting away free DNA
+            Limiting conditions: some free DNA ties are cut, others are not. Bands of N*200bp length => Regular spacing
+            Non-limiting conditions: all free DNA ties are cut. All bands 146bp length => Length of DNA closely attached to histone
+        LINKER DNA: free DNA that joins nucleosomes. May vary in length between species and cells
+        Histone has N-terminal tails, undergo post-translational modifications when chromatin changes shape
+        Histone has + charge
+        Histone octamer: 2x (H2A, H2B, H3, H4) - histone variants
+    BEADS ON A STRING: chromatin structure of nucleosomes + linker DNA (~11nm ⌀), loosely packed (~6-fold)
+    30-NM FIBER: further condensation of beads-on-a-string (~40-fold)
+        H1: histone that sits on top of nucleosome, binds to it and linker DNA. Compacts nucleosomes
+        N-terminals interact with each other and stabilize the fiber
+        CHROMATOSOME: nucleosome + H1 histone
+        Exact structure unknown. Accepted that arrangement along helix axis. Several models
+            Solenoid: the helix axis is hollow
+            Zig-zag: linker DNA crosses the helix axis, makes more sense for longer linkers
+    300-NM FIBER: higher-order structure, composed of scaffolding (non-histone proteins) + 30-nm fiber loops binding to it (looped domain)
+    Metaphase CHROMOSOME: the tightest packed DNA structure (~10k fold). Visible only during mitosis/meiasis
+        CHROMATID: each of the strands in a chromosome. Composed of packed 300-nm fiber (700nm)
+        SMC (structural maintenance of chromosomes) proteins: protein complexes that keep chromosomes together
+            (???? is this true?) CONDENSIN: keep the 300-nm fiber loops that compose chromatids together
+            COHESIN: keep sister chromatids together (along the whole chromosome)
+    HETEROCHROMATIN: densely condensed chromatin, observable. Chromosomes composed of heterochromatin. More present during division
+    EUCHROMATIN: relaxed state of chromatin, thin and difficult to observe. More present during the rest of cell cycle
+Chromosome structure
+    SISTER CHROMATIDS: indicates that two chromatids are identical (after DNA replication). Vs non-sister chromatids (meiosis)
+    CENTROMERE: region that links two sister chromatids. Required by chromosome segregation during mitosis
+        Composed of ALPHA SATELLITE DNA. Pattern varies within species. Humans 171bp, 5k-15k repeats
+        Must be exactly one: zero yield uneven segregation, two yield chromosome breaks
+    TELOMERE: region at the end of chromosomes. Protection/stability functions
+        Composed of minisatellites: short, repetitive sequences. TTAGGG in vertebrates. Variable repeats, 500-3k in humans
+        T-LOOP: loop structure at the end of the telomeres, stabilizing them (as a knot). 3' end longer, closing the loop
+    Topography
+        METACENTRIC: centromere in the middle, symmetric
+        SUBMETACENTRIC: centromere between middle and end
+            P-ARM: upper, shorter arm (plotted like this by convention)
+            Q-ARM: lower, longer arm
+        ACROCENTRIC: centromere close to end
+        TELOCENTRIC: centromere at the end
+    SPINDLE APPARATUS: cytoskeletal structure composed of microtubules. Required for chromosome segregation
+        Named mitotic/meiotic spindle, depending on the division process
+    CENTROSOME: organelle where the spindle apparatus microtubules are rooted at. Associated to the nuclear membrane (outside)
+    KINETOCHORE: disc-shaped proteins, located at centromeres, where spindle microtubules attach to segregate sister chromatids
+TBC: Chromosomal cytological analysis
+Number of chromosomes
+    Constant among members of the same species
+    LOCUS: position in a chromosome where a particular gene is located
+        ALLELE: the concrete variant of nucleotides present in a single locus for a single DNA molecule
+    HOMOLOGOUS CHROMOSOMES: a set (usually a pair) of chromosomes with the same structure (same centromere arrangement and arm length)
+        Usually coding the same alleles
+        With different info (usually one from father, other from mother)
+    PLOIDY: the size of each set of homologous chromosomes in a cell
+        HAPLOID: each chromosome is different in shape/size, and has no homologous
+        DIPLOID: chromosomes exist in pairs, every chromosome has an homologous
+        Most eukaryotic cells are diploid, excepting yeasts and molds
+        Gametes are haploid
+        In diploid cells, each homologous chromosome pair, for each loci, contains 2 alleles, codifying the same trait, but with different info
+    Number of chromosomes not related with biological complexity
+Cell reproduction keys: copy genetic info, separate copies, separate cells
+BINARY FISSION: how prokaryotes and single cell eukaryotes reproduce. Copy DNA, elongate cell, divide
+Cell cycle
+    INTERPHASE: set of phases where the cell is not actively dividing
+        GAP 1 (G1, ~10h): cell growth and metabolism
+        SYNTHESIS (S, ~9h): DNA is replicated
+        GAP 2 (G2, ~4h): cell growth, protein synthesis, preparation for mitosis
+    MITOSIS (M, ~1h): separation of chromosomes and cell division
+    QUIESCENT STAGE/GAP 0: cell has abandoned the proliferative cycle, and is in steady state
+Mitosis
+    Yields two genetically identical cells, same num chromosomes (usually 2 diploid cells)
+    Employed by
+        Asexual reproduction in single-cell organisms
+        Development of new organisms (zygote)
+        Maintain tissue homeostasis by producing new cells
+    1. PROPHASE
+        Chromosome condensation (via condensins)
+        Mitotic spindle forms
+        Centrosomes migrate towards opposite poles
+        Nuclear envelope starts breaking down
+    2. PROMETAPHASE: transition period between prophase and metaphase
+        Nuclear envelope completely broken
+        Microtubules bind to kinetochores and start moving chromosomes towards the cell centre
+    3. METAPHASE: chromosomes aligned at the cell equator (metaphase plate)
+    4. ANAPHASE: sister chromatids are separated (chromosome segregation)
+        Cohesin rings degrade (due to separase), so sister chromatids can separate
+        Spindle poles move outwards, microtubules shorten
+        From this point, sister chromatids are known as daughter chromosomes
+    5. TELOPHASE: chromosomes at poles, decondense
+        Mitosis ends when nuclear envelope reforms
+    CYTOKINESIS: separation of the cytoplasm
+        Begins late ahapahase, ends late telophase
+        Contractile ring (actin and myosin) splits the cell in two
+        CLEAVAGE FURROW: the actual indentation caused in the cell by the contractile ring
+MEIOSIS: special type of cell division that generates 4 != haploid gametes from a diploid cell. Much longer than mitosis
+    Happens after the usual G1-S-G2 cycle (DNA replicated once)
+    Meiosis I
+        PROPHASE I: lengthy. Yields recombined chromosomes
+            LEPTOTENE: chromosomes condense, as in mitosis. Sister chromatids join at centromeres
+            ZYGOTENE: homologous chromosomes approach and pair (SYNAPSIS)
+            PACHYTENE: all homologous chromosomes have synapsed
+                Structure of 4 chromatids (TETRAD) / 2 homologous (BIVALENTS)
+                Homologous recombination/crossover: homologous chromosomes exchange genetic material to produce variation
+                DNA strands break, when repaired, some alleles from one chromatid inserted into the homologous (at the same position)
+            DIPLOTENE: homologous bonds relax
+                CHIASMA(TA): points where homologous are still joined
+            DIAKINESIS
+                Chromosomes fully condense, still bound at chiasmata
+                Nuclear envelope breaks
+                Meiotic spindle forms and microtubules attach to chromosomes
+        METAPHASE I: bivalents aligned at the cell equator (meiotic plate)
+            Microtubules attach to != homologous chromosomes (instead of a single chromosome)
+            Tension maintained by crossovers
+        ANAPHASE I: bivalents separate (chromosome disjunction). Sister chromatids still together
+            Segregation is random: some chromosomes from father, others from mother
+        TELOPHASE I: chromosome movement completes, nuclear envelope reforms
+        Yields 2 haploid cells (1/2 num chromosomes, but with 2 chromatids each), != from the original and each other
+    INTERKINESIS (interphase II): cell separation, spindle disassembly, chromosomes decondense. No DNA replication
+    Meiosis II: similar to mitosis. Segregates sister chromatids
+        PROPHASE II: chromosomes condense, nuclear envelope breaks, spindle reforms
+        METAPHASE II: chromosomes aligned across metaphase plate, each sister chromatid aligned towards one pole
+        ANAPHASE II: sister chromatids separate into daughter chromosomes
+        TELOPHASE II: chromosomes at poles, decondense. Nuclear envelope reforms. Cytokinesis
+    Sources of genetic variation: crossovers and random segregation
+Explanation of Mendel's laws
+    Equal segregation: chromosomes in pairs, homologous separate during meiosis anaphase I => Half alleles in each gamete
+    Independent assortment: applies for genes located in != chromosomes. Same chromosomes => travel together
