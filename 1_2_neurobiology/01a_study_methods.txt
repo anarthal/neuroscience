@@ -1,0 +1,33 @@
+Background
+    BASOPHILIC: cell component that gets stained by basic dyes. E.g. nucleus (it's acid). Vs acidophilic
+    PRIMARY ANTIBODY: binds directly to an antigen or protein
+    SECONDARY ANTIBODY: binds to a primary antibody
+    ULTRASTRUCTURE: low-level detail of a cell or cell component
+    ANTEROGRADE: forward movement of something. Vs RETROGRADE
+    UNBIASED COUNTING: statistically valid method to count occurrences of something in a tissue sample
+CYTOCHEMISTRY: chemical analysis of individual cells
+HISTOCHEMISTRY: chemical analysis of tissue sections
+Staining techniques
+    H&E
+        HEMATOXYLIN: stains basophilic structures (e.g. nuclei) in purple
+        EOSIN: stains acidophilic structures (e.g. cytoplasm) in pink
+    GOLGI'S STAIN: silver salts that bind to nervous structures. Dark. Used by Cajal
+    NISSL STAIN: uses dyes with affinity for DNA and RNA, like cresyl violet
+    ENZYME HISTOCHEMISTRY: stain binds to the product of an enzymatic reaction => visualize where it takes place. E.g. AChE and rubeanic acid
+IMMUNOHISTOCHEMISTRY and IMMUNOFLUORESCENCE: coloring based on an antibody that binds to an antigen
+    DIRECT: only uses a primary antibody. Expensive
+    INDIRECT: uses both primary antibody (specificity) and secondary (fluorescent or with affinity by colored product)
+    Immunohistochemistry: uses colored product, creates precipitate only where antibodies are bound
+        Can be visualized directly
+        Single color per slice
+    Immunofluorescence: uses fluorescent antibodies
+        Requires a lamp to visualize
+        != colors in a single slice
+AUTORADIOGRAPHY: tag molecules with radioactive atoms, then radiography
+IN-SITU-HYBRIDIZATION: hybridize DNA or RNA with nucleotide probes
+ELECTRON-MICROSCOPY: scan a surface with electrons, yielding high level of detail. Allows visualizing cell ultrastructure
+ANATOMIC TRACING: determines if 2 areas in the brain are connected by injecting a tracer, waiting (~1 week), killing, unbiased counting
+    Anterograde tracing: are there connections outgoing from the point of injection?
+    Retrograde tracing: are there connections incoming to the point of injection?
+OPTOGENETICS: genetically modify a cell to express light-sensitive proteins, then control the cell with light
+    Allows activating or inhibiting a concrete neuron type
