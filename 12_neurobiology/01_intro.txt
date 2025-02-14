@@ -1,0 +1,9 @@
+mechanistic theory of brain function: each of abilities (e.g. to move, breathe, think) is associated to one brain region
+Law of Dynamic Polarization
+    Dendrites and cell body: reception
+    Axon: conduction
+    Ramifications: application
+Connectionism: basic functions work involving a single region, complex ones require distributed processing
+Somatotopy: each body part is mapped to a certain region within the motor cortex
+Cytoarchitecture: how are neurons organized?
+Brodman areas: 52 areas classified according to cytoarchitecture

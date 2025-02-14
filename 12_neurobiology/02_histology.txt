@@ -1,0 +1,104 @@
+Epithelium: outer layer
+    Lumen: outer part
+    Apical domain: contact with the env
+    Lateral domain: contact with other cells
+    Basal domain: contact with connective tissue
+    Avascular: no blood vessels
+    Simple: 1 cell deep
+        Squamous: planar cells (e.g. respiratory)
+        Cuboidal: cubes (e.g. kidney tubules)
+        Columnar: e.g. stomach
+        Pseudo-stratify: all cells attached to the base membrane, but not all of them reach the apical (e.g. urinary)
+    Stratified: several cells deep
+        The last layer is what identifies the morphologies
+        Squamous: epidermis
+        Cuboidal 
+        Columnar
+        Transitional: a mixture of cells (e.g. urinary)
+    Apical domain modifications: confer != fns to the tissue
+        Microvilli: actin filaments with passive movement (e.g. intestine)
+        Stereocilla: actin filaments, much longer, also passive movement, fewer quantity than microvilli
+        Cilia: made of microtubules
+            Motile: active movement (e.g. flagella in sperm)
+            Primary cilia: passive movement, shorter, != structure
+            Nodal: active movement, rotational movement (only embrionic)
+    Lateral domain
+        Cell-adhesion molecules (CAM)
+        All junctions present in every tissue type
+        Occluding junction: tight, closed junction. No transport. Close to the apical domain
+            Occludin and claudin: proteins that create the junction
+        Anchoring junction
+            Zonula adherens: bind actin filaments of two cells to join cells together. Made of proteins:
+                Cadherin: protein that requires Ca to create the binding
+                Nectin: they don't need Ca
+            Macula adherens: like zonula adherens, but use intermediate filaments instead of actin filaments
+                Desmocollin, desmoglein: proteins that create these bridges
+        Communicating junction
+            Connexon: connecting tube between cells
+            Connexin: protein that forms connexons
+            Can be closed or open, can change from one to another
+    Basal domain
+        Basement membrane: structure between epithelium and connective tissue
+            Made of extracellular proteins (no cells)
+            Attachment to both tissues
+            Filters molecules => involved in cell signalling
+            Scaffolding to regenerate tissue
+            Basal lamina
+                Laminin network
+                Collagen IV that maintains the laminin network together
+            Reticular lamina
+                Below basal lamina
+                Composed of reticular fibrils + microfibrilin network + type VII colagen
+            Reticular not present in all tissues, and tends to be lost during histological preparations
+        Cell-to-extracellular matrix junctions: attach epithelial cells to extracellular matrix in connective tissue
+            Focal adhesions: anchor actin filaments in the epithelial cells to the Basement membrane and the matrix below. Crosses the membrane
+            Hemidesmosomes: same but for intermediate filaments
+        Basement membrane infoldings: membrane not homogeneous. != curvature
+            Increases cell surface => Facilitate interactions between epithelial cells and connective tissue
+    Gland: epithelial tissue whose main function is to secrete substances, either to lumen or to connective tissue
+        Exocrine gland: product secreted to the lumen
+            Merocrine: substance surrounded by vesicles (e.g. pancreas)
+            Apocrine: substance surrounded by cell membrane (e.g. mamary gland)
+            Holocrine: substance liberated by apoptosis when concentration is high (usually in stratified, because cell dies => next layer comes. e.g. sebus)
+        Endocrine gland: through the basal domain => connective tissue => blood stream (e.g. hormones)
+        For both glands above, and using the same mechanisms above
+            Paracrine: reach a close epithelial/connective tissue cell
+            Autocrine: reach the same cell that produces the product
+                Mechanism of self-regulation: when there's enough product, stop producing product. Negative feedback loop. Doesn't have to be the same molecule as secreted, but it's related
+Connective tissue: cells + extracellular matrix
+    Continuous along body, supports other tissues (?)
+    Cell population embedded in extracellular matrix that fills the gaps
+    Vascular: lots of blood vessels
+    Matrix
+        Protein fibers
+        Ground substance: liquid/gel substance filling the holes
+    Classified based on the type of extracellular matrix
+    Embryonic: embryo and umbilical cord
+        Mesenchyme: from mesoderm. Cells suspended in matrix of collagen and reticular fibers
+        Mucous: same cells, but suspended in Wharton's jelly, rich in hialuronic acid
+    Connective tissue proper: not specialized
+        Loose: more cells than matrix
+        Dense: more matrix than cells
+    Connective tissue cells
+        Resident cell population: they're always there
+        Transient cell population: they're there only when needed (mostly blood cells)
+    Fibroblast: main cell component
+        Synthesizes extracellular matrix
+        Planar, ellipsoidal shape
+    Myofibroblast: intermediate cell type between muscle cells and Fibroblast
+        Can contract
+    Macrophages: fagocyte pathogens
+    Adipocytes: store lipids
+        Hematoxin does not stain lipids
+        Adipose tissue: tissue with a lot of adipocytes
+    Mast cells: cytoplasm full of granules containing inflammation mediators
+    Adult stem cells: always located in connective tissue
+        Pericyte: stem cell that regenerates endothelial cells
+    extracellular matrix
+        Collagen fibers: accumulation of collagen fibrils. Depending on the type of fibril
+            Fibrillar (type I), the most abundant
+            type IV: basal lamina
+            type VII: reticular lamina
+        Reticular fibers
+        Elastic fibers
+    

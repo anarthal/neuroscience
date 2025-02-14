@@ -1,0 +1,21 @@
+Background
+    AVASCULAR: not reached by blood irrigation
+    ENDOTHELIUM: blood vessel internal wall
+    LUMEN: the inside space of a vessel or cavity
+EPITHELIUM: avascular tissue covering surfaces, cavities and forming glands
+    Cells close to each other, bound by specific cell junctions
+    Cells exhibit polarity, forming three domains: apical, lateral, basal
+    Cells attached to basement membrane in their basal domain
+Classification
+    Simple: single layer of cells
+        Simple squamous: planar cells. E.g. endothelium
+        Simple cuboidal: cubic cells. E.g. kidney tubules
+        Simple columnar: long cells. E.g. small intestine
+        Pseudostratified: all cells attached to basement membrane, but not all to apical domain. E.g. trachea
+    Stratified: multiple layers of cells
+        Stratified squamous: planar cells. E.g. epidermis
+        Stratified cuboidal: cubic cells
+        Stratified columnar: long cells
+        Transitional: cell type changes with layer. E.g. urethra
+APICAL DOMAIN: region that faces the lumen or exterior. In contact with env
+    
