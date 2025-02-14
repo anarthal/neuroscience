@@ -1,7 +1,8 @@
 Background
-    AVASCULAR: not reached by blood irrigation
+    AVASCULAR: not reached by blood vessels
     ENDOTHELIUM: blood vessel internal wall
     LUMEN: the inside space of a vessel or cavity
+    FIBRIL: thread-like structure, small scale. Vs. fibers, which are bigger
 EPITHELIUM: avascular tissue covering surfaces, cavities and forming glands
     Cells close to each other, bound by specific cell junctions
     Cells exhibit polarity, forming three domains: apical, lateral, basal
@@ -17,5 +18,45 @@ Classification
         Stratified cuboidal: cubic cells
         Stratified columnar: long cells
         Transitional: cell type changes with layer. E.g. urethra
-APICAL DOMAIN: region that faces the lumen or exterior. In contact with env
-    
+APICAL DOMAIN: region that faces the lumen or exterior. In contact with env. Modifications:
+    MICROVILLI: membrane protrusions formed by actin filaments. Passive movement. Increase absorption surface (e.g. intestine)
+    STEREOCILIA: similar structure, much longer. Passive movement. Absorptive or sensitive (e.g. inner ear). Less frequent
+    CILIA: membrane protrusions formed by microtubules
+        Primary: non-motile. Sensory functions. Lots of cells have them. 9+0 structure
+        Motile: active upward-downward movement. 9+2 structure. Many per cell and short (e.g. respiratory, to clean up mucus). Except flagella (sperm)
+        Nodal: active rotational movement. 9+0 structure. In embryo
+LATERAL DOMAIN: region in contact with neighboring epithelial cells
+    CELL-ADHESION MOLECULES: form the junctions between cells
+    All junction types present in each cell
+    OCCLUDING JUNCTION/ZONULA OCCLUDENS: tight, closed junction
+        Close to the apical domain
+        No transport
+        Formed by occludin and claudin proteins
+    ANCHORING JUNCTION: perform cell-to-cell adhesion. More basal than occluding ones
+        ZONULA ADHERENS: links cytoskeletal actin filaments of two cells together
+            CADHERIN: calcium-dependent protein performing the link between membranes
+            NECTIN: like cadherins, but calcium-independent
+        MACULA ADHERENS/DESMOSOME: links cytoskeletal intermediate filaments of two cells together
+            Uses desmocollin and desmoglein as connective proteins
+    COMMUNICATING JUNCTION: allows direct transport of substances between cells
+        CONNEXON: tube-like structure communicating two cells
+        CONNEXIN: protein that forms connexons
+        Connexons can be open and closed, and their state can change over time
+BASAL DOMAIN: region that faces connective tissue
+    BASEMENT MEMBRANE: structure between basal domain of epithelial cells and connective tissue
+        Attachment site. Scaffolding for tissue regeneration
+        Filters substances. Involved in cell signalling
+        Made of extracellular proteins (no cells)
+        BASAL LAMINA: 1st layer, dense, where the epithelial cells attach
+            Laminin layer
+            Type IV collagen
+        RETICULAR LAMINA: 2nd layer, made of fibrils
+            Not always present in-vivo. Almost always lost in preparations
+            Reticular fibrils, type VII collagen (anchors), fribrilin (anchors)
+    Cell-to-extracellular matrix junctions: because epithelial cells require support from connective tissue
+        Junctions cross the membrane, until the connective tissue
+        FOCAL ADHESIONS: junctures that use actin filaments
+        HEMIDESMOSOMES: junctures that use intermediate filaments
+    Basement membrane infolding: membrane is irregular (not planar)
+        Increases surface => Better interaction between cells and with ECM
+
