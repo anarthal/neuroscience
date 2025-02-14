@@ -70,6 +70,8 @@ pre-mRNA: RNA polymerase II
         Phosphorylation state of CTD determines which processing factors (e.g. capping, splicing) bind
     2. Elongation
         Capping: adding a 7-methyl-guanosine at the 5' end
+            Bond is 5' to 5', and has 3 phosphates
+            Methylation is performed in the cytoplasm
             Distinguish mRNA from other RNAs
             Transportation to cytoplasm (cap binds to cap binding complex)
             Recognized by translation initiation factors
@@ -84,6 +86,7 @@ pre-mRNA: RNA polymerase II
         Poly-adenylation of 3' end
             Poly-A-Polymerase: adds multiple A to 3' <= Poly-A tail, unique to mRNA
             Poly-A-Binding Protein (PABP): binds to A tail, helps tail synthesis and RNA stability
+            Helps transport to cytoplasm and stability
         Degradation of remaining RNA
         Dissociation of RNA polymerase
             Torpedo model: because exonuclease degrading RNA pushes the polymerase away

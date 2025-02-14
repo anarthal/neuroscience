@@ -109,6 +109,7 @@ HISTONE CODE (hypothesis): set of chemical modifications in histones that affect
             Group A: acetylates histones in DNA to activate transcription
             Group B: acetylates newly created histones
         Histone deacetyltransferase: represses transcription
+        Activation happens because of conformational change that makes DNA less tightly packed
     Histone methylation => repression
     Histone phosphorylation => repression
     Histone ubiquitination => repression
@@ -132,6 +133,6 @@ EPIGENETICS: set of heritable traits that don't imply a change in DNA
     POSITION-EFFECT VARIEGATION (PEV): != gene expression in != cells because of != heterochromatin patterns => mosaicism
     Changes are inherited within somatic cells, and some within generations
     Chromatin remodelling and histone modifications
-    DNA methylation: repression. Usually at CpG islands
+    DNA methylation: repression. Usually at CpG islands. E.g. Barr body
     RNA-INDUCED TRANSCRIPTION SILENCING (RITS): process where miRNA causes genes not to transcribe by generating heterochromatin
     PRION: misfolded protein that can misfold other proteins => Infectious, heritable diseases
