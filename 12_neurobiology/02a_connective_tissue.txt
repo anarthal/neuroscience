@@ -1,0 +1,29 @@
+Definition: consists of cell population embedded within extracellular matrix
+Vascular tissue (has blood vessels)
+Connects and supports other tissues
+Classification: according to ECM
+    Embryonic
+        MESENCHYME: from mesoderm. Generates most of other tissues, like blood or bone
+            Cells: mesenchymal cells (spindle-shaped cytoplasm)
+            ECM: collagen and reticular fibers
+        MUCOUS CONNECTIVE TISSUE: in umbilical cord
+            Cells: mesenchymal cells
+            ECM: hyaluronic acid, collagen, reticular fibers
+    Connective tissue proper: not specialized
+        Dense: more fibers than cells
+        Loose: more cells than fibers
+    Specialized: cartilage, bone, blood, lymphatic...
+Cell population
+    Resident: always located there
+        FIBROBLAST: synthesize ECM. Long cytoplasm. The main ones
+        MYOFIBROBLAST: intermediate between fibroblasts and muscle cells
+            Involved in wound healing: contract wound so it can close, synthesize collagen to repair
+        Macrophage: immune response
+        ADIPOCYTE: stores fat and secretes hormones
+            With H&E, lipids not stained => white
+        MAST CELL: immune response. Contains basophilic granules with inflammation mediators
+        Adult stem cells: rare, in specific locations. Specific to connective tissue
+        
+
+    Transient/wandering: temporarily located there. Mainly blood cells
+EXTRACELLULAR MATRIX: medium where cells in connective tissue live

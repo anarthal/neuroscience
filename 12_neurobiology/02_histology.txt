@@ -1,30 +1,7 @@
 Connective tissue: cells + extracellular matrix
-    Continuous along body, supports other tissues (?)
-    Cell population embedded in extracellular matrix that fills the gaps
-    Vascular: lots of blood vessels
     Matrix
         Protein fibers
         Ground substance: liquid/gel substance filling the holes
-    Classified based on the type of extracellular matrix
-    Embryonic: embryo and umbilical cord
-        Mesenchyme: from mesoderm. Cells suspended in matrix of collagen and reticular fibers
-        Mucous: same cells, but suspended in Wharton's jelly, rich in hialuronic acid
-    Connective tissue proper: not specialized
-        Loose: more cells than matrix
-        Dense: more matrix than cells
-    Connective tissue cells
-        Resident cell population: they're always there
-        Transient cell population: they're there only when needed (mostly blood cells)
-    Fibroblast: main cell component
-        Synthesizes extracellular matrix
-        Planar, ellipsoidal shape
-    Myofibroblast: intermediate cell type between muscle cells and Fibroblast
-        Can contract
-    Macrophages: fagocyte pathogens
-    Adipocytes: store lipids
-        Hematoxin does not stain lipids
-        Adipose tissue: tissue with a lot of adipocytes
-    Mast cells: cytoplasm full of granules containing inflammation mediators
     Adult stem cells: always located in connective tissue
         Pericyte: stem cell that regenerates endothelial cells
     extracellular matrix
