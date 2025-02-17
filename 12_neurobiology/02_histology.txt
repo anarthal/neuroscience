@@ -1,14 +1,3 @@
-Epithelium: outer layer
-    Gland: epithelial tissue whose main function is to secrete substances, either to lumen or to connective tissue
-        Exocrine gland: product secreted to the lumen
-            Merocrine: substance surrounded by vesicles (e.g. pancreas)
-            Apocrine: substance surrounded by cell membrane (e.g. mamary gland)
-            Holocrine: substance liberated by apoptosis when concentration is high (usually in stratified, because cell dies => next layer comes. e.g. sebus)
-        Endocrine gland: through the basal domain => connective tissue => blood stream (e.g. hormones)
-        For both glands above, and using the same mechanisms above
-            Paracrine: reach a close epithelial/connective tissue cell
-            Autocrine: reach the same cell that produces the product
-                Mechanism of self-regulation: when there's enough product, stop producing product. Negative feedback loop. Doesn't have to be the same molecule as secreted, but it's related
 Connective tissue: cells + extracellular matrix
     Continuous along body, supports other tissues (?)
     Cell population embedded in extracellular matrix that fills the gaps

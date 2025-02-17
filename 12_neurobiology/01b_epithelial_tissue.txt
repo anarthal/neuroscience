@@ -59,4 +59,14 @@ BASAL DOMAIN: region that faces connective tissue
         HEMIDESMOSOMES: junctures that use intermediate filaments
     Basement membrane infolding: membrane is irregular (not planar)
         Increases surface => Better interaction between cells and with ECM
-
+GLAND: epithelial tissue whose main function is to secrete substances, either to lumen or to connective tissue
+    EXOCRINE GLAND: secretes its products to the lumen
+        MEROCRINE GLAND: substance in vesicles (exocytosis). E.g. pancreas
+        APOCRINE GLAND: substance surrounded by cell membrane/cytoplasm. E.g. mammary glands
+        HOLOCRINE GLAND: substance secreted by apoptosis when concentration is high. E.g. sebaceous glands
+            Usually in stratified tissue => When one cell dies, the next one comes in
+    ENDOCRINE GLAND: secretes its products into the underlying connective tissue => blood stream
+    For both the above glands and using the above mechanisms
+        PARACRINE SIGNALLING: secreted molecules target close epithelial/connective tissue cells
+        AUTOCRINE SIGNALLING: secreted molecules target the cell itself
+            Self-regulation mechanism: stop secreting when there's enough product
