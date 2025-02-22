@@ -1,3 +1,13 @@
+Background
+    HYALURONAN = hyaluronic acid
+    FIBRILLIN: protein part of elastic fibers
+    SACCHARIDE/CARBOHYDRATE: molecule with form ~Cx(H2O)y (i.e. hydrated carbon)
+    MONOSACCHARIDE: smaller saccharide units (monomers)
+    GLYCAN/POLYSACCHARIDE: polymer consisting of several monosaccharides joined together
+    GLYCOPROTEIN: protein containing saccharides
+    PROTEOGLYCAN: special case of glycoprotein, with a long protein core and GAGs attached to it (brush-like)
+    TENDON: connective tissue that joins muscle to bone
+    LIGAMENT: connective tissue that joins bones
 Definition: consists of cell population embedded within extracellular matrix
 Vascular tissue (has blood vessels)
 Connects and supports other tissues
@@ -10,8 +20,10 @@ Classification: according to ECM
             Cells: mesenchymal cells
             ECM: hyaluronic acid, collagen, reticular fibers
     Connective tissue proper: not specialized
-        Dense: more fibers than cells
-        Loose: more cells than fibers
+        Loose: more cells/ECM than fibers. Easy diffusion => close to glands, blood vessels and epithelia. Low tensile strength
+        Dense: more fibers than cells/ECM
+            Irregular: fibers randomly oriented. Equal tensile strength in all directions. Usually below loose
+            Regular: parallel fibers. High tensile strength in one direction. E.g. tendon, ligament
     Specialized: cartilage, bone, blood, lymphatic...
 Cell population
     Resident: always located there
@@ -22,8 +34,25 @@ Cell population
         ADIPOCYTE: stores fat and secretes hormones
             With H&E, lipids not stained => white
         MAST CELL: immune response. Contains basophilic granules with inflammation mediators
-        Adult stem cells: rare, in specific locations. Specific to connective tissue
-        
-
+        Adult/mesenchymal stem cells: rare, in specific locations
+        PERICYTE: adult stem cell living in the basement membrane of capillaries. Regenerative functions
     Transient/wandering: temporarily located there. Mainly blood cells
 EXTRACELLULAR MATRIX: medium where cells in connective tissue live
+    Protein fibers
+        Collagen fibers: main structural component
+            Tensile strength
+            Mainly type I, also FACITs
+            Stains pink with H&E
+        Reticular fibers: structural support in lymphatic tissue
+            Type III collagen
+            Requires special stain, e.g. silver
+        Elastic fibers: add elastic deformation capabilities
+            Fibrillin and elastin
+            Requires special stain
+    Ground substance: fills the gaps between cells and fibers. Water-rich. Allows diffusion of molecules, protects against invaders
+        GLYCOSAMINOGLYCAN (GAG): long linear polysaccharide consisting of disaccharide monomers
+            E.g. hyaluronan: very long
+            Negatively charged => Attracts water, confers ground substance its physical properties
+        Proteoglycan: e.g. aggrecan
+            PROTEOGLYCAN AGGREGATE: several proteoglycans attached to a hyaluronan molecule
+        Multiadhesive glycoproteins: cell-ECM adhesion. E.g. fibronectin
