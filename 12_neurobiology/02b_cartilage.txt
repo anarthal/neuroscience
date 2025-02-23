@@ -6,10 +6,11 @@ PERICHONDRIUM: dense irregular connective tissue surrounding some types of carti
 Types: hyaline cartilage, elastic cartilage, fibrocartilage
 HYALINE CARTILAGE: homogeneous, semi-transparent. The most common
     Located in
-        Articular surfaces (low-friction surface, transmits forces)
+        Articular surfaces (cushioning, low-friction surface)
         Walls of respiratory passages (structural support)
         Ventral ends of ribs, joining the sternum (cushioning)
         Epiphyseal plates (where bone grows)
+        Fetal skeleton
     ECM
         Fibers: type II collagen
         Hyaluronan + proteoglycan aggregates (aggrecan): holds a lot of water
@@ -32,6 +33,7 @@ ELASTIC CARTILAGE: like hyaline cartilage, but ECM contains elastic fibers
     Located in epiglottis, auricle of ear
     More flexible
     Does not calcify with age
+    Has perichondrium
 FIBROCARTILAGE: intermediate between dense connective tissue and hyaline cartilage
     Located in
         Intervertebral discs
@@ -42,3 +44,14 @@ FIBROCARTILAGE: intermediate between dense connective tissue and hyaline cartila
         Chondrocytes in isogenous groups, axially aligned
         Fibroblasts: smaller than chondrocytes, elongated nuclei
     ECM: like hyaline cartilage, but also contains type I collagen
+    No perichondrium
+CHONDROGENESIS: development process of cartilage
+    Mesenchymal cells => chondroblasts => chondrocytes
+    SOX-9: transcription factor that triggers differentiation
+    CHONDROGENIC NODULE: aggregation of mesenchymal cells that will differentiate into cartilage
+Growth
+    APPOSITIONAL GROWTH: at the surface of existing cartilage. Differentiation of cells in the perichondrium
+    INTERSTITIAL GROWTH: within existing cartilage. By mitotic division of chondrocytes
+ENDOCHONDRAL OSSIFICATION: process of transformation of cartilage into bone during development
+    Bones start as cartilage models that get replaced by bone
+    Epiphyseal plate and articular cartilage remain cartilage
