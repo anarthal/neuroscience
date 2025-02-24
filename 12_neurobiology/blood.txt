@@ -1,0 +1,42 @@
+Thermoregulatory because brown adipose disappears in adulthood
+Hematocrit: analysis to determine % of cells
+ECM: plasma
+    Mostly water as a solvent
+    Albumin: maintains osmotic pressure so diffusion can happen. Also carrier
+    Globulin
+        Immunoglobulin (gamma): antibody
+        Non-immune (alpha, beta): like albumin
+    Fibrinogen: coagulation
+    Complement proteins: inflammation and immune response
+    Serum: plasma - clotting factors (e.g. fibrinogen). For transfusions, so the blood doesn't clot
+Cells
+    Blood smear usually prepared with eosin + methylene blue (instead of hematoxylin)
+    Arteries > arterioles > capillaries
+    Erythrocyte
+        They don't have a cell
+        Shape allows them to travel through capillaries (flexible)
+        Cytoplasm full of hemoglobin (Fe and heme) => Bind O2 and CO2
+    Leukocytes: leave the blood vessels to perform their function
+    Thrombocytes: coagulation
+        Derived from megakaryocite: big cell that fragments into platelets
+        No nucleus
+        Zones
+            Peripheral zone: rests of cell membrane and glycocalix (maintain integrity)
+            Structural zone: maintain structure
+            Organelles
+            Membrane systems: rests of the megakaryocyte, what caused it to break
+Hemopoiesis/Hematopoiesis: generation of blood
+    HSCs: pluripotent/hemopoietic stem cells: differentiate into != cells. Located in bone marrow
+        Depending on the cytokine that activates it, differentiates
+        Myeloid stem cells/Common myeloid progenitors
+            Erythrocytes
+            Thrombocytes
+            Leukocytes that are not lymphocytes
+        Lymphoid stem cells/Common lymphoid progenitors
+            B lymphocytes
+            T lymphocytes
+    Happens in red bone marrow
+        Sinusoids: specialized blood vessels where the newly synthesized cells are released
+        
+
+
