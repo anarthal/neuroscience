@@ -1,0 +1,30 @@
+not connective tissue
+striated: stries perpendicular to fibers. Always cut along fibers
+    skeletal: attached to bone
+        formed by muscle fiber cells. Multi-nucleated, because they are formed by merging several myoblasts
+        endomysium: connective tissue protecting one fiber. Rich in reticular fibers
+        Fibers organized in fascicles
+        Perymisium: connective tissue protecting a fascicle
+        Epimysium: surrounds the entire muscle
+        Each fiber is a cell
+        Microfilaments
+            Thick filaments: myosin
+            Thin filaments: actin
+        Z line: full of proteins
+        Sarcomere: functional unit of muscle
+        Sarcoplasmic reticulum: where the muscle stores Ca2+
+        Actomyosin cross-bridge cycle: process that generates the contraction
+        Neuromuscular junction: delivers the voluntary order to control the muscle
+    visceral striated: morphologically identical, but not attached to a bone. E.g. tongue
+    cardiac: heart and veins
+        shorter cells
+        single nucleus
+        intercalated discs: where cells attach. Single nucleus between each pair of intercalated discs
+            adhering junctions: intercalating discs to muscle cells
+            macula adherens: muscle cells to each other
+            gap junctions
+        involuntary: regulated by the autonomous nervous system
+smooth: doesn't have them. Músculo invultario que rodea órganos
+    slow, steady, involuntary contraction. E.g. stomach
+    dense body: where filaments are attached. Aglomeration of proteins in the cell. Bound to the cytoskeleton
+    thin attached to dense bodies, then thick in the middle
