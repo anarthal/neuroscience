@@ -1,0 +1,16 @@
+yeasts
+    unicellular
+    reproduce 
+    immunosupressive therapies: e.g. organ trasplants
+change yeast <=> mold in polymorphic: temperature
+    usually multi in env, yeast in host
+    replication cycle of candida albicans no entra
+mycoses => infection of molds/yeasts
+    superficial: only top level layer
+    cutaneous: epithelial tissue
+    subcutaneous: deeper, difficult to treat. E.g. because spores were injected
+    systemic: deep tissues. Mostly in immuno-compromised
+mechanisms
+    enzymes: proteases, lipases, keratinases (allow penetrating more)
+    mycotoxins (metabolites)
+    immune modulation. E.g. dimorphism

@@ -1,0 +1,22 @@
+GU pairing can happen, but has less strength. GC > AU > GU
+Cis RNA-RNA: same molecule, vs. trans RNA-RNA
+Stack/helix: secondary structure where opposite base pairs, on top of the other
+Loop: everything else
+    Hairpin/stem loops: single part closed by stack
+    Bulge: one part of the chain has excess nucleotides that don't pair with the other
+    Internal: two parts closed by stack (vs. one in hairpin)
+    Multi-branched: more than 2 exits
+For free Gibbs energy: directionality matters
+Junction: where 3 or more RNA parts join
+Pseudo-knot: knot-like, can be done/undone easily
+Stacking more stable when base types stack on top of != types of bases
++ively charged ions help stabilize the structure
+if ribosomes are
+    cytoplasm => for the cell
+    in ER => for the cell or outside the cell
+proteins: scaffolding, RNA: function
+ribosomes use trans RNA-RNA interactions
+existence is temporary (only during translation), because they are weak interactions
+there is no protein close to the active site of the ribosome
+channel protects amino-acid chain from water
+splicing of tRNA is NOT performed by spliceosome

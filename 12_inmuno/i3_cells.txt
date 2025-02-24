@@ -1,0 +1,132 @@
+Romanowsky: Azure (binds to nucleus) and eosin
+Immunophenotyping: stain with antibodies, then pass through a tube with a laser => Measure the size and quantity (cytometer)
+clusters of differentiation: the surface proteins we use to recognize cells
+    support cells generate cytokines to support growth of hematopoietic stem cells in the bone marrow
+    HSC cannot be distinguished with regular dye
+    CD34: cell adhesion protein. It's there as long as HSC is in the bone marrow, then disappears
+Terminal (specialized) cells has more condensed chromatin (doesn't need to express that many things)
+Metalloprotease: can cut proteins => to cross across tissues, e.g. to exit the bone marrow
+GMP: nucleus indentation
+Monocytes in blood, macrophages in tissues
+Lin+: has a marker that uniquely identifies the cell type
+Leukocytes
+    Granulocytes: have granules
+        Neutrophil
+            1st line of combat
+            Nucleus with several lobes. separated because this way they can squeeze and pass around
+            They die quickly because they are very aggressive
+            granules stay neutral, we can't see them a lot
+            Granule types
+                Primary: contains the toxins to attack. Darker
+                Secondary: protein to bind iron => Creates reactive species => Hydroxyl radical (very toxic)
+                Tertiary: metalloproteases. To cut through tissues
+            It is not a secretory cell type: it doesn't produce proteins to secrete them
+            Generates energy via digesting glycogen (and not via oxidizing respiration) so it can survive in oxygen-depleted areas
+            Releases vesicles
+            Neutrophil-endothelial recognition: able to leave the blood vessel under certain circumstances. Only neutriphils do this
+        Eosinophils
+            mostly 2 lobes in the nucleus, condensed chromatin
+            usually low, but they rise during infection or allergy
+            pink granules
+            mostly in lungs and intestine
+            they don't have lysozymes (required to attack prokaryotic cell walls) => attacks parasites
+                contain cytotoxin enzymes
+            they secrete proteins
+            involved in allergy
+        Basophils: rare. Similar to mast cells
+            Two-lobe nucleus, stains a lot
+            Granules are much bigger because contain molecules:
+                Heparin, histamin, heparan sulfate, leukotrienes
+            The main cell involved in allergy
+            In the blood stream (vs. mast cells)
+            Similar functions to mast cells
+            Doesn't have proteases
+    Agranulocytes
+        lymphocytes
+            Very big nucleus
+    Monocytes
+        Big
+        Indented nucleus
+        Mostly euchromatin
+        In the blood stream, until they are needed => differentiate to macrophages
+        Lysosomes
+        Has a receptor to "see" objects
+
+Mast cells: in peripheric tissues, except avascular ones
+    mono-nucleus, cytoplasm full of granules
+    protrusions serve to 'touch things'
+    granules contain inflammation mediators (e.g. histamine)
+    recognition of foreign particles
+    can produce proteins (to refill the granules)
+
+Macrophages: differentiated, from monocytes
+    Heterogeneous
+    Live in tissues
+    Contains phagocytic vesicles
+    "A monocyte is scanning, a macrophage is eating"
+    can stay in tissues for long
+    Some of them are self-maintained (they don't come from hematopoietic system). E.g. osteoclast
+
+Dendritic cells
+    Might have != origins
+    Were confused with macrofages and with nervous cells
+    Mono-nuclear
+    Dispersed chromatin => Active transcription
+    Antigen presentation
+    Not unique CD
+    Have melanin (melanocytes are Dendritic cells)
+
+Natural killer cells
+    Can kill other cells directly
+    Contain proteases and perforin to break membranes
+    Short lifespan
+    Aggressive
+    Immature: they didn't see any antigens yet (bone marrow, immune organs)
+        Big nucleus, small cell
+    Mature: everywhere, in bone marrow and immune organs, and liver, lungs
+        Grow bigger, granules get close to the membrane
+B cells
+    Start in bone marrow (immature)
+    Then go to the spleen (naive)
+    Then they encounter an antigen => Plasma cell
+        Very big transformation
+        Very big endoplasmic reticulum
+        Produce a lot of antibodies in a small time
+T cells
+    First in bone marrow, then in thymus
+    Kill by secreting perforin
+    T helper
+    T cytotoxic
+Innate lymphoid cells
+    Found in tissues, not in the blood stream
+    Secrete cytokines
+Communication is important because of the complex tasks that the immune system does
+    Paracrine
+        Long range: diffuse a molecule that might reach many cells
+        Short range: ~synaptic: to a single cell (in the cavity between cells)
+    Pattern of secreted cytokines can be used to distinguish between cells having the same CD
+    IL-1-like cytokines: modulators of inflammation (incl. fever)
+        Secreted as inactive proforms. Part of the protein is cleaved to activate the protein
+        Because under certain circumstances, they might be secreted by accident (e.g. apoptosis/necrosis)
+    Gamma-chain cytokines: cell proliferation and differentiation
+        they activate transcription factors => change in phenotype
+        It is the receptor that has the gamma-chain. The cytokine is the ligand
+    Beta-chain cytokines: cell proliferation and differentiation
+    IL-6 like cytokines: can be graduated to produce less/more response, based on the cell receptors
+        Involved in acute reactions
+        Promotes B cell activation
+    Note: STAT chains are faster
+    IL10: promote immune response in epithelial tissue, then reduce inflammation when the infection is over
+    Interferons: try to fight a virus/pathogen, and alert neighboring cells
+        Activate genes
+        Also, type I (short and acute) and III (slow but sustained) inhibit translation to inhibit virus production
+        Type II recruits leukocytes
+    Tumor necrosis factors
+        Pro-inflammatory, might induce proliferation or apoptosis
+    TGF-beta
+    Chemokines: mediate migration (attract cells to certain points)
+
+
+
+
+

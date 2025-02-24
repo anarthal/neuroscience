@@ -1,0 +1,14 @@
+Regulation in bacteria mainly driven by sigma factor
+!= sigma factors have != consensus sequences
+Post-trancriptional modifications in tRNA
+    Some parts are spliced, some amino-acids replaced by chemical modifications of amino-acids (e.g. methylated versions)
+Splicing
+    Splice donor: 5' intron start, has a consensus sequence
+    Branch site: consensus sequence in the middle of intron
+    Splice acceptor: 3' intron end, has a consensus sequence 
+Nonsense-mediated decay: quality control to recognize mRNA that hasn't been spliced correctly
+    Looks for stop codons in an intron (guided by the consensus sequences above). If it finds one, it means that the mRNA was not spliced correctly, and deletes the mRNA
+m6A: methylation of adenines
+    Reversible: can be added and deleted (writers and deleters)
+    Signal for Nonsense-decay to degrade mRNA
+    m6A switch: methylation causes conformation change, making it accessible so it can be degraded or translated

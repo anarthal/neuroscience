@@ -56,3 +56,4 @@ EXTRACELLULAR MATRIX: medium where cells in connective tissue live
         Proteoglycan: e.g. aggrecan
             PROTEOGLYCAN AGGREGATE: several proteoglycans attached to a hyaluronan molecule
         Multiadhesive glycoproteins: cell-ECM adhesion. E.g. fibronectin
+        INTERSTITIAL FLUID: water within the ground substance. Similar ion contents than plasma

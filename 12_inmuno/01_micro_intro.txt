@@ -1,0 +1,124 @@
+bacteria cell wall composition - 
+budding
+Archaea: uses ether bonds for bind lipids to glycerol in membranes, bacteria uses ester
+haplontic
+probiotico: que tiene bacterias, prebiotico: que viene bien a las bacterias
+no es environmentalist
+gut bacteria affects HPA (stress) and vagus nerve signalling
+methods*
+metagenomics: analyzes the DNA expression of *all* micro-organisms of an environment (as opposed to a single one)
+
+
+Exam questions:
+1. the importance of micros (positives, negatives) in industry, ecosystem, human health
+    Health
+        + required for human body functions (i.e. microbiota)
+        - cause diseases
+    Industry
+        + synthesize compounds like insulin
+        + reactions like fermentation for bread, beer...
+        - agents of spoilage
+    Environment
+        + required to maintain nutrient cycles: make N2 available for plants
+        + bioremediation of damaged env
+        - eutrophization
+        - imbalances
+2. methods of culture of bacteria. why do we use each method?
+    Liquid: make them grow and multiply
+    Agar plates: selective culture: places with != nutrients or antibiotics
+    Stab cultures: easy to transport, migration/invasion experiments
+3. characteristics of bacteria, archaea, fungi, slime molds, protozoa (***)
+    bacteria: prokaryotes, no membrane-bound organelles, no nucleus, fatty acids bound in membrane by ester bounds (***)
+    archaea: bound by ???
+    bacteria does glycolisis (?)
+    ribosomes: bacteria 70S, archaea 70S, fingi/protozoa 80S (?)
+
+(***) Koch's postulates
+    Germs present in ill individuals, not in healthy ones (we know last one is not true)
+    Germs can be grown in culture (mostly true, but not always)
+    Microbe must cause the disease when introduced a healthy individual (mostly true)
+    After infecting a new host, we can isolate the microorganism, and it must be the same one (mostly true, but sometimes another microbe defeats the introduced one and it's this one that wins)
+
+Virus
+    Filterable elements
+    You cannot culture virus just with nutrients, you need a host
+
+peptidoglycan: glycan is the wall, peptides in the middle, cross links
+    peniciline (beta-lactam) binds to the enzyme that repairs cross links => no new bacteria, old ones die
+    Patrick Kelly
+
+Relationship types:
+    Mutualism: both benefit, e.g. our microbiota
+    Commensalism: one benefits, the other neutral. E.g. bacteria that feeds on dead human skin cells
+    Parasitism: one benefits, the other takes harm. All pathogens exhibit this behavior. E.g. plasmodium spp. (malaria)
+        Obligate parasites: they die without the host (e.g. malaria)
+        Facultative parasites: they can survive on their own, but may become parasites under certain conditions
+        Protozoa
+(***) Pathogenicity: capacity to cause disease in the host. Influenced by the host's resistance and the microbe itself
+    Virulence: how severe the disease is
+    E.g. vaccines should have high pathogenicity, but low virulence
+    Virulence factors
+        adhesins: capacity to attach to host cells
+        exotoxins: secreted by bacteria and cause famage
+        endotoxins: toxins released when a bacterium dies
+        capacity to evade the immune system
+Innate immunity: built-in one (without the need to get infected): rapid, non-specific
+    Physical: e.g. barrier
+    Chemical: lysozyme in saliva
+    Cellular: e.g. phagocytes
+cytokines: beacon to attract immune cell system
+Adaptive immunity: slower to activate but specific
+    Humoral: antibodies in the serum (?)
+    Cellular:
+        (***) cytotoxic T lymphocytes can trigger apoptosis in our own infected cells
+        Macrophages (phagocytosis) and natural killer cells (cytotoxines to kill infected cells)
+        Cytokine production
+Steps
+    Portal of entry: e.g. wound
+    Adhesion: bind to host cells. Host needs to be suspeciptible
+    Invasion: multiply and break barriers
+    Immune system evasion
+    Damage: toxins (directly), trigger the immune system to damage our own cells
+    Exit: to infect more hosts
+Reservoir: zone in the host where the microbe lives and grows
+Zoonotic infections: from animal to humans
+    (***) Host jump: pathogen changes species. Requires changes in the pathogens
+        Genetic mutations: spontaneous, virus genetic material can combine, horizontal gene transfer...
+        Ecological factors: caused by us. E.g. increased contact because of deforestation
+        Host factors: similarity to host, immune system weakening
+        Pathogen factors: generalists vs specialists
+Transmission route: how is a microbe transmitted?
+(***) Red Queen Hypothesis: both host and parasites evolve and "run" to maintain their fitness
+    Importance of sexual reproduction: otherwise, not enough genetic variation
+More complex/specialized parasites are more specific to a certain type of host.
+Microbiome mediated resistance
+    They compete with parasites for resources
+    Produce substances that kill parasites
+    Stimulate the host's immune system
+    They can be disrupted by parasites, e.g. by depleting resources
+    They can also be positive to parasites
+Trypanosoma brucei: (vector tse-tse fly)
+    fly takes the parasite when taking their blood
+    injects to host's blood
+    reproduce in blood: 1st phase
+    cross blood/brain barrier: neurological phase
+Neurotropism: ability of a virus to infect nervous system
+    E.g. herpes simplex virus: encephalitis, meningitis
+    Diagnosed via PCR
+    Symptoms
+    HSV-1 may be implicated in Alzheimer
+    Retrograde: from the axon in, anteretrograde: to the axon out
+    Rabies virus
+Immune evasion
+    Antigenic variation: cell surface proteins change constantly to avoid recognition. e.g. trypanosoma. Might be on purpose or by mutations
+    
+
+
+    
+
+
+measles = sarampión
+mumps = paperas
+ticks = garrapatas
+
+

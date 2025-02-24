@@ -13,7 +13,8 @@ Cell structure
     LYSOSOME: vesicle containing enzymes to digest biomolecules. Mostly in animal cells
     VACUOLE: vesicle for storing water, waste... more relevant in plants and fungi
     CYTOSKELETON: network of protein filaments within the cytoplasm. Mechanical structure, transport...
-        MICROFILAMENT: protein filaments. Mechanical structure and motion
+        MICROFILAMENT: actin protein filaments. Mechanical structure and motion
+        INTERMEDIATE FILAMENTS: like microfilaments, but != kind of protein
         MICROTUBULE: Mechanical structure, transport...
     ENDOPLASMIC RETICULUM: transport system & molecule synthesis
         ROUGH ENDOPLASMIC RETICULUM: where ribosomes attach, so what they produce gets delivered
