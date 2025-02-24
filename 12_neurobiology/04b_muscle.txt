@@ -1,21 +1,43 @@
-not connective tissue
+Background
+    SYNCYTIUM: multi-nucleated cell
+Types
+    STRIATED MUSCLE: organized in a single direction. Cells show cross-striations
+        SKELETAL MUSCLE: attached to bone, for movement
+        VISCERAL STRIATED MUSCLE: like skeletal muscle, but not attached to bone. In soft tissues: tongue, pharynx...
+        CARDIAC MUSCLE: heart and veins close to heart
+    SMOOTH MUSCLE: cells don't show cross-striations
+General
+    MYOBLAST: muscle cell precursors. Many myoblasts fuse to form a single muscle cell
+Skeletal muscle
+    MUSCLE FIBER: multi-nucleated muscle cell. Long, cylindrical
+        SARCOLEMMA: cytoplasm of muscle cells
+        SARCOPLASMIC RETICULUM: endoplasmic reticulum of muscle cells. Stores Ca2+
+        Nuclei immediately below the cell membrane
+    MUSCLE FASCICLE: group of muscle fibers working together
+    ENDOMYSIUM: thin layer of connective tissue surrounding individual fibers
+        Contains reticular fibers and fibroblasts
+    PERIMYSIUM: layer of connective tissue surrounding a fascicle
+    EPIMYSIUM: layer of dense irregular connective tissue surrounding the entire muscle (collection of fascicles)
+    MYOFIBRIL: each of the longitudinal subunits in a muscle fiber
+        Z-lines in != myofibrils are not aligned with each other
+    SARCOMERE: each functional unit of a myofibril. Myofibrils composed of several longitudinal sarcomeres
+    Z-DISC/Z-LINE: dark band delimiting sarcomeres, perpendicular to myofibril axis. Many != proteins
+    MYOFILAMENTS: protein filaments that make up the sarcomere
+        THIN FILAMENTS: composed of actin and regulatory proteins. Anchored to the Z-line. 
+        THICK FILAMENTS: composed of myosin II. Slide within thin filaments
+    I-BAND: lighter band surrounding the Z-line. Isotropic. Contains thin filaments
+    A-BAND: darker band between two I-bands. Anisotropic. Contains both thin and thick filaments
+    H-BAND: slightly lighter band in the middle of an A band. Contains only thick filaments
+    ACTOMYOSIN CROSS-BRIDGE CYCLE: mechanism of muscle contraction
+        Thick filaments slide through thin filaments
+        Ca2+ ions involved in regulation
+    NEUROMUSCULAR JUNCTION: synapse site between neuron and muscle fiber. Controls voluntary movement
+
+
+
+
+
 striated: stries perpendicular to fibers. Always cut along fibers
-    skeletal: attached to bone
-        formed by muscle fiber cells. Multi-nucleated, because they are formed by merging several myoblasts
-        endomysium: connective tissue protecting one fiber. Rich in reticular fibers
-        Fibers organized in fascicles
-        Perymisium: connective tissue protecting a fascicle
-        Epimysium: surrounds the entire muscle
-        Each fiber is a cell
-        Microfilaments
-            Thick filaments: myosin
-            Thin filaments: actin
-        Z line: full of proteins
-        Sarcomere: functional unit of muscle
-        Sarcoplasmic reticulum: where the muscle stores Ca2+
-        Actomyosin cross-bridge cycle: process that generates the contraction
-        Neuromuscular junction: delivers the voluntary order to control the muscle
-    visceral striated: morphologically identical, but not attached to a bone. E.g. tongue
     cardiac: heart and veins
         shorter cells
         single nucleus
