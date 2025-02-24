@@ -6,10 +6,9 @@ Types
         VISCERAL STRIATED MUSCLE: like skeletal muscle, but not attached to bone. In soft tissues: tongue, pharynx...
         CARDIAC MUSCLE: heart and veins close to heart
     SMOOTH MUSCLE: cells don't show cross-striations
-General
-    MYOBLAST: muscle cell precursors. Many myoblasts fuse to form a single muscle cell
 Skeletal muscle
-    MUSCLE FIBER: multi-nucleated muscle cell. Long, cylindrical
+    MYOBLAST: muscle cell precursors. Many myoblasts fuse to form a single muscle cell
+    MUSCLE FIBER/MYOCYTE: multi-nucleated muscle cell. Long, cylindrical
         SARCOLEMMA: cytoplasm of muscle cells
         SARCOPLASMIC RETICULUM: endoplasmic reticulum of muscle cells. Stores Ca2+
         Nuclei immediately below the cell membrane
@@ -32,21 +31,21 @@ Skeletal muscle
         Thick filaments slide through thin filaments
         Ca2+ ions involved in regulation
     NEUROMUSCULAR JUNCTION: synapse site between neuron and muscle fiber. Controls voluntary movement
-
-
-
-
-
-striated: stries perpendicular to fibers. Always cut along fibers
-    cardiac: heart and veins
-        shorter cells
-        single nucleus
-        intercalated discs: where cells attach. Single nucleus between each pair of intercalated discs
-            adhering junctions: intercalating discs to muscle cells
-            macula adherens: muscle cells to each other
-            gap junctions
-        involuntary: regulated by the autonomous nervous system
-smooth: doesn't have them. Músculo invultario que rodea órganos
-    slow, steady, involuntary contraction. E.g. stomach
-    dense body: where filaments are attached. Aglomeration of proteins in the cell. Bound to the cytoskeleton
-    thin attached to dense bodies, then thick in the middle
+Cardiac muscle
+    Shorter, mono-nucleated cells (fibers)
+    Organized in myofibrils and sarcomeres, like skeletal muscle
+    INTERCALATED DISCS: specialized structure where cardiac cells attach to each other
+        Staircase-like structure, with transverse and lateral components
+        FASCIA ADHERENS: attach the end of the last sarcomere (actin filaments) to plasma membrane
+            Similar to zonula adherens in epithelial
+            Only found in transverse component
+        Macula adherens: attach cells to each other. In both components
+        Gap junction: for communication. Only in lateral component
+    PURKINJE FIBER: specialized cardiac muscle cell that coordinates the contraction of the other cells
+        Regulated by the autonomous nervous system
+Smooth muscle: involuntary muscle that surrounds organs. E.g. intestine
+    Slow, steady contraction
+    Fusiform, non-striated cells with central, elongated nucleus
+    DENSE BODY: structure in cytoplasm where actin filaments are anchored. Anchored to cytoskeleton and membrane
+    Network of actin and myosin filaments in the cytoplasm make the whole cell contract
+        Less organized than skeletal muscle (no directionality)
