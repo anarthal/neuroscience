@@ -1,14 +1,40 @@
-Thermoregulatory because brown adipose disappears in adulthood
-Hematocrit: analysis to determine % of cells
-ECM: plasma
-    Mostly water as a solvent
-    Albumin: maintains osmotic pressure so diffusion can happen. Also carrier
-    Globulin
-        Immunoglobulin (gamma): antibody
-        Non-immune (alpha, beta): like albumin
-    Fibrinogen: coagulation
-    Complement proteins: inflammation and immune response
-    Serum: plasma - clotting factors (e.g. fibrinogen). For transfusions, so the blood doesn't clot
+Background
+    CIRCULATORY SYSTEM/VASCULAR SYSTEM: pumps blood and substances. Made up of cardiovascular (blood) and lymphatic systems
+    ARTERY: blood vessel that conducts blood away from the heart
+    VEIN: blood vessel that conducts blood towards the heart
+    CAPILLARY: the smallest blood/lymph vessels
+    PULMONARY CIRCULATION/MINOR CIRCULATION: between heart and lungs, to oxygenate blood
+    SYSTEMIC CIRCULATION/MAJOR CIRCULATION: between heart and the rest of the tissues, to deliver oxygen and nutrients
+    Forces exerted on blood in capillaries
+        Hydrostatic pressure: tends to pump water outside capillaries
+        COLLOID OSMOTIC PRESSURE: exerted by the proteins in blood. Tends to drain water inside the capillaries
+        More water pumped out than drained in. Remaining water collected forms lymph, collected in lymphoid capillaries
+    LYMPH: the substance in lymphatic vessels. Originally excess interstitial fluid. Ends up in veins
+    BLOOD SMEAR: test where a drop of blood is smeared on a slide, stained, and cells observed
+Functions
+    Transport of nutrients, oxygen, waste, hormones, immune system molecules
+    Clotting
+    Thermoregulation (because brown adipose disappears in adulthood)
+ECM
+    PLASMA: ECM of blood
+    SERUM: plasma without clotting factors. Still contains antibodies, proteins, ions, hormones... E.g. used in transfusions
+    Components
+        Water: solvent
+        Proteins
+            ALBUMIN: maintains colloid osmotic pressure and transports substances
+            α, β-globulins: transport substances
+            γ-globulins: are antibodies
+            FIBRINOGEN: coagulation factor
+            Complement proteins: part of the immune system
+        Other solutes
+            Nutrients (e.g. glucose)
+            Respiratory gases (e.g. O2 and CO2)
+            Metabolic wastes
+            ELECTROLYTES: ions solved in plasma (e.g. Na+)
+Cell population
+    FORMED ELEMENTS: cell population of blood
+    HEMATOCRIT (HCT)/PACKED CELL VOLUME (PCV): volume % of reed blood cells in blood
+
 Cells
     Blood smear usually prepared with eosin + methylene blue (instead of hematoxylin)
     Arteries > arterioles > capillaries
