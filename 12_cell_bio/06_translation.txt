@@ -1,60 +1,92 @@
-translation
-    Universal: (almost) all organisms have the same code
-        Except mitochondria and some bacteria: slight modifications
-    Degenerate: reduce mutation lethality
-    Similar codons code for chemically similar amino-acids: reduce mutation lethality
-    The first codon is always AUG, which sets the reading frame
-    Each tRNA has one anti-codon, but can pair with more than one codon (wobble pairs)
-    Each tRNA is associated to only one amino-acid
-    Each amino-acid has more than one tRNA associated
-    AARS: enzyme that attaches amino-acids to tRNA
-        One enzyme per amino-acid
-        Charging/activating the tRNA: incorporating the amino-acid to the tRNA
-        Bond between tRNA and amino-acid is a covalent bond
-        The reaction requires ATP
-        It's 2 step
-        Attaches the amino-acid to the 3' end of the last A
-        Parasite-specific domains: present only in parasites => attacked by antibiotic
-        Catalytic domain: the one that does the work. Has a != size for each amino-acid => specificity
-        Editing domain: proofreading capabilities, based on kinetics
+Background
+    WOBBLE BASE-PAIR: pairing between nucleotides that does not follow Watson-Crick rules
+GENETIC CODE: codification of amino-acids using mRNA
+    CODON: triplet of mRNA nucleotides that specifies a single amino-acid
+    Universal: (almost) all organisms have the same code. Except mitochondria and some bacteria
+    Degenerate: several codons => 1 amino-acid
+        Similar amino-acids encoded by similar codons
+        Reduces mutation lethality
+    Non-ambiguous: 1 codon => 1 amino-acid
+    5' to 3' directionality
+    Single reading frame
+        START CODON: marks the start of the reading frame. Always AUG (methionine)
+        STOP CODON: marks the end of the reading frame. Does not codify for any amino-acid
+tRNA ACTIVATION: step of attaching an amino-acid to a tRNA molecule, required before translation
+    AMINOACYL-tRNA (aa-tRNA): tRNA with an amino-acid attached
+    AMINOACYL-tRNA SYNTHETASE (AARS): enzyme that catalyzes tRNA activation
+    1 tRNA => 1 amino-acid
+    1 amino-acid => more than one tRNA molecule (degenerate code)
+    1 tRNA => more than one codon (wobble pairing in the 3rd nucleotide)
+    1 codon => 1 tRNA (non-ambiguous)
+    1 AARS <=> 1 amino-acid
+    1 AARS => more than one tRNA molecule
+    1 tRNA => 1 AARS
+    Amino-acid attached at the 3' end of tRNA
+    Amino-acid and tRNA joined by a high-energy covalent bond => Energy used later in translation
+    Requires energy (ATP)
+    Two steps, both catalyzed by AARS
+        Attach amino-acid to ATP => Intermediate molecule (aa + AMP)
+        Attach molecule to tRNA => aa-tRNA
+    AARS structure
+        Catalytic domain: produces the synthesis
+            Identifies the correct amino-acid based on its size (pocket-like structure) => kinetics
+        Editing domain: proofreading
             Detection happens in the 2nd step, when tRNA arrives
-            The only amino-acid that does not fit in the editing pocket is the one that is correct
-        How does it figure out which tRNA to attach it to?
-            Anticodon domain recognizes anticodon, rest of allosteric domains recognize other parts of tRNA
-            Terminals: parts in tRNA recognized by AARS
-        Translation is two-step and steps are independent: charging of tRNA and chain building
+            The correct amino-acid does not fit into the editing pocket. Similar ones do
+        Anticodon-binding domain: recognize the correct tRNA
+        Allosteric domains: recognize other parts of tRNA
+        Parasite-specific domains: present only in parasites => attacked by antibiotic
+    Charging and peptide bound formation are independent
+Translation generics
     Speed-accuracy trade-off
-    The Catalytic part of a ribosome is RNA (vs. a protein)
+    Ribosome subunits join only during synthesis
+    Active site (the one that catalyzes the peptide bond formation) is RNA (vs. a protein)
+    Proteins synthesized N => C (by appending amino-acids to the carboxyl end)
+    PEPTIDE BOND: covalent bond between C in carboxyl and N in amine group
+    Ribosome binding sites
+        A (aminoacyl site): entry of charged tRNA
+        P (peptidyl site): where the growing peptide is
+        E (exit site): where tRNAs exit the ribosome
+        mRNA site (small subunit)
+    One of the most energy-consuming cell processes
 Initiation
-    First codon is always the one for methionine
-    IF: initiation factor
-    Starts with the small subunit of the ribosome => Recognizes the initiation codon
-    Rate of initiation is what determines speed
-    1st step is making sure that the mRNA is intact
-    Eukaryotes: IF recognize the poly-A tail and the cap 
-        In general, IF finds the cap, then scans until 1st AUG
-        But sometimes, it scans more, and starts in the 2nd or 3rd AUG => Produce != proteins
-        The differences between the possible proteins is a signal that determines what should the cell do with the protein
-    Prokaryotes: they don't have this integrity check => it goes faster
-        Ribosome binding site: a consensus sequence in mRNA where the ribosomes bind. Allows translating poly-cistronic RNAs. Close to AUG
-        Poly-cistronic mRNAs translated in parallel
-        Amount of protein in poly-cistronic depends on how well the ribosome binds to its binding site
-    First tRNA placed in P site
+    Bottleneck: rate of initiation determines translation speed
+    INITIATION FACTOR (IF): molecule that participates in translation initiation
+    Initiator tRNA (methionine) has a != structure than regular methionine tRNA => initiation specifics
+    Faster in prokaryotes (less integrity checks)
+    1. Initiator tRNA binds to small subunit (both)
+    2. Small subunit + tRNA binds to mRNA (both)
+        RIBOSOME BINDING SITE (prokaryotes): consensus sequence where ribosome binds
+            May be more than one in a single mRNA (operons)
+            Very close to the start codon
+        mRNA recognized by its cap (eukaryotes)
+        Integrity check (eukaryotes): if mRNA doesn't have its poly-A tail, translation not performed
+    3. Small subunit scans forward until it finds the start codon (eukaryotes)
+        LEAKY SCANNING: the small subunit inspects nucleotides surrounding start codon to determine whether to use this codon or skip it
+            Used to produce proteins with extra peptide chains that act as a signal to determine what to do with the protein
+    4. Initiation factors dissociate => make space for the large subunit (both)
+    5. Large subunit binds (both) => initiator tRNA in P site
 Elongation
-    Elongation factors: EF
-    EF helps placing tRNA in the A site using energy
-        Proofreading: if the pairing tRNA/codon is not correct, the EF does not use the energy, and the tRNA is released
-        Increases accuracy but decreases speed
-    Peptide bond forms
-    The small subunit moves, moving the tRNA forward (so it's placed in the E and P sites)
-        An Elongation factor uses energy to do this
+    Large subunit has an exit channel for the peptide chain => Protect it from water
+    Conserved process
+    Growing peptide remains attached to tRNA until termination
+    ELONGATION FACTOR (EF): molecule that participates in the elongation process and makes it efficient
+    1. New charged tRNA arrives at A site. Associated with an EF and GTP
+    2. If the tRNA pairs correctly with mRNA, EF hydrolizes GTP, dissociates and allows the process to continue
+        Introduces a delay => Slower but more accurate (proofreading)
+    3. Peptide bond formation
+        Bond growing peptide-tRNA in P site breaks => Energy
+        Bond growing peptide-tRNA in A site forms
+    4. tRNA's acceptor with the growing peptide moves to P site. The one to exit's acceptor to the E site
+    5. Translocation: mRNA moved 3 nucleotides forward => tRNAs now in E and P sites
+        Uses another EF and GTP
+    6. tRNA in E site dissociates
+    POLYSOMES: aggregation of ribosomes translating a single mRNA molecule in parallel
+        Increase translation throughput
 Termination
-    There is no tRNA that recognizes stop codons, but another molecule: release factors
-        Molecular mimics: resembles the shape of another molecule
-        Release factors mimic the structure of tRNA (but it's a protein)
-        It allows water to enter the ribosome => Terminates the chain
-        As soon as the bond breaks from the tRNA, the protein is released
-Quality control
-    Prokaryotes: if the ribosome finds a tRNA without a stop codon, incorporates a sequence of amino-acids to tag the protein for degradation
-    Polysomes: parallelization
-    
+    MOLECULAR MIMIC: molecule that resembles another molecule in shape and charge
+    TERMINATION FACTOR: protein that triggers termination of translation
+        Molecular mimic of tRNA
+        Binds to the stop codon, introduces a water molecule terminating the protein, and triggers dissociation
+    Prokaryote quality control: if mRNA is broken (no stop codon), tags the protein for degradation
+        Uses a special mRNA that adds a specific amino-acid sequence as tag
