@@ -1,1 +1,88 @@
-    quaternary structure: != molecules
+the function is determined by its 3D structure
+the structure is fully determined by its amino-acid sequence
+structures
+    primary: amino-acid chain
+    secondary: local structural motifs
+    tertiary: overall 3D structure
+    quaternary structure: != molecules combine together to perform a function
+chirality, alpha carbon: each bond is to a != molecule
+side chain that gives it its chemical properties
+two possible conformations, depending on rotation of atoms
+    ribosomes only incorporate L amino-acids to proteins
+we read from C-terminal to N-terminal
+20 amino-acids
+covalent peptide bond: between the COOH and the NH2 => C an N bind and a H2O molecule is released
+    rigid: doesn't allow rotation
+    partial double-bond character => allows movement of electrons between atoms => prevents rotation
+    proteins rotate around the carbon-alpha
+        phi bond: N-carbon alpha
+        psi bond: carbon alpha-carboxyl
+    not all angles are possible, because side chains occupy space
+    Ramachandran plot: phi vs. psi angle for each pair of consecutive amino-acids in a protein
+        Each cluster in the plot is associated to a secondary structure motif
+Glycine is the smallest amino-acid, doesn't have a side chain
+Structure stabilized by non-covalent bonds (weaker than covalent)
+    Ionic, van der Waals, hydrogen, hydrophilic/hydrophobic
+    alpha-helix and beta-sheet: interactions created between the backbone
+    beta-turn: closed turn between amino-acid n and n+3, because of a hydrogen bond between the backbone
+        it doesn't form further structure
+        changes the direction of the protein, limits its size
+    alpha-helix
+        side-chains are in the outside part => gives them their properties. E.g. amphipatic
+        No prolines or glycines (except collagen)
+        between n and n+4 (O => H in N)
+        6 amino-acids per turn (less tight than beta-turn)
+        can coil with other alpha helices => fibers
+        can form channels
+        e.g. transmembrane proteins
+    beta-sheet: hydrogen bonds between amino-acids that are very far away
+        anti-parallel: != chain directions. Hydrogen bonds are one on top of the other. More compact
+        parallel: = chain directions. Hydrogen bonds oblicuous
+        can form barrels: cylinders formed of beta-sheets
+tertiary structure: interaction between side chains
+    as they're in water, usually hydrophilic outside, hydrophobic inside
+    structure is reversible
+    similar amino-acid chains can yield very != tertiary structures
+    disulfide bonds: cysteine residues have HS, which can form S-S bonds that help stabilize the structure (e.g. keratin)
+    loops: chains of amino-acids that don't have a proper secondary structure, but connect consecutive secondary structures
+        usually in the outer sites
+        importance as recognition sites, vs. places with tertiary structure that have other functions, like catalytic
+    the one with the lowest energy
+        but there are many != low energy conformations that the protein may take, depending on probability, env...
+        free energy = f(enthalpy, entropy)
+        enthalpy = f(interaction between components of the protein)
+        entropy = f(interaction with water)
+Cuaternary structure
+    dimer, trimer, tetramer: number of subunits
+    homo-XX: if they're all the same subunit, hetero-XX: if they're != subunit
+    when it's an hetero-XX, subunits usually have similar tertiary structure
+Protein domains: another way to think of a protein. Part of a protein that can fold independently
+    More related to the function than other structures
+as soon as the protein leaves the ribosome, it starts to fold
+    prevents the exposure of hydrophobic chains
+    molten globule: temporary conformation, contains secondary structure
+    some proteins readjust themselves and form the final conformation. Others need chaperones
+        they don't determine the conformation
+        heat-shock proteins: they resist high temperature and are produced at high temperature => fix folding at high T
+        Use ATP
+        hsp70: acts on the molten globule
+        hsp60: captures incorrectly folded proteins into an isolation chamber
+            it knows that it's incorrectly folded because it has hydrophobic parts exposed
+proteasome: if a protein can't be folded correctly, it degrades the protein
+    uses ATP
+    breaks the protein into small amino-acid chains
+    it's a protein itself
+    core cylinder with 4 heptameric rings that has proteolytic capabilities
+    two caps on top/bottom: ATP-ases and captures the proteins to be broken
+    ubiquitin marks the proteins to be degraded, then the proteasome degrades them
+        enzyme E1 activates ubiquitin using ATP and attaches it to E1
+        then, a chain starts that are f(specific protein to be degraded) that tags the protein
+    this same system is also used to degrade proteins that are no longer required
+proteins can also be degraded by exposing parts of the protein to the env
+Methionine is a stabilizing residue => goes 1st
+    Some other amino-acids are called de-stabilizing residues => makes the protein last less
+If they're not correctly folded or degraded, they aggregate and precipitate
+    E.g. they expose hydrophobic parts that aggregate with each other
+    Forms very tight beta sheets that can't be accessed from proteasome
+    
+

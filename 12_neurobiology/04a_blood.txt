@@ -11,6 +11,7 @@ Background
         More water pumped out than drained in. Remaining water collected forms lymph, collected in lymphoid capillaries
     LYMPH: the substance in lymphatic vessels. Originally excess interstitial fluid. Ends up in veins
     BLOOD SMEAR: test where a drop of blood is smeared on a slide, stained, and cells observed
+        ROMANOWSKY STAINING: eosin + methylene blue (instead of hematoxylin)
 Functions
     Transport of nutrients, oxygen, waste, hormones, immune system molecules
     Clotting
@@ -34,15 +35,16 @@ ECM
 Cell population
     FORMED ELEMENTS: cell population of blood
     HEMATOCRIT (HCT)/PACKED CELL VOLUME (PCV): volume % of reed blood cells in blood
+    ERYTHROCYTES/RED BLOOD CELLS: transport O2 and CO2
+        They don't have a nucleus
+        Biconcave shape => Maximize cell surface, pass through capillaries (flexible)
+        Cytoplasm full of hemoglobin => bind O2 and CO2
+        ROULEAUX: stack of erythrocytes formed in larger blood vessels
+        Never leave the blood vessel
+    LEUKOCYTES/WHITE BLOOD CELLS: immune system cells (see i3_cells.txt)
+        Leave the blood vessel to perform their function
 
 Cells
-    Blood smear usually prepared with eosin + methylene blue (instead of hematoxylin)
-    Arteries > arterioles > capillaries
-    Erythrocyte
-        They don't have a cell
-        Shape allows them to travel through capillaries (flexible)
-        Cytoplasm full of hemoglobin (Fe and heme) => Bind O2 and CO2
-    Leukocytes: leave the blood vessels to perform their function
     Thrombocytes: coagulation
         Derived from megakaryocite: big cell that fragments into platelets
         No nucleus

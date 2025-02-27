@@ -1,5 +1,19 @@
-Romanowsky: Azure (binds to nucleus) and eosin
-Immunophenotyping: stain with antibodies, then pass through a tube with a laser => Measure the size and quantity (cytometer)
+Background
+    CYTOKINE: protein involved in signalling. Can't enter the cytoplasm => uses membrane-bound receptors
+IMMUNOPHENOTYPING: stain with antibodies, then pass through a tube with a laser => measure the size and quantity
+    CYTOMETRY: measurement of number and characteristics of cells (e.g. size, fluorescence)
+    CLUSTERS OF DIFFERENTIATION (CD): surface proteins used to uniquely identify a cell type with immunophenotyping
+LEUKOCYTES/WHITE BLOOD CELLS: immune system cells
+    Myeloid leukocytes: cells associated to innate immune system. Myeloid lineage
+        GRANULOCYTE: innate system cells with granules in their cytoplasm
+            NEUTROPHIL:
+            EOSINOPHIL:
+            BASOPHIL:
+            MAST CELL:
+        AGRANULOCYTE: innate system cells without granules in their cytoplasm
+    LYMPHOCYTE: cells associated to adaptive immune system. Lymphoid lineage
+
+
 clusters of differentiation: the surface proteins we use to recognize cells
     support cells generate cytokines to support growth of hematopoietic stem cells in the bone marrow
     HSC cannot be distinguished with regular dye
