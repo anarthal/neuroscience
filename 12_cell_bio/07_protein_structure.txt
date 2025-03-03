@@ -1,44 +1,50 @@
-the function is determined by its 3D structure
-the structure is fully determined by its amino-acid sequence
-structures
-    primary: amino-acid chain
-    secondary: local structural motifs
-    tertiary: overall 3D structure
-    quaternary structure: != molecules combine together to perform a function
-chirality, alpha carbon: each bond is to a != molecule
-side chain that gives it its chemical properties
-two possible conformations, depending on rotation of atoms
-    ribosomes only incorporate L amino-acids to proteins
-we read from C-terminal to N-terminal
-20 amino-acids
-covalent peptide bond: between the COOH and the NH2 => C an N bind and a H2O molecule is released
-    rigid: doesn't allow rotation
-    partial double-bond character => allows movement of electrons between atoms => prevents rotation
-    proteins rotate around the carbon-alpha
-        phi bond: N-carbon alpha
-        psi bond: carbon alpha-carboxyl
-    not all angles are possible, because side chains occupy space
-    Ramachandran plot: phi vs. psi angle for each pair of consecutive amino-acids in a protein
-        Each cluster in the plot is associated to a secondary structure motif
-Glycine is the smallest amino-acid, doesn't have a side chain
-Structure stabilized by non-covalent bonds (weaker than covalent)
-    Ionic, van der Waals, hydrogen, hydrophilic/hydrophobic
-    alpha-helix and beta-sheet: interactions created between the backbone
-    beta-turn: closed turn between amino-acid n and n+3, because of a hydrogen bond between the backbone
-        it doesn't form further structure
-        changes the direction of the protein, limits its size
-    alpha-helix
-        side-chains are in the outside part => gives them their properties. E.g. amphipatic
-        No prolines or glycines (except collagen)
-        between n and n+4 (O => H in N)
-        6 amino-acids per turn (less tight than beta-turn)
-        can coil with other alpha helices => fibers
-        can form channels
-        e.g. transmembrane proteins
-    beta-sheet: hydrogen bonds between amino-acids that are very far away
-        anti-parallel: != chain directions. Hydrogen bonds are one on top of the other. More compact
-        parallel: = chain directions. Hydrogen bonds oblicuous
-        can form barrels: cylinders formed of beta-sheets
+Background
+    CHIRAL: object that can be distinguished from its mirror image
+Amino-acids
+    α-carbon joined to amino group (NH2), carboxyl (COOH), hydrogen, side chain (R)
+    α-carbon is chiral
+    Side chain confers physical/chemical properties
+    two possible conformations, depending on rotation of atoms
+        L-ISOMER vs D-ISOMER: isomers that are mirror images. They rotate light in != directions
+        Ribosomes only incorporate L amino-acids to proteins
+    20 amino-acids happening in nature
+    Glycine is the smallest amino-acid, doesn't have a side chain
+Primary structure: amino-acid sequence
+    Secondary and tertiary structures completely determined by primary structure
+    POLYPEPTIDE BACKBONE: repeating N, C atoms that make the peptide chain, vs. side chains
+Secondary structure: local structural motifs
+    Peptide bond has double-bond character: does't allow rotation along it
+        Rotation can happen in the α-carbon to N and C bonds
+        Phi, psi: concrete rotation angles for a particular protein
+        Not all angles are possible because side chains occupy space
+        Ramachandran plot: phi vs. psi angle for each pair of consecutive amino-acids in a protein
+            Each cluster in the plot is associated to a secondary structure motif
+    Stabilized by many weaker, non-covalent bonds
+        Ionic, van der Waals, hydrogen, hydrophilic/hydrophobic
+    Motifs that don't involve side-chains common because they can be formed from != amino-acid sequences
+        Usually hydrogen bonds N-H <=> C-O
+    BETA TURN: tight turn that changes chain direction
+        Hydrogen bond between n and n+3
+        Not involved in further structure because of tightness
+        Limits the size of the molecule
+    ALPHA HELIX: protein motif where amino-acids arrange in a helix
+        Hydrogen bond between n and n+4
+        Less tight than a beta turn
+        Side-chains are in the outside part => special properties, e.g. amphipathic
+        Common in transmembrane proteins and channels
+        Coiling several helices can form fibrils (e.g. collagen)
+    BETA SHEET: protein motif where amino-acids arrange in a plane
+        Rigid structure
+        Anti-parallel: != chain directions. Hydrogen bonds are one on top of the other. More compact
+        Parallel: = chain directions. Hydrogen bonds in diagonal
+        Can form barrels: cylinders formed of beta-sheets
+Tertiary structure: overall 3D structure
+    Determines the function of the protein
+Quaternary structure: aggregation of several proteins joined by non-covalent bonds to perform a function
+    
+    
+        
+        
 tertiary structure: interaction between side chains
     as they're in water, usually hydrophilic outside, hydrophobic inside
     structure is reversible

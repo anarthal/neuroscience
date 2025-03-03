@@ -7,8 +7,6 @@ Background
     DNASE HYPERSENSITIVE SITE: location where chromatin is not tightly packed
     MODULAR PROTEIN: has several domains with uncoupled functions
     STRUCTURAL MOTIF: common 3D structure in molecules like proteins. Appears in several != molecules
-    α-HELIX: protein motif where amino acids arrange in a helix. The most common one
-    β-SHEET: protein motif where amino acids arrange in a plane
     HYDROPHILIC: polar molecule, attracted to and dissolved by water. Vs HYDROPHOBIC
     LIPOPHILIC: non-polar molecule, attracted to and dissolved by fats
     AMPHIPATH: molecule showing hydrophilic and lipophilic properties
