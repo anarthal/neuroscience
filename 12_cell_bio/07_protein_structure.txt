@@ -94,7 +94,7 @@ PROTEASOME: protease in the cytosol that degrades tagged proteins
     Also used to degrade functional proteins that are no longer required (regulate concentration)
     Functional molten globules are sometimes marked for degradation by mistake
 N-END RULE: protein's half time is related to its N-terminal residue
-    Some amin-acids stabilize (e.g. methionine), others de-stabilize
+    Some amino-acids stabilize (e.g. methionine), others de-stabilize
     If a peptide bond is cleaved and a destabilizing amino-acid is left in the N-terminal, the protein is degraded
 AMYLOID: aggregation of several proteins with exposed hydrophobic patches => tight beta-sheets, resistant to proteases
     Cause Huntington's and Alzheimer's diseases
