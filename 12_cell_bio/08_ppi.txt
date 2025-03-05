@@ -1,0 +1,25 @@
+Background
+    SUBSTRATE CHANNELING: passing a substrate from one enzyme to the next one in a chain without releasing it to the env
+INTERACTOMICS: analysis of the interactions between molecules in a cell
+INTERACTOME: whole set of interactions between molecules in a cell
+    Size of interactome correlates with complexity
+EMERGENT PROPERTY: in a complex system, property that only shows when it interacts with other systems
+PROTEIN-PROTEIN INTERACTION: physical (vs. related functionality), selective contact between two proteins
+    Stable: in protein complexes (e.g. hemoglobin)
+    Transient: require specific conditions (e.g. all drivers of cellular processes)
+    Strong: proteins bind covalently
+    Weak: proteins bind non-covalently
+Search space is huge. Still a lot not known
+Experimental methods
+    YEAST TWO-HYBRID: bind one protein to an activation domain of a TF, another to a DNA-binding domain, see if there's transcription
+        For initial identification rather than detailed analysis
+    TANDEM-AFFINITY PURIFICATION: checks interactions of a target protein with other proteins expressed by a cell
+        Modify cells to express the protein with a TAP tag that allows for purification
+        Cell lysis
+        Purify the expressed protein => leave only the target protein and the proteins it interacts with
+        Mass spectrometry => check what the interacting proteins are
+    PROTEIN MICROARRAYS: automated detection of interactions
+        Lay proteins in an array, covered with a coating where interaction takes place
+        Add a != protein in each array position
+        Interaction detected with fluorescent labelling
+    
