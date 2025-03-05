@@ -1,5 +1,6 @@
 Background
     SUBSTRATE CHANNELING: passing a substrate from one enzyme to the next one in a chain without releasing it to the env
+    ORTHOLOGS: pair of homolog genes in two species with a common ancestor
 INTERACTOMICS: analysis of the interactions between molecules in a cell
 INTERACTOME: whole set of interactions between molecules in a cell
     Size of interactome correlates with complexity
@@ -22,4 +23,22 @@ Experimental methods
         Lay proteins in an array, covered with a coating where interaction takes place
         Add a != protein in each array position
         Interaction detected with fluorescent labelling
-    
+Computational methods
+    High-throughput, cheap, but with more false positives
+    Yield a probability of interaction
+    Lots of high negatives: proteins may interact without showing the landmarks recognized by these methods
+    Can't distinguish between physical interaction and functional association
+    PHYLOGENETIC PROFILING: assumes that two proteins encoded by genes with similar presence/absence in != organisms are related
+        INTEROLOG: given two pairs of homolog genes between two species, a conserved interaction between the proteins they encode
+Building the reference human interactome (no false positives)
+    Combining info from all sources (machine learning) yields better results than using individual ones
+    E.g. experimental studies via text mining, co-expression, phylogenetic analysis...
+Topological analysis of the interactome
+    DEGREE of a node: number of edges coming into the node
+    DEGREE DISTRIBUTION: probability that a node has exactly degree k
+    SCALE-FREE NETWORK: degree distribution P(k) = U * k^(-c) (power law) <= the one exhibited by the interactome
+    Hub: node with many edges. Represent conserved proteins
+    Bottleneck: pair of nodes that connect two sub-networks. Key connecting proteins
+    Dynamic information: add time information (when does the protein express in the cell cycle?) to the interactome
+        Party hubs: high co-expression => interact simultaneously
+        Date hubs: less co-expression => might interact later in time
