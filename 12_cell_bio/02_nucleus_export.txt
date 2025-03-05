@@ -1,0 +1,19 @@
+NUCLEAR PORE COMPLEX: protein complex in the nuclear membrane that allows transport of molecules
+NUCLEAR LOCALIZATION SIGNAL: amino-acid sequence in proteins that allows them to be imported to the nucleus
+NUCLEAR EXPORT SIGNAL: amino-acid sequence in proteins that allows them to be exported to the cytoplasm
+IMPORTIN: protein that recognizes the nucleus localization signal and imports proteins
+    Cargo protein: carried by importin
+EXPORTIN: protein that recognizes the nucleus export signal and exports proteins
+Small molecules can diffuse, but most molecules need active transport
+Ran cycle
+    Proteins imported to nucleus by importin
+    Ran/GTP makes importin release its cargo once it gets to the nucleus
+    Ran/GTP + importin exported outside the nucleus
+    GTP hydrolizes => importin liberated, Ran is now Ran/GDP
+    Ran/GDP imported again to the nucleus by another protein
+    Ran releases GDP and picks GTP
+    Ran/GTP also binds to exportin and causes export to cytoplasm
+    Ran/GTP hydrolysis releases exportin and cargo
+Most RNAs exported as ribonucleoproteins (RNP)
+    mRNA uses non-Ran mechanism
+    Rest of RNAs use Ran
