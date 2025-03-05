@@ -2,8 +2,6 @@ Background
     MONOMER: molecule that can react with other molecules to compose a greater one (POLYMER)
     N-TERMINAL DOMAIN: the "beginning" of a protein, an amine group (NH2-)
     C-TERMINAL DOMAIN (CTD): the "end" of a protein, a carboxylic group
-    POST-TRANSLATIONAL MODIFICATION: changes to a protein after it's been synthesized
-    Protein DOMAIN: a region of a protein that self-stabilizes and folds independently of each other
     GERM CELL: cell that undergoes meiosis to generate gametes
     SOMATIC CELL: any cell in a multicellular organism excepting gametes, germ cells and stem cells. Divide by mitosis
     HOMEOSTASIS: steady state of conditions in living organisms

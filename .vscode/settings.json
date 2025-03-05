@@ -7,7 +7,9 @@
         "chondroblasts",
         "CHONDROCYTE",
         "chondrocytes",
+        "cofactor",
         "CYTOKINE",
+        "cytosol",
         "ENDOMYSIUM",
         "EPIMYSIUM",
         "FIBROCARTILAGE",
@@ -22,9 +24,11 @@
         "octamer",
         "pericytes",
         "PERIMYSIUM",
+        "PROTEASOME",
         "proteoglycan",
         "SARCOLEMMA",
         "SARCOMERE",
-        "sarcomeres"
+        "sarcomeres",
+        "ubiquitin"
     ]
 }

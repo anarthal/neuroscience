@@ -1,5 +1,8 @@
 Background
     CHIRAL: object that can be distinguished from its mirror image
+    HEAT-SHOCK PROTEIN: protein that does not denature with high temperatures
+    COORDINATE COVALENT BOND: covalent bond where all shared electrons are given by the same atom
+    COORDINATION COMPLEX: formed by a central ion (usually metallic) bound to other molecules
 Amino-acids
     α-carbon joined to amino group (NH2), carboxyl (COOH), hydrogen, side chain (R)
     α-carbon is chiral
@@ -40,55 +43,62 @@ Secondary structure: local structural motifs
         Can form barrels: cylinders formed of beta-sheets
 Tertiary structure: overall 3D structure
     Determines the function of the protein
-Quaternary structure: aggregation of several proteins joined by non-covalent bonds to perform a function
-    
-    
-        
-        
-tertiary structure: interaction between side chains
-    as they're in water, usually hydrophilic outside, hydrophobic inside
-    structure is reversible
-    similar amino-acid chains can yield very != tertiary structures
-    disulfide bonds: cysteine residues have HS, which can form S-S bonds that help stabilize the structure (e.g. keratin)
-    loops: chains of amino-acids that don't have a proper secondary structure, but connect consecutive secondary structures
-        usually in the outer sites
-        importance as recognition sites, vs. places with tertiary structure that have other functions, like catalytic
-    the one with the lowest energy
-        but there are many != low energy conformations that the protein may take, depending on probability, env...
+    In aqueous media, hydrophilic amino-acids in the outside of the molecule, hydrophobic inside
+    Folding is reversible: proteins can denature and recover
+    Similar amino-acid chains can yield very != tertiary structures
+    DISULFIDE BOND: covalent bond between two HS groups => S-S
+        Can help stabilize the structure (e.g. keratin)
+    Loops: chains of amino-acids that don't have a proper secondary structure, but connect consecutive secondary structures
+        Usually in the outer sites
+        Recognition sites (vs. other functions, like catalytic)
+    Protein folds minimizing its free energy
+        Many != conformations with similarly low free energy. Actual one depends on probability, env...
         free energy = f(enthalpy, entropy)
         enthalpy = f(interaction between components of the protein)
         entropy = f(interaction with water)
-Cuaternary structure
-    dimer, trimer, tetramer: number of subunits
-    homo-XX: if they're all the same subunit, hetero-XX: if they're != subunit
-    when it's an hetero-XX, subunits usually have similar tertiary structure
-Protein domains: another way to think of a protein. Part of a protein that can fold independently
+Quaternary structure: aggregation of several proteins/molecules joined by non-covalent bonds to perform a function
+    BINDING SITE: region of a protein that can interact with other molecules through non-covalent bonds
+    PROTEIN SUBUNIT: when several proteins interact to form quaternary structure, each of the polypeptide chains composing the bigger molecule
+    OLIGOMER: protein composed of several polypeptide chains
+        Number of chains: dimer (2), trimer (3), tetramer (4)...
+        Homo-oligomers: all their chains identical, vs. hetero-oligomers
+        In hetero-oligomers, all chains have similar tertiary structure
+PROTEIN DOMAIN: a region of a protein that self-stabilizes and folds independently
     More related to the function than other structures
-as soon as the protein leaves the ribosome, it starts to fold
-    prevents the exposure of hydrophobic chains
-    molten globule: temporary conformation, contains secondary structure
-    some proteins readjust themselves and form the final conformation. Others need chaperones
-        they don't determine the conformation
-        heat-shock proteins: they resist high temperature and are produced at high temperature => fix folding at high T
+Protein maturation (after translation)
+    Folding: acquire the final tertiary structure
+    Cofactor binding: non-covalent interactions
+    POST-TRANSLATIONAL MODIFICATIONS: covalent changes to a protein after translation
+    Bind to other subunits to form quaternary structure
+Protein folding
+    1. Some proteins fold spontaneously
+    2. Otherwise, chaperon proteins aid to fold
+    3. Otherwise, incorrectly folded proteins are tagged for degradation
+    4. Otherwise, protein aggregates occur (bad)
+    Starts as soon as the protein starts exiting the ribosome
+    MOLTEN GLOBULE: temporary conformation immediately after translation. Most of its secondary structure present, parts of its tertiary structure absent
+    CHAPERONE PROTEINS: aid other proteins in their folding process
+        Tertiary structure still determined by aa chain. They only make folding more efficient
+        Heat-shock proteins: produced more at high T, because more incorrectly folded proteins at high T
         Use ATP
-        hsp70: acts on the molten globule
-        hsp60: captures incorrectly folded proteins into an isolation chamber
-            it knows that it's incorrectly folded because it has hydrophobic parts exposed
-proteasome: if a protein can't be folded correctly, it degrades the protein
-    uses ATP
-    breaks the protein into small amino-acid chains
-    it's a protein itself
-    core cylinder with 4 heptameric rings that has proteolytic capabilities
-    two caps on top/bottom: ATP-ases and captures the proteins to be broken
-    ubiquitin marks the proteins to be degraded, then the proteasome degrades them
-        enzyme E1 activates ubiquitin using ATP and attaches it to E1
-        then, a chain starts that are f(specific protein to be degraded) that tags the protein
-    this same system is also used to degrade proteins that are no longer required
-proteins can also be degraded by exposing parts of the protein to the env
-Methionine is a stabilizing residue => goes 1st
-    Some other amino-acids are called de-stabilizing residues => makes the protein last less
-If they're not correctly folded or degraded, they aggregate and precipitate
-    E.g. they expose hydrophobic parts that aggregate with each other
-    Forms very tight beta sheets that can't be accessed from proteasome
-    
-
+        Detect incorrectly folded proteins by affinity with exposed hydrophobic patches
+        hsp70: acts when the protein is still being translated, on short aa strings
+        hsp60: acts after translation. Has an isolation chamber and a cap
+PROTEASOME: protease in the cytosol that degrades tagged proteins
+    Uses ATP
+    Breaks the protein into small amino-acid chains
+    Core cylinder: proteolytic capabilities
+    Two caps on top/bottom: captures proteins and has ATPases
+    Proteins to be degraded are marked with ubiquitin
+    E1: ubiquitin-activating enzyme, common to all ubiquitin marking pathways
+    Also used to degrade functional proteins that are no longer required (regulate concentration)
+    Functional molten globules are sometimes marked for degradation by mistake
+N-END RULE: protein's half time is related to its N-terminal residue
+    Some amin-acids stabilize (e.g. methionine), others de-stabilize
+    If a peptide bond is cleaved and a destabilizing amino-acid is left in the N-terminal, the protein is degraded
+AMYLOID: aggregation of several proteins with exposed hydrophobic patches => tight beta-sheets, resistant to proteases
+    Cause Huntington's and Alzheimer's diseases
+Post-translational modifications
+    Adding coordinate covalent bonds containing metal ions (e.g. heme)
+    Phosphorylation: activates/inhibits the function of a protein
+    Glycosylation: adds a saccharide. Thermal stability
