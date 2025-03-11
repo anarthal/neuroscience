@@ -43,7 +43,7 @@ EXTRACELLULAR MATRIX: medium where cells in connective tissue live
             Tensile strength
             Mainly type I, also FACITs
             Stains pink with H&E
-        Reticular fibers: structural support in lymphatic tissue
+        RETICULAR FIBERS/RETICULIN: structural support in lymphatic tissue
             Type III collagen
             Requires special stain, e.g. silver
         Elastic fibers: add elastic deformation capabilities
