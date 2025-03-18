@@ -1,0 +1,35 @@
+all are Ca2+ mediated
+excitatory neurotransmitter: leads to depolarization of post-synaptic element (i.e. closer to generating action potential)
+    e.g. glutamate, allows Na+ to enter
+    excitatory postsynaptic potential
+inhibitory neurotransmitter: the opposite. E.g. GABA lets Cl- to enter
+a neuron can secrete != neurotransmitters, even at once, but not in the same vesicle
+metabotropic receptors slower than ligand-gated (ionotrpic)
+    glutamate and GABA linked to faster responses
+    biogenic amines (adrenaline, noradrenaline, dopamine) linked to slower responses
+Glutamate
+    recycled by astrocytes
+    Converted to glutamine in astrocytes (glutamine synthase)
+    then returned to the neuron, and converted to glutamate again
+    there are no transporters for glutamate
+    can also be obtained from Krebs cycle, and used as an input to Krebs cycle
+GABA
+    synthesized from glutamate in neurons
+    captured by astrocytes, enters the Krebs cycle, converted to glutamate, then to glutamine => same path as glutamate
+    glutamate decarboxylase (synthesizing GABA from glutamate) expressed only in inhibitory neurons
+acetylcholine
+    small molecule
+    muscle contraction
+    from acetyl CoA (Krebs) and choline
+    no astrocytes here, degraded directly in the synaptic cleft by an enzyme
+noradrenaline
+    synthesized from dopamine
+dopamine: feel good
+serotonin: mood, sleep, happiness
+    from tryptophan
+receptors
+    ionotropic: ligand-gated ion channels. Fast, short-lived
+    metabotropic: G-protein coupled. Affect metabolism. Slow, long-lived
+    don't need to know the names of glutamate receptors 
+    benzodiazepins stimulate GABA receptors
+    metabotropic => signaling cascade that ends up activating kinases => phosphorylation of other proteins

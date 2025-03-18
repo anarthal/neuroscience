@@ -1,0 +1,25 @@
+nerve
+    endo, peri, epi neurium => connective tissue surrounding
+    axon, grouped in fascicles, grouped in nerves
+    sensory => periphery to CNS
+    motor nerve => CNS to muscle or other effectors
+    mixed nerve => both
+tract => like nerves, but without connective tissue. Bundle of axons
+    Connect parts of the CNS
+    covered by oligodendrocytes
+    ascending: sensory info to CNS
+    descending: CNS to effectors
+ganglia: cluster of neuronal cell bodies in peripheral
+nuclei: like ganglia, but in CNS
+gray matter: cell bodies, dendrites, synapses
+white matter: myelinated axons
+decussation: crosses brain sides and moves vertically
+commisure: same, but just horizontal
+peduncle: white matter connecting != regions
+cortex: outer layer of an organ
+sagittal: left-right
+    mid-sagittal: just in the middle
+    para-sagittal: not in the middle
+frontal: anterior/ventral - posterior/dorsal
+transverse: upper/rostral-lower/caudal
+planes rotate ~90º around lateral axis in the brain

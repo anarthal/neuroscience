@@ -28,7 +28,7 @@ APICAL DOMAIN: region that faces the lumen or exterior. In contact with env. Mod
 LATERAL DOMAIN: region in contact with neighboring epithelial cells
     CELL-ADHESION MOLECULES: form the junctions between cells
     All junction types present in each cell
-    OCCLUDING JUNCTION/ZONULA OCCLUDENS: tight, closed junction
+    OCCLUDING JUNCTION/ZONULA OCCLUDENS/TIGHT JUNCTION: tight, closed junction
         Close to the apical domain
         No transport
         Formed by occludin and claudin proteins
