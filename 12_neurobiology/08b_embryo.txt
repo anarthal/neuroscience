@@ -1,0 +1,42 @@
+zygote: fusion of oocyte and sperm
+morula: ball of cells
+blastula: hollow structure
+    trophoblast: outer layer
+    embryoblast: inner
+gastrula: 3 layers. When it implants into the 
+    ectoderm
+        neural plate => neural tube
+        epidermis
+        generates
+            skin
+            nervous system
+            sensory organs (retina, inner ear...)
+    mesoderm
+        muscle
+        blood vessels, blood
+        kidney
+        reproductive system
+    endoderm
+        digestive tract
+        respiratory system
+        extrectory system
+    notochord: embryonic only (lost), for differentiation
+cell types
+    totipotent: can generate embryo cells and placenta
+    pluripotent: can generate embryo cells
+    multipotent: adult stem cells
+neurulation: formation of the neural tube
+    neural plate folds into neural groove
+    closes and forms the tube and neural crest
+    neural crests form somites => vertebrae, ribs, back muscles...
+prosencephalon: cerebrum and encephalum
+    telencephalon: cerebrum
+    diencephalon: epithalamus, thalamus, hypothalamus
+mesencephalon: midbrain
+rhombencephalon
+    metencephalon: pons, cerebellum
+    myelencephalon
+radial glia: progenitors of neurons and all glia except microglia
+adult neurogenesis: only in certain areas (neurogenesis niches)
+    subgranular zone (SGZ): memory and learning
+    SVZ and 

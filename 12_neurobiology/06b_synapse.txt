@@ -31,3 +31,4 @@ Tripartite synapse: the astrocyte plays an important role in all synapses
     Produce lactate for neurons that can be used to produce ATP
 Long-term potentiation: increase in strength in synapse by synthesizing new spines and contacts
     vs. Long-term depression
+======== HASTA AQUÍ
