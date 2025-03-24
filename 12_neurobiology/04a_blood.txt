@@ -51,31 +51,26 @@ Cell population
         Natural killer cells
         B lymphocytes
         T lymphocytes
-    
-
-
-
-Cells
-    Thrombocytes: coagulation
-        Derived from megakaryocite: big cell that fragments into platelets
-        No nucleus
-        Zones
-            Peripheral zone: rests of cell membrane and glycocalix (maintain integrity)
-            Structural zone: maintain structure
-            Organelles
-            Membrane systems: rests of the megakaryocyte, what caused it to break
-Hemopoiesis/Hematopoiesis: generation of blood
-    HSCs: pluripotent/hemopoietic stem cells: differentiate into != cells. Located in bone marrow
-        Depending on the cytokine that activates it, differentiates
-        Myeloid stem cells/Common myeloid progenitors
-            Erythrocytes
-            Thrombocytes
-            Leukocytes that are not lymphocytes
-        Lymphoid stem cells/Common lymphoid progenitors
-            B lymphocytes
-            T lymphocytes
-    Happens in red bone marrow
-        Sinusoids: specialized blood vessels where the newly synthesized cells are released
-        
-
-
+    THROMBOCYTE/PLATELET: involved in clotting
+        They don't have a nucleus
+        Discoid shape
+        Structure
+            Peripheral zone: plasma membrane and glycocalyx
+            Structural zone: microtubules, actin and myosin filaments that maintain the shape
+            Organelle zone: mitochondria, glycogen and granules with coagulation factors
+            Membrane zone: channels within the platelet
+                OPEN CANALICULAR SYSTEM: remnants of megakaryocyte's membrane. Connects with the plasma membrane
+                DENSE TUBULAR SYSTEM: remnants of megakaryocyte's RER. Does not connect with plasma membrane
+        MEGAKARYOCYTE: big, multi-nucleated cells that fragment to produce platelets
+HEMOPOIESIS/HEMATOPOIESIS: generation of blood cells
+    HEMATOPOIETIC STEM CELL: stem cells that differentiate into != blood cells, driven by cytokines and differentiation factors
+        Located in bone marrow
+    Myeloid stem cells/Common myeloid progenitors: give raise to myeloid cells
+        Erythrocytes
+        Thrombocytes
+        Granulocytes
+        Monocytes
+    Lymphoid stem cells/Common lymphoid progenitors: give raise to lymphocytes (natural killer cells, B and T lymphocytes)
+    Red bone marrow: where hemopoiesis happens
+        SINUSOID: specialized blood vessel where the new cells are released
+        Contains adipocytes, sinusoids and developing small cells with dark nucleus
