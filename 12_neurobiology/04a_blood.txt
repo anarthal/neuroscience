@@ -41,8 +41,19 @@ Cell population
         Cytoplasm full of hemoglobin => bind O2 and CO2
         ROULEAUX: stack of erythrocytes formed in larger blood vessels
         Never leave the blood vessel
+        ~7.5um diameter
     LEUKOCYTES/WHITE BLOOD CELLS: immune system cells (see i3_cells.txt)
         Leave the blood vessel to perform their function
+        Neutrophils
+        Eosinophils
+        Basophils
+        Monocytes
+        Natural killer cells
+        B lymphocytes
+        T lymphocytes
+    
+
+
 
 Cells
     Thrombocytes: coagulation

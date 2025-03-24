@@ -3,6 +3,7 @@ Background
     ENDOTHELIUM: blood vessel internal wall
     LUMEN: the inside space of a vessel or cavity
     FIBRIL: thread-like structure, small scale. Vs. fibers, which are bigger
+    CELL-ADHESION MOLECULE (CAM): protein that promotes adhesion between cells
 EPITHELIUM: avascular tissue covering surfaces, cavities and forming glands
     Cells close to each other, bound by specific cell junctions
     Cells exhibit polarity, forming three domains: apical, lateral, basal
@@ -26,7 +27,7 @@ APICAL DOMAIN: region that faces the lumen or exterior. In contact with env. Mod
         Motile: active upward-downward movement. 9+2 structure. Many per cell and short (e.g. respiratory, to clean up mucus). Except flagella (sperm)
         Nodal: active rotational movement. 9+0 structure. In embryo
 LATERAL DOMAIN: region in contact with neighboring epithelial cells
-    CELL-ADHESION MOLECULES: form the junctions between cells
+    Junctions composed of cell-adhesion molecules
     All junction types present in each cell
     OCCLUDING JUNCTION/ZONULA OCCLUDENS/TIGHT JUNCTION: tight, closed junction
         Close to the apical domain

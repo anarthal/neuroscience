@@ -1,0 +1,13 @@
+EXTRAVASATION: recruitment of immune cells to sites of infection
+    1. Local activated macrophages use interleukins to make endothelial cells express cell-adhesion molecules
+        Leukocytes slow down and roll over endothelium
+    2. Leukocytes pre-activate
+        PRIMING: pre-activation of leukocytes that are to extravasate
+    3. Leukocytes adhere to the endothelium (become arrested)
+    4. Leukocytes move laterally, probing for a site to exit the blood vessel
+    5. Leukocytes cross the endothelium
+        TRANSENDOTHELIAL MIGRATION(TEM)/DIAPEDESIS: process of crossing the endothelium by leukocytes
+    NEUTROPHIL-ENDOTHELIAL RECOGNITION: steps 1-3 for neutrophils, well characterized
+        SELECTIN: CAM expressed by endothelial cells to make neutrophils roll
+        INTEGRIN: CAM expressed by neutrophils. Part of the arrest process
+    

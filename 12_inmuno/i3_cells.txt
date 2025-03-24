@@ -1,17 +1,84 @@
 Background
     CYTOKINE: protein involved in signalling. Can't enter the cytoplasm => uses membrane-bound receptors
+    LYSOZYME: enzyme that degrades peptidoglycans in bacterial cell walls
+    LACTOFERRIN: antimicrobial protein. Generates reactive hydroxyl species
+    HELMINTH: intestinal worm parasite
+    HEPARIN: anti-coagulant
+    METACHROMASIA: change in color in dye when it binds to certain substances
+    LEUKOTRIENE: a type of inflammatory mediator
 IMMUNOPHENOTYPING: stain with antibodies, then pass through a tube with a laser => measure the size and quantity
     CYTOMETRY: measurement of number and characteristics of cells (e.g. size, fluorescence)
     CLUSTERS OF DIFFERENTIATION (CD): surface proteins used to uniquely identify a cell type with immunophenotyping
 LEUKOCYTES/WHITE BLOOD CELLS: immune system cells
-    Myeloid leukocytes: cells associated to innate immune system. Myeloid lineage
-        GRANULOCYTE: innate system cells with granules in their cytoplasm
-            NEUTROPHIL:
-            EOSINOPHIL:
-            BASOPHIL:
-            MAST CELL:
-        AGRANULOCYTE: innate system cells without granules in their cytoplasm
-    LYMPHOCYTE: cells associated to adaptive immune system. Lymphoid lineage
+Classification according to origin
+    Myeloid leukocytes: associated to innate immune system. Developed in bone marrow
+        Neutrophil
+        Eosinophil
+        Basophil
+        Mast cell
+        Monocytes
+        Macrophages
+    LYMPHOCYTE: leukocytes that require development in lymphoid organs. Most of them associated with adaptive immunity
+        Natural killer cells
+        B lymphocytes and plasma cells
+        T lymphocytes
+Classification according to granules
+    GRANULOCYTE: innate system cells with specific granules in their cytoplasm. Myeloid lineage
+        SPECIFIC GRANULE: granules contained by granulocytes that are specific to that granulocyte
+        Neutrophil
+        Eosinophil
+        Basophil
+        Mast cell
+    AGRANULOCYTE: leukocytes that don't contain granules (the rest, including natural-killer cells)
+NEUTROPHIL: granulocyte with granules staining neutral pink
+    The most abundant leukocytes
+    Appears in blood and extravasates
+    x1.5-x2 sizeof RBC
+    Multi-lobed nucleus (2-5 lobes). Facilitates leaving the blood stream and moving through tissue
+    They die quickly because they are very aggressive
+    Generates energy via digesting glycogen (and not via oxidizing respiration) so it can survive in oxygen-depleted areas
+        Few mitochondria
+    It is not a secretory cell type: it doesn't produce proteins to secrete them
+    Granule types
+        Primary/azurophilic: darker. Defensins, lysozyme and other antimicrobial molecules
+        Secondary: lactoferrin (hydroxyl radical)
+        Tertiary: metalloproteases (cut through ECM)
+    They don't secrete proteins
+EOSINOPHIL: granulocyte with granules staining bright pink/red
+    Much less abundant than neutrophils
+    Appears in blood and extravasates
+    ~ same size as neutrophils
+    Bi-lobed nucleus (usually), larger than neutrophils
+    Usually low quantity, but they rise during helminthic infection and allergy
+    They secrete proteins
+    Specific granules contain cytotoxic molecules and inflammation modulators
+        No lysozyme => Does not attack bacteria
+    Contains some azurophilic granules
+MAST CELL: granulocyte that resides in vascular connective tissue
+    ~ same size as neutrophils
+    Single-lobed nucleus
+    Plasma membrane has protrusions to 'touch things'
+    Heparin, proteases in granules => Increase permeability of microvasculature, to facilitate leukocyte migration
+    Histamin and other inflammation mediators in granules => Involved in hypersensitivity reactions
+    Can produce proteins (to refill the granules)
+    Produces viral interferons
+BASOPHIL: granulocyte with granules staining purple
+    The least abundant granulocyte
+    Only appears in blood
+    ~ same size as neutrophils
+    Bi-lobed nucleus, more irregular than eosinophils. Obscured by granules
+    Granules are bigger than in neutrophils/eosinophils
+    Granules contain heparin, histamin, heparan sulfate, leukotrienes
+    Involved in hypersensitivity reactions
+    Similar to mast cells, but in blood (no proteases)
+Lymphocytes: round, big nucleus with thin cytoplasm
+    ~x1-x2 sizeof RBC
+    2nd more abundant leukocyte, after neutrophils
+MONOCYTE: precursors of macrophages and other mononuclear phagocytic cells
+    In the blood stream, until they are needed => extravasate and differentiate
+    ~x2-x4 sizeof RBC (the biggest)
+    Indented nucleus
+    Contains azurophilic lysosomes that look like granules
 
 
 clusters of differentiation: the surface proteins we use to recognize cells
@@ -21,57 +88,8 @@ clusters of differentiation: the surface proteins we use to recognize cells
 Terminal (specialized) cells has more condensed chromatin (doesn't need to express that many things)
 Metalloprotease: can cut proteins => to cross across tissues, e.g. to exit the bone marrow
 GMP: nucleus indentation
-Monocytes in blood, macrophages in tissues
 Lin+: has a marker that uniquely identifies the cell type
-Leukocytes
-    Granulocytes: have granules
-        Neutrophil
-            1st line of combat
-            Nucleus with several lobes. separated because this way they can squeeze and pass around
-            They die quickly because they are very aggressive
-            granules stay neutral, we can't see them a lot
-            Granule types
-                Primary: contains the toxins to attack. Darker
-                Secondary: protein to bind iron => Creates reactive species => Hydroxyl radical (very toxic)
-                Tertiary: metalloproteases. To cut through tissues
-            It is not a secretory cell type: it doesn't produce proteins to secrete them
-            Generates energy via digesting glycogen (and not via oxidizing respiration) so it can survive in oxygen-depleted areas
-            Releases vesicles
-            Neutrophil-endothelial recognition: able to leave the blood vessel under certain circumstances. Only neutriphils do this
-        Eosinophils
-            mostly 2 lobes in the nucleus, condensed chromatin
-            usually low, but they rise during infection or allergy
-            pink granules
-            mostly in lungs and intestine
-            they don't have lysozymes (required to attack prokaryotic cell walls) => attacks parasites
-                contain cytotoxin enzymes
-            they secrete proteins
-            involved in allergy
-        Basophils: rare. Similar to mast cells
-            Two-lobe nucleus, stains a lot
-            Granules are much bigger because contain molecules:
-                Heparin, histamin, heparan sulfate, leukotrienes
-            The main cell involved in allergy
-            In the blood stream (vs. mast cells)
-            Similar functions to mast cells
-            Doesn't have proteases
-    Agranulocytes
-        lymphocytes
-            Very big nucleus
-    Monocytes
-        Big
-        Indented nucleus
-        Mostly euchromatin
-        In the blood stream, until they are needed => differentiate to macrophages
-        Lysosomes
-        Has a receptor to "see" objects
 
-Mast cells: in peripheric tissues, except avascular ones
-    mono-nucleus, cytoplasm full of granules
-    protrusions serve to 'touch things'
-    granules contain inflammation mediators (e.g. histamine)
-    recognition of foreign particles
-    can produce proteins (to refill the granules)
 
 Macrophages: differentiated, from monocytes
     Heterogeneous
