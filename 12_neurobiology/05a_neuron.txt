@@ -1,0 +1,44 @@
+Post-mitotic
+    Some adult stem cells can differentiate into new neurons
+NEUROFILAMENTS: specialized intermediate filaments in neurons
+Microtubules
+    MICROTUBULE ORGANIZATION CENTER (MTOC): where microtubule formation happens
+    + end: where microtubules extend, towards the cell's periphery
+    - end: where microtubules are anchored to a MTOC
+    KINESIN: moves cargos towards the + end
+    DYNEIN: moves cargos towards the - end
+Soma: cell body
+    Euchromatic nucleus
+    Rough endoplasmic reticulum, Golgi, mitochondria => High anabolic activity
+    NISSL BODIES: aggregations of RER and ribosomes
+    AXON HILLOCK: conical extension of soma that connects with the beginning of the axon. Contains the MTOC
+DENDRITE: prolongation of neuronal soma, with receptive functions
+    DENDRITIC TREE: all the branches of a dendrite
+    Wider diameter than axon
+    Non-myelinated
+    Passive, decremental signal conduction: signal decreases as we approach the soma
+    Not all microtubules polarized in the same direction. Most have + in dendrite's end
+    DENDRITIC SPINE: protrusions of plasma membrane in the dendrites
+        Where synapses take place
+        Dynamic: assemble and degrade fast (part of the plasticity process)
+AXON/NERVE FIBER: single, long process that transmits impulses away from the neuron
+    May be myelinated
+    Cytoplasm contains cytoskeleton, mitochondria, vesicles
+    All microtubules polarized in the same direction: + is in the axon's end
+    AXON INITIAL SEGMENT: where the action potential is initiated
+Structural classification
+    MULTIPOLAR NEURON: one axon, >1 dendrites (the usual)
+    BIPOLAR NEURON: one axon, 1 long dendrite (receptors for special senses)
+    PSEUDOUNIPOLAR NEURON: one axon with two terminals, for PNS and CNS (sensory neurons close to CNS)
+Functional classification
+    SENSORY NEURON: from sensory receptors to CNS
+    MOTOR NEURON: from CNS to effectors
+        Somatic: targets skeletal muscle
+        Visceral: targets smooth muscle or glands
+    INTERNEURON: CNS to CNS (integrative network). The most common
+Neuronal transport: vesicles, organelles, proteins
+    Axonal
+        Anterograde: away from the cell's body. Kinesin
+        Retrograde: towards the cell's body. Dynein
+    Dendritic: away from the cell's body. Dynein
+    
