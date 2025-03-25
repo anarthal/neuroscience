@@ -1,17 +1,26 @@
-white (unilocular): single droplet
-secrete adipokines: substances secreted by adipocytes
-    leptin: saciety factor
-short term
-    grehlin: increases appetite
-    PYY: suppresses appetite
-long term
-    leptin: suppresses appetite
-    insulin: 
-brown adipose: in many places in newborn, fewer places in adult (e.g. kidney)
-    no unique big lipid droplet as in the white one - just a mesh
-    we can find fibers of connective tissue
-    we can also find fibroblasts
-    difficult to see individual cells
-    thermogenesis: produces heat via a protein (thermogenin)
-    they can transdifferentiate to white adipocytes, depending on temperature
-
+Vascular tissue
+WHITE ADIPOSE TISSUE: formed by single-droplet adipocytes
+    Subcutaneous fascia: layer below the skin for thermal insulation
+    Abdomen, buttocks, bone marrow, mammary gland...: energy storage and hormone production
+    Below hand palms and feet: cushioning
+    White adipocytes
+        Very big (~x15 sizeof RBC)
+        Filled by lipid droplet: thin cytoplasm, peripheral nucleus
+    ADIPOKINE: substances secreted by adipocytes (hormones, growth factors). E.g. leptin
+    Brain-gut-adipose axis: the 3 systems are inter-connected and regulate appetite, food intake and adipose tissue
+        Short-term regulators
+            Grehlin: increases appetite
+            Peptide YY: suppresses appetite
+        Long-term regulators
+            Insulin: increases appetite
+            Leptin: decreases appetite
+    Differentiation: from mesenchymal cells
+        LIPOBLAST: adipocyte in development
+BROWN ADIPOSE TISSUE: formed by multi-droplet adipocytes
+    Present in newborns, but disappears as they grow. In few places in adults (e.g. kidney)
+    Thermogenesis: production of heat in brown adipocyte metabolism
+        THERMOGENIN: mitochondrial protein that causes metabolism to produce heat instead of ATP
+    Brown adipocytes are smaller than white ones
+    Tissue crossed by bands of connective tissue (septa)
+    Differentiation: from mesenchymal cells
+    Trans-differentiation: brown <=> white to adapt to temperatures
