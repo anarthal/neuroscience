@@ -1,0 +1,39 @@
+has no integrative function
+medulla oblongata: where the brain starts
+does not occupy the entire vertebral column
+segments (top to down)
+    cervical
+    thoracic
+    lumbar
+    sacral
+    coccygeal (only one segment)
+the segments in spinal cord does not match the segments in vertebral column
+    nerves go outside the vertebral canal, then fork
+    the segments of spinal cord receive the name of the matching vertebral column segments where nerves fork
+        (as opposed to where the nerve lives)
+    one nerve per segment, one segment per vertebra
+enlargements => innervation of body structures
+    cervical => arms
+    lumbar => limb
+other structures
+    conus medullaris => where the spinal cord ends
+    cauda equina => nerves going down from the conus medullaris
+white matter outside, gray inside (opposite than in brain)
+white matter
+    posterior (dorsal), anterior (ventral), lateral columns
+    central canal => cerebrospinal fluid
+    white commissure => connect both lateral sides. None in posterior
+    sensory in dorsal, motor in ventral
+gray matter
+    anterior horn
+    posterior horn
+more axons in the cervical segments (more information)
+propriospinal neurons: interneurons connecting segments in the spinal cord
+covering spinal nerves
+    endoneurium (individual axons)
+    perineurium (fascicles)
+    epineurium (the entire nerve)
+plexus: a network of nerves
+    e.g. cervical: head, neck, chest
+    (all names here not required)
+dermatome: part of a body covered by a specific spinal nerve

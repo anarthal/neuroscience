@@ -1,0 +1,39 @@
+!= compartments => specialization => != functions, more complexity
+free ribosomes => synthesize proteins targeted to cell process
+ribosomes in the RER => synthesized proteins targeted towards either the own cell or the outside
+    all proteins generated in RER are encapsulated in vesicles. Either for exocytosis or to keep them as vesicles inside
+folding happens in both RER and SER
+all RER compartments are connected (== conditions)
+golgi: packaging and shipping
+    composed of cisternae
+    cis: incoming part (receives vesicles). Can be applied for incoming cisterna, or incoming part of a cisterna
+    trans: outgoing part (sends vesicles)
+    incoming vesicles fuse with cis and release the cargo
+    golgi then modifies the cargo, usually via glycosilation
+        some functional modifications
+        other, markers to specify where does the cargo go
+    finally, another vesicle is formed, potentially with modifications, and it passes to the next cisternae
+    tightly regulated, since failure here has serious consequences
+    golgi cisternae are separated, because each cisterna has != conditions
+lysosome
+    acidic environment
+    enzymes that break down cellular components
+    digests and recycles cellular waste
+    destroys pathogens (e.g. macrophages)
+    autophagy: cell self-eats, to generate more energy
+vesicle specificity: each vesicle has a tag that determines where it should go
+smooth ER: lipid synthesis and Ca2+ storage
+    distribution of SER in muscle cells must be uniform to produce fast, uniform contraction
+    T tubule: invagination of cell muscle's membrane that conducts the nervous impulse (via acetylcholine)
+        Causes Ca2+ release and contraction
+    When acetylcholine is removed, Ca2+ removed and muscle relaxes
+    Liberating Ca2+ does not require ATP, but recapturing does => Rigor mortis
+lipid synthesis => happens in both ER
+vesicles have proteins (usually transmembrane) that act as tag
+    clathrin
+    COPI
+    COPII
+sizeof golgi, sizeof ER depends on the cell's function, and may change in time
+vesicular transport model: composition of ER does not change in time. Adequate for small time frames
+cisternal maturation model: composition of ER changes in time. Adequate for long time frames
+lysosomes are universal: all cells have them (even bacteria)

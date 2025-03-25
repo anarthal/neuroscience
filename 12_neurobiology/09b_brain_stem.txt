@@ -1,0 +1,24 @@
+medulla oblongata
+    decussation of the pyramids: all nerves cross from left to right
+        pyramids are in the ventral part
+    some of them do not perform this cross
+    has nuclei for autonomic functions like cardiac
+        nuclei: groups of neuron soma
+    has relay stations for sensors (names not reqd)
+    last cranial nerves (nerves that don't go though spinal cord) exit there
+pons
+    respiratory center
+    locus coeruleus: main center that produces noradrenaline, transported through the axons and released in synapse
+    is the exit of other cranial nerves
+midbrain
+    colliculus not relevant
+    substantia nigra: dopamine neurons
+    red nucleus: pigmented with Fe, involved in motor movements. More relevant in other animals (we have the motor cortex)
+    has also cranial nerves
+    reticular formation: network of neurons
+raphe nuclei: produces serotonin, connected to the rest of cerebral cortex
+cranial nerves: emerge from brain and brain stem
+    12 pairs (one for left, one for right) in total
+    olfactory nerve: 
+    optic nerve: vision (only sensory)
+    vagus nerve: sensory (ear, larynx, internal...) and motor (speech, heart, lungs)
