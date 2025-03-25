@@ -79,7 +79,8 @@ MONOCYTE: precursors of macrophages and other mononuclear phagocytic cells
     ~x2-x4 sizeof RBC (the biggest)
     Indented nucleus
     Contains azurophilic lysosomes that look like granules
-
+Plasma cell: differentiated B lymphocyte
+Dendritic cell: antigen presentation
 
 clusters of differentiation: the surface proteins we use to recognize cells
     support cells generate cytokines to support growth of hematopoietic stem cells in the bone marrow

@@ -14,20 +14,4 @@ brown adipose: in many places in newborn, fewer places in adult (e.g. kidney)
     difficult to see individual cells
     thermogenesis: produces heat via a protein (thermogenin)
     they can transdifferentiate to white adipocytes, depending on temperature
-lymphatic: fluid connective tissue
-    ECM is a liquid (lymph)
-    formed elements: cell population
-        lymphocytes
-            T-cells: have T-cell receptors. Classified according to surface markers they express (cluster of differentiation)
-            B-cells: synthesize antibodies
-            Natural-killer lymphocytes
-        supporting cells: blood cells
-    organization
-        lymphatic vessels: tubules conducting lymph
-        diffuse lymphatic tissue: accumulation of lymphocytes, with no encapsulation. Mostly T lymphocytes
-        lymph nodes: encapsulated. Mostly B. Temporary. Two areas: 
-            germinal center: B lymphocytes that have recognized an antigen, in the center
-            corona: B lymphocytes that are naive
-        lymphatic organs
-Ross
-ligament is bone-bone, tendon is bone-muscle
+

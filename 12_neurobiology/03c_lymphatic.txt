@@ -1,0 +1,19 @@
+ECM: lymph (fluid)
+Cell population
+    Lymphocytes
+    Supporting cells: other leukocytes (e.g. antigen presentation), reticular cells
+Organization
+    LYMPHATIC VESSEL: tubule conducting lymph
+    DIFFUSE LYMPHATIC TISSUE/MUCOSE-ASSOCIATED LYMPHATIC TISSUE (MALT): non-encapsulated lymphatic tissue under epithelium of some systems
+        Guard usual pathogen entry paths: digestive, respiratory, genito-urinary tract
+    LYMPHATIC NODULES: non-encapsulated accumulation of lymphocytes
+        Random locations, except for gastrointestinal tract (e.g. tonsils)
+        Forms when an antigen is recognized and lymphocytes proliferate
+        Primary nodule: accumulation of small lymphocytes
+        Secondary nodule: accumulation of lymphocytes with two separate areas
+            Germinal center: in the middle. Surrounding point where B lymphocyte recognized antigen. Clonal activity of B lymphocytes
+            Corona: naive B lymphocytes
+    LYMPHATIC NODE: filter lymph, eliminating antigens
+    LYMPHATIC ORGANS: organs directly associated with the immune system
+        Thymus: development of T lymphocytes. Central tolerance
+        Spleen: filters blood
