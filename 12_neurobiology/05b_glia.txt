@@ -1,0 +1,41 @@
+GLIA/NEUROGLIA (glue): non-conductive cells in the nervous system that support neurons
+Smaller than neurons but more numerous
+Can undergo mitosis
+Synthesizes ECM: almost only ground substance (??)
+ASTROCYTE (CNS): the most common type. Support neurons
+    Metabolic support
+    Astrocyte feet cover blood vessels => Blood-brain barrier
+    Tripartite synapse: required for recovering and regenerating neurotransmitters
+    Electric isolation
+    Types
+        Protoplasmic: ion homeostasis, metabolic support
+        Fibrous: blood-brain barrier
+        Radial glia: multipotent cell, can differentiate into neurons or glia
+    GLIAL SCAR: proliferation of astrocytes on neuronal damage
+        Prevents damage and inflammation from spreading
+        Too much can cause neurodegeneration
+MICROGLIA (CNS): derived from monocytes, part of the immune system
+    Defense, cleanup and remodelling of synapses
+    May be resting (initial state), pro-inflammatory and anti-inflammatory
+OLIGODENDROCYTE (CNS): generates the myelin sheath
+    One cell may myelinate several axons
+EPENDYMAL CELL (CNS): epithelium-like cells that delimit cavities full of cerebrospinal fluid
+    Single layer
+    Produce cerebrospinal fluid
+    Physical barrier
+SCHWANN CELL (PNS): surround axons
+    Produce myelin sheath (although they also cover non-myelinated axons)
+    Regenerate axons after injury
+    Doesn't have processes, just covers the axon => One cell myelinates a single axon
+SATELLITE CELL (PNS): covers cell bodies in ganglia
+    Electric isolation
+    Metabolic support
+ENTERIC GLIA (PNS): similar to astrocytes, but for enteric neurons (intestine)
+MYELIN SHEATH: covers the axon
+    Electrical isolation
+    Increase signal conduction speed
+    NODE OF RANVIER: relays between two consecutive myelinated axon segments
+        Not covered by myelin
+        SALTATORY CONDUCTION: perform relay of the signal. This increases signal conduction speed
+    Mostly lipids, with some proteins => Does not stain
+BLOOD-BRAIN BARRIER: selective barrier that allows the passage of nutrients and ions, but not pathogens and other cells
