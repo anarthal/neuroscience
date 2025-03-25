@@ -1,0 +1,34 @@
+MASSON'S TRICHROME: connective and muscle tissue (when you need to see fibers)
+    Green: collagen and other fibers
+    Red: muscle, cytoplasm
+    Blue: nuclei
+ALCIAN BLUE: cartilage
+    Blue: cartilage matrix
+    Red: background tissue
+ALIZARIN RED: bone
+    Red: Ca deposits
+    Rest not stained
+TOLUIDINE BLUE: cartilage and bone
+    Blue: acidic components (cartilage matrix, nucleus, RER)
+GIEMSA: blood
+    Dark blue: nuclei
+    Light blue: immune cel cytoplasm
+    Red: RBCs
+SUDAN BLACK: adipose
+    Black: lipids
+    May be counter-stained with hematoxylin
+OIL RED: adipose
+    Red: lipids
+    May be counter-stained with hematoxylin
+NISSL: nervous tissue
+    Blue: RNA (RER and ribosomes)
+    Axons and dendrites not stained
+LUXOL FAST BLUE: nervous tissue
+    Blue: myelin and lipids (i.e. axons)
+    May be counter-stained with hematoxylin => Somas purple
+OSMIUM TETROXIDE: nervous tissue
+    Black: myelin and lipids
+SILVER: nervous tissue
+    Black: axons and dendrites
+HOLZER: nervous tissue
+    Blue: glia
