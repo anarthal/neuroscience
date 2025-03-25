@@ -1,34 +1,35 @@
-pre-synaptic element: where the action potential arrives. Axon terminal
-synaptic cleft: space where neurotransmitters are liberated
-post-synaptic element: receives the neurotransmitters. Dendrite, ...
-when the action potential arrives, synaptic vesicles containing neurotransmitters liberated in the synaptic cleft
+PRE-SYNAPTIC ELEMENT: where the action potential arrives (signal emitter). Axon terminal
+POST-SYNAPTIC ELEMENT: the target of the signal (receptor). E.g. dendrite
+SYNAPTIC CLEFT: extracellular space between pre and post synaptic elements, where synapse takes place
 By localization
-    axodendritic: axon to dendrite. E.g. CNS
-    axosomatic: axon to cell body
-    axoaxonic: axon to axon. Modulates the activation of another axon
-By vesicle
-(***) By type of conduction
-    chemical synapse: uses neurotransmitters. E.g. CNS
-    electrical: direct contact between pre/post synaptic elements. Uses gap junctions. E.g. heart
-neurotransmitters (there's another lesson)
-    acetylcholine: neuromuscular
-function
-    excitatory: increase the probability of firing action potential
-    inhibitory: decrease
-    modulatory: regulate neuron activity
-(***) process
-    vesicle gets to the pre-synaptic terminal, either because it gets generated there or using anterograde transport
-    action potential arrives
-    Ca2+ channels open, and ions enter the pre-synaptic element
-    this causes exocytosis of the vesicles
-    neurotransmitters bind to receptors in the post-synaptic element
-    this opens ion channels (ligand-based) => depolarization or hyperpolarization
-    neurotransmitters removed to avoid over-excitation
-ATP used for excocytosis, Na+/K+ pump, Ca2+ pump, recover neurotransmitters
+    Axodendritic: axon to dendrite. E.g. CNS
+    Axosomatic: axon to cell body. E.g. muscle
+    Axoaxonic: axon to axon. Modulates the activation of another axon
+By type of conduction
+    CHEMICAL SYNAPSE: uses neurotransmitters
+        Slow
+        Unidirectional
+        E.g. CNS
+    ELECTRICAL SYNAPSE: direct contact between pre/post synaptic elements. Uses gap junctions
+        Fast
+        Bidirectional
+        E.g. heart, smooth muscle, retina
+By function
+    Excitatory: increase the probability of firing action potential
+    Inhibitory: decrease the probability of firing action potential
+    Modulatory: regulate neuron activity
+Process
+    1. Vesicle with neurotransmitter gets to the pre-synaptic terminal, either because it gets generated there or using anterograde transport
+    2. Action potential arrives => depolarization of pre-synaptic element
+    3. Ca2+ channels (voltage-gated) open => Ca2+ enters the pre-synaptic element
+    4. This causes exocytosis of the vesicles
+    5. Neurotransmitters bind to receptors (ligand-gated channels) in the post-synaptic element => Depolarization or hyperpolarization
+    6. Neurotransmitters removed to avoid over-excitation
+    ATP used for excocytosis, Na+/K+ pump, Ca2+ pump, recover neurotransmitters
 SNARE complex: vesicle fusion
 Tripartite synapse: the astrocyte plays an important role in all synapses
-    Cleans up neurotransmitters
+    Cleans up and recycles neurotransmitters
+    Regulates neuron activity
     Produce lactate for neurons that can be used to produce ATP
 Long-term potentiation: increase in strength in synapse by synthesizing new spines and contacts
     vs. Long-term depression
-======== HASTA AQUÍ
