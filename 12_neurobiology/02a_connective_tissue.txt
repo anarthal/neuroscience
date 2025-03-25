@@ -18,7 +18,7 @@ Classification: according to ECM
             ECM: collagen and reticular fibers
         MUCOUS CONNECTIVE TISSUE: in umbilical cord
             Cells: mesenchymal cells
-            ECM: hyaluronic acid, collagen, reticular fibers
+            ECM (Wharton's jelly): hyaluronic acid, collagen, reticular fibers
     Connective tissue proper: not specialized
         Loose: more cells/ECM than fibers. Easy diffusion => close to glands, blood vessels and epithelia. Low tensile strength
         Dense: more fibers than cells/ECM
