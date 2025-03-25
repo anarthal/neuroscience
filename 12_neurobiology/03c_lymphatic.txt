@@ -9,11 +9,13 @@ Organization
     LYMPHATIC NODULES: non-encapsulated accumulation of lymphocytes
         Random locations, except for gastrointestinal tract (e.g. tonsils)
         Forms when an antigen is recognized and lymphocytes proliferate
+        Supported by reticular fibers
         Primary nodule: accumulation of small lymphocytes
         Secondary nodule: accumulation of lymphocytes with two separate areas
             Germinal center: in the middle. Surrounding point where B lymphocyte recognized antigen. Clonal activity of B lymphocytes
             Corona: naive B lymphocytes
     LYMPHATIC NODE: filter lymph, eliminating antigens
+        Supported by reticular fibers
     LYMPHATIC ORGANS: organs directly associated with the immune system
         Thymus: development of T lymphocytes. Central tolerance
-        Spleen: filters blood
+        Spleen: filters blood. Supported by reticular fibers
