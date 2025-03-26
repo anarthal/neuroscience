@@ -17,8 +17,10 @@
         "cytosol",
         "ENDOMYSIUM",
         "EPIMYSIUM",
+        "exocytosis",
         "FIBROCARTILAGE",
         "glycocalyx",
+        "HARVESIAN",
         "HEMOPOIESIS",
         "hyaluronan",
         "immunophenotyping",
@@ -38,6 +40,10 @@
         "nucleosome",
         "octamer",
         "OLIGODENDROCYTE",
+        "OSTEOCYTE",
+        "osteon",
+        "osteonal",
+        "osteons",
         "pericytes",
         "PERIMYSIUM",
         "PROTEASOME",
@@ -46,6 +52,7 @@
         "SARCOLEMMA",
         "SARCOMERE",
         "sarcomeres",
+        "trabeculae",
         "ubiquitin"
     ]
 }

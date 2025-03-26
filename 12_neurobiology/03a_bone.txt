@@ -1,60 +1,79 @@
-extracellular matrix is mineralized => hard
-Hydroxyapatite crystals: calcium phosphate, crystalized
-ECM composed of type I collagen, but we can't observe it in regular preparations because of the amount of crystals
-    Osteoadherin: binds to crystals => maintain structure
-    Osteoconectin: glue collagen <=> crystals
-    K-dependent proteins
-    Cytokines
-Lacunae: hole where the cell resides, because ECM is hard
-    Communicate to each other through tunnels: canaliculi
-
-Mature compact bone
-    central canal (Harvesian/osteonal canal). center, contains veins/nerves
-    concentric lamellae (láminas)
-    Lacunae: holes containing the cells
-    canaliculi: small canals communicating lacunae
-    osteons: central canal, lamellae, canaliculi
-    Transversal canal: Volkmann: communicates != osteons
-    Lamellae rests of previous osteons: insterstitial (not concentric)
-        as long as you see the whole circle, it's concentric, otherwise insterstitial
-    Bone covered by connective tissue proper
-    periosteum: connective tissue proper surrounding the bone
-Mature spongy bone: same ECM, != arrangement
-    Trabeculae/spicules: structure with a lot of holes containing bone marrow
-Immature bone: in the fetus
-    more cells, without arrangement
-Bone marrow
-    red: while developing, lots of blood cells are being generated
-    yellow: in adulthood, because less blood cells generated, replaced by adipocytes
-Organ
-    Epiphysis: the farthest part of the bone. Made of spongy bone. Articular cartilage on top
-    Diaphysis: the main shaft. Made of compact bone
-    Metaphysis: join point between both
-Bone cells
-    Osteoprogenitor cells: multipotent cells
-    Osteoblast: secrete the bone matrix
-        1st synthesize all components except minerals => osteoid
-        2nd vesicles containing the crystals
-    Osteocyte: differentiated from osteoblasts
-        In lacunae
-    Bone-lining cells: form the periosteum/endosteum. differentiated from the osteoblasts
-        smaller population than osteoblasts
-    Osteoclast: bone resorption
-        They don't come from mesenchyma, ~ fagocyte (hematopoietic)
-        highly regulated process by PTH
-Bone formation:
-    endochondral ossification (cartilage primer)
-        cartilage model
-        osteoprogenitor cells surround it and differentiate to osteoblasts
-        osteoblasts ossificates the cartilage => bony collar
-        osteoblasts penetrate the cartilage => primary ossification center (diaphysis)
-        osteoblasts travel to the epiphysis => secondary ossification center
-        centers connected => finished
+ECM
+    Mineralized => hard
+    HYDROXYAPATITE CRYSTAL: calcium phosphate crystals conferring hardness to the bone matrix
+    Fibers: type I collagen, but we can't observe it in regular preparations because of the amount of crystals
+    Ground substance
+        Osteoadherin (proteoglycan): binds to crystals => maintain structure
+        Osteonectin (multiadhesive glycoprotein): glue collagen <=> crystals
+        Cytokines
+MATURE COMPACT BONE: bone formed by concentric lamina
+    LACUNAE: small spaces in the bone matrix where mature cells reside
+    CANALICULI: smaller canals communicating different lacunae
+    LAMELLAE: layer of bone where all collagen fibers have the same direction. Cylindrical arrangement
+    HARVESIAN CANAL/OSTEONAL CANAL: central canal containing blood supply and nerves. Lamellae organized concentrically around it
+    CONCENTRIC LAMELLAE: lamellae arranged around a Harvesian canal
+    OSTEON: system containing the osteonal canal and all concentric lamellae around it
+        Lacunae's long axis parallel to Harvesian canal
+        Canaliculi mostly radial
+        Harvesian canal mostly parallel to bone's long axis
+    INTERSTITIAL LAMELLAE: lamellae belonging to an osteon that is no longer there due to bone remodelling
+    CIRCUMFERENTIAL LAMELLAE: lamellae surrounding the entire bone
+    VOLKMANN CANAL/PERFORATING CANAL: communicates != Harvesian canals. Also contains blood supply and nerves
+    PERIOSTEUM: layer of connective tissue that covers the outer surface of bones
+        Not present in articulations (hyaline cartilage instead)
+    ENDOSTEUM: layer of connective tissue that covers the inner surface of bones
+        Separates compact and spongy bone, covers trabeculae in spongy bone
+MATURE SPONGY BONE: same organization forming osteons, but arranged forming cavities
+    Contains the bone marrow
+    Trabecula/spicule: each bone protrusion creating the cavities in spongy bone
+IMMATURE BONE: forms the skeleton in the fetus
+    Not organized in lamellae
+    Has more cells
+    ECM has more ground substance
+By shape: long, short, flat, irregular
+Long bone structure
+    Outer part compact bone, inner part spongy bone containing bone marrow
+    EPIPHYSIS: in long bone, the farthest part. Mostly spongy bone. Articular cartilage on top
+    DIAPHYSIS: the main shaft. Mostly compact bone
+    METAPHYSIS: join point between both
+    MARROW CAVITY: spongy bone component of bones, containing the bone marrow
+    RED BONE MARROW: network of fibers and developing blood cells
+    YELLOW BONE MARROW: bone marrow that is no longer active, filled by adipocytes
+        Red bone marrow replaced by yellow in adulthood
+Cells
+    OSTEOPROGENITOR CELL: multipotent cells, in periosteum or bone surfaces. Flattened
+        Derived from mesenchymal cells
+    OSTEOBLAST: cell actively secreting bone matrix
+        Derived from osteoprogenitor cells
+        OSTEOID: bone matrix that has not yet been mineralized
+        1. Synthesize all ECM components except minerals (osteoid)
+        2. Produce vesicles containing the crystals
+    OSTEOCYTE: osteoblast completely surrounded by bone matrix, creating lacunae
+        Active cells that can respond to mechanical stress
+        Quiescent: not metabolically active
+        Formative: actively secreting ECM
+        Resorptive: participate in bone resorption
+    BONE-LINING CELL: form the periosteum/endosteum
+        Differentiated from osteoblasts
+        PERIOSTEAL CELL: form the periosteum
+        ENDOSTEAL CELL: form the endosteum
+    OSTEOCLAST: perform bone resorption
+        Derived from monocytes
+        Large, multi-nucleated
+Bone formation
+    ENDOCHONDRAL OSSIFICATION: from a cartilage primer
+        Osteoprogenitor cells surround the diaphysis and differentiate to osteoblasts
+        Osteoblasts ossificates the cartilage => bony collar
+        Osteoblasts penetrate the cartilage => primary ossification center
+        Osteoblasts travel to the epiphysis => secondary ossification center
+        Centers connected, in epiphyseal growth plate => Epiphyseal plate
+    INTRAMEMBRANOUS OSSIFICATION: without the cartilage primer
 apositional growth => in width, vs. interstitial growth
 bone remodelling
     cutting cone: osteoclasts remove bone
     closing cone: osteoblasts synthesize new bone
     bone formed in response to physical stress
+highly regulated process by PTH
 also serve as Ca2+ reservoir
 
     
