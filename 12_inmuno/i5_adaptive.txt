@@ -1,0 +1,59 @@
+targets one specific antigen
+specificity not inherited in the genome
+innate encoded in a single gene, while adaptive is polygenic
+BCR
+    Immunoglobulin
+    Each cell has BCRs that recognizes one antigen
+    Antibodies secreted by B cell are equal to BCRs, but free
+    When a B cell sees an antigen (priming) => Proliferation by mitosis to generate many cells equal than this
+    Then generate antibodies => becomes plasma cell
+    BCR complex: Ig alpha/beta + thing that recognizes the antigen + 
+    When BCR recognizes antigen, cascade that activates certain genes to produce antibodies
+    Genes involved with
+        cell cycle progression (so it can divide)
+        cytokines (so it can communicate with other cells)
+        glucose metabolism (to be able to produce things)
+        cyoskeletal organization
+    Internalizes the recognized antigen and the receptor
+        once you have no more receptors, the signal no longer is there
+    Places the recognized antigen in MHC-II
+BCR co-receptors: enhance the response of BCR
+    CD21/CR2 (complement receptor): recognizes a complement fragment
+        C3d: the complement gets deactivated so it does not kill evth, this is what remains. Attached to the pathogen
+        CD21 recognizes the complement fragment, together with CD19 sends a signal and speeds up the response
+B-cell co-stimulatory receptors: required to become a plasma cell
+    Signals provided by helper T-cells (they recognize MHC-II antigens)
+    CD40 is in the T-cell, CD40-ligand in the B cell (wrong in the slides)
+    The contact makes the T-cell recognize the B-cell so it can send cytokines, sends a signal for activation
+Humoral response: carried by liquids (antibodies)
+    Binds to pathogens or its products => opsonization (enhances macrophages)
+    neutralization: for instance, binds to virus receptors so it can't enter the cell
+        or block the toxin
+    recruits other cells
+        activates the complement (classical pathway)
+        enhance phagocytosis
+        stimulate natural-killer cells
+Antibody structure
+    quaternary structure: chains are never alone
+    two heavy chains, two light chains
+    hinge region being flexible makes the antibody have more range for recognition
+    Fab: variable part
+    Fc (fragment crystalizable): constant part
+    Ig domain: a particular tertiary structure, composed of beta sheets
+        Doesn't have to be in immune molecules, but is common there
+        Two types (both beta-sandwich): V, C
+        V has more strands
+    N-terminal is the antigen binding site, and very variable
+    Heavy chain (from N-terminal): VH, CH1, CH2, CH3
+    Light chain: VL, CL
+    Constant region has structural function, so it's more structurally similar
+    Pairs of chains are identical => 2 equal binding sites => increases the avidity (strength of interaction to antigen)
+    variability concentrated in 3 regions (hypervariable regions): HV1, HV2, HV3 (external parts of the loop)
+        HV3 the most variable
+    Epitope: part of the antigen than gets recognized
+    Antigen and antibody linked by weak bonds
+        stronger one is electrostatic, also hydrophobic
+
+
+
+
