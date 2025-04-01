@@ -61,18 +61,21 @@ Cells
         Derived from monocytes
         Large, multi-nucleated
 Bone formation
-    ENDOCHONDRAL OSSIFICATION: from a cartilage primer
+    Endochondral ossification: from a cartilage primer
         Osteoprogenitor cells surround the diaphysis and differentiate to osteoblasts
         Osteoblasts ossificates the cartilage => bony collar
         Osteoblasts penetrate the cartilage => primary ossification center
         Osteoblasts travel to the epiphysis => secondary ossification center
         Centers connected, in epiphyseal growth plate => Epiphyseal plate
     INTRAMEMBRANOUS OSSIFICATION: without the cartilage primer
-apositional growth => in width, vs. interstitial growth
-bone remodelling
-    cutting cone: osteoclasts remove bone
-    closing cone: osteoblasts synthesize new bone
-    bone formed in response to physical stress
+Growth directions
+    Apositional growth: in width
+    Interstitial growth: in height, by endochondral ossification
+Bone remodelling
+    Cutting cone: osteoclasts remove bone
+    Closing cone: osteoblasts synthesize new bone
+    Bone formed in response to physical stress
+
 highly regulated process by PTH
 also serve as Ca2+ reservoir
 

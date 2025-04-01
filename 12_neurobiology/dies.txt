@@ -2,6 +2,8 @@ MASSON'S TRICHROME: connective and muscle tissue (when you need to see fibers)
     Green: collagen and other fibers
     Red: muscle, cytoplasm
     Blue: nuclei
+MALLORY'S TRICHROME: connective tissue (fibers)
+    Green: collagen and other fibers
 ALCIAN BLUE: cartilage
     Blue: cartilage matrix
     Red: background tissue
@@ -32,3 +34,4 @@ SILVER: nervous tissue
     Black: axons and dendrites
 HOLZER: nervous tissue
     Blue: glia
+ORCEIN: stains elastic fibers
