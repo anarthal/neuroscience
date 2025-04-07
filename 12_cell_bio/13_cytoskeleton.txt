@@ -1,0 +1,37 @@
+microtubules > intermediate > microfilaments
+to move, cells polymerize the cytoskeleton to make projections in their cytoplasm in one direction
+cromosome separation and cytokinesis
+forms cilia and flagella
++ end: the direction of growth, for elements that can grow (microfilaments, microtubules)
+intermediate filaments
+    don't have a +/- end: more stable
+    immutable: once created, stays the length they are, destroyed when needed
+    in charge of structure
+microfilaments
+    double helix of actin
+    important for movement
+    unstable: require actin-binding protein to be stable
+        E.g. myosin
+    maintains microvilli
+    contractile ring in cell division
+    actin can be added to the + or -, but it is added more in the +
+    treadmilling: state where all that's added is removed
+    the process consumes ATP
+    actin alone doesn't do these, requires extra proteins
+        capping: protein added to one side to avoid adding/removing monomers
+        proteins may cause it to form a network
+        ERM: attach to membrane
+myosin: motor
+    family of related proteins
+    myosin II = muscle contraction
+microtubules
+    formed by tubulin
+    position of microtubules determines the position of membrane-enclosed organelles
+    centrosome: the main MTOC
+    1 MTOC for non-dividing, 2 for dividing, n for ciliated AZ
+    pair of centrioles: modified microtubules, surrounded by centrosome matrix, where microtubules attach
+    tau: stabilizes
+cyclosis: circular movement of cytoplasm
+    contraction of microfilaments
+    in all cells (euk, prok)
+

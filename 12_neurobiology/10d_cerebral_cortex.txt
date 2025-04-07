@@ -1,0 +1,24 @@
+gray in outer, white in inner
+frontal: motor and behavior
+parietal: touch, pain, vibration
+temporal: olfactory, hearing
+occipital: vision
+insula: emotions
+fissures are depressions deeper than sulci
+    lateral and longitudinal
+corpus callosum: axons than connect both hemispheres
+association tracts: axons between same hemisphere
+commusural tracts: axons between != hemispheres
+projection tracts: with != parts of the brain
+superficial layers connect cortex with itself, layers beneath with != brain parts
+Broca's area: language output
+Wernicke's area: language understanding
+
+
+
+
+=====
+single cell: label each cell type with one color
+Western blot: digest the tissue, extract proteins and electrophoresis to check which ones are expressed
+organoids: generate organ models from pluripotent stem cells
+electroencephalography: measure activity of points in the brain via cerebral waves

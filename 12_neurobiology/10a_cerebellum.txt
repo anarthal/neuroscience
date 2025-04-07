@@ -1,0 +1,24 @@
+behind the pons
+connected to it through the 3 peduncles
+most of connections through the middle one
+densely packed with neurons
+2 hemispheres separated by cerebellar vermis
+arbor vitae: white matter
+vestibulocerebellum: inner ear, equilibrium
+spinocerebellum: spinal cord, receives info from muscles
+cerebrocerebellum: thalamus, motor cortex. Planning of complex movements
+only output is deep cerebellar nuclei (subcateogories not reqd)
+    other cells, e.g. purkinje cells, go through these
+cerebellar cortex has always the same complexity
+    molecular layer: mainly dendrites, some interneurons and some axons. Where synapses are established
+    purkinje cell layer: somas
+    granular layer: many granule cells
+Purkinje cell
+    Inhibitory connections to the deep cerebellar nuclei
+    (deep cerebellar nuclei are excitatory)
+    E.g. if a movement fails, inhibits deep cerebellar nuclei cells not to repeat the movement
+granular cells: connected to purkinje cells. excitatory
+    parallel fibers: axons of granular cells
+    climbing fibers: axons from elsewhere, one per purkinje cell
+cerebellum affected by alcohol
+ataxia: impaired coordination and movement

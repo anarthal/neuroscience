@@ -36,4 +36,13 @@ vesicles have proteins (usually transmembrane) that act as tag
 sizeof golgi, sizeof ER depends on the cell's function, and may change in time
 vesicular transport model: composition of ER does not change in time. Adequate for small time frames
 cisternal maturation model: composition of ER changes in time. Adequate for long time frames
-lysosomes are universal: all cells have them (even bacteria)
+lysosomes
+    hydrogen pump: pump H+ ions using ATP
+    endocytosys, pinocytosis, phagocytosis and autophagy converge here
+    autophagy: recycle organelles that are now non functional and obtain energy
+    vesicle created by the golgi apparatus
+Golgi defects may inhibit post-translational modifications => neurodegeneration
+depending on signal, Golgi does !=, e.g.
+    lysosome
+    secretory
+    constitutive: targeting the plasma membrane, to maintain equilibrium

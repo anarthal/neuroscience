@@ -53,7 +53,65 @@ Antibody structure
     Epitope: part of the antigen than gets recognized
     Antigen and antibody linked by weak bonds
         stronger one is electrostatic, also hydrophobic
-
-
-
-
+    All expressed by B cells
+    if Fc is free (and not attached to a rigid structure), it can activate the complement system
+IgA: can cross the epithelium => can be secreted
+IgG1: can cross the placenta => innate immunity from mother
+IgG1, 2, 3, 4: can enter the tissue => the ones that kill stuff in the tissue
+IgM and IgD: the ones "by default", produced by naive B cells and when they just activate
+    Once they fully differentiate, they may switch the type of antibody produced
+    Naive B cells have receptors for them
+IgM
+    has no binge region: cannot flex
+    secreted as a pentamer
+    receptor is like the monomer
+    J chain: joiner
+    low affinity: one union doesn't establish very strong weak
+    high avidity: the collective strength of all the unions (pentamer) makes binding strong
+    mainly in blood, never in tissues
+    activates the complement
+    good agglutinin => completely cover the pathogen so it can't do any harm
+        it's good at agglutinating pathogens (virus, bacteria) because they have many repeated receptors (e.g. corona spikes) where it can bind
+    to a lesser extent, also secreted (J chain recognized by epithelial cells). but it's very big so not as efficient as IgA
+IgA
+    dimeric form: the more usual. Also as a monomer
+    Has also J chain => recognized for secretion
+    rigid. Not good to activate complement
+    good for neutralization of stuff in the outside (e.g. saliva)
+    also circulating, but we don't know what it does
+    transcytosis: make IgA cross the epithelium
+        the receptor that recognizes the J chain is internalized and serves as a tag to tell the cell that the vesicle should be expelled in the apical domain
+    gives babies passive immunity (immunity before it develops its immune system), together with IgG
+    also secreted in the mother's milk => passive immunity
+IgG
+    the most abundant in serum
+    small
+    can cross placenta
+    can cross epithelium because they're small
+    can get into the tissues
+    Differences in the antibody type (IgG1, IgG2...) depend on the number of disulfide bonds in the hinge region
+    live in the blood for a long time => we don't need to wait until a plasma cell produces it to perform its function
+    having the disulfide bonds in the upper region changes how they bind things
+        makes them more rigid, activate complement less
+    complement system activator
+    capacity to activate NK cells
+    capacity to produce opsonization
+    IgG4 can create hybrids: 2 != variable chains, for 2 != antigens
+IgE
+    under skin and mucosal areas
+    can sansitivize mast cells (located under skin and mucosal areas)
+    monomer
+    no hinge region
+    molecule is very flexible
+    concentration increases on allergy
+    combats helminths
+    does not activate complement. does not fight bacteria
+    produces hypersentitivity reactions
+    mast cells have receptors for IgE
+    cross linked to an antigen => a lot of antibody strongly bound to the antigen
+    when a lot of antibody bound to antigen => mast cell degranulates
+IgD
+    we don't know what it does
+    expressed by naive B cells
+    long hinge => can be cut by proteases and we find separated variable and constant regions
+    may help neutralization/opsonization of bacteria

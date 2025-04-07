@@ -59,7 +59,6 @@ Chromosome structure
         TELOCENTRIC: centromere at the end
     SPINDLE APPARATUS: cytoskeletal structure composed of microtubules. Required for chromosome segregation
         Named mitotic/meiotic spindle, depending on the division process
-    CENTROSOME: organelle where the spindle apparatus microtubules are rooted at. Associated to the nuclear membrane (outside)
     KINETOCHORE: disc-shaped proteins, located at centromeres, where spindle microtubules attach to segregate sister chromatids
 TBC: Chromosomal cytological analysis
 Number of chromosomes

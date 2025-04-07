@@ -1,0 +1,5 @@
+part of the diencephalon
+two lobes (left, right thalamus)
+internal medullary lamina: white matter
+relay neurons
+interneurons: modulate the relay neurons

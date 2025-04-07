@@ -1,0 +1,25 @@
+not really ganglia because it's the CNS, should be basal nuclei
+part of cerebrum
+reverberating circuit with cerebral cortex, via thalamus
+execution of voluntary movements and suppression of involuntary ones
+    e.g. Parkinson has it affected
+motor learning
+motor responses for emotions (connected to amygdala)
+note: substantia nigra and subthalamic nucleus are not part
+    (although they make a lot of connections)
+globus pallidus
+putamen
+caudate nucleus
+lentiform nucleus: globus pallidus + putamen
+striatum: putamen + caudate nucleus
+substantia nigra modulates activity of these neurons
+subthalamic nucleus to the globus pallidus
+medium spiny neurons
+    the most numerous
+    go to cerebral cortex via thalamus
+thalamus usually inhibited via GABA, to initiate movement we need to remove GABA, made by *this, caused by substantia nigra
+parkinson: substantia nigra neurons accumulate alpha synuclein => die
+Huntington: degeneration of basal ganglia neurons => can't select the movement to execute
+
+
+// TODO: make this pass through the thalamus
