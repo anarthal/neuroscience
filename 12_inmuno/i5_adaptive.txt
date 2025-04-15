@@ -115,3 +115,34 @@ IgD
     expressed by naive B cells
     long hinge => can be cut by proteases and we find separated variable and constant regions
     may help neutralization/opsonization of bacteria
+T cells
+    Can't recognize anything that is soluble. Only when displayed in MHCs
+    Do not secrete antibodies - TCR bound to membrane
+    TCR has 2 chains: alpha and beta. Heterodimer
+    hypervariable sites are the ones that bind antigens
+    only recognizes linear antigens: by comparing the amino-acid chain
+    MHCI: proteasome. All nucleated cells have them
+        MHC are polygenic and polymorphic
+        there are 6 MHC types, encoded by 6 != genes. We expressed all of them (although mostly HLA-A, B and C)
+        each gene has many != possible alleles
+        if a T cell recognizes an MHC that is not the one its used to, it kills
+        loading happens inside ER
+    MHCII: from phagocytosis
+        Also polymorphic, polygenic
+        But as it's only expressed by macrophages and other APCs, not as problematic for transplants
+        loaded in vesicle that digested the pathogen
+    Once the T cell has recognized something, they then look for the concrete combination of antigen + MHC type (i.e. same antigen, != type of MHC does not work)
+    Cross-presentation: dendritic cells can present in their MHCI things they've phagocyted, while other cells can only place them in MHCII
+    MHCI activates cytotoxics (CD8), MHCII activates helpers (CD4)
+    CD4 and CD8: co-receptors, increase the response that TCR would otherwise generate
+        lateral contact, in a place != to where the antigen is bound
+    TCR gamma-delta: have a != amino-acid structure in their TCR, minoritary
+        bind antigens but don't recognize MHC antigens
+    CD3: required for the TCR to be in the membrane and work
+    ITAMs: where CD3 phosphorylate (via an intrmediate kinase)
+    Some co-receptors increase response strength: activates a parallel cascade that converges and makes the response stronger
+
+
+CD79, CD21, CD4, CD8, CD3
+    
+    
