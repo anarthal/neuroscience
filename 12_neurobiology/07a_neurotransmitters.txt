@@ -1,35 +1,45 @@
-all are Ca2+ mediated
-excitatory neurotransmitter: leads to depolarization of post-synaptic element (i.e. closer to generating action potential)
-    e.g. glutamate, allows Na+ to enter
-    excitatory postsynaptic potential
-inhibitory neurotransmitter: the opposite. E.g. GABA lets Cl- to enter
-a neuron can secrete != neurotransmitters, even at once, but not in the same vesicle
-metabotropic receptors slower than ligand-gated (ionotrpic)
-    glutamate and GABA linked to faster responses
-    biogenic amines (adrenaline, noradrenaline, dopamine) linked to slower responses
-Glutamate
-    recycled by astrocytes
-    Converted to glutamine in astrocytes (glutamine synthase)
-    then returned to the neuron, and converted to glutamate again
-    there are no transporters for glutamate
-    can also be obtained from Krebs cycle, and used as an input to Krebs cycle
-GABA
-    synthesized from glutamate in neurons
-    captured by astrocytes, enters the Krebs cycle, converted to glutamate, then to glutamine => same path as glutamate
-    glutamate decarboxylase (synthesizing GABA from glutamate) expressed only in inhibitory neurons
-acetylcholine
-    small molecule
-    muscle contraction
-    from acetyl CoA (Krebs) and choline
-    no astrocytes here, degraded directly in the synaptic cleft by an enzyme
-noradrenaline
-    synthesized from dopamine
-dopamine: feel good
-serotonin: mood, sleep, happiness
-    from tryptophan
-receptors
-    ionotropic: ligand-gated ion channels. Fast, short-lived
-    metabotropic: G-protein coupled. Affect metabolism. Slow, long-lived
-    don't need to know the names of glutamate receptors 
-    benzodiazepins stimulate GABA receptors
-    metabotropic => signaling cascade that ends up activating kinases => phosphorylation of other proteins
+A neurotransmitter might be excitatory or inhibitory depending on the receptor in the postsynaptic element
+A presynaptic element can secrete != neurotransmitters at once
+REUPTAKE: absorption of neurotransmitter by axon/glia after synapse has taken place, for degradation or recycling
+    NEUROTRANSMITTER TRANSPORTER: membrane proteins that perform the reuptake
+Receptors
+    IONOTROPIC RECEPTOR: ligand-gated ion channels (neurotransmitter is the ligand)
+        Produce fast, short-lived responses
+    METABOTROPIC RECEPTOR: G-protein receptors that modulate ion channels via signalling cascade
+        Slower, longer-lived responses (affect metabolism)
+Types
+    Amino acids: glutamate, GABA
+    Small molecules: acetylcholine
+    Biogenic amines: adrenaline, noradrenaline, dopamine, serotonin
+        Act through metabotropic receptors
+Glutamate: the main excitatory neurotransmitter
+    Learning, plasticity
+    Tends to opens Na+, Ca2+ channels => depolarization
+    Glutamate-glutamine cycle: astrocyte reuptakes glutamate and recycles it
+        1. Glutamate transporters in astrocytes reuptakes glutamate
+        2. Glutamine synthase in astrocyte converts glutamate to glutamine
+        3. Glutamine transferred to neuron
+        4. Glutaminase converts glutamine to glutamate
+        5. Glutamine packed in synaptic vesicles
+    Glutamate can be synthesized/degraded in the neuron using alpha-ketogluturate (Krebs cycle intermediate) 
+    EXCITOTOXICITY: damage to neurons because of too much glutamate excitation
+GAMMA-AMINOBUTIRIC ACID (GABA): the main inhibitory neurotransmitter
+    Relaxation (diazepam promotes the effects of GABA)
+    Tends to open Cl- channels => hyperpolarization
+    Synthesized from glutamate by glutamate decarboxylase
+Acetylcholine
+    Muscle contraction
+    Parasympathetic system (e.g. diminishes heart rate)
+    Synthesized from CoA (Krebs cycle intermediate) and choline
+    Degraded by acetylcholinesterase in the synaptic cleft (no astrocytes)
+Noradrenaline/norepinephrine and adrenaline/epinephrine
+    Sympathetic system: prepares body for stress
+    Acts as neurotransmitter and as hormone
+    Synthesized from dopamine
+Dopamine
+    Controls voluntary movements
+    Reward circuit: makes us feel good
+Serotonin
+    Regulates mood, sleep, appetite, emotions
+    Involved in enteric system
+    Synthesized from tryptophan

@@ -15,8 +15,8 @@ By type of conduction
         Bidirectional
         E.g. heart, smooth muscle, retina
 By function
-    Excitatory: increase the probability of firing action potential
-    Inhibitory: decrease the probability of firing action potential
+    Excitatory: increase the probability of firing action potential (excitatory postsynaptic potentials (EPSP))
+    Inhibitory: decrease the probability of firing action potential (inhibitory postsynaptic potential (IPSP))
     Modulatory: regulate neuron activity
 Process
     1. Vesicle with neurotransmitter gets to the pre-synaptic terminal, either because it gets generated there or using anterograde transport
