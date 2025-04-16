@@ -15,6 +15,7 @@
         "CYTOKINE",
         "cytoskeleton",
         "cytosol",
+        "dura",
         "ENDOMYSIUM",
         "ENDONEURIUM",
         "EPIMYSIUM",
@@ -63,8 +64,10 @@
         "SARCOLEMMA",
         "SARCOMERE",
         "sarcomeres",
+        "subarachnoid",
         "synthase",
         "trabeculae",
-        "ubiquitin"
+        "ubiquitin",
+        "vascularized"
     ]
 }

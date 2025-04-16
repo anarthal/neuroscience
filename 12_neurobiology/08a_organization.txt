@@ -1,0 +1,51 @@
+Background
+    PROPRIOCEPTION: perception of self-position and force
+Functional organization
+    Central nervous system (CNS)
+        Brain: cerebrum (telencéfalo), cerebellum, diencephalon, brain stem (tronco encefálico)
+        Spinal cord
+    Peripheral nervous system: everything outside the CNS
+        Sensory division: conveys input towards the CNS
+            Somatic senses: body-related (tact, thermal, pain, proprioception)
+            Special senses: smell, taste, vision, hearing, equilibrium
+        Motor division: conveys output from the CNS to the effectors
+            Somatic nervous system: output to skeletal muscle. Voluntary
+            Autonomic nervous system: output to glands, smooth muscle and cardiac muscle. Involuntary
+                Sympathetic nervous system: promotes "flight or fight" responses (e.g. increase heart rate)
+                Parasympathetic nervous system: promotes "rest and digest" responses (e.g. slower heart rate). Most effectors innervated by both
+                Enteric nervous system: regulates smooth muscle and glands in gastrointestinal tract
+Functions
+    Sensory (input)
+    Motor (output)
+    Integrative (processing)
+Protection
+    Bone: cranial bones (brain), vertebrae (spinal cord)
+    MENINGES: layers of connective tissue that protect the brain and spinal cord
+        DURA MATER: thick, strong layer of dense irregular connective tissue. Continuous with epineurium
+        ARACHNOID MATER: thin connective tissue layer. Avascular. Delicate collagen and elastic fibers
+        PIA MATER: very thin connective tissue layer covering brain and spinal cord. Highly vascular
+        DENTICULATE LIGAMENTS: extensions of pia mater into arachnoid mater suspending the spinal cord
+        EPIDURAL SPACE: space between dura mater and bone (spinal cord only). Highly vascularized
+        SUBDURAL SPACE: thin space between dura mater and arachnoid mater. Interstitial fluid
+        SUBARACHNOID SPACE: space between arachnoid and pia mater. Cerebrospinal fluid (cushioning)
+====== (TODO) blood vessels
+    internal carotid: frontal supply
+    right vertebral: caudal, spinal cord, brain stem supply
+blood-brain barrier: selective
+    much more isolated than other organs (to prevent infections)
+    drugs difficult to transport
+    astrocyte endfeet: the end of the astrocytes that end in the capillaries
+    permeable to lipid-soluble, water, gas, hormones
+    non-permeable: water-soluble and toxins
+    permeability can be altered under certain conditions
+ventricular system
+    contains cerebospinal fluid
+    most waste is discarded by this fluid
+    choroid plexus: where cerebrospinal fluid is formed
+CSF
+    protection
+    waste removal
+    transport
+    signalling
+    choroid plexus => lateral ventricles => 3rd ventricle => 4th ventricle => central canal of spinal cord => subarachnoid space => veins
+    ependymal cells (glia): in the walls of ventricles

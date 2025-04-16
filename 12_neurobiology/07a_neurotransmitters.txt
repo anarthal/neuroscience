@@ -28,7 +28,7 @@ GAMMA-AMINOBUTIRIC ACID (GABA): the main inhibitory neurotransmitter
     Tends to open Cl- channels => hyperpolarization
     Synthesized from glutamate by glutamate decarboxylase
 Acetylcholine
-    Muscle contraction
+    Somatic nervous system: muscle contraction
     Parasympathetic system (e.g. diminishes heart rate)
     Synthesized from CoA (Krebs cycle intermediate) and choline
     Degraded by acetylcholinesterase in the synaptic cleft (no astrocytes)
@@ -40,6 +40,6 @@ Dopamine
     Controls voluntary movements
     Reward circuit: makes us feel good
 Serotonin
+    Enteric system
     Regulates mood, sleep, appetite, emotions
-    Involved in enteric system
     Synthesized from tryptophan
