@@ -28,9 +28,13 @@ Anatomical planes
         Medial: something located close to the mid-sagittal plane. Vs. lateral
     CORONAL PLANE/FRONTAL PLANE: vertical plane perpendicular to sagittal plane
         Divides body in anterior (face) and posterior (back) parts
-        Outside the brain, ventral=anterior, dorsal=posterior
-        In the brain, rostral=anterior, caudal=posterior
     TRANSVERSE PLANE/AXIAL PLANE: horizontal plane, perpendicular to sagittal and coronal
         Divides body in superior (upper) and inferior (lower)
-        Outside the brain, rostral=superior, caudal=inferior
-        In the brain, dorsal=superior, ventral=inferior
+    LONGITUDINAL AXIS: axis traversing CNS, from the inferior part of the spinal cord to the forebrain
+        Vertical in the spinal cord, then axial to the brain stem, then 30º upper from the horizontal
+        Referencing the plane containing the longitudinal axis and the left-right axis
+            Dorsal: on the upper part (brain) or the posterior part (spinal cord)
+            Ventral: on the lower part (brain) or the anterior part (spinal cord)
+        Referencing the plane perpendicular to the longitudinal axis
+            Rostral: on the part closer to the forebrain (brain) or the superior part (spinal cord)
+            Caudal: on the part further from the forebrain (brain) or the inferior part (spinal cord)
