@@ -1,3 +1,7 @@
+Horn: region of gray matter within the spinal cord
+Column: vertical region of white matter within the spinal cord
+PLEXUS: network of axons formed by adjacent spinal nerves
+    Most spinal nerves don't directly innervate a concrete body part - they first form plexuses with adjacent nerves
 has no integrative function
 medulla oblongata: where the brain starts
 does not occupy the entire vertebral column

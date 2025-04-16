@@ -1,3 +1,5 @@
+GYRUS: ridge on the surface of the brain, surrounded by sulci
+SULCUS: groove entering the brain, separating gyri
 gray in outer, white in inner
 frontal: motor and behavior
 parietal: touch, pain, vibration

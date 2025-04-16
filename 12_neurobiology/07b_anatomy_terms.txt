@@ -1,25 +1,36 @@
-nerve
-    endo, peri, epi neurium => connective tissue surrounding
-    axon, grouped in fascicles, grouped in nerves
-    sensory => periphery to CNS
-    motor nerve => CNS to muscle or other effectors
-    mixed nerve => both
-tract => like nerves, but without connective tissue. Bundle of axons
-    Connect parts of the CNS
-    covered by oligodendrocytes
-    ascending: sensory info to CNS
-    descending: CNS to effectors
-ganglia: cluster of neuronal cell bodies in peripheral
-nuclei: like ganglia, but in CNS
-gray matter: cell bodies, dendrites, synapses
-white matter: myelinated axons
-decussation: crosses brain sides and moves vertically
-commisure: same, but just horizontal
-peduncle: white matter connecting != regions
-cortex: outer layer of an organ
-sagittal: left-right
-    mid-sagittal: just in the middle
-    para-sagittal: not in the middle
-frontal: anterior/ventral - posterior/dorsal
-transverse: upper/rostral-lower/caudal
-planes rotate ~90º around lateral axis in the brain
+NERVE: bundle of axons in the peripheral nervous system
+    NERVE FIBER: each individual axon + Schwann cell sheath in a nerve
+    NERVE FASCICLE: group of nerve fibers. A group of fascicles constitutes a nerve
+    ENDONEURIUM: loose connective tissue surrounding individual nerve fibers (and "filling" fascicles)
+    PERINEURIUM: connective tissue surrounding a nerve fascicle
+    EPINEURIUM: connective tissue surrounding the entire nerve. Often associated with adipose tissue
+    Types
+        Sensory nerve: information from sensors to CNS
+        Motor nerve: information from CNS to effectors
+        Mixed nerve: combines both
+TRACT: bundle of axons in the central nervous system
+    Not encapsulated by connective tissue
+    Types
+        Ascending tract: information from sensors to CNS (e.g. spinal cord to thalamus)
+        Descending tract: information from CNS to effectors (e.g. cortex to spinal cord)
+GANGLION: cluster of cell bodies in the PNS
+NUCLEUS: cluster of cell bodies in the CNS
+GRAY MATTER: part of the CNS containing cell bodies, dendrites and synapses
+WHITE MATTER: part of the CNS containing myelinated axons
+FORAMEN: hole for the passage of nerves or blood vessels (e.g. intervertebral foramen)
+DECUSSATION: oblique crossing of axons (crosses from left to right and vice versa)
+COMMISSURE: horizontal crossing of axons in the CNS (no vertical component, as in the decussation)
+CORTEX: outer layer of an organ
+Anatomical planes
+    SAGITTAL PLANE: vertical plane that divides body and brain in left and right
+        MID-SAGITTAL PLANE: sagittal plane located in the symmetry axis
+        PARA-SAGITTAL PLANE: sagittal plane performing unequal divisions of the body (not along the symmetry axis)
+        Medial: something located close to the mid-sagittal plane. Vs. lateral
+    CORONAL PLANE/FRONTAL PLANE: vertical plane perpendicular to sagittal plane
+        Divides body in anterior (face) and posterior (back) parts
+        Outside the brain, ventral=anterior, dorsal=posterior
+        In the brain, rostral=anterior, caudal=posterior
+    TRANSVERSE PLANE/AXIAL PLANE: horizontal plane, perpendicular to sagittal and coronal
+        Divides body in superior (upper) and inferior (lower)
+        Outside the brain, rostral=superior, caudal=inferior
+        In the brain, dorsal=superior, ventral=inferior
