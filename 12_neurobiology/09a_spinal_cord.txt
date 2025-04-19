@@ -1,27 +1,34 @@
+Background
+    REFLEX RESPONSE: fast, non-conscious response to stimuli
+Functions: sensory, motor, reflexes (but not integrative)
+Protection: vertebral column, CSF, meninges
+External anatomy
+    VERTEBRAL CANAL: canal inside vertebrae containing meninges and spinal cord
+    SPINAL NERVE: each of the 31 pairs of nerves (left/right) exiting the spinal cord, innervating the body
+        INTERVERTEBRAL FORAMEN: lateral spaces between vertebrae, where spinal nerves exit
+        Root: bundle of axons that connect spinal nerves with the spinal cord. One dorsal, one ventral root per nerve
+        POSTERIOR ROOT GANGLION: ganglion in the posterior (dorsal) root of nerves, containing cell bodies
+    SPINAL SEGMENT: segment of spinal cord from where a certain spinal nerve emerges
+        Names matching vertebrae where the nerve exits
+        Segment may be more superior than matching vertebra (branches from the spinal cord, goes down, then exits)
+        1. Cervical
+        2. Thoracic
+        3. Lumbar
+        4. Sacral
+        5. Coccygeal
+    Cervical enlargement, lumbar enlargement: set of wider segments (more gray matter), where nerves innervating limbs branch
+    Spinal cord does not span the entire vertebral canal (ends ~ L1-L2)
+    CONUS MEDULLARIS: cone-like structure where the spinal cord ends (inferior part)
+    FILUM TERMINALE: thread-like pia mater extensions, from conus medullaris to coccyx. Anchors the spinal cord
+    CAUDA EQUINA: set of spinal nerves that exit below conus medullaris
+    PLEXUS: network of axons formed by adjacent spinal nerves
+        Most spinal nerves don't directly innervate a concrete body part - they first form plexuses with adjacent nerves
+        Cervical, brachial, lumbar, sacral
+
+
 Horn: region of gray matter within the spinal cord
 Column: vertical region of white matter within the spinal cord
-PLEXUS: network of axons formed by adjacent spinal nerves
-    Most spinal nerves don't directly innervate a concrete body part - they first form plexuses with adjacent nerves
-has no integrative function
-medulla oblongata: where the brain starts
-does not occupy the entire vertebral column
-segments (top to down)
-    cervical
-    thoracic
-    lumbar
-    sacral
-    coccygeal (only one segment)
-the segments in spinal cord does not match the segments in vertebral column
-    nerves go outside the vertebral canal, then fork
-    the segments of spinal cord receive the name of the matching vertebral column segments where nerves fork
-        (as opposed to where the nerve lives)
-    one nerve per segment, one segment per vertebra
-enlargements => innervation of body structures
-    cervical => arms
-    lumbar => limb
-other structures
-    conus medullaris => where the spinal cord ends
-    cauda equina => nerves going down from the conus medullaris
+
 white matter outside, gray inside (opposite than in brain)
 white matter
     posterior (dorsal), anterior (ventral), lateral columns
