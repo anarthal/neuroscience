@@ -1,0 +1,13 @@
+Background
+    Upper motor neuron: in cerebral cortex, synapses with spinal cord
+    Lower motor neuron: in spinal cord, synapses with effectors
+Physiopathology
+    Motor neurons (both) degenerate and die => Fatal paralysis
+    Immune system imbalance (inflammation in CNS) => Activated microglia, infiltration of T cells, changes in the level of CD4 and CD8...
+    Oxidative stress (damages cells), e.g. by mutation of SOD1 (anti-oxidant)
+    ER stress (misfolded proteins)
+    Loss of autophagy capabilities (due to mutations)
+    Downregulation of glutamate transporter in astrocytes => Excitotoxicity
+Refs
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC8300638/
+    https://www.nature.com/articles/s41540-025-00501-5
