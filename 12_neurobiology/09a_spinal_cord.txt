@@ -24,27 +24,32 @@ External anatomy
     PLEXUS: network of axons formed by adjacent spinal nerves
         Most spinal nerves don't directly innervate a concrete body part - they first form plexuses with adjacent nerves
         Cervical, brachial, lumbar, sacral
-
-
-Horn: region of gray matter within the spinal cord
-Column: vertical region of white matter within the spinal cord
-
-white matter outside, gray inside (opposite than in brain)
-white matter
-    posterior (dorsal), anterior (ventral), lateral columns
-    central canal => cerebrospinal fluid
-    white commissure => connect both lateral sides. None in posterior
-    sensory in dorsal, motor in ventral
-gray matter
-    anterior horn
-    posterior horn
-more axons in the cervical segments (more information)
-propriospinal neurons: interneurons connecting segments in the spinal cord
-covering spinal nerves
-    endoneurium (individual axons)
-    perineurium (fascicles)
-    epineurium (the entire nerve)
-plexus: a network of nerves
-    e.g. cervical: head, neck, chest
-    (all names here not required)
-dermatome: part of a body covered by a specific spinal nerve
+Internal anatomy
+    Gray matter inside, white outside
+    Separation of left/right sides
+        ANTERIOR MEDIAN FISSURE: separates white matter of left/right sides in the anterior part. Big
+        POSTERIOR MEDIAN SULCUS: same but for the posterior part. Much smaller
+    Columns: vertical regions of white matter within the spinal cord
+        Posterior/dorsal column
+        Anterior/ventral column
+        Lateral column
+    Horns: regions of gray matter within the spinal cord
+        Posterior/dorsal horn: axons of sensory neurons (bodies in ganglia), interneurons
+        Anterior/ventral horn: bodies of spinal motor neurons
+        Lateral horn: bodies of autonomic nervous system neurons (only thoracic and lumbar)
+    Communicating structures
+        White commissure: connects left and right anterior columns
+        Gray commissure: connects left and right gray matter
+        Central canal: space in the gray commissure, extending the entire spinal cord. Full of CSF. Connects with 4th ventricle
+    Section size
+        More gray matter in thoracic, lumbar enlargements (only some thoracic sections are large)
+        More white matter in the superior sections (more axons join)
+    PROPRIOSPINAL NEURON: interneuron connecting segments in the spinal cord
+Information processing
+    1. Sensory receptor detects stimulus and generates signal
+    2. Signal received by sensory neuron in posterior root ganglion
+    3.a. Signal enters white column and ascends to the brain
+    3.b. Signal to interneurons in gray matter, then ascends to the brain via white matter
+    3.c. Signal to motor neurons in gray matter, triggering spinal reflexes
+    4. Signal from motor neurons in anterior gray horn to spinal nerves and effectors
+DERMATOME: part of a body covered by a specific spinal nerve. Overlap
