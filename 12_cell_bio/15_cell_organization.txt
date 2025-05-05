@@ -1,0 +1,26 @@
+SECRETOME: set of molecules that a cell or organism secretes to the extracellular space
+Mesenchymal tissues: connective and muscle, originated from mesoderm
+Organ tissue classification
+    PARENCHYMA: functional part of an organ. Usually composed of epithelial tissue
+    STROMA: in an organ, set of tissues providing structural support. Usually composed of mesenchymal tissue
+    Epithelial/mesenchymal transition: epithelial/mesenchymal cells might transform into the other
+        Not common. Happens in embryo, tissue repair, cancer
+MORPHOGENESIS: process by which a cell, tissue or organ develops its shape
+ORGAN SYSTEM: group of organs that work together for a purpose
+    Digestive
+    Respiratory
+    Urinary
+    Genital
+    Nervous
+    Cardiovascular
+    Skin
+    Hematopoietic
+    Immune
+    Musculo-skeletal
+Organ recovery
+    ORGAN REGENERATION: full recovery (cells are replaced by the same cell type)
+    ORGAN REPAIR: original tissue replaced by connective tissue
+        Maintains integrity but loses function
+    Some tissues/organs always regenerate (e.g. skin), others always repair (e.g. heart)
+    More severe injury leads to repair
+    Chronic inflammation leads to repair
