@@ -56,8 +56,3 @@ Engineering a viral vector
         Both replicating and quiescent cells
         Low immune response
         Allow small DNA segments only
-Cell differentiation
-    Totipotent cell: may yield any other cell type + placenta
-    Pluripotent cell: may yield any other body cell type
-    Multipotent cell: adult stem cells, yields a subset of body cell types
-    Differentiated cell: performs a single function, usually it does not divide

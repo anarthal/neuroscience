@@ -1,0 +1,19 @@
+CELL POTENCY: number of cellular fates that a cell might have
+    TOTIPOTENT CELL: may yield any other cell type + placenta. Embryonic cells until morula, included
+    PLURIPOTENT CELL: may yield any other body cell type, but not the placenta
+    MULTIPOTENT CELL: adult stem cells, yields a subset of body cell types
+    Differentiated cell: performs a single function, usually it does not divide
+Stem cell types
+    EMBRYONIC STEM CELL: pluripotent cells in the developing embryo
+    ADULT STEM CELL: stem cells located in adult tissues for regeneration
+        Self-renewal: can divide itself maintaining its undifferentiated state via symmetric division
+        Can differentiate itself to specific cell types
+    INDUCED PLURIPOTENT STEM CELL (iPSC): adult stem cell that has been genetically modified to dedifferentiate and become pluripotent
+CELL LINEAGE: describes the development history of cell types through differentiation and division
+    Of a cell type (e.g. lymphoid lineage): a cell type and all of its descendants through differentiation and division
+    Of an organism: tree containing the differentiation possibilities of all cell types in the organism
+Adult stem cell differentiation
+    TRANSIT-AMPLIFYING CELL: progenitor cell originated from adult stem cell that can proliferate quickly and then differentiate. Present during tissue repair
+    TERMINALLY DIFFERENTIATED CELL: has permanently lost the capacity to divide
+        Can't go back even with iPSC procedures
+        E.g. erythrocytes (no nucleus)
