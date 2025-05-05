@@ -1,0 +1,38 @@
+3Rs: ethical framework when experimenting with animals
+    Replacement: try to use something less sentient
+    Reduction: try to use as least animals as possible
+    Refinement: try to harm them as less as possible
+Zebrafish: good animal model
+    Homology with humans
+    Less sentient than rodents => Follows 3Rs best
+    Less resources than rodents
+
+
+* In the academic plane, Nancy Hopkins made major contributions to cancer research
+  and helped establish the zebrafish as an animal model in scientific studies.
+* However, her biggest impact was perhaps in the fight for gender equality in science.
+* Nancy never saw herself as an activist, but just as a scientist that wanted her work done.
+* Her story as a fighter starts in 1993, in the MIT. <clk> At this point, she is starting to work with zebrafish.
+* She has been working there since the 70s, so she is a pretty senior professor.
+* Growing and studying zebrafish requires water tanks and this takes up a lot of physical space.
+* At this point Nancy has run out of space in the lab <clk> and requests more, <clk> but her application is denied.
+* This is pretty devastating for her, because it means that she can't carry on with her research.
+* She feels that other people at MIT have more space than her, so she complains to her superiors but she gets ignored.
+* At this point she feels that she's being treated unfairly,
+  but she doesn't know if that's just her impression or not, or why is this happening.
+* She and other women at MIT decide to stay late, <clk> use a measuring tape and literally measure the physical work space they have in the labs.
+* They find out that all the women have much less space than men,
+  even less than many men that are more junior than them.
+* Together with the other women, <clk> she decides to present a report of the situation to the MIT direction.
+* Since the report is fully backed with hard data, this time, they take it seriously and
+  end up acknowledging that gender bias is real and actually happening at the institution.
+* At this point, a committee is formed and actions to reduce the gender breach start to be taken.
+* At the time, this whole case was pretty famous <clk> and had sort of ripple effect, producing changes in other universities, too.
+* <clk> It's now 2025 and the gender breach is becoming smaller everyday thanks to people like Nancy.
+* However, "things slide backwards if we don't keep pressing forward".
+* So hopefully, when the next Nancy raises a complaint like she did,
+  we can address it before she has to use measuring tape.
+
+Refs
+    https://pmc.ncbi.nlm.nih.gov/articles/PMC6826930/
+    https://labanimres.biomedcentral.com/articles/10.1186/s42826-020-00042-4
