@@ -1,7 +1,6 @@
 Background
     REACTIVE OXYGEN SPECIES (ROS): oxygen-based toxic molecules, e.g. O2-, H2O2
     CHEMOTACTIC MOLECULE: molecule that causes chemotaxis
-    EPITOPE: the part of the antigen than binds to a receptor (e.g. antibody, BCR, TCR)
     PERFORIN: enzyme that creates holes in cell membranes
     GRANZYME: enzyme that triggers apoptosis upon entering a cell
     IMMUNE SURVEILLANCE: vigilance by the immune system to prevent tumors

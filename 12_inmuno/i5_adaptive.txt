@@ -28,37 +28,36 @@ B cell receptor (BCR)
             C3d: what remains of the complement
         CD40: recognized by helper T cells, for further activation
     Activation (by helper T cells): cloning and differentiation
-
-
-Humoral response: carried by liquids (antibodies)
-    Binds to pathogens or its products => opsonization (enhances macrophages)
-    neutralization: for instance, binds to virus receptors so it can't enter the cell
-        or block the toxin
-    recruits other cells
-        activates the complement (classical pathway)
-        enhance phagocytosis
-        stimulate natural-killer cells
+Functions of antibodies: humoral response (extracellular fluid)
+    Opsonization
+    NEUTRALIZATION: bind to pathogen or toxin so it can't perform its function
+    Recruit other cells: macrophages, NKs, complement
 Antibody structure
-    quaternary structure: chains are never alone
-    two heavy chains, two light chains
-    hinge region being flexible makes the antibody have more range for recognition
-    Fab: variable part
-    Fc (fragment crystalizable): constant part
-    Ig domain: a particular tertiary structure, composed of beta sheets
-        Doesn't have to be in immune molecules, but is common there
-        Two types (both beta-sandwich): V, C
-        V has more strands
-    N-terminal is the antigen binding site, and very variable
-    Heavy chain (from N-terminal): VH, CH1, CH2, CH3
-    Light chain: VL, CL
-    Constant region has structural function, so it's more structurally similar
-    Pairs of chains are identical => 2 equal binding sites => increases the avidity (strength of interaction to antigen)
-    variability concentrated in 3 regions (hypervariable regions): HV1, HV2, HV3 (external parts of the loop)
-        HV3 the most variable
-    Antigen and antibody linked by weak bonds
-        stronger one is electrostatic, also hydrophobic
-    All expressed by B cells
-    if Fc is free (and not attached to a rigid structure), it can activate the complement system
+    IgG as model because it's the most common one
+    IMMUNOGLOBULIN FOLD: two beta sheets (beta sandwich) joined by a disulfide bond
+    IMMUNOGLOBULIN DOMAIN (Ig domain): a domain with an immunoglobulin fold
+    Two == heavy chains (4 Ig domains), two == light chains (2 Ig domains)
+    Variable region (V): part of a chain that changes from molecule to molecule. In charge of antigen recognition
+        In the N-terminal domain, in both the heavy and the light chain
+        Forms 2 antigen binding sites
+    Constant region (V): the other parts. In charge of neutralization, opsonization...
+    HINGE REGION: flexible region in the heavy chain. Increases range for recognition
+    Light-heavy and heavy-heavy joined by disulfide bonds
+    Domain names: VH, CH1, CH2, CH3 (heavy); VL, CL (light)
+    ANTIBODY AFFINITY: the strength of the interaction between a single antigen binding site and the antigen
+    ANTIBODY AVIDITY: the total strength of the interaction between the antibody and the antigen (more binding sites => more avidity)
+    HYPERVARIABLE REGION/COMPLEMENTARITY-DETERMINING REGION (CDR): each of the sites in the variable portion where variability is concentrated
+        3 CDRs in each V region: HV1, HV2, HV3/CDR1, CDR2, CDR3
+        2x3 = 6 CDRs form a single antigen-binding site
+    FRAMEWORK REGION: regions between CDRs in the V region. Structural support
+        FR1, FR2, FR3, FR4
+    EPITOPE: the part of the antigen recognized by the antibody
+    Antibody-antigen bind via non-covalent bonds (most important ones electrostatic and hydrophobic)
+
+
+
+
+
 IgA: can cross the epithelium => can be secreted
 IgG1: can cross the placenta => innate immunity from mother
 IgG1, 2, 3, 4: can enter the tissue => the ones that kill stuff in the tissue
