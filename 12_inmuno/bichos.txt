@@ -43,7 +43,6 @@ Virus
         Endocytosis. Clathrin
     Cytopathic effects: lysis, detachment, rounding
     Interferon: antiviral proteins produced by the host
-    Major Histocompatibility Complex: molecules that make infected cells present viral antigens so they can be targeted
     Immune evasion
         Antigenic variation: viral proteins change (e.g. flu)
         Interferon inhibition: block producing or functioning of interferons

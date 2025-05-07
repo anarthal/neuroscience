@@ -1,3 +1,10 @@
+Background
+    REACTIVE OXYGEN SPECIES (ROS): oxygen-based toxic molecules, e.g. O2-, H2O2
+    CHEMOTACTIC MOLECULE: molecule that causes chemotaxis
+    EPITOPE: the part of the antigen than binds to a receptor (e.g. antibody, BCR, TCR)
+    PERFORIN: enzyme that creates holes in cell membranes
+    GRANZYME: enzyme that triggers apoptosis upon entering a cell
+    IMMUNE SURVEILLANCE: vigilance by the immune system to prevent tumors
 EXTRAVASATION: recruitment of immune cells to sites of infection
     1. Local activated macrophages use interleukins to make endothelial cells express cell-adhesion molecules
         Leukocytes slow down and roll over endothelium
@@ -10,4 +17,39 @@ EXTRAVASATION: recruitment of immune cells to sites of infection
     NEUTROPHIL-ENDOTHELIAL RECOGNITION: steps 1-3 for neutrophils, well characterized
         SELECTIN: CAM expressed by endothelial cells to make neutrophils roll
         INTEGRIN: CAM expressed by neutrophils. Part of the arrest process
-    
+Patten recognition: immune system cells recognize molecule patterns that indicate problems (non-specific)
+    PATHOGEN-ASSOCIATED MOLECULAR PATTERN (PAMP): molecular pattern in a pathogen recognized by innate immunity (e.g. lypopolysaccharides in gram negative bacteria)
+    DAMAGE-ASSOCIATED MOLECULAR PATTERN (DAMP): molecular pattern that appears on tissue damage, recognized by innate immunity (e.g. free DNA)
+    PATTERN RECOGNITION RECEPTOR (PRR): receptors on innate immune cells that recognize these patterns
+    TOLL-LIKE RECEPTOR (TLR): a particular type of PRR
+Phagocytosis
+    PHAGOSOME: membrane-bound vesicle where phagocyted particles are enclosed
+    OPSONIZATION: covering a phagocytosis target with opsonins to make it easier to target and to process
+    After recognition, the cell extends its membrane, engulfs the target and detaches parts of the membrane into a phagosome
+        PSEUDOPODIA: cell membrane extensions to engulf the target
+    Phagosome merges with granules with ROS, then with lysosomes => Digestion
+OXIDATIVE BURST: releasing ROS to kill pathogens
+    NADPH OXIDASE (NOX2): enzyme that produces ROS
+Neutrophil function: war
+    Phagocytosis
+    Oxidative burst
+    Release pro-inflammatory cytokines
+    Degranulation: granules normally released in the phagosome to avoid damage, but can be released to extracellular space in severe cases
+        In order: tertiary > secondary > primary
+    NETosis: trapping pathogens by expelling their own chromatin (implies cell death)
+        Granules released inside the neutrophil => Nucleus breaks => Expel chromatin
+        NEUTROPHIL EXTRACELLULAR TRAP (NET): chromatin released by neutrophils + other proteins, capable of trapping pathogens
+Macrophage function: war and cleanup
+    Phagocytosis
+    Oxidative burst
+    EFFEROCYTOSIS: phagocytosis of apoptotic cells before they cause extra inflammation
+    Clean up inflammatory cytokines
+    Macrophage polarization: may be pro-inflammatory (M1) or anti-inflammatory (M2). Change between them as required
+    Presents antigens from phagocytosis in MHC II
+Dendritic cell function: presenting antigens
+    Phagocytes, but doesn't degrade as much as a macrophage => Antigens exposed in MHC II
+Natural killer cell function: kill cells that might be infected or tumoral
+    Has activating and inhibitory receptors. Inspects cells, and depending on what receptors say, kills or not
+    Inspects MHC I. If it's absent (e.g. tumor), kills
+    ANTIBODY-DEPENDANT CELLULAR CYTOTOXICITY: kills cells that have bound antibodies
+    Kills by perforins + granzymes
