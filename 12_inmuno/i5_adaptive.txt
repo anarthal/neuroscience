@@ -1,3 +1,5 @@
+Background
+    AGGLUTINATION: joining several particles or cells together
 Characteristics
     Last line of defense
     Slowest to activate
@@ -21,7 +23,7 @@ B lymphocytes: responsible for humoral immunity (antibodies)
 B cell receptor (BCR)
     Immunoglobulin (Y shaped), bound to the membrane
     Each cell has BCRs specific for one antigen type
-    Secreted antibodies are immunoglobulins with the same specificity as the BCR, but free
+    Secreted antibodies are equal to BCR, with small changes. Same antigen specificity
     Stimulatory co-receptors: detecting the antigen it's not enough for activation. Co-receptors enhance the activation signal
         Regular PRRs
         CD21/CR2 (complement receptor): recognizes complement fragments attached to pathogens => The complement was not enough to kill the pathogen
@@ -53,6 +55,17 @@ Antibody structure
         FR1, FR2, FR3, FR4
     EPITOPE: the part of the antigen recognized by the antibody
     Antibody-antigen bind via non-covalent bonds (most important ones electrostatic and hydrophobic)
+ANTIBODY ISOTYPE: each class of antibody (E.g. IgG, IgD). Distinguished by their C region
+    ANTIBODY SUBISOTYPE: subclass of a certain isotype (e.g. IgG1, IgG2)
+    All have either 4Ig domains + hinge region or 5Ig domains
+    CLASS SWITCHING: process where a plasma cell changes the isotype of its secreted antibodies and BCR
+IgM: expressed as BCR by default in naive cells
+    No hinge region
+    Secreted as pentamer, joined by J-chain => Higher avidity
+    Mainly in blood (pentamer too big to enter tissues)
+    Activates the complement
+    Agglutinates pathogens
+    Can be secreted (has a J-chain), but not as efficiently as IgA because pentamers are big
 
 
 
@@ -64,18 +77,6 @@ IgG1, 2, 3, 4: can enter the tissue => the ones that kill stuff in the tissue
 IgM and IgD: the ones "by default", produced by naive B cells and when they just activate
     Once they fully differentiate, they may switch the type of antibody produced
     Naive B cells have receptors for them
-IgM
-    has no binge region: cannot flex
-    secreted as a pentamer
-    receptor is like the monomer
-    J chain: joiner
-    low affinity: one union doesn't establish very strong weak
-    high avidity: the collective strength of all the unions (pentamer) makes binding strong
-    mainly in blood, never in tissues
-    activates the complement
-    good agglutinin => completely cover the pathogen so it can't do any harm
-        it's good at agglutinating pathogens (virus, bacteria) because they have many repeated receptors (e.g. corona spikes) where it can bind
-    to a lesser extent, also secreted (J chain recognized by epithelial cells). but it's very big so not as efficient as IgA
 IgA
     dimeric form: the more usual. Also as a monomer
     Has also J chain => recognized for secretion
