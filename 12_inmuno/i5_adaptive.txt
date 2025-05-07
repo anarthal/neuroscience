@@ -89,19 +89,15 @@ IgE: helminths and allergies
     Under the skin and mucose. Not in blood
     Binds to mast cells and activates them (degranulation) when an antigen binds to it
     Does not activate the complement or fight bacteria
+IgD: expressed as BCR by default in naive cells
+    We don't know what it does
+    Long hinge => can be cut by proteases and we find separated variable and constant regions
+    May help neutralization/opsonization of bacteria
 
 
 
 
 
-IgM and IgD: the ones "by default", produced by naive B cells and when they just activate
-    Once they fully differentiate, they may switch the type of antibody produced
-    Naive B cells have receptors for them
-IgD
-    we don't know what it does
-    expressed by naive B cells
-    long hinge => can be cut by proteases and we find separated variable and constant regions
-    may help neutralization/opsonization of bacteria
 Antigen presentation: exposing antigens in certain structures for recognition by lymphocytes
     MAJOR HISTOCOMPATIBILITY COMPLEX (MHC): structure in cell surfaces that presents antigens
 T cells
