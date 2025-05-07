@@ -1,5 +1,6 @@
 Background
     AGGLUTINATION: joining several particles or cells together
+    TRANSCYTOSIS: transporting of vesicles from one side of a cell to another, through the cell's interior
 Characteristics
     Last line of defense
     Slowest to activate
@@ -66,28 +67,22 @@ IgM: expressed as BCR by default in naive cells
     Activates the complement
     Agglutinates pathogens
     Can be secreted (has a J-chain), but not as efficiently as IgA because pentamers are big
+IgA: secreted (mucosa, saliva, MALT). 2nd most common
+    As a monomer (internal fluids) and dimer with J-chain (secreted)
+    Neutralization
+    Passive immunity to newborns (secreted with breast milk)
+    Secreted by transcytosis. J-chain is recognized by epithelial cells
+    Has hinge region
 
 
 
 
 
-IgA: can cross the epithelium => can be secreted
 IgG1: can cross the placenta => innate immunity from mother
 IgG1, 2, 3, 4: can enter the tissue => the ones that kill stuff in the tissue
 IgM and IgD: the ones "by default", produced by naive B cells and when they just activate
     Once they fully differentiate, they may switch the type of antibody produced
     Naive B cells have receptors for them
-IgA
-    dimeric form: the more usual. Also as a monomer
-    Has also J chain => recognized for secretion
-    rigid. Not good to activate complement
-    good for neutralization of stuff in the outside (e.g. saliva)
-    also circulating, but we don't know what it does
-    transcytosis: make IgA cross the epithelium
-        the receptor that recognizes the J chain is internalized and serves as a tag to tell the cell that the vesicle should be expelled in the apical domain
-    gives babies passive immunity (immunity before it develops its immune system), together with IgG
-    also secreted in the mother's milk => passive immunity
-    plasma cells in MALT
 IgG
     the most abundant in serum
     small
