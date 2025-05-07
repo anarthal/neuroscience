@@ -73,43 +73,30 @@ IgA: secreted (mucosa, saliva, MALT). 2nd most common
     Passive immunity to newborns (secreted with breast milk)
     Secreted by transcytosis. J-chain is recognized by epithelial cells
     Has hinge region
+IgM: 1st most common
+    In blood, interstitial fluid, saliva, breast milk...
+    Can cross placenta => Protect fetus
+    Can cross epithelial cells because it's small
+    Subisotypes: IgG1, IgG2, IgG3, IgG4 (!= number of disulfide bonds in the hinge region)
+    Live long in plasma => Fast response to re-infection. No need to produce it again
+    Activates the complement
+    Activates NKs
+    Opsonization
+    IgG4 can create hybrids: 2 != variable chains, for 2 != antigens
+IgE: helminths and allergies
+    Monomer
+    No hinge region but flexible
+    Under the skin and mucose. Not in blood
+    Binds to mast cells and activates them (degranulation) when an antigen binds to it
+    Does not activate the complement or fight bacteria
 
 
 
 
 
-IgG1: can cross the placenta => innate immunity from mother
-IgG1, 2, 3, 4: can enter the tissue => the ones that kill stuff in the tissue
 IgM and IgD: the ones "by default", produced by naive B cells and when they just activate
     Once they fully differentiate, they may switch the type of antibody produced
     Naive B cells have receptors for them
-IgG
-    the most abundant in serum
-    small
-    can cross placenta
-    can cross epithelium because they're small
-    can get into the tissues
-    Differences in the antibody type (IgG1, IgG2...) depend on the number of disulfide bonds in the hinge region
-    live in the blood for a long time => we don't need to wait until a plasma cell produces it to perform its function
-    having the disulfide bonds in the upper region changes how they bind things
-        makes them more rigid, activate complement less
-    complement system activator
-    capacity to activate NK cells
-    capacity to produce opsonization
-    IgG4 can create hybrids: 2 != variable chains, for 2 != antigens
-IgE
-    under skin and mucosal areas
-    can sansitivize mast cells (located under skin and mucosal areas)
-    monomer
-    no hinge region
-    molecule is very flexible
-    concentration increases on allergy
-    combats helminths
-    does not activate complement. does not fight bacteria
-    produces hypersentitivity reactions
-    mast cells have receptors for IgE
-    cross linked to an antigen => a lot of antibody strongly bound to the antigen
-    when a lot of antibody bound to antigen => mast cell degranulates
 IgD
     we don't know what it does
     expressed by naive B cells
