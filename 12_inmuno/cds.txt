@@ -1,0 +1,7 @@
+CD4: helper T cells
+CD8: cytotoxic T cells
+CD19: surface protein in B cells that helps in signal transduction, together with CD21
+CD21: surface protein in B cells that recognizes the activation of the complement system
+CD40: surface protein expressed by APCs (e.g. B lymphocytes). Used by helper T cells to activate them
+
+IL21: secreted by helper T cells to activate cytotoxic T cells and B cells

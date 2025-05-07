@@ -1,30 +1,35 @@
-targets one specific antigen
-specificity not inherited in the genome
-innate encoded in a single gene, while adaptive is polygenic
-BCR
-    Immunoglobulin
-    Each cell has BCRs that recognizes one antigen
-    Antibodies secreted by B cell are equal to BCRs, but free
-    When a B cell sees an antigen (priming) => Proliferation by mitosis to generate many cells equal than this
-    Then generate antibodies => becomes plasma cell
-    BCR complex: Ig alpha/beta + thing that recognizes the antigen + 
-    When BCR recognizes antigen, cascade that activates certain genes to produce antibodies
-    Genes involved with
-        cell cycle progression (so it can divide)
-        cytokines (so it can communicate with other cells)
-        glucose metabolism (to be able to produce things)
-        cyoskeletal organization
-    Internalizes the recognized antigen and the receptor
-        once you have no more receptors, the signal no longer is there
-    Places the recognized antigen in MHC-II
-BCR co-receptors: enhance the response of BCR
-    CD21/CR2 (complement receptor): recognizes a complement fragment
-        C3d: the complement gets deactivated so it does not kill evth, this is what remains. Attached to the pathogen
-        CD21 recognizes the complement fragment, together with CD19 sends a signal and speeds up the response
-B-cell co-stimulatory receptors: required to become a plasma cell
-    Signals provided by helper T-cells (they recognize MHC-II antigens)
-    CD40 is in the T-cell, CD40-ligand in the B cell (wrong in the slides)
-    The contact makes the T-cell recognize the B-cell so it can send cytokines, sends a signal for activation
+Characteristics
+    Last line of defense
+    Slowest to activate
+    Targets a specific antigen
+    Specificity not inherited in the genome
+    Polygenic
+T lymphocytes
+    Helper T cell (CD4): activate other cells
+        Can only identify antigens in MHC II
+        Cytokines for B cell differentiation into plasma cells, cytotoxic T cell activation, macrophage activation
+        Some persist as memory cells
+    Cytotoxic T cell (CD8): kill infected cells
+        Can only identify antigens in MHC I
+        Require helper T cell cytokines to be activated
+        Some persist as memory cells
+    Regulatory T cell (CD4, CD25): inhibit immune system response
+B lymphocytes: responsible for humoral immunity (antibodies)
+    Can identify antigens anywhere
+    When an antigen is identified, internalized and presented in MHC II => Activation of helper T cells
+    Require helper T cell cytokines to differentiate into a plasma cell and produce antibodies
+B cell receptor (BCR)
+    Immunoglobulin (Y shaped), bound to the membrane
+    Each cell has BCRs specific for one antigen type
+    Secreted antibodies are immunoglobulins with the same specificity as the BCR, but free
+    Stimulatory co-receptors: detecting the antigen it's not enough for activation. Co-receptors enhance the activation signal
+        Regular PRRs
+        CD21/CR2 (complement receptor): recognizes complement fragments attached to pathogens => The complement was not enough to kill the pathogen
+            C3d: what remains of the complement
+        CD40: recognized by helper T cells, for further activation
+    Activation (by helper T cells): cloning and differentiation
+
+
 Humoral response: carried by liquids (antibodies)
     Binds to pathogens or its products => opsonization (enhances macrophages)
     neutralization: for instance, binds to virus receptors so it can't enter the cell
