@@ -1,0 +1,53 @@
+Background
+    PORIN: transmembrane protein that allows passive diffusion of substances of a certain type
+    CATABOLISM: set of metabolic pathways that break down macromolecules to produce energy or components
+    ANABOLISM/BIOSYNTHESIS: set of metabolic pathways that construct macromolecules
+    ACTIVATED CARRIER: molecule that can be split to generate energy (e.g. ATP, NADH)
+Break down of food (e.g. sugars) happen in small reactions => Capture energy as activated carriers
+Mitochondrion structure
+    Matrix: the inside space. Pyruvate oxidation, Krebs
+    Inner membrane: impermeable (~plasma membrane). With inside folds (cristae). Oxidative phosphorylation
+    Outer membrane: permeable to small molecules (contains porins)
+    Intermembrane space: space between inner and outer membranes. Where protons are stored. Contents ~cytoplasm
+General pathways
+    CELLULAR RESPIRATION: process of oxidizing biological fuels (e.g. glucose) to produce energy, using an electron transport chain. Final acceptor inorganic
+        AEROBIC RESPIRATION: cellular respiration pathway where the final acceptor is oxygen
+        ANAEROBIC RESPIRATION: cellular respiration pathway where the final acceptor is not oxygen. Less efficient than aerobic
+    OXIDATIVE PHOSPHORYLATION: synthesis of ATP from ADP in the presence of oxygen
+    FERMENTATION: process of oxidizing biological fuels to produce energy, with the final electron acceptor being organic
+Digestion: process of breaking down big food molecules (polysaccharides, fats, proteins) into smaller subunits (e.g. glucose)
+    Happens outside cells
+GLYCOLYSIS: process of breaking down glucose into pyruvate
+    Happens in the cytosol
+    Requires investing 2x ATP
+    Small net yield when compared to other processes: 2x ATP, 2x NADH, 2x pyruvate
+    Does not require oxygen
+Pyruvate decarboxylation: conversion of pyruvate to acetyl CoA
+    Happens in the mitochondrial matrix
+    PYRUVATE DEHYDROGENASE COMPLEX: enzyme that performs pyruvate oxidation in mitochondria
+    Yields 1x CO2, 1x NADH, 1x acetyl CoA
+    Similar reactions exist for fatty acids and proteins
+CITRIC ACID CYCLE/KREBS CYCLE: cycle of oxidation of acetyl CoA that yields activated carriers
+    Happens in the mitochondrial matrix
+    Every iteration requires 1x acetyl CoA, yields 3x NADH, 1x FADH2, 1x GTP
+    Does not require oxygen (only water)
+    Intermediate products used in biosynthesis
+Respiratory chain
+    ELECTRON TRANSPORT CHAIN (ETC): set of proteins that maintain a proton gradient used to generate energy
+    Located in the mitochondrial inner membrane. Gradient between intermembrane space (more protons) and matrix (less)
+    NADH, FADH2 donate electrons to ETC
+        Electrons pass from lower-affinity to higher-affinity carriers => pump protons outside the matrix
+        Final acceptor is O2
+    Requires O2 to work
+    Regenerates NAD+ to keep glycolysis and Krebs cycle working
+    Proton gradient can be used for processes that require energy
+        ATP synthesis from ADP
+        Heat generation
+        Transport of substances through the mitochondrial inner membrane
+    ATP SYNTHASE: turbine-like enzyme that generates ATP by letting protons flow downhill their concentration gradient
+Fermentation: encompasses glycolysis and NAD+ recovery, only
+    Does not require oxygen
+    Less efficient than respiration
+    NADH electron not used to produce energy. Produces waste and restores NAD+ to keep glycolysis going
+    Muscle cells produce lactic acid when oxygen is low
+    Microorganisms produce alcohol and CO2
