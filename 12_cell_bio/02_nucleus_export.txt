@@ -1,19 +1,40 @@
-NUCLEAR PORE COMPLEX: protein complex in the nuclear membrane that allows transport of molecules
-NUCLEAR LOCALIZATION SIGNAL: amino-acid sequence in proteins that allows them to be imported to the nucleus
-NUCLEAR EXPORT SIGNAL: amino-acid sequence in proteins that allows them to be exported to the cytoplasm
-IMPORTIN: protein that recognizes the nucleus localization signal and imports proteins
-    Cargo protein: carried by importin
-EXPORTIN: protein that recognizes the nucleus export signal and exports proteins
-Small molecules can diffuse, but most molecules need active transport
-Ran cycle
-    Proteins imported to nucleus by importin
-    Ran/GTP makes importin release its cargo once it gets to the nucleus
-    Ran/GTP + importin exported outside the nucleus
-    GTP hydrolizes => importin liberated, Ran is now Ran/GDP
-    Ran/GDP imported again to the nucleus by another protein
-    Ran releases GDP and picks GTP
-    Ran/GTP also binds to exportin and causes export to cytoplasm
-    Ran/GTP hydrolysis releases exportin and cargo
-Most RNAs exported as ribonucleoproteins (RNP)
-    mRNA uses non-Ran mechanism
-    Rest of RNAs use Ran
+NUCLEAR ENVELOPE/MEMBRANE: double membrane that isolates nucleus from cytoplasm
+    Small molecules can diffuse, but most molecules need active transport
+    NUCLEAR PORE COMPLEX: protein complex in the nuclear membrane that allows transport of molecules
+    NUCLEOPORIN: proteins that composes the nuclear pore complex
+    Cytoplasmic filaments: protein filaments towards the cytosol. Tell import factors where the pore is
+    FG repeats: web of proteins with repeated sequences, covering the center of the pore
+        Gel-like consistency => Diffusion barrier
+        Interact with import/export factors
+    Basket: protein filaments that join inside the nucleus
+        Interacts with import/export factors
+        Prevents heterochromatin from blocking pores
+        Quality control of mRNA (prevents premRNA from leaking out)
+    Set of rings (outer, inner, spoke) => Structural support
+Signals
+    NUCLEAR LOCALIZATION SIGNAL: amino-acid sequence in proteins that allows them to be imported to the nucleus
+    NUCLEAR EXPORT SIGNAL: amino-acid sequence in proteins that allows them to be exported to the cytoplasm
+Exportin/importin pathways
+    IMPORTIN: protein that recognizes the nucleus localization signal and imports proteins
+    EXPORTIN: protein that recognizes the nucleus export signal and exports proteins
+    Cargo protein: protein carried by an importin or exportin
+    Ran: GTPase protein that might be bound to GTP or GDP
+        Ran/GTP: high concentration in the nucleus
+        Ran/GDP: high concentration in the cytoplasm
+        Ran-GAP (GTPase activating protein): promotes Ran/GTP => Ran/GDP conversion. In the cytoplasm
+        Ran-GEF (guanine exchange factor): promotes Ran/GDP => Ran/GTP conversion. In the nucleus
+    Protein import
+        Importin recognizes localization signal and imports the protein to the nucleus
+        Ran/GTP makes importin release its cargo, replaced by Ran/GTP
+        Ran/GTP + importin exported outside the nucleus
+        GTP hydrolyzed => importin liberated, Ran is now Ran/GDP
+    Protein export
+        Exportin recognizes export signal
+        Exportin + Ran/GTP export the protein to the cytoplasm
+        GTP hydrolysis releases exportin and cargo
+    Ran/GDP and exportins carried back to the nucleus by other transporters for re-use => Ran/GDP converts into Ran/GTP
+mRNA export
+    Driven by other export receptors
+    Quality control step before export: only correct mRNAs are exported
+    Has directionality: in general, 5' end exits first
+    Some RNA associated proteins dissociate in the cytoplasm and are recycled back to the nucleus
