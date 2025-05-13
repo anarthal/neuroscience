@@ -1,43 +1,70 @@
-!= compartments => specialization => != functions, more complexity
-free ribosomes => synthesize proteins targeted to cell process
-ribosomes in the RER => synthesized proteins targeted towards either the own cell or the outside
-    all proteins generated in RER are encapsulated in vesicles. Either for exocytosis or to keep them as vesicles inside
-folding happens in both RER and SER
-all RER compartments are connected (== conditions)
-golgi: packaging and shipping
-    composed of cisternae
-    cis: incoming part (receives vesicles). Can be applied for incoming cisterna, or incoming part of a cisterna
-    trans: outgoing part (sends vesicles)
-    incoming vesicles fuse with cis and release the cargo
-    golgi then modifies the cargo, usually via glycosilation
-        some functional modifications
-        other, markers to specify where does the cargo go
-    finally, another vesicle is formed, potentially with modifications, and it passes to the next cisternae
-    tightly regulated, since failure here has serious consequences
-    golgi cisternae are separated, because each cisterna has != conditions
-lysosome
-    acidic environment
-    enzymes that break down cellular components
-    digests and recycles cellular waste
-    destroys pathogens (e.g. macrophages)
-    autophagy: cell self-eats, to generate more energy
+Background
+    ORGANELLE: specialized subunit within a cell, e.g. nucleus, ribosomes
+    VESICLE: structure of liquid surrounded by lipid bilayer
+    ENDOMEMBRANE SYSTEM: composed by all membranes inside the cytosol that work together (ER, Golgi, lysosomes, vesicles; but not mitochondria)
+!= compartments => Can perform !=, chemically incompatible functions, but more complex
+The size and number of organelles depends on cell's function, and might change in time
+Transport types
+    To/from the nucleus, through nuclear pore complexes
+    To ER, mitochondria, chloroplasts, lysosomes, peroxisomes: directly across their membrane
+    In vesicles
+ENDOPLASMIC RETICULUM (ER): membranous compartments for biosynthesis and storage
+    ROUGH ENDOPLASMIC RETICULUM (RER): has ribosomes attached to it. Protein synthesis and modification
+        Ribosomes in RER: to be packed in vesicles for the endomembrane system. Vs free ribosomes: proteins for the cytosol
+    SMOOTH ENDOPLASMIC RETICULUM (SER): lipid synthesis, Ca2+ storage, detoxification
+        E.g. SER in muscle cells distributed uniformly to produce fast, uniform contraction
+        T tubule: invagination of cell muscle's membrane that conducts the nervous impulse (via acetylcholine)
+            Causes Ca2+ release and contraction
+        When acetylcholine is removed, Ca2+ removed and muscle relaxes
+        Liberating Ca2+ does not require ATP, but recapturing does => Rigor mortis
+    Both contain chaperones to fold proteins and maintain quality control (incorrectly folded proteins are not allowed out)
+    ER STRESS: situation where unfolded proteins accumulate in the ER. Triggers an unfolded protein response
+        UNFOLDED PROTEIN RESPONSE: signaling cascade to synthesize more ER and chaperones, or trigger apoptosis
+    ER compartments are continuous (same conditions everywhere)
+GOLGI APPARATUS: receives vesicles, modifies and sorts its contents, and ships them again
+    Golgi cisterna: each of the pancake-shaped sacs that compose the Golgi apparatus
+    Golgi stack: a collection of stacked Golgi cisternae. A cell might have more than one stack
+    Cisternae are separated (!= conditions in each one)
+    Cis part: incoming (receives vesicles). Can be applied for a cisterna or a particular part of a cisterna
+        Most of incoming traffic comes from ER => located close to it
+    Trans part: outgoing (sends vesicles)
+    Cargo can be modified in cisternae. Usually by glycosilation
+    In the trans cisterna, vesicles are tagged to identify their destination: plasma membrane, lysosomes or secretion
+    Models explaining how cargo moves (both true, depends on circumstance and time lapse)
+        Vesicular transport model: cisternae's contents don't change with time. Inbound vesicles receive, cargo processed, outbound vesicle formed
+        Cisternal maturation model: cisternae's contents change with time. Cisternae travel physically along the stack, from the cis to the trans side
+
+
+    
+
+
+        
+    
+EXOCYTOSIS: process where a cell excretes elements outside of its cytoplasm
+    CONSTITUTIVE EXOCYTOSIS: 
+ENDOCYTOSIS: process where a cell uptakes external elements into its cytoplasm
+    Pinocytosis: uptake of small molecules (i.e. fluid). Happens in all cells
+    Phagocytosis: uptake of large molecules. Happens only in specialized cells
+ENDOSOME: membrane-bound organelle that acts as sorting station for vesicles internalized by pinocytosis
+    Cargo might be directed to lysosomes to be degraded, returned to the membrane or set for secretion
+    Early endosome: close to the cell membrane. The ones where recently arrived vesicles fuse with
+    Late endosome: close to the nucleus. Formed by maturation/fusion of other endosomes
+LYSOSOME: membrane-bound organelle that digests material by hydrolysis
+    Acidic environment: because degrading enzymes work better with low pH
+    Has a proton pump to maintain the acidic environment (consumes ATP)
+AUTOPHAGY: pathway where a cell directs its own organelles to digestion in lysosomes
+    Digests damaged/unnecessary organelles => material recycling
+    Produces materials during starving periods
+    AUTOPHAGOSOME: enclosing of an organelle to be recycled in a double membrane, so it can travel to lysosomes
+
+
 vesicle specificity: each vesicle has a tag that determines where it should go
-smooth ER: lipid synthesis and Ca2+ storage
-    distribution of SER in muscle cells must be uniform to produce fast, uniform contraction
-    T tubule: invagination of cell muscle's membrane that conducts the nervous impulse (via acetylcholine)
-        Causes Ca2+ release and contraction
-    When acetylcholine is removed, Ca2+ removed and muscle relaxes
-    Liberating Ca2+ does not require ATP, but recapturing does => Rigor mortis
 lipid synthesis => happens in both ER
 vesicles have proteins (usually transmembrane) that act as tag
     clathrin
     COPI
     COPII
-sizeof golgi, sizeof ER depends on the cell's function, and may change in time
-vesicular transport model: composition of ER does not change in time. Adequate for small time frames
-cisternal maturation model: composition of ER changes in time. Adequate for long time frames
 lysosomes
-    hydrogen pump: pump H+ ions using ATP
     endocytosys, pinocytosis, phagocytosis and autophagy converge here
     autophagy: recycle organelles that are now non functional and obtain energy
     vesicle created by the golgi apparatus

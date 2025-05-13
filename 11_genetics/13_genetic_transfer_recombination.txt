@@ -1,8 +1,6 @@
 Background
     RecA: protein involved in bacterial DNA repair
     ENDOSYMBIOTIC: symbiotic organism that lives within its host
-    ENDOCYTOSIS: process where a cell uptakes external elements into its cytoplasm
-    EXOCYTOSIS: process where a cell excretes elements outside of its cytoplasm
     INVERTED REPEATS: palindromic sequence separated by another sequence, e.g. TTACGnnnnnnCGTAA
 Horizontal gene transfer requires
     Mechanism of transference: e.g. transformation, transduction...
