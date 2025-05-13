@@ -25,18 +25,3 @@ CONFLUENCE: in an adherent culture, % of the surface covered by cells
     Cells don't attach on top of other cells, only to the treated plastic
     Trypsin: breaks all attachments from the cells to the plastic. Needs temperature
     Medium has serum with nutrients and growth factors and inactivates trypsin
-bright field microscopy: the usual, 2 lens, needs staining
-dark field microscopy: doesn't need staining
-phase contrast: based on phase differences. Darker zones are dense structures, e.g. nucleus, ribosomes
-    doesn't need to kill the cell (no staining)
-Nomarsky: variation of phase contrast, to see 3D surface
-fluorescent dyes: you need to kill the cell
-live imaging with fluorescence
-    doesn't need to kill the cell
-    modify genetically to make the target protein fluorescent
-confocal microscopy: better resolution, but more costly. Use only with higher magnifications
-acquisiton in z-plane: iluminate one plane, then take image, repeat
-in general, staining or electron = needs to kill the cell
-transmission electron microscopy: transmit through the cell (thin sample)
-scanning electron microscopy: scan the surface. Thicker sample
-    colors are artificial
