@@ -43,6 +43,7 @@ LATERAL DOMAIN: region in contact with neighboring epithelial cells
         CONNEXON: tube-like structure communicating two cells
         CONNEXIN: protein that forms connexons
         Connexons can be open and closed, and their state can change over time
+        In cells that require tight communication, e.g. cardiac muscle
 BASAL DOMAIN: region that faces connective tissue
     BASEMENT MEMBRANE: structure between basal domain of epithelial cells and connective tissue
         Attachment site. Scaffolding for tissue regeneration
@@ -56,8 +57,8 @@ BASAL DOMAIN: region that faces connective tissue
             Reticular fibrils, type VII collagen (anchors), fribrilin (anchors)
     Cell-to-extracellular matrix junctions: because epithelial cells require support from connective tissue
         Junctions cross the membrane, until the connective tissue
-        FOCAL ADHESIONS: junctures that use actin filaments
-        HEMIDESMOSOMES: junctures that use intermediate filaments
+        FOCAL ADHESIONS: junctures that use actin filaments. More dynamic
+        HEMIDESMOSOMES: junctures that use intermediate filaments. More static
     Basement membrane infolding: membrane is irregular (not planar)
         Increases surface => Better interaction between cells and with ECM
 GLAND: epithelial tissue whose main function is to secrete substances, either to lumen or to connective tissue

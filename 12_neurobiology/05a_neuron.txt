@@ -1,12 +1,6 @@
 Post-mitotic
     Some adult stem cells can differentiate into new neurons
 NEUROFILAMENTS: specialized intermediate filaments in neurons
-Microtubules
-    MICROTUBULE ORGANIZATION CENTER (MTOC): where microtubule formation happens
-    + end: where microtubules extend, towards the cell's periphery
-    - end: where microtubules are anchored to a MTOC
-    KINESIN: moves cargos towards the + end
-    DYNEIN: moves cargos towards the - end
 Soma: cell body
     Euchromatic nucleus
     Rough endoplasmic reticulum, Golgi, mitochondria => High anabolic activity

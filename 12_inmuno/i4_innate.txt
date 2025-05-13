@@ -15,7 +15,7 @@ EXTRAVASATION: recruitment of immune cells to sites of infection
         TRANSENDOTHELIAL MIGRATION(TEM)/DIAPEDESIS: process of crossing the endothelium by leukocytes
     NEUTROPHIL-ENDOTHELIAL RECOGNITION: steps 1-3 for neutrophils, well characterized
         SELECTIN: CAM expressed by endothelial cells to make neutrophils roll
-        INTEGRIN: CAM expressed by neutrophils. Part of the arrest process
+        Integrin: CAM expressed by neutrophils. Part of the arrest process
 Patten recognition: immune system cells recognize molecule patterns that indicate problems (non-specific)
     PATHOGEN-ASSOCIATED MOLECULAR PATTERN (PAMP): molecular pattern in a pathogen recognized by innate immunity (e.g. lypopolysaccharides in gram negative bacteria)
     DAMAGE-ASSOCIATED MOLECULAR PATTERN (DAMP): molecular pattern that appears on tissue damage, recognized by innate immunity (e.g. free DNA)

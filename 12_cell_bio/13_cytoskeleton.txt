@@ -1,53 +1,44 @@
-microtubules > intermediate > microfilaments
-to move, cells polymerize the cytoskeleton to make projections in their cytoplasm in one direction
-cromosome separation and cytokinesis
-forms cilia and flagella
-+ end: the direction of growth, for elements that can grow (microfilaments, microtubules)
-intermediate filaments
-    don't have a +/- end: more stable
-    immutable: once created, stays the length they are, destroyed when needed
-    in charge of structure
-microfilaments
-    double helix of actin
-    important for movement
-    unstable: require actin-binding protein to be stable
-        E.g. myosin
-    maintains microvilli
-    contractile ring in cell division
-    actin can be added to the + or -, but it is added more in the +
-    treadmilling: state where all that's added is removed
-    the process consumes ATP
-    actin alone doesn't do these, requires extra proteins
-        capping: protein added to one side to avoid adding/removing monomers
-        proteins may cause it to form a network
-        ERM: attach to membrane
-    the ones that create microvilli
-myosin: motor
-    family of related proteins
-    myosin II = muscle contraction
-microtubules
-    formed by tubulin
-    position of microtubules determines the position of membrane-enclosed organelles
-    centrosome: the main MTOC
-    1 MTOC for non-dividing, 2 for dividing, n for ciliated AZ
-    pair of centrioles: modified microtubules, surrounded by centrosome matrix, where microtubules attach
-    tau: stabilizes
-cyclosis: circular movement of cytoplasm
-    contraction of microfilaments
-    in all cells (euk, prok)
-intermediate filaments
-    surrounding the cell
-    instead of globular monomers, fiber-like monomers, thread themselves into a filament
-    more stable than the others, less dynamic => cell mechanical stability
-    tissue specific => != type depending on tissue (e.g. neurofilaments)
-    they don't need ATP/GTP to polymerize
-    not involved in cell movement
-    they don't have polarity
-integrin: connects cell inside-ECM
-    involved in cell signalling (mechanical transduction - sense what's happening outside)
-    in all cell types, not only epithelial 
-    filaments, then plaque, then integrin
-    hemidesmosome: with intermediate filaments => more stable
-    focal adhesions => more dynamic
-    occluding junctions fuse the two membranes
-    gap junctions in all cells that need tight coordination (e.g. intestine epithelia)
+Size: microtubules > intermediate > microfilaments
+MICROFILAMENTS: actin filaments
+    Double helix of actin globular monomers
+    Have polarity: + end tends to grow faster than - end
+    Dynamic instability: constantly growing and shrinking. Consumes ATP
+    Treadmilling: steady state where a microfilament gains and loses monomers at the same speed
+    Actin-binding proteins: bind actin to modify its behavior. E.g. stabilize, create networks...
+    Functions
+        Cell migration (lamellipodia) => polymerize cytoskeleton in a certain direction
+        Create a network under the cell membrane => structural support (cell cortex)
+        Form microvilli
+        Contractile ring for cytokinesis
+        Muscle contraction (with myosin)
+        Focal adhesions
+        CYCLOSIS/CYTOPLASMIC STREAMING: circular movement of cytosol and organelles. Actin + myosin
+MICROTUBULES: tubulin polymers
+    Tube-like structure composed of dimers of alpha and beta tubulin
+    Have polarity: + end tends to grow faster than - end
+    Dynamic instability: constantly growing and shrinking
+    Extend radially from certain locations, where the - end is anchored (no dimers lost)
+        MICROTUBULE ORGANIZING CENTER (MTOC): cell locations where microtubules are nucleated
+        CENTROSOME: a MTOC near the nucleus, where most transport-oriented microtubules are nucleated
+        CENTRIOLES: pair of modified microtubules at the core of MTOCs. Surrounded by matrix of proteins where microtubules attach
+    Tau protein: stabilizes microtubules (altered in Alzheimer)
+    Functions
+        Transport
+            KINESIN: moves cargos towards the + end
+            DYNEIN: moves cargos towards the - end
+        Mitotic spindle
+        Cilia and flagella
+        Determine the position of membrane-bound organelles
+INTERMEDIATE FILAMENTS: structural support
+    Bundle of several tetramers: 2 antiparallel dimers
+    Do not have polarity
+    Stable: once created, they stay as they are until destroyed
+    Tissue specific: each tissue has a != type of filament (e.g. neurofilaments)
+    Not involved in movement
+    They don't have associated proteins
+    Do not need ATP/GTP to polymerize
+    Functions
+        Network around the nucleus and extending to the plasma membrane => structural support
+        Nuclear lamina: network under nuclear envelope => structural support
+        Desmosomes
+INTEGRIN: cell receptors that sense changes in the ECM and participate in cell-ECM adhesion
