@@ -21,6 +21,7 @@ microfilaments
         capping: protein added to one side to avoid adding/removing monomers
         proteins may cause it to form a network
         ERM: attach to membrane
+    the ones that create microvilli
 myosin: motor
     family of related proteins
     myosin II = muscle contraction
@@ -34,4 +35,19 @@ microtubules
 cyclosis: circular movement of cytoplasm
     contraction of microfilaments
     in all cells (euk, prok)
-
+intermediate filaments
+    surrounding the cell
+    instead of globular monomers, fiber-like monomers, thread themselves into a filament
+    more stable than the others, less dynamic => cell mechanical stability
+    tissue specific => != type depending on tissue (e.g. neurofilaments)
+    they don't need ATP/GTP to polymerize
+    not involved in cell movement
+    they don't have polarity
+integrin: connects cell inside-ECM
+    involved in cell signalling (mechanical transduction - sense what's happening outside)
+    in all cell types, not only epithelial 
+    filaments, then plaque, then integrin
+    hemidesmosome: with intermediate filaments => more stable
+    focal adhesions => more dynamic
+    occluding junctions fuse the two membranes
+    gap junctions in all cells that need tight coordination (e.g. intestine epithelia)
