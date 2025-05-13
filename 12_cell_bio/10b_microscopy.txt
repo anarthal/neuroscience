@@ -1,15 +1,17 @@
-bright field microscopy: the usual, 2 lens, needs staining
-dark field microscopy: doesn't need staining
-phase contrast: based on phase differences. Darker zones are dense structures, e.g. nucleus, ribosomes
-    doesn't need to kill the cell (no staining)
-Nomarsky: variation of phase contrast, to see 3D surface
-fluorescent dyes: you need to kill the cell
-live imaging with fluorescence
-    doesn't need to kill the cell
-    modify genetically to make the target protein fluorescent
-confocal microscopy: better resolution, but more costly. Use only with higher magnifications
-acquisiton in z-plane: iluminate one plane, then take image, repeat
-in general, staining or electron = needs to kill the cell
-transmission electron microscopy: transmit through the cell (thin sample)
-scanning electron microscopy: scan the surface. Thicker sample
-    colors are artificial
+Light microscopy: uses visible light
+    Bright field: the usual, 2 lens, needs staining => can't do in-vivo
+    Dark field: doesn't need staining => can do in-vivo
+    Phase contrast: based on phase differences. Darker zones are dense structures, e.g. nucleus, ribosomes
+        No staining => can do in vivo
+    DIC/Nomarsky: variation of phase contrast, to see 3D surface
+Fluorescence microscopy
+    Small molecule fluorescent dyes: dye has affinity for certain molecule, e.g. DNA. You need to kill the cell
+    Immunofluorescence: uses flurorescent antibodies. You need to kill the cell
+    Live imaging with fluorescence: genetically modify proteins to make them fluorescent
+Confocal microscopy: blocks out-of-focus light beams to obtain better resolution (vs. widefield microscopy)
+    More costly
+    Use only with higher magnifications
+Acquisition in z-plane: illuminate one plane, then take image, repeat => 3D volume
+Electron microscopy: uses electrons. Black and white images only. Can't do in-vivo
+    Transmission electron microscopy: transmit through the cell. Thin sample
+    Scanning electron microscopy: scan the surface. Thicker sample
