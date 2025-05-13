@@ -1,20 +1,39 @@
-Ribosome biogenesis: highly regulated. Produced more when the cell needs more proteins: cell division and proliferation
-    Codified very close to the telomeres: because it can wind/unwind very easily
-    Nucleolus
-        Center transcribes the rRNA
-        Fibrillar components => preprocessing
-        Granules => assembled Ribosomes
-    Gene structure
-        ncRNA promoter: promoter for the gene that generates a ncRNA that helps in the assembly of ribosomes
-        spacer promoter: promoter for the gene that generates a RNA that coils/uncoils DNA
-            UBF: the proteins that actually uncoil the DNA
-        upstream control element: the part that binds so enhancers and promoter are brought together
-        T0: inhibitor
-    Preprocessing: all the RNAs are produced in a chain and must be cut. Additionally
-        snoRNA C/D box: methylates some nucleotides. Required to generate the hydrophobic channel for translation
-    5S: the transcription factors bind within the sequence, rather than before/after
+Ribosomes
+    Located in cytosol, rough ER, mitochondria, chloroplasts
+    Conserved. Differences between prokaryotes and eukaryotes
+    Composition: proteins and rRNA
+        Small subunit has a single RNA molecule
+        Large subunit has 2 (prokaryotes) or 3 (eukaryotes) RNA molecules of != sizes
+tRNA
+    Contains modified bases => Better pairing
+    Transcribed as larger pre-tRNA, then spliced (but not by the spliceosome)
+    Correct splicing requires correct folding => Quality control (if it didn't fold correctly, it doesn't mature)
+RIBOSOME BIOGENESIS: synthesis of ribosomes
+    Produced more when the cell needs more proteins: cell division and proliferation
+        Glucose and growth factors stimulate ribosome biogenesis
+    Steps
+        Transcription of rRNA except of 5S: nucleolus
+        Transcription of 5S rRNA: nucleoplasm
+        Protein synthesis: transcription, translation, import to nucleus
+        Assembly of subunits: nucleolus
+        Export of subunits (separately) to the cytoplasm
+    Nucleolus structure
+        Fibrillar center: rRNA transcription
+        Dense fibrillar components: pre-rRNA processing
+        Granular component: assembled subunits
+    NUCLEOLAR ORGANIZER REGION: region of chromosomes coding for rRNA transcribed in the nucleolus
+        Single gene, repeated several times across several chromosomes
+        Transcribed by RNA polymerase I
+        1. Intergenic spacer: non-coding sequence separating rDNA repeats
+        2. Origin of replication
+        3. ncRNA promoter: gene transcribes to ncRNA that helps in assembly. Transcribed by polymerase II
+        4. Spacer promoter: gene transcribes to ncRNA that promotes DNA coiling/uncoiling for regulation
+            Upstream binding factor (UBF): protein that actually coils/uncoils DNA for transcription
+        5. Upstream control element (UCE): where TFs bind. Brought together to the core promoter to initiate transcription
+        6. Core promoter
+        7. T0: inhibitor
+        8. rRNA genes, separated by internally transcribed spacers (cleavage sites)
+        rRNAs produced in a long chain (pre-rRNA). Spliced into final rRNAs by snoRNA
+        Some rRNA nucleotides methylated => Make them more hydrophobic, to create the protein exit channel
+    5S transcription: TFs bind to the transcribed sequence, rather than before/after
         Then transported to the nucleolus by some proteins
-    Proteins: just like any other protein
-        Proteins go back to the nucleus once what are produced
-    Regulated: some things enhance production, others inhibit
-        When there is glucose, growth factors, amino acids: cascade of reactions to activate ribosome biogenesis
