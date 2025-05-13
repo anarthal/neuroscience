@@ -1,31 +1,30 @@
-primary culture: what you extract directly from a biopsy
-Hayflick limit: max num times a normal cell can divide until they reach telomeric limit and die
-types
-    adherent cells: stick to surfaces
-    suspension cells: don't stick, e.g. blood cells
-    tumoral cells can be used as models because they are immortalized
-    passage: the number of times a cell has divided in the lab
-    cell lines: a concrete strain of cell type, e.g. HeLa from a particular mammal tumor
-confluence: % of surface covered by cells
-    makes sense only for adherent cells
-    all the cells attached to the surface are alive
-    contact inhibition mechanism: cella are sensitive to mechanical signals => when they sense contact, they stop dividing
-    work up to 70% confluence, otherwise they will stop dividing
-    when we reach this value => pass them to other place so they continue dividing
-    they don't attach on top of other cells, they attach to the (treated) plastic only
-    trypsin: break all attachments from the cells to the plastic
-    medium has serum with nutrients and other stuff. Serum inactivates trypsin
-    when we want to remove cells from medium, we wash with PBS, then apply trypsin, cultivate (trypsin needs temperature)
-    then put back in flask with medium which deactivates trypsin
-primary: just single culture, you don't reseed
-secondary: you reseed to amplify (sample, dilution, culture again)
-cell line: immortalized secondary culture
-    e.g. by mutation that removes mitotic checkpoints, spontaneous or induced. Or because it comes from a tumor
-3D is important because it affects dynamics, e.g. effects of a cancer drug
-    morphology changes. environment more realistic
-    spheroid: very simple 3D cell aggregate
-        e.g. tumor has an outer layer where cell divides and inner quiescent layers
-    gels: simulate ECM
+HAYFLICK LIMIT: max num times a normal cell can divide before their telomeres become too short and die (~50)
+CELL SEED: placing cells in culture (e.g. a dish) to grow them
+CELL PASSAGING: seeding a portion of cells from a culture with high confluence to another dish to amplify them
+PASSAGE NUMBER: the number of times that cell passaging has been performed to obtain a certain culture
+Culture types according to origin
+    PRIMARY CELL CULTURE: cells extracted from an in-vivo organism
+    SECONDARY CELL CULTURE/CELL SUBCULTURE: cells cultured by passaging part of another culture onto a new medium
+    CELL LINE: immortalized cells that can divide indefinitely without reaching the Hayflick limit (tumor or genetic modifications)
+Culture types according to geometry
+    2D culture: simpler but more limited
+        Adherent cells: stick to surfaces
+        Suspension cells: do not stick to surfaces
+    3D culture: more complex but more realistic
+        Resembles in-vivo because
+            Not all cells are in contact with the culture surface
+            Does not impose a forced apical/basal polarity
+            ECM more realistic: real fibrils, can contain gradients
+            Can contain many != cell types with real signalling molecules
+        Types
+            Spheroid: droplet hanging from a plate. E.g. for tumors
+            Gels: try to mimic ECM. Natural or artificial
+CONFLUENCE: in an adherent culture, % of the surface covered by cells
+    Contact inhibition mechanism: cells are sensitive to mechanical signals => when they sense contact, they stop dividing
+    Stop at ~70% confluence
+    Cells don't attach on top of other cells, only to the treated plastic
+    Trypsin: breaks all attachments from the cells to the plastic. Needs temperature
+    Medium has serum with nutrients and growth factors and inactivates trypsin
 bright field microscopy: the usual, 2 lens, needs staining
 dark field microscopy: doesn't need staining
 phase contrast: based on phase differences. Darker zones are dense structures, e.g. nucleus, ribosomes

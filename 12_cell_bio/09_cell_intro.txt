@@ -1,8 +1,0 @@
-eukaryotes: more specialized, can perform != processes thanks to membrane-bound organelles
-    disadvantages: more energy and time required
-Dapi stain: green & blue
-microfilaments: structural support and movement
-microtubules: transport and division
-intermediate filaments: keep the structure of the cell
-    made of != proteins depending on tissue
-
