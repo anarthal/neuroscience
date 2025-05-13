@@ -28,48 +28,44 @@ GOLGI APPARATUS: receives vesicles, modifies and sorts its contents, and ships t
     Cis part: incoming (receives vesicles). Can be applied for a cisterna or a particular part of a cisterna
         Most of incoming traffic comes from ER => located close to it
     Trans part: outgoing (sends vesicles)
+    Anterograde transport: cis => trans. Vs. retrograde transport
     Cargo can be modified in cisternae. Usually by glycosilation
     In the trans cisterna, vesicles are tagged to identify their destination: plasma membrane, lysosomes or secretion
     Models explaining how cargo moves (both true, depends on circumstance and time lapse)
         Vesicular transport model: cisternae's contents don't change with time. Inbound vesicles receive, cargo processed, outbound vesicle formed
         Cisternal maturation model: cisternae's contents change with time. Cisternae travel physically along the stack, from the cis to the trans side
-
-
-    
-
-
-        
-    
-EXOCYTOSIS: process where a cell excretes elements outside of its cytoplasm
-    CONSTITUTIVE EXOCYTOSIS: 
-ENDOCYTOSIS: process where a cell uptakes external elements into its cytoplasm
-    Pinocytosis: uptake of small molecules (i.e. fluid). Happens in all cells
-    Phagocytosis: uptake of large molecules. Happens only in specialized cells
-ENDOSOME: membrane-bound organelle that acts as sorting station for vesicles internalized by pinocytosis
-    Cargo might be directed to lysosomes to be degraded, returned to the membrane or set for secretion
-    Early endosome: close to the cell membrane. The ones where recently arrived vesicles fuse with
-    Late endosome: close to the nucleus. Formed by maturation/fusion of other endosomes
-LYSOSOME: membrane-bound organelle that digests material by hydrolysis
-    Acidic environment: because degrading enzymes work better with low pH
+    Defects might inhibit post-translational modification => neurodegeneration
+LYSOSOME: membrane-bound organelle that digests material by hydrolysis and recycles them 
+    Acidic environment: because degrading enzymes activate with low pH
     Has a proton pump to maintain the acidic environment (consumes ATP)
+    Enzymes produced in ER, go through Golgi, and activate in lysosomes
+PEROXISOME: membrane-bound organelle that digests material by oxidation, producing H2O2
+    Digests lipids and reactive oxygen species
+Vesicular transport: substances that travel along the endomembrane system are enclosed in vesicles during transport
+    Vesicles coated with specific signal molecules that determine their destination => Specificity
+    E.g. clathrin + adaptin 1: Golgi => lysosomes. COPI, COPII also signal molecules
+EXOCYTOSIS: process where a cell secretes elements outside of its cytoplasm
+    Pathway
+        Molecules synthesized in ER
+        Shipped in vesicles to Golgi
+        Further modified in Golgi
+        Shipped in vesicles to the plasma membrane for secretion
+    CONSTITUTIVE EXOCYTOSIS: performed by all cells to keep their plasma membrane and ECM in equilibrium
+        Vs. regulated exocytosis, performed only by specialized secreting cells
+        Vesicles from the Golgi to the plasma membrane have no tag
+ENDOCYTOSIS: process where a cell uptakes external elements into its cytoplasm
+    PINOCYTOSIS: uptake of small molecules (i.e. fluid). Happens in all cells
+    Phagocytosis: uptake of large molecules. Happens only in specialized cells
+    Pathway
+        Molecules enclosed in vesicles by invaginations of the plasma membrane
+        Vesicles fused in endosomes/phagosomes
+        Endosomes fused with lysosomes
+    ENDOSOME: membrane-bound organelle that acts as sorting station for vesicles internalized by pinocytosis
+        Cargo might be directed to lysosomes to be degraded, returned to the membrane or set for secretion
+        Early endosome: close to the cell membrane. The ones where recently arrived vesicles fuse with
+        Late endosome: close to the nucleus. Formed by maturation/fusion of other endosomes
 AUTOPHAGY: pathway where a cell directs its own organelles to digestion in lysosomes
     Digests damaged/unnecessary organelles => material recycling
     Produces materials during starving periods
     AUTOPHAGOSOME: enclosing of an organelle to be recycled in a double membrane, so it can travel to lysosomes
 
-
-vesicle specificity: each vesicle has a tag that determines where it should go
-lipid synthesis => happens in both ER
-vesicles have proteins (usually transmembrane) that act as tag
-    clathrin
-    COPI
-    COPII
-lysosomes
-    endocytosys, pinocytosis, phagocytosis and autophagy converge here
-    autophagy: recycle organelles that are now non functional and obtain energy
-    vesicle created by the golgi apparatus
-Golgi defects may inhibit post-translational modifications => neurodegeneration
-depending on signal, Golgi does !=, e.g.
-    lysosome
-    secretory
-    constitutive: targeting the plasma membrane, to maintain equilibrium
