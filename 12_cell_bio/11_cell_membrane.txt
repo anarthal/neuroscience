@@ -1,35 +1,51 @@
-functions
+Functions
     protection
     shape
     attach the cytoskeleton
     transport
     junctions
     signalling
-lipids
-    phospholipid
-        2 hydrophobic tails, one hydrophilic head
-        amphipatic: allows fusion
-        participates in electron transport chain in mitochondria
-    cholesterol: makes the membrane more fluid
-    glycolipids: cell recognition
-    can do flip-flop (turn upwards => downwards)
-proteins
-    few but very heavyweight
-    lipids associated to physical properties, proteins to functions
-    integral proteins: inserted into the membrane
-        transmembrane: cross the membrane
-        lipid-linked (?): covalently linked to the lipids
-    associated proteins: not permanently linked to the membrane, can attach or detach
-        lipid-linked
-        protein-linked
-carbohydrates
-    glycocalyx: carbohydrate layer surrounding the cell membrane. Very important in bacteria
-    lectin (surface glycoproteins in endothelium cells, part of endothelium cell's glycocalyx) binds to glycocalyx in leukocytes
-    intestine: recognizes bacteria in our microbiota
-can be modelled as a 2D fluid
-    tends to self-close (energetically favorable)
-    asymmetric (!= kind of phospholipids face inner or outer depending on type) => != potential
-    fluidity increases the fluidity of cell membranes => fever increases fluidity of white blood cell membranes so they can kill easier
-big or charged molecules can't go through
-
-
+Components
+    Lipids: physical properties
+        Phospholipid: 2 hydrophobic tails, one hydrophilic head. Main component
+            Amphipatic: allows fusion
+            Participates in electron transport chain in mitochondria
+        Cholesterol: makes the membrane more fluid and helps maintain integrity
+        Glycolipids: part of the glycocalyx
+    Proteins: specific functions (e.g. signalling)
+        Integral proteins: inserted into the membrane
+            Transmembrane: cross the membrane
+            Lipid-linked: covalently linked to the lipids
+        Associated proteins: not permanently linked to the membrane, can attach or detach
+    Carbohydrates: form the glycocalyx
+        GLYCOCALYX: carbohydrate layer surrounding the cell membrane
+        Very important in bacteria
+        Mostly linked to proteins
+        Cell recognition and adhesion
+        Lectin (surface glycoproteins in endothelium cells, part of endothelium cell's glycocalyx) binds to glycocalyx in leukocytes
+        Intestine: recognizes bacteria in our microbiota
+        Only present in the membrane's outside. Not in organelles
+Movement
+    FLUID MOSAIC MODEL: components are in permanent movement (2D fluid)
+    Flip-flop: phospholipids can turn upwards => downwards
+    Tends to self-close (energetically favorable)
+    Asymmetric (!= kind of phospholipids face inner or outer depending on type) => membrane potential
+    Heat increases the fluidity of cell membranes => fever increases fluidity of white blood cell membranes so they can kill easier
+Permeability
+    Gases: permeable
+    Small hydrophobic: passive diffusion
+    Small uncharged polar: passive diffusion, but might need transporters
+    Large uncharged polar: transporters
+    Charged (ions): transporters
+Types of transports
+    Passive: no energy required
+        Diffusion (no helper molecule)
+        Osmosis: diffusion of water molecules following concentration gradients of soluble molecules
+        Facilitated (ion channel or carrier protein)
+        Rate of diffusion increases with concentration gradient, but stalls when carriers saturate
+    Active: requires energy
+        Primary active transport: uses ATP directly (e.g. Na+/K+ pump)
+        Secondary active transport/contransporters: uses electrochemical gradient. E.g. couple Cl- transporting to K+ exiting the cell
+            Symporter: substances move in the same direction
+            Antiporter: substances move in opposite directions
+    Channels are always passive, carriers may be passive (facilitated) or active
