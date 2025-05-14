@@ -33,7 +33,7 @@ Exportin/importin pathways
         Exportin + Ran/GTP export the protein to the cytoplasm
         GTP hydrolysis releases exportin and cargo
     Ran/GDP and exportins carried back to the nucleus by other transporters for re-use => Ran/GDP converts into Ran/GTP
-mRNA export
+mRNA export: as ribonucleoprotein (RNP)
     Driven by other export receptors
     Quality control step before export: only correct mRNAs are exported
     Has directionality: in general, 5' end exits first
