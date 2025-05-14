@@ -101,6 +101,13 @@ Splicing: pre-mRNA processing to remove introns => mature RNA
         Intron retention: all of an intron included
         Mutually exclusive exons: an exon gets included if another is not
     ALTERNATIVE 3' CLEAVAGE: same gene can have several possible terminator sites => != proteins
+    EXON-EXON JUNCTION COMPLEX: set of proteins placed on mRNA after splicing. Influences identification and quality control
+NONSENSE-MEDIATED DECAY: mRNA quality control mechanism that detects bad mRNAs and tags them for degradation
+    Activated if exon-junction complex proteins are found after the stop codon => Premature stop codon
+    Happens after 1st round of translation
+N6-Methyladenosine modification (m6A): methylation of certain adenines as epigenetic marker
+    Reversible: enzymes that add it (writers), remove it (erasers) or use it (readers)
+    Has different effects depending on the context: target for degradation, enhance translation, facilitate transport...
 mRNA transport
     Identification: retains processing proteins, exon-exon junction proteins, cap
     Transport happens through nuclear pore complex

@@ -30,9 +30,9 @@ The transcriptome
             Small nucleolar RNA (snoRNA): processes pre-rRNA
             Regulatory
                 Micro RNA (miRNA): regulates gene expression
+                Small interfering RNA (siRNA): similar to miRNA, != origin
                 Short temporal RNA (stRNA): regulation during development
                 Piwi-interacting RNA (piRNA): regulates transcription of transposons (e.g. LINE-1, Alu)
-                Small interfering RNA (siRNA): similar to miRNA, != origin
                 Repeat-associated silencer RNA (rasiRNA): regulates transcription of repeated sequences, derived from themselves
         Long non-coding RNA (lncRNA)
         CRISPR RNA (crRNA): immune system in prokaryotes
