@@ -6,7 +6,7 @@ Background
 The size and number of organelles depends on cell's function, and might change in time
 Transport types
     To/from the nucleus, through nuclear pore complexes
-    To ER, mitochondria, chloroplasts, lysosomes, peroxisomes: directly across their membrane
+    To ER, mitochondria, chloroplasts: directly across their membrane
     In vesicles
 ENDOPLASMIC RETICULUM (ER): membranous compartments for biosynthesis and storage
     ROUGH ENDOPLASMIC RETICULUM (RER): has ribosomes attached to it. Protein synthesis and modification
@@ -35,7 +35,7 @@ GOLGI APPARATUS: receives vesicles, modifies and sorts its contents, and ships t
         Vesicular transport model: cisternae's contents don't change with time. Inbound vesicles receive, cargo processed, outbound vesicle formed
         Cisternal maturation model: cisternae's contents change with time. Cisternae travel physically along the stack, from the cis to the trans side
     Defects might inhibit post-translational modification => neurodegeneration
-LYSOSOME: membrane-bound organelle that digests material by hydrolysis and recycles them 
+LYSOSOME: membrane-bound organelle that digests material by hydrolysis and recycles it 
     Acidic environment: because degrading enzymes activate with low pH
     Has a proton pump to maintain the acidic environment (consumes ATP)
     Enzymes produced in ER, go through Golgi, and activate in lysosomes
