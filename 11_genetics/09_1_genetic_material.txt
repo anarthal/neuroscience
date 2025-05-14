@@ -26,7 +26,7 @@ The transcriptome
         Ribosomal RNA (rRNA) (and pre-rRNA): the main component of ribosomes
         Transfer RNA (tRNA): specifies the meaning of each codon in mRNA. Physically bound to amino-acids
         Small non-coding RNA (sncRNA): <200bp
-            Small nuclear RNA (snRNA): splicing of pre-mRNA
+            Small nuclear RNA (snRNA): splicing of pre-mRNA (spliceosome)
             Small nucleolar RNA (snoRNA): processes pre-rRNA
             Regulatory
                 Micro RNA (miRNA): regulates gene expression

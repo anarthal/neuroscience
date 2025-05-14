@@ -4,6 +4,7 @@ Ribosomes
     Composition: proteins and rRNA
         Small subunit has a single RNA molecule
         Large subunit has 2 (prokaryotes) or 3 (eukaryotes) RNA molecules of != sizes
+    Use trans RNA-RNA interactions (!= molecules)
 tRNA
     Contains modified bases => Better pairing
     Transcribed as larger pre-tRNA, then spliced (but not by the spliceosome)

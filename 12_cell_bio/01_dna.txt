@@ -1,4 +1,0 @@
-Changing conformation is much easier (less energy)
-tertiary: packing
-base stacking: planar bases create forces that help stabilization
-A-form: bases are not planar anymore
