@@ -1,0 +1,23 @@
+CELL SENESCENCE: cell stops dividing but doesn't die (metabolically active)
+    Because oxidative stress, failed checkpoints, DNA damage...
+    Specially in skin and adipose
+    SENESCENCE-ASSOCIATED SECRETORY PHENOTYPE: the particular seretome that identifies senescent cells
+        Attracts phagocytic cells but can cause inflammation
+APOPTOSIS: programmed cell death that minimizes negative consequences (vs. necrosis)
+    Intrinsic pathway: triggered from the inside (e.g. failed checkpoints)
+        Caspase 9
+        Mitochondria liberate cytochrome c
+    Extrinsic pathway: triggered externally (e.g. NK cells)
+        DEATH RECEPTOR: signal receptor that causes apoptosis
+        Caspase 8
+    Caspase: when activated, cause apoptosis
+    Procaspase: inactive caspase
+NECROSIS/ONCOSIS: uncontrolled, accidental cell death
+    ATP depletion and cell swelling
+    Membrane breaks and contents are spilled out
+    PYKNOSIS: nucleus condensation. Also happens in apoptosis
+    KARYORREXHIS: nuclear envelope breaks down
+        In apoptosis, it happens cleanly. Nucleus fragments enclosed in vesicles (apoptotic bodies)
+        In necrosis, it happens in a chaotic way. No vesicles
+    KARYOLYSIS: nuclear fragments dissolve in the cytoplasm. Afterwards, the cell breaks and spills its contents
+NECROPTOSIS: programmed necrosis. Beneficial on cell infection, when apoptosis is blocked, and because it releases DAMPs    
