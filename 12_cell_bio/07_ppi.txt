@@ -26,7 +26,7 @@ Experimental methods
 Computational methods
     High-throughput, cheap, but with more false positives
     Yield a probability of interaction
-    Lots of high negatives: proteins may interact without showing the landmarks recognized by these methods
+    Lots of false negatives: proteins may interact without showing the landmarks recognized by these methods
     Can't distinguish between physical interaction and functional association
     PHYLOGENETIC PROFILING: assumes that two proteins encoded by genes with similar presence/absence in != organisms are related
         INTEROLOG: given two pairs of homolog genes between two species, a conserved interaction between the proteins they encode
