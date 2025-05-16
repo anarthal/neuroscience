@@ -1,42 +1,25 @@
-zygote: fusion of oocyte and sperm
-morula: ball of cells
-blastula: hollow structure
-    trophoblast: outer layer
-    embryoblast: inner
-gastrula: 3 layers. When it implants into the 
-    ectoderm
-        neural plate => neural tube
-        epidermis
-        generates
-            skin
-            nervous system
-            sensory organs (retina, inner ear...)
-    mesoderm
-        muscle
-        blood vessels, blood
-        kidney
-        reproductive system
-    endoderm
-        digestive tract
-        respiratory system
-        extrectory system
-    notochord: embryonic only (lost), for differentiation
-cell types
-    totipotent: can generate embryo cells and placenta
-    pluripotent: can generate embryo cells
-    multipotent: adult stem cells
-neurulation: formation of the neural tube
-    neural plate folds into neural groove
-    closes and forms the tube and neural crest
-    neural crests form somites => vertebrae, ribs, back muscles...
-prosencephalon: cerebrum and encephalum
-    telencephalon: cerebrum
-    diencephalon: epithalamus, thalamus, hypothalamus
-mesencephalon: midbrain
-rhombencephalon
-    metencephalon: pons, cerebellum
-    myelencephalon
-radial glia: progenitors of neurons and all glia except microglia
-adult neurogenesis: only in certain areas (neurogenesis niches)
-    subgranular zone (SGZ): memory and learning
-    SVZ and 
+NEURAL TUBE: tubular, longitudinal structure that forms in the embryo and develops into the nervous system
+    NEURAL PLATE: ectoderm (in gastrula) thickens and forms this layer that will eventually close into the neural tube
+        Located in the dorsal part
+    NEURULATION: process where the neural plate closes into the neural tube
+    NOTOCHORD: embryonic-only structure, ventral to neural tube, that aids in the process of neurulation
+    NEURAL GROOVE: central thickening of the neural plate, formed during neurulation
+    NEURAL FOLD: lateral parts of the neural plate that end up closing to form the neural tube
+    NEURAL CREST: cells just above the just-formed neural tube. End up transitioning to mesenchymal cells and migrating
+    SOMITE: structures below neural plate/tube, that will form vertebrae, ribs, back muscles...
+    Cell layers (follow spinal cord's logic)
+        Marginal layer (outer): yields the white matter
+        Mantle layer (middle): yields the gray matter
+        Central layer (inner): yields ependymal cells
+    Develops due to opposed gradients of signals
+        Bone morphogenetic protein: neural crest
+        Sonic the hedgehog protein: notochord
+Brain vesicles: neural tube develops into several vesicles that will form the adult CNS. Primary (3), develop into secondary (5)
+    PROSENCEPHALON: the more rostral primary brain vesicle
+        TELENCEPHALON: secondary brain vesicle that yields the cerebrum and lateral ventricles
+        DIENCEPHALON (secondary vesicle): secondary brain vesicle that yields the adult diencephalon and 3rd ventricle
+    MESENCEPHALON: middle primary and secondary brain vesicle that yields the midbrain
+    RHOMBENCEPHALON: the more caudal primary brain vesicle
+        METENCEPHALON: secondary brain vesicle that yields the pons and cerebellum. And 4th ventricle, with myelencephalon.
+        MYELENCEPHALON: secondary brain vesicle that yields the brain stem
+Neurogenesis in adults: olfactory bulb and hippocampus

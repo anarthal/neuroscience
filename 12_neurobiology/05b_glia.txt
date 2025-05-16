@@ -10,10 +10,12 @@ ASTROCYTE (CNS): the most common type. Support neurons
     Types
         Protoplasmic: ion homeostasis, metabolic support
         Fibrous: blood-brain barrier
-        Radial glia: multipotent cell, can differentiate into neurons or glia
     GLIAL SCAR: proliferation of astrocytes on neuronal damage
         Prevents damage and inflammation from spreading
         Too much can cause neurodegeneration
+RADIAL GLIA (CNS): progenitors cells in the nervous system
+    Differentiate into neurons and glial cells, except for microglia
+    Scaffold for developing neurons
 MICROGLIA (CNS): derived from monocytes, part of the immune system
     Defense, cleanup and remodelling of synapses
     May be resting (initial state), pro-inflammatory and anti-inflammatory
