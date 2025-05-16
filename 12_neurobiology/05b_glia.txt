@@ -40,4 +40,3 @@ MYELIN SHEATH: covers the axon
         Not covered by myelin
         SALTATORY CONDUCTION: perform relay of the signal. This increases signal conduction speed
     Mostly lipids, with some proteins => Does not stain
-BLOOD-BRAIN BARRIER: selective barrier that allows the passage of nutrients and ions, but not pathogens and other cells
