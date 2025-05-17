@@ -34,7 +34,22 @@ Functional areas
         WERNICKE'S AREA: language comprehension
         PREFRONTAL CORTEX: reasoning, control of behavior
     LIMBIC SYSTEM: emotions and memory formation
+Histology
+    Gray matter in each area has at most 6 layers
+        I.   Molecular layer: axons
+        II.  External granular layer: small cells
+        III. External pyramidal layer: small/medium pyramidal cells
+        IV.  Internal granular layer: small cells
+        V.   Internal pyramidal layer: large pyramidal cells
+        VI.  Multiform layer: cells of all sizes. Connects with thalamus
+    Depending on how many layers are present and how big each one is, areas can be classified
+        ALLOCORTEX: low complexity. Lacks IV, V, VI
+        MESOCORTEX: medium complexity
+            AGRANULAR: lacks IV
+            DYSGRANULAR: IV is very small
+        ISOCORTEX: high complexity. All layers present
+            EULAMINATE: depending on how much layer IV, eulaminate I, II and III
+            KONIOCORTEX: the most complex
 HOMUNCLE: mapping from body sensors/effectors and the cerebral cortex
     Not all areas are equally represented
 Left hemisphere is logical, right hemisphere is more emotional/creative
-    
