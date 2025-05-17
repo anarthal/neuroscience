@@ -1,24 +1,31 @@
-medulla oblongata
-    decussation of the pyramids: all nerves cross from left to right
-        pyramids are in the ventral part
-    some of them do not perform this cross
-    has nuclei for autonomic functions like cardiac
-        nuclei: groups of neuron soma
-    has relay stations for sensors (names not reqd)
-    last cranial nerves (nerves that don't go though spinal cord) exit there
-pons
-    respiratory center
-    locus coeruleus: main center that produces noradrenaline, transported through the axons and released in synapse
-    is the exit of other cranial nerves
-midbrain
-    colliculus not relevant
-    substantia nigra: dopamine neurons
-    red nucleus: pigmented with Fe, involved in motor movements. More relevant in other animals (we have the motor cortex)
-    has also cranial nerves
-    reticular formation: network of neurons
-raphe nuclei: produces serotonin, connected to the rest of cerebral cortex
-cranial nerves: emerge from brain and brain stem
-    12 pairs (one for left, one for right) in total
-    olfactory nerve: 
-    optic nerve: vision (only sensory)
-    vagus nerve: sensory (ear, larynx, internal...) and motor (speech, heart, lungs)
+Background
+    CONTRALATERAL ORGANIZATION: brain hemispheres in one side control the other side of the body
+    AROUSAL: process of wakening from sleep
+MEDULLA OBLONGATA: inferior part of the brain stem. Ascending/descending tracts and nuclei
+    Nuclei for vital functions (respiratory center, cardiovascular center, deglutition center)
+    PYRAMIDS (medulla oblongata): tracts to/from the brain. Anterior
+    DECUSSATION OF THE PYRAMIDS: crossing of tracts at the level of pyramids (contralateral control)
+    MEDIAL LEMNISCUS: connects gracile/cuneate nuclei with thalamus
+    GRACILE NUCLEUS: somatosensory info. Dorsal
+    CUNEATE NUCLEUS: same as gracile nucleus, but for other body parts. Dorsal
+    5 cranial nerves enter here (e.g. vagus, vestibulocochlear)
+PONS: middle part of the brain stem. Same height as cerebellum
+    Nuclei for vital functions (pons respiratory center)
+    LOCUS COERULEUS: main noradrenaline production center. Dorsal (next to 4th ventricle)
+    4 cranial nerves enter here
+MIDBRAIN/MESENCEPHALON: upper part of the brain stem, just below diencephalon
+    CEREBRAL PEDUNCLES/CRUS CEREBRI: tracts connecting cerebral cortex with brain stem. Anterior
+        Corticospinal, corticobulbar, corticopontine motor tracts pass through here
+    SUBSTANTIA NIGRA: dopaminergic neurons connecting with basal ganglia for movement control (degenerated in Parkinson). Posterior to peduncles
+    RED NUCLEUS: neurons pigmented with iron, involved in motor movements. Medial
+    Cerebral aqueduct passes through here. Posterior to red nucleus
+    COLLICULUS: each of the four rounded elevations in the posterior part of the midbrain
+    4 cranial nerves enter here
+RETICULAR FORMATION: network of neurons and axons dispersed through the brain stem
+    Ascending: involved in awakening, maintenance of attention
+    Descending: muscle tone and vital functions
+    RAPHE NUCLEI: neurons producing serotonin in the reticular formation. Alterations connected to depression
+CRANIAL NERVE: nerves emerging from brain stem and brain, rather than spinal cord
+    12 in total, numbered from I (superior) to XII (inferior)
+    Sensory cranial nerves: sensory info only (olfactory, optic, vestibulocochlear)
+    Mixed cranial nerves: sensory and motor info (vagus)

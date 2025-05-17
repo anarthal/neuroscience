@@ -13,12 +13,15 @@
         "chondroblasts",
         "CHONDROCYTE",
         "chondrocytes",
+        "COERULEUS",
         "cofactor",
+        "contralateral",
         "CYTOKINE",
         "cytoskeleton",
         "cytosol",
         "CYTOTOXICITY",
         "decarboxylation",
+        "dopaminergic",
         "dura",
         "EFFEROCYTOSIS",
         "ENDOCYTOSIS",
@@ -78,6 +81,7 @@
         "MYOFIBRIL",
         "NADH",
         "Neurogenesis",
+        "NIGRA",
         "nucleosome",
         "octamer",
         "OLIGODENDROCYTE",
@@ -104,6 +108,7 @@
         "PROSENCEPHALON",
         "PROTEASOME",
         "proteoglycan",
+        "RAPHE",
         "RETICULIN",
         "reuptake",
         "reuptakes",
@@ -113,6 +118,7 @@
         "SECRETOME",
         "STROMA",
         "subarachnoid",
+        "SUBSTANTIA",
         "synthase",
         "telomere",
         "telomeres",
@@ -121,6 +127,7 @@
         "trabeculae",
         "TRANSCYTOSIS",
         "ubiquitin",
-        "vascularized"
+        "vascularized",
+        "vestibulocochlear"
     ]
 }

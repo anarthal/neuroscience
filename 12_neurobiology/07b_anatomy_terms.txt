@@ -13,6 +13,7 @@ TRACT: bundle of axons in the central nervous system
     Types
         Ascending tract: information from sensors to CNS (e.g. spinal cord to thalamus)
         Descending tract: information from CNS to effectors (e.g. cortex to spinal cord)
+LEMNISCUS: thin, planar tract
 GANGLION: cluster of cell bodies in the PNS
 NUCLEUS: cluster of cell bodies in the CNS
 GRAY MATTER: part of the CNS containing cell bodies, dendrites and synapses
