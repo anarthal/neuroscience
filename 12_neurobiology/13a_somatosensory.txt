@@ -1,0 +1,35 @@
+these signals may
+    spinal cord: reflexes
+    brainstem: reflexes for heartbeat, etc
+    cerebral cortex: conscious
+receptors based on microscopic structure
+    free nerve endings: no receptor (pain, temperature)
+    encapsulated nerve endings: nerve surrounded by connective tissue (pressure, vibration)
+    specialized receptors (special senses)
+receptors based on location
+    exteroreceptors: outside/near outside
+    interoreceptors: blood vessels, organs..
+    proprioreceptors: muscles, tendons and inner ear (equilibrium)
+receptors based on type of stimulus
+    mechanoreceptors
+    thermoreceptors
+    nociceptor: pain
+    photoreceptor: light
+    chemoreceptor: chemicals in mouth, bloodstream
+glabra skin contains more mechanoreceptors than hair skin
+thermoreceptors: in the base of the epidermis
+    cold receptors: 10 < T < 35. Adelta and C fibers (faster)
+    warm receptors: 35 < T < 50. Only C fibers (slower)
+nociceptor: free nerve endings (Adelta, C) in every tissue except brain
+    Intense thermal, mechanical, chemical stimuli (damage)
+visceral pain: nerves from organ converge with the skin receptors on top of it => we feel it in the skin
+propioreceptors
+    muscle spindle: detects changes in muscle fiber length
+    golgi tendon organ: detects tendon extension and prevents excessive extension
+    joints: detects joint position
+tracts
+    all tracts are: 1st order in ganglion (PNS), 2nd order in brainstem, 3rd order in thalamus
+    trigeminothalamic tract: somatic info for face
+    posterior column tract: ascending info in the posterior part of the spinal cord. Carries somatic info for limbs, abdomen...
+    somatotopic: axons don't cross, in parallel. 1st dorsal root, 2nd medulla oblongata, 3rd thalamus
+    anterolateral: temperature and pain for body (not face). crosses in spinal cord

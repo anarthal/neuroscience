@@ -1,0 +1,19 @@
+direct motor pathway: start in cortex. Vs. indirect: start in brainstem/cerebellum
+upper motor neuron: in cerebral cortex (primary motor area and premotor)
+    premotor plans
+    primary motor executes
+    pyramidal and in layer V
+basal ganglia spiny neurons
+    to thalamus and cerebral cortex
+    decide whether to initiate the movement or not
+cerebellar neuron: read skeletal muscle position and adjust
+local interneuron: regulate
+lower motor neuron: brainstem and spinal cord
+    the ones that actually do the synapse with muscle or glands
+tracts
+    corticospinal tract. Limbs, trunk (lower body)
+        lateral (90%): crosses in decussation of the pyramids
+        ventral (10%): crosses in spinal cord
+    corticobulbar tract. Cortex to brain stem (head, face, neck)
+        synapses in brainstem
+indirect not relevant atm

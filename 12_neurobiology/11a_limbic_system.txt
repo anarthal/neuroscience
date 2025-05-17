@@ -1,0 +1,24 @@
+insula lobe: part of the cortex involved in limbic system
+olfactory bulb related: the special sense that evokes more emotions
+amygdala
+    part of the cerebrum but not the cortex
+    corticomedial group: linked to olfactory
+    basal-lateral group: the one more evolved in humans, linked to conscious behavior?
+    connected to
+        prefrontal cortex: make decisions in emotional responses
+        hippocampus: establish emotional memories
+        hypothalamus and brain stem: non-voluntary responses to emotions (e.g. heart rate)
+    overactivation: depression, stress, phobias
+    damage: autism-like
+
+
+hippocampus
+    part of the cerebrum but not the cortex
+    related to spatial navigation (GPS)
+    involved in generation of memories (but does not store them)
+    converts short-term to long-term memories (and seems to be the only region with that capability)
+    grid cells: store where in space you are
+
+short-term memory does not involve structural (synapse) changes (only action potentials), while long-term memories are
+
+nucleus accumbens: reward system (dopamine)

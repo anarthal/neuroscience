@@ -1,0 +1,41 @@
+hearing: mechanical receptors for vibration
+external ear: collecting sound
+middle ear: transmission
+    tympanic membrane
+    small bones for transmission
+inner ear: receptors
+    cochlea: hearing
+    vestibule: equilibrium
+    one nerve branch for each
+physiology
+    sound wave enters external ear
+    tympanic membrane vibrates
+    the 3 ossicles transmit and amplify the vibration
+    transmits to fluid in the inner ear
+    this leads to deformation of hair cells in the cochlea
+cochlea is a spiral canal, with 3 sections
+    vestibular ramp: perilymph
+    cochlear ramp: endolymph
+    tympanic ramp: perilymph
+    perilymph: high Na+, low K+ (~ extracellular)
+    endolymph: low Na+, high K+ (~ intracellular)
+    corti organ: contains the cells for transduction
+    basilar membrane: separates tympanic and cochlear, receptors on top
+    inner hair cells: most of them
+    outer hair cells: for frequency
+    hair cells have stereocillia that are connected to each other
+    there is a membrane on top of them. The membrane width changes, so it's sensitive to frequency
+    when they move to one side, they depolarize => nerve impulse. The other side causes hyperpolarization
+    movement leads to K+ channel opening => depolarization => glutamate release
+inner ear for equilibrium
+    semicircular canals
+    receptors are in utricle and saccule
+    receptors are crystals named otoliths
+    otoliths move when there is movement and press hair cells
+    semicircular canals don't have otoliths but have receptors, and work with a cupule that moves
+    one cupule for each canal
+    transduction the same as for hearing
+transduction
+    1st order neuron: near the hair cells
+    2nd order neuron: medulla oblongata (cochlear/vestibular nucleus)
+    3rd order neuron: thalamus/cerebellum

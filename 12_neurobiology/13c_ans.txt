@@ -1,0 +1,27 @@
+pituitary gland / hypophysis: produces hormones
+2 neuron system: one in the spinal cord, another in a ganglion
+    sympathetic
+        pre-ganglion neuron: in the lateral gray horn
+        post-ganglion neuron: in the ganglion (connected, most of them ventral, outside)
+    parasympathetic
+        pre-ganglion neuron: in the spinal cord at the end, and in the brainstem
+        post-ganglion neuron: ganglia next to organs
+reflexes: control loop to regulate blood pressure and similar
+enteric
+    myenteric plexus: movement of the tract
+    submucosal plexus: glands (liver, pancreas)
+hypophysis is a gland, not neurons
+hypothalamus: the regulator of ANS, part of diencephalon
+    info <=> spinal cord, brainstem, cerebral cortex and limbic system
+    controls glucose, osmolarity, hormones, temperature
+    reads melatonin and controls circadian rhythms
+    involved in autonomic response to emotions
+    regulates appetite
+portal system: how hypothalamus controls hormone production
+    network of capillaries surround the gland
+    neurons release neurotransmitters onto smooth muscle of capillaries, then into the blood
+pituitary gland/hypophysis
+    infundibulum: connects hypophysis and hypothalamus
+    adenohypophysis: epithelian (gland) cells (the ones that go through portal system)
+    neurohypophysis: axons of hypothalamus neurons that secrete hormones directly into the blood
+    controlled by hypothalamus and negative feedback loop
