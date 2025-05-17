@@ -1,14 +1,28 @@
-behind the pons
-connected to it through the 3 peduncles
-most of connections through the middle one
-densely packed with neurons
-2 hemispheres separated by cerebellar vermis
-arbor vitae: white matter
-vestibulocerebellum: inner ear, equilibrium
-spinocerebellum: spinal cord, receives info from muscles
-cerebrocerebellum: thalamus, motor cortex. Planning of complex movements
-only output is deep cerebellar nuclei (subcateogories not reqd)
-    other cells, e.g. purkinje cells, go through these
+CEREBELLUM: posterior to pons. Motor adjustment and learning, equilibrium
+    Most of the neurons in the brain are here
+External anatomy
+    Anterior lobe: anterior, upper part
+    Posterior lobe: posterior, lower part
+    Flocculonodular lobe: small, cylindrical lobe below posterior lobe, next to pons
+    Primary fissure: separates anterior and posterior lobes. In the superior surface
+    Vermis: separates the cerebellar hemispheres
+    CEREBELLAR PEDUNCLES: connect cerebellum with the rest of the CNS
+        Superior: to midbrain
+        Middle: to pons. Most of the connections happen here
+        Inferior: to medulla oblongata
+Functional divisions
+    Vestibulocerebellum: flocculonodular lobe. Info from vestibular system
+    Spinocerebellum: vermis and central parts of anterior/posterior lobes. Info <=> spinal cord
+    Cerebrocerebellum: rest of anterior/posterior lobes. Info <=> thalamus, cerebral cortex. Motor planning
+Histological components
+    CEREBELLAR FOLIA: each of the leaf-shaped ridges in the cerebellar surface (singular folium). Covered by meninges
+        CEREBELLAR CORTEX: gray matter portion of each folium. Has always the same complexity (vs. cerebral cortex)
+            Molecular layer: 
+        ARBOR VITAE: white matter portion of each folium
+    DEEP CEREBELLAR NUCLEI: nuclei in the center of the cerebellum
+        Neurons use glutamate
+        The only cerebellum output
+
 cerebellar cortex has always the same complexity
     molecular layer: mainly dendrites, some interneurons and some axons. Where synapses are established
     purkinje cell layer: somas
