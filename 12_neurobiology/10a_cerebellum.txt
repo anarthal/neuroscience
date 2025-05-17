@@ -15,24 +15,39 @@ Functional divisions
     Spinocerebellum: vermis and central parts of anterior/posterior lobes. Info <=> spinal cord
     Cerebrocerebellum: rest of anterior/posterior lobes. Info <=> thalamus, cerebral cortex. Motor planning
 Histological components
-    CEREBELLAR FOLIA: each of the leaf-shaped ridges in the cerebellar surface (singular folium). Covered by meninges
-        CEREBELLAR CORTEX: gray matter portion of each folium. Has always the same complexity (vs. cerebral cortex)
-            Molecular layer: 
-        ARBOR VITAE: white matter portion of each folium
+    CEREBELLAR CORTEX: gray matter portion of each folium. Has always the same complexity (vs. cerebral cortex)
+        Molecular layer: outermost layer, pale under H&E
+            Main area for synapses: dendrites of Purkinje and granular cells
+            Stellate cells and basket cells
+
+        Purkinje cell layer: middle, thin layer, with Purkinje cell bodies
+        Granular layer: innermost. Contains granular and Golgi type II cells
+    ARBOR VITAE: white matter portion of each folium
+    CEREBELLAR FOLIA: each of the leaf-shaped ridges in the cerebellar surface
+        Each folium contains the cortex and part of the arbor vitae
+        Covered by meninges
     DEEP CEREBELLAR NUCLEI: nuclei in the center of the cerebellum
         Neurons use glutamate
         The only cerebellum output
-
-cerebellar cortex has always the same complexity
-    molecular layer: mainly dendrites, some interneurons and some axons. Where synapses are established
-    purkinje cell layer: somas
-    granular layer: many granule cells
-Purkinje cell
-    Inhibitory connections to the deep cerebellar nuclei
-    (deep cerebellar nuclei are excitatory)
-    E.g. if a movement fails, inhibits deep cerebellar nuclei cells not to repeat the movement
-granular cells: connected to purkinje cells. excitatory
-    parallel fibers: axons of granular cells
-    climbing fibers: axons from elsewhere, one per purkinje cell
-cerebellum affected by alcohol
-ataxia: impaired coordination and movement
+        Excitatory
+    Cells and fibers
+        Stellate cells: small, spread across the molecular layer
+            Neurotransmitter: glutamate (excitatory)
+            Output: Purkinje cells
+        Basket cells: small, in the molecular layer's base
+            Neurotransmitter: GABA (inhibitory)
+            Output: Purkinje cells
+        Purkinje cells: large, pear-shaped, with a big dendritic tree
+            Neurotransmitter: GABA (inhibitory)
+            Input: ascending fibers and parallel fibers
+            Output: deep cerebellar nuclei. They're the main output component of the cerebellar cortex
+                E.g. if a movement fails, inhibit the deep cerebellar nuclei to prevent us from repeating it
+        Granular cells: small, dark-staining, in the granular layer
+            Neurotransmitter: glutamate (excitatory)
+            Output: Purkinje cells (via parallel fibers)
+        Golgi type II cells: small, light-staining, in the granular layer
+            Neurotransmitter: GABA (inhibitory)
+            Output: granular cells
+        Parallel fibers: axons of granular cells. Ascend to molecular layer, then run parallel to surface
+        Ascending fibers: axons coming from other parts of the brain (e.g. medulla oblongata)
+ATAXIA: impaired coordination and movement. Origin: genetic, stroke, alcohol...

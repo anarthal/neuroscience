@@ -18,6 +18,7 @@ GANGLION: cluster of cell bodies in the PNS
 NUCLEUS: cluster of cell bodies in the CNS
 GRAY MATTER: part of the CNS containing cell bodies, dendrites and synapses
 WHITE MATTER: part of the CNS containing myelinated axons
+NEUROPIL: substance between some in gray matter
 FORAMEN: hole for the passage of nerves or blood vessels (e.g. intervertebral foramen)
 DECUSSATION: oblique crossing of axons (crosses from left to right and vice versa)
 COMMISSURE: horizontal crossing of axons in the CNS (no vertical component, as in the decussation)
