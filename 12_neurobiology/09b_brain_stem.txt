@@ -16,7 +16,9 @@ PONS: middle part of the brain stem. Same height as cerebellum
 MIDBRAIN/MESENCEPHALON: upper part of the brain stem, just below diencephalon
     CEREBRAL PEDUNCLES/CRUS CEREBRI: tracts connecting cerebral cortex with brain stem. Anterior
         Corticospinal, corticobulbar, corticopontine motor tracts pass through here
-    SUBSTANTIA NIGRA: dopaminergic neurons connecting with basal ganglia for movement control (degenerated in Parkinson). Posterior to peduncles
+    SUBSTANTIA NIGRA: dopaminergic neurons. Posterior to peduncles
+        Connect with basal ganglia for movement control
+        Part of reward circuit
     RED NUCLEUS: neurons pigmented with iron, involved in motor movements. Medial
     Cerebral aqueduct passes through here. Posterior to red nucleus
     COLLICULUS: each of the four rounded elevations in the posterior part of the midbrain
