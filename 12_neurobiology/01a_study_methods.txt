@@ -31,3 +31,10 @@ ANATOMIC TRACING: determines if 2 areas in the brain are connected by injecting 
     Retrograde tracing: are there connections incoming to the point of injection?
 OPTOGENETICS: genetically modify a cell to express light-sensitive proteins, then control the cell with light
     Allows activating or inhibiting a concrete neuron type
+
+
+===== (from s10)
+single cell: label each cell type with one color
+Western blot: digest the tissue, extract proteins and electrophoresis to check which ones are expressed
+organoids: generate organ models from pluripotent stem cells
+electroencephalography: measure activity of points in the brain via cerebral waves

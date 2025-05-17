@@ -21,7 +21,6 @@ WHITE MATTER: part of the CNS containing myelinated axons
 NEUROPIL: substance between some in gray matter
 FORAMEN: hole for the passage of nerves or blood vessels (e.g. intervertebral foramen)
 DECUSSATION: oblique crossing of axons (crosses from left to right and vice versa)
-COMMISSURE: horizontal crossing of axons in the CNS (no vertical component, as in the decussation)
 CORTEX: outer layer of an organ
 Anatomical planes
     SAGITTAL PLANE: vertical plane that divides body and brain in left and right

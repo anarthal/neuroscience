@@ -1,26 +1,40 @@
+CEREBRAL CORTEX: outer part of the cerebrum, where gray matter is located
 GYRUS: ridge on the surface of the brain, surrounded by sulci
 SULCUS: groove entering the brain, separating gyri
-gray in outer, white in inner
-frontal: motor and behavior
-parietal: touch, pain, vibration
-temporal: olfactory, hearing
-occipital: vision
-insula: emotions
-fissures are depressions deeper than sulci
-    lateral and longitudinal
-corpus callosum: axons than connect both hemispheres
-association tracts: axons between same hemisphere
-commusural tracts: axons between != hemispheres
-projection tracts: with != parts of the brain
-superficial layers connect cortex with itself, layers beneath with != brain parts
-Broca's area: language output
-Wernicke's area: language understanding
-
-
-
-
-=====
-single cell: label each cell type with one color
-Western blot: digest the tissue, extract proteins and electrophoresis to check which ones are expressed
-organoids: generate organ models from pluripotent stem cells
-electroencephalography: measure activity of points in the brain via cerebral waves
+Fissure: like a sulcus, but deeper
+Lobes
+    Frontal lobe: motor and behavior
+    Parietal lobe: posterior to frontal. Somatosensory
+    Occipital lobe: the most posterior. Vision
+    Temporal lobe: the most lateral. Olfaction and hearing
+    Insula lobe: below temporal lobe, adjacent to putamen. Part of the limbic system
+    Longitudinal fissure: separates left and right hemispheres
+    Lateral fissure: separates frontal/parietal and temporal lobes
+    Central sulcus: separates frontal and parietal lobes
+    Parieto-occipital sulcus: separates parietal and occipital lobes
+Tracts
+    ASSOCIATION TRACT: axons connecting gyri in the same hemisphere
+    COMMISSURAL TRACT/COMMISSURE: axons connecting cerebral hemispheres (no vertical component, as in the decussation)
+        CORPUS CALLOSUM: band of white matter connecting both hemispheres. Above lateral ventricles
+        ANTERIOR COMMISSURE: tract that connects left and right temporal lobes. Anterior to thalamus
+        POSTERIOR COMMISSURE: posterior to thalamus
+    PROJECTION TRACT: axon connecting cerebral cortex and lower parts of the CNS
+Functional areas
+    Motor areas
+        PRIMARY MOTOR AREA: generates output signals to initiate motor movement. In frontal lobe
+        PREMOTOR AREA: initiation and retention of complex motor movement (vs. primary motor area). In frontal lobe
+        BROCA'S AREA: speech production
+    PRIMARY SENSORY AREA: area that receives direct input from senses
+        Primary somatosensory area: parietal lobe
+        Primary visual area: occipital lobe
+        Primary auditory area: temporal lobe
+    ASSOCIATION AREA: integrative function
+        PRIMARY ASSOCIATION AREA/UNIMODAL ASSOCIATION AREA: integrates information from only one sense
+        SECONDARY ASSOCIATION AREA/HETEROMODAL ASSOCIATION AREA: integrates information from multiple senses
+        WERNICKE'S AREA: language comprehension
+        PREFRONTAL CORTEX: reasoning, control of behavior
+    LIMBIC SYSTEM: emotions and memory formation
+HOMUNCLE: mapping from body sensors/effectors and the cerebral cortex
+    Not all areas are equally represented
+Left hemisphere is logical, right hemisphere is more emotional/creative
+    
