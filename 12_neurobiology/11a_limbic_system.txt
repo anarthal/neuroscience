@@ -1,24 +1,47 @@
-insula lobe: part of the cortex involved in limbic system
-olfactory bulb related: the special sense that evokes more emotions
-amygdala
-    part of the cerebrum but not the cortex
-    corticomedial group: linked to olfactory
-    basal-lateral group: the one more evolved in humans, linked to conscious behavior?
-    connected to
-        prefrontal cortex: make decisions in emotional responses
-        hippocampus: establish emotional memories
-        hypothalamus and brain stem: non-voluntary responses to emotions (e.g. heart rate)
-    overactivation: depression, stress, phobias
-    damage: autism-like
-
-
-hippocampus
-    part of the cerebrum but not the cortex
-    related to spatial navigation (GPS)
-    involved in generation of memories (but does not store them)
-    converts short-term to long-term memories (and seems to be the only region with that capability)
-    grid cells: store where in space you are
-
-short-term memory does not involve structural (synapse) changes (only action potentials), while long-term memories are
-
-nucleus accumbens: reward system (dopamine)
+Components
+    Amygdala (cerebrum)
+    Hippocampus (cerebrum)
+    Thalamus (diencephalon)
+    Hypothalamus (diencephalon)
+    Insula lobe (cerebrum)
+Related
+    Nucleus accumbens (basal ganglia)
+    Cingulate gyrus (cerebrum)
+    Olfactory bulb (cerebrum)
+Olfaction is the sense more linked to emotions
+Memory, depending on acquisition time
+    Short-term: based on action potentials
+    Long-term: based on structural changes in synapses
+        DECLARATIVE MEMORY: conscious storage of info that can be told to others (e.g. dates). In prefrontal cortex
+        PROCEDURAL MEMORY: unconscious storage on how to do things (e.g. play an instrument). In cerebellum, premotor area, basal ganglia
+    MEMORY CONSOLIDATION: transforming a short-term memory into a long-term one
+Learning
+    ASSOCIATIVE LEARNING: connection of two stimuli (e.g. Pavlov's dog)
+    NON-ASSOCIATIVE LEARNING: repeated exposition to a stimuli changes our response to it (e.g. habituation, sensitization)
+AMYGDALA: almond-shaped nucleus at the end of the caudate nucleus, below putamen
+    Functions: emotions and memory
+    Connections
+        Prefrontal cortex: higher-order processing of emotions (e.g. make decisions)
+        Hypothalamus and brainstem: autonomic responses to emotions
+        Hippocampus: memories related to emotions
+    Overactivation: anxiety, depression
+    Damage: autism
+    Anatomy
+        Basal-lateral group (the biggest): connected to prefrontal cortex and hippocampus
+        Medial group: link odors to emotions
+        Central group: autonomic responses
+HIPPOCAMPUS: structure below caudate nucleus' tail and amygdala
+    Functions: memory consolidation, learning, spatial navigation (GPS)
+    Connections
+        Amygdala: memories related to emotions
+        Hypothalamus: learning under stress
+        Association cortexes: storing long-term memories
+        Thalamus
+    The first region that degenerates in Alzheimer
+NUCLEUS ACCUMBENS: reward system (dopamine)
+    Involved in addictions: activation of nucleus accumbens links addiction to pleasure
+    Connections
+        Midbrain: generates pleasure as reward
+        Prefrontal cortex: regulates nucleus accumbens
+        Amygdala: emotions linked to rewards
+        Hippocampus: memories related to emotions linked to rewards
