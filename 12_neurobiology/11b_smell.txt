@@ -1,0 +1,30 @@
+Background
+    SENSATION: acquisition of information by our senses
+    PERCEPTION: process of interpreting sensory information by our brain
+    1ST ORDER NEURON: in senses, the 1st neuron that generates an action potential when the sense is activated
+    NTH ORDER NEURON: in senses, the n-th neuron that generates an action potential in signal's pathway from the sensory system to the brain
+OLFACTORY EPITHELIUM: where receptors for olfaction are located
+    CRIBIFORM PLATE: bone surface in the nasal cavity on top of which the olfactory epithelium is located
+    Mucosa: has lamina propria below epithelium and is covered by mucus
+    Mucus: keep epithelium humid to capture odorants
+    Cell types
+        Olfactory sensory neuron: bipolar neurons with cilia in their apical part (on top of dendrites) that capture odorants
+        Supporting cells: epithelial cells. Metabolic support, structural support, electrical isolation
+        Basal cells: stem cells that may differentiate into new olfactory sensory neurons
+    BOWMAN'S GLAND/OLFACTORY GLAND: produce mucus for the olfactory epithelium
+OLFACTORY BULB: structure in the cerebrum that contains the 2nd order neurons for smell
+    Located frontal and inferior to the prefrontal cortex
+    Receives input from 1st order neurons via the olfactory nerve
+    MITRAL CELL: neurons in the olfactory bulb
+    GLOMERULI: place of synapse between olfactory sensory neurons and mitral cells in the olfactory bulb
+    Many sensory neurons synapse with 1 mitral cell. One sensory neuron synapses with one mitral cell
+ODORANT: chemical compound that can be detected by the smell
+    We detect odours as a particular combination of odorants
+    Many different odorants => almost infinite number of possible odours (vs. taste)
+Transduction: odorant activates GPCR => cAMP production => Na+/Ca2+ channel opens => action potential
+Pathway to the brain
+    1st order: olfactory sensory neuron
+    2nd order: mitral cells
+    3rd order: thalamus/amygdala/hippocampus
+    Primary olfactory area
+    Orbitofrontal cortex: odour discrimination

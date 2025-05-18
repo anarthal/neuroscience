@@ -1,8 +1,0 @@
-sensation: physically receiving the signal from our senses
-perception: interpreting the signal
-olfactory
-    olfactory epithelium: where the receptors are (nasal cavity)
-    olfactory sensory neurons: bipolar. The receptors
-        has cilia where the receptors are located
-    supporting cells: mechanical support for olfactory neurons
-    basal cells: stem cells that can generate new neurons
