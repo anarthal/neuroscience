@@ -1,41 +1,42 @@
-iris: the one with the color
-pupil: hollow part where the light enters
-crystaline: converging lens
-3 layers covering the eye, from the outer
-    sclera: white of the eye
-    choroid: red layer with a lot of blood vessels
-    retina: nerve tissue where the image is formed
-cornea: transparent layer anterior to the crystaline
-limbus: part between cornea and sclera
-extrinsic eye muscles: responsible for eye movements
-fibrous tunica: cornea and sclera
-vascular tunica: choroid and 
-anterior chamber: between cornea and lens, filled with aqueous humor
-posterior chamber: between lens and retina, filled with vitreous humor
-retina
-    neural retina: nervous tissue. From inner to outer
-        photoreceptors: not neurons, just sensory receptors
-        bipolar layer: neurons that transmit
-        ganglion layer: the following neurons
-    pigmented retina: epithelial tissue, anterior to neural retina
-        black, full of melanin
-        renews photoreceptors
-        catches light that is not absorbed by the photoreceptors
-        why we see pupil as black
-photoreceptors
-    rod: for night vision (black and white)
-    cones: for color vision. RBG cones: each one is sensitive to a certain wavelength
-photopigments
-    opsin: GPCR protein. != type of opsin depending on the photoreceptor type
-    retinal: small molecule that changes conformation (cis-retinal, trans-retinal)
-transduction
-    by default, neurons are depolarized and emitting glutamate (in the dark)
+EXTRINSIC EYE MUSCLES: muscles that move the eye
+Eyeball anatomy
+    FIBROUS TUNICA: outer, protective layer of the eyeball
+        SCLERA: outer, white cover of dense connective tissue
+        CORNEA: transparent layer that covers the lens. Continuous with sclera
+        LIMBUS: transition zone between cornea and sclera
+    VASCULAR TUNICA: intermediate layer of the eyeball
+        CHOROID: vascular layer beneath sclera that provides nutrients
+        PUPIL: hollow part anterior to lens that lets light in. Adjustable in size
+        IRIS: extension of choroid that adjusts pupil's size. Responsible for eye color
+    RETINA: inner layer of the eyeball, where images are formed
+        PIGMENTED RETINA: melanin-rich, inner layer of retina
+            Absorbs excess light
+            Renews photoreceptors
+            Why we see the pupil black
+        NEURAL RETINA: signal transduction
+            Photoreceptor layer: contains cells that absorb light
+            Bipolar layer: 1st order neurons
+            Ganglion layer: 2nd order neurons
+    Lens: converging, to focus images in the retina
+    ANTERIOR CHAMBER: between cornea and lens, filled with aqueous humor
+    VITREOUS CHAMBER: between lens and retina, filled with vitreous humor
+Photoreceptors
+    Rods: for night vision (black and white). More sensitive than cones
+    Cones: for color vision. Each one sensitive to red, blue or green
+Transduction
+    Photopigments
+        Opsin: GPCR protein. != type of opsin depending on the photoreceptor type
+        Retinal: small molecule that changes conformation (cis-retinal, trans-retinal)
+    Dark response: when there is no light
         cGMP concentration is cytosol is high
         Na+ channels are open
-        Ca2+ channels are open => synapse
-        in this context, glutamate is inhibitory: the bipolar cell is active only when glutamate is inactive
-    when there is light
-        cis becomes trans
-        this activates GPCR
-        cGMP becomes regular GMP
-after ganglion neurons, thalamus, primary vision area, visual association cortex
+        Ca2+ channels are open => synaptic vesicles released (glutamate, inhibitory)
+        Bipolar neurons are not activated
+    Light response
+        Isomerization: cis becomes trans
+        GPCR activates => cGMP removed => Na+ channels close => Ca2+ channels close => no synaptic vesicles released
+        Bipolar neurons activated
+Pathway to the brain
+    1st order: bipolar and ganglionic
+    2nd order: thalamus
+    Primary visual cortex
