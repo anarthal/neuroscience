@@ -17,10 +17,11 @@ OLFACTORY BULB: structure in the cerebrum that contains the 2nd order neurons fo
     Receives input from 1st order neurons via the olfactory nerve
     MITRAL CELL: neurons in the olfactory bulb
     GLOMERULI: place of synapse between olfactory sensory neurons and mitral cells in the olfactory bulb
-    Many sensory neurons synapse with 1 mitral cell. One sensory neuron synapses with one mitral cell
+    Many sensory neurons sensing the same odorant synapse with 1 mitral cell. One sensory neuron synapses with one mitral cell
 ODORANT: chemical compound that can be detected by the smell
     We detect odours as a particular combination of odorants
     Many different odorants => almost infinite number of possible odours (vs. taste)
+    Each olfactory neuron detects one odorant
 Transduction: odorant activates GPCR => cAMP production => Na+/Ca2+ channel opens => action potential
 Pathway to the brain
     1st order: olfactory sensory neuron

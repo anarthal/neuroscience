@@ -1,0 +1,27 @@
+Primary tastes
+    Salty: Na+
+    Sour: H+ (acids)
+    Sweet: glucose, fructose...
+    Bitter: caffeine and similar
+    Umami: amino-acids
+TASTE BUD: oval body formed by epithelial cells capable of detecting flavors
+    Taste receptor cells: the ones actually detecting flavors
+        Surrounded by 1st order neuron dendrites
+        Not neurons, but can generate action potentials
+        Specific for one primary taste
+        A single taste bud contains receptors for all primary tastes
+    Supporting cells: have microvilli that come outside through the taste pore. Precursor of receptor cells
+    Basal cells: stem cells in the base that can differentiate into supporting and receptor cells
+    Taste pore: an opening in the epithelium where the taste bud is inserted
+    Located in tongue, palate, pharynx, epiglottis
+PAPILLAE: elevations in the tongue where taste buds are located
+Saliva is required to solve tastants
+    Production increased in rest-and-digest responses, decreased in fight-or-flight
+Transduction: tastant activates receptors => depolarization => neurotransmitter release => action potential in 1st order neuron
+    Ionotropic receptor cells: tastants enter directly through ion channels => depolarization. Salty and sour
+    Metabotropic receptor cells: tastants bind to GPCR => 2nd messenger => Ca2+ release => depolarization. Rest
+Pathway to the brain
+    1st order: cranial nerve ganglia
+    2nd order: medulla oblongata
+    3rd order: thalamus/hypothalamus/limbic system
+    Primary gustatory area
