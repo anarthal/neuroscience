@@ -21,7 +21,7 @@ Classification
         Transitional: cell type changes with layer. E.g. urethra
 APICAL DOMAIN: region that faces the lumen or exterior. In contact with env. Modifications:
     MICROVILLI: membrane protrusions formed by actin filaments. Passive movement. Increase absorption surface (e.g. intestine)
-    STEREOCILIA: similar structure, much longer. Passive movement. Absorptive or sensitive (e.g. inner ear). Less frequent
+    STEREOCILIA: similar structure. Actin filaments. Much longer. Passive movement. Absorptive or sensitive (e.g. inner ear). Less frequent
     CILIA: membrane protrusions formed by microtubules
         Primary: non-motile. Sensory functions. Lots of cells have them. 9+0 structure
         Motile: active upward-downward movement. 9+2 structure. Many per cell and short (e.g. respiratory, to clean up mucus). Except flagella (sperm)
