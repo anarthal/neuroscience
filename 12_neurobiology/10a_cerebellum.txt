@@ -3,7 +3,7 @@ CEREBELLUM: posterior to pons. Motor adjustment and learning, equilibrium
 External anatomy
     Anterior lobe: anterior, upper part
     Posterior lobe: posterior, lower part
-    Flocculonodular lobe: small, cylindrical lobe below posterior lobe, next to pons
+    Flocculonodular lobe: small, cylindrical lobe below anterior lobe, next to pons
     Primary fissure: separates anterior and posterior lobes. In the superior surface
     Vermis: separates the cerebellar hemispheres
     CEREBELLAR PEDUNCLES: connect cerebellum with the rest of the CNS
@@ -19,7 +19,6 @@ Histological components
         Molecular layer: outermost layer, pale under H&E
             Main area for synapses: dendrites of Purkinje and granular cells
             Stellate cells and basket cells
-
         Purkinje cell layer: middle, thin layer, with Purkinje cell bodies
         Granular layer: innermost. Contains granular and Golgi type II cells
     ARBOR VITAE: white matter portion of each folium
