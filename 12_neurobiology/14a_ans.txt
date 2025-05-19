@@ -1,13 +1,15 @@
-pituitary gland / hypophysis: produces hormones
 2 neuron system: one in the spinal cord, another in a ganglion
-    sympathetic
-        pre-ganglion neuron: in the lateral gray horn
-        post-ganglion neuron: in the ganglion (connected, most of them ventral, outside)
-    parasympathetic
-        pre-ganglion neuron: in the spinal cord at the end, and in the brainstem
-        post-ganglion neuron: ganglia next to organs
-reflexes: control loop to regulate blood pressure and similar
-enteric
-    myenteric plexus: movement of the tract
-    submucosal plexus: glands (liver, pancreas)
-
+    PRE-GANGLION NEURON: soma in CNS. Axon is myelinated
+    POST-GANGLION NEURON: soma in PNS (usually in ganglion). Axon is unmyelinated C fiber
+    Sympathetic
+        Pre-ganglion neuron: in the lateral gray horn. Uses acetylcholine
+        Post-ganglion neuron: chain of sympathetic ganglia, next to spinal cord. Uses adrenaline/noradrenaline
+        Axon of post-ganglion neuron is long (organ is far away)
+    Parasympathetic
+        Pre-ganglion neuron: brainstem and sacral portion of the spinal cord. Uses acetylcholine
+        Post-ganglion neuron: ganglia next to organs. Uses acetylcholine
+AUTONOMIC REFLEXES: measure magnitudes like heart rate, blood pressure... and adjust involuntary processes in consequence
+    Sensory neuron => hypothalamus => ANS => effector
+Enteric
+    Myenteric plexus: movement of the tract
+    Submucosal plexus: glands (liver, pancreas)
