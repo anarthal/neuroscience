@@ -42,7 +42,7 @@ Internal anatomy
         Gray commissure: connects left and right gray matter
         Central canal: space in the gray commissure, extending the entire spinal cord. Full of CSF. Connects with 4th ventricle
     Section size
-        More gray matter in thoracic, lumbar enlargements (only some thoracic sections are large)
+        More gray matter in cervical, lumbar enlargements
         More white matter in the superior sections (more axons join)
     PROPRIOSPINAL NEURON: interneuron connecting segments in the spinal cord
 Information processing

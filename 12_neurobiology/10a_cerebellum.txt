@@ -10,6 +10,7 @@ External anatomy
         Superior: to midbrain
         Middle: to pons. Most of the connections happen here
         Inferior: to medulla oblongata
+    FALX CEREBELLI: dura mater invagination that separates left and right cerebellar hemispheres
 Functional divisions
     Vestibulocerebellum: flocculonodular lobe. Info from vestibular system
     Spinocerebellum: vermis and central parts of anterior/posterior lobes. Info <=> spinal cord

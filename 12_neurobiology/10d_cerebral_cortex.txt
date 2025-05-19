@@ -2,6 +2,7 @@ CEREBRAL CORTEX: outer part of the cerebrum, where gray matter is located
 GYRUS: ridge on the surface of the brain, surrounded by sulci
 SULCUS: groove entering the brain, separating gyri
 Fissure: like a sulcus, but deeper
+FALX CEREBRI: dura mater invagination that separates left and right hemispheres
 Lobes
     Frontal lobe: motor and behavior
     Parietal lobe: posterior to frontal. Somatosensory

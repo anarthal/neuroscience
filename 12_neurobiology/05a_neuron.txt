@@ -20,10 +20,17 @@ AXON/NERVE FIBER: single, long process that transmits impulses away from the neu
     Cytoplasm contains cytoskeleton, mitochondria, vesicles
     All microtubules polarized in the same direction: + is in the axon's end
     AXON INITIAL SEGMENT: where the action potential is initiated
+    AXON COLLATERAL: fork in an axon
 Structural classification
     MULTIPOLAR NEURON: one axon, >1 dendrites (the usual)
     BIPOLAR NEURON: one axon, 1 long dendrite (receptors for special senses)
     PSEUDOUNIPOLAR NEURON: one axon with two terminals, for PNS and CNS (sensory neurons close to CNS)
+Classification according to cell body shape
+    Pyramidal: big, triangular shape, with dendrites emerging from the three sides of the triangle
+    Fusiform: fusiform body, with one long dendrite (with ramifications) and one axon
+    Fork: has two apical dendrites and one basal dendrite
+    Stellate: many dendrites radiating from everywhere
+    Piriform: pear-shaped, with a single dendrite with lots of branches
 Functional classification
     SENSORY NEURON: from sensory receptors to CNS
     MOTOR NEURON: from CNS to effectors
