@@ -1,41 +1,60 @@
-hearing: mechanical receptors for vibration
-external ear: collecting sound
-middle ear: transmission
-    tympanic membrane
-    small bones for transmission
-inner ear: receptors
-    cochlea: hearing
-    vestibule: equilibrium
-    one nerve branch for each
-physiology
-    sound wave enters external ear
-    tympanic membrane vibrates
-    the 3 ossicles transmit and amplify the vibration
-    transmits to fluid in the inner ear
-    this leads to deformation of hair cells in the cochlea
-cochlea is a spiral canal, with 3 sections
-    vestibular ramp: perilymph
-    cochlear ramp: endolymph
-    tympanic ramp: perilymph
-    perilymph: high Na+, low K+ (~ extracellular)
-    endolymph: low Na+, high K+ (~ intracellular)
-    corti organ: contains the cells for transduction
-    basilar membrane: separates tympanic and cochlear, receptors on top
-    inner hair cells: most of them
-    outer hair cells: for frequency
-    hair cells have stereocillia that are connected to each other
-    there is a membrane on top of them. The membrane width changes, so it's sensitive to frequency
-    when they move to one side, they depolarize => nerve impulse. The other side causes hyperpolarization
-    movement leads to K+ channel opening => depolarization => glutamate release
-inner ear for equilibrium
-    semicircular canals
-    receptors are in utricle and saccule
-    receptors are crystals named otoliths
-    otoliths move when there is movement and press hair cells
-    semicircular canals don't have otoliths but have receptors, and work with a cupule that moves
-    one cupule for each canal
-    transduction the same as for hearing
-transduction
-    1st order neuron: near the hair cells
-    2nd order neuron: medulla oblongata (cochlear/vestibular nucleus)
-    3rd order neuron: thalamus/cerebellum
+Anatomy
+    External ear: captures sound vibrations to make the tympanic membrane vibrate
+        EAR AURICLE: formed by cartilage. Captures vibrations
+        TYMPANIC MEMBRANE: transmits vibrations to middle ear
+    Middle ear: air-filled cavity that transmits and amplifies vibrations to the inner ear using 3 ossicles
+    Inner ear: where the receptors for hearing and equilibrium are
+        BONY LABYRINTH: external part of inner ear. Surrounded by bone, filled by perilymph
+        MEMBRANOUS LABYRINTH: inside the bony labyrinth, separated from it by membranes. Filled by endolymph
+        PERILYMPH: liquid inside the bony labyrinth. High Na+, low K+. Similar to other extracellular fluids like CSF
+        ENDOLYMPH: liquid inside the membranous labyrinth. Low Na+, high K+. Similar to cytosol
+        COCHLEA: set of spiral canals where hearing receptors are. The main canal is composed of 3 inner channels
+            VESTIBULAR RAMP/SCALA VESTIBULI: reaches the vestibule (bony). Filled with perilymph
+            TYMPANIC RAMP/SCALA TYMPANI: reaches below the vestibule (bony). Filled with perilymph
+            COCHLEAR RAMP/COCHLEAR DUCT: reaches the saccule (membranous). Filled with endolymph
+            VESTIBULAR MEMBRANE: separates the vestibular and cochlear ramps
+            BASILAR MEMBRANE: separates the tympanic and cochlear ramps
+            ORGAN OF CORTI/SPIRAL ORGAN: epithelium on top of basilar membrane (in the cochlear ramp), containing the receptors for hearing
+            TECTORIAL MEMBRANE: membrane on top of hearing receptors that vibrates with sounds
+        VESTIBULE: central part of the middle ear, where ossicles transmit the vibration. Related to equilibrium
+            SACCULE: membranous cavity near cochlea
+            UTRICLE: membranous, bigger cavity where semicircular canals start
+        SEMICIRCULAR CANALS: set of 3 perpendicular canals stemming from vestibule. Related to equilibrium
+        VESTIBULOCOCHLEAR NERVE: innervates hearing and equilibrium. One branch for cochlea, one for vestibule/semicircular canals
+Hearing receptors
+    Inner hair cells: in cochlear transversal sections, isolated. The ones that contribute the most to hearing
+    Outer hair cells: in cochlear transversal sections, in groups of 3. Contribute to distinguishing frequencies
+    TUNNEL OF CORTI: separates inner and outer hair cells
+    Pillar cells: create the tunnel of Corti
+    Supporting cells: the rest of the cells in the organ of Corti
+    All hair cells have stereocilia attached to the tectorial membrane, containing mechanically gated K+ ion channels
+    Stereocilia are connected
+Hearing transduction
+    Resting conditions: K+ channels almost closed => no depolarization
+    Sound captured by external ear => amplified by middle ear => makes fluid in the inner ear vibrate => basilar and tectorial membranes vibrate
+    Stereocilia bend => K+ channels open => depolarization => Ca2+ channels open => synaptic vesicle release (glutamate)
+    != cochlear sections have != membrane widths => != frequencies
+Hearing pathway to the brain
+    1st order: in ganglion inside cochlea
+    2nd order: in medulla oblongata
+    Inferior colliculus (midbrain)
+    Thalamus
+    Primary auditory cortex
+Equilibrium receptors
+    Hair cells: similar to the ones in hearing. In both vestibule and semicircular canals
+    Supporting cells: secrete the glycoprotein layer that makes hair cells move
+    Vestibule
+        OTOLITH: calcium crystals that sit on top of a membrane and contribute to signal detection
+        OTOLITHIC MEMBRANE: glycoprotein layer on top of hair cells
+        MACULE: location in saccule and utricle where otoliths and receptors are
+    Semicircular canals
+        No otoliths here
+        CUPULA: glycoprotein layer on top of hair cells in semicircular canals. One long cupule per canal
+Equilibrium transduction
+    Movement makes otoliths, otolithic membrane or cupule move
+    Stereocilia in hair cells bend => depolarization => action potential
+Pathway to the brain
+    1st order: vestibular ganglia
+    2nd order: medulla oblongata
+    3rd order: thalamus/cerebellum
+    Primary vestibular cortex
