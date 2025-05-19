@@ -1,0 +1,11 @@
+HYPOTHALAMUS: structure in diencephalon anterior and inferior to thalamus
+    Regulates ANS and hormone production
+    Senses changes in temperature, glucose, osmolarity, melatonin... and acts in consequence
+    Regulates appetite and sleep
+HYPOPHYSIS/PITUITARY GLAND: anterior to hypothalamus. Produces hormones and regulates the rest of the endocrine system
+    Regulated by hypothalamus and by negative feedback on the hormones it produces
+    INFUNDIBULUM: link between hypothalamus and hypophysis
+    ADENOHYPOPHYSIS: anterior lobe of hypophysis, producing hormones. This is not nerve tissue
+    NEUROHYPOPHYSIS: contains neurons that directly secrete hormones into the blood through their axon
+    HYPOPHYSEAL PORTAL SYSTEM: network of capillaries connecting hypothalamus with adenohypophysis
+        Hypothalamus releases local signal molecules to the portal system => Regulate adenohypophysis
