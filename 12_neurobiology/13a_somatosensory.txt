@@ -1,35 +1,41 @@
-these signals may
-    spinal cord: reflexes
-    brainstem: reflexes for heartbeat, etc
-    cerebral cortex: conscious
-receptors based on microscopic structure
-    free nerve endings: no receptor (pain, temperature)
-    encapsulated nerve endings: nerve surrounded by connective tissue (pressure, vibration)
-    specialized receptors (special senses)
-receptors based on location
-    exteroreceptors: outside/near outside
-    interoreceptors: blood vessels, organs..
-    proprioreceptors: muscles, tendons and inner ear (equilibrium)
-receptors based on type of stimulus
-    mechanoreceptors
-    thermoreceptors
-    nociceptor: pain
-    photoreceptor: light
-    chemoreceptor: chemicals in mouth, bloodstream
-glabra skin contains more mechanoreceptors than hair skin
-thermoreceptors: in the base of the epidermis
-    cold receptors: 10 < T < 35. Adelta and C fibers (faster)
-    warm receptors: 35 < T < 50. Only C fibers (slower)
-nociceptor: free nerve endings (Adelta, C) in every tissue except brain
-    Intense thermal, mechanical, chemical stimuli (damage)
-visceral pain: nerves from organ converge with the skin receptors on top of it => we feel it in the skin
-propioreceptors
-    muscle spindle: detects changes in muscle fiber length
-    golgi tendon organ: detects tendon extension and prevents excessive extension
-    joints: detects joint position
-tracts
-    all tracts are: 1st order in ganglion (PNS), 2nd order in brainstem, 3rd order in thalamus
-    trigeminothalamic tract: somatic info for face
-    posterior column tract: ascending info in the posterior part of the spinal cord. Carries somatic info for limbs, abdomen...
-    somatotopic: axons don't cross, in parallel. 1st dorsal root, 2nd medulla oblongata, 3rd thalamus
-    anterolateral: temperature and pain for body (not face). crosses in spinal cord
+Background
+    GLABRA SKIN: skin without hair
+Receptors based on microscopic structure
+    Free nerve endings: dendrites of 1st order neurons have ion channels that capture the stimulus (pain, temperature)
+    Encapsulated nerve endings: nerve ending surrounded by connective tissue (pressure, vibration)
+    Specialized receptors: have a specialized cell as receptor (special senses)
+Receptors based on location
+    Exteroreceptors: at/near the skin or body surface
+    Interoreceptors/visceroreceptors: in blood vessels, internal organs...
+    Proprioceptors: muscles, tendons and inner ear. Info about position of muscles, joints...
+Mechanoreceptors: more in glabra skin than in hair skin
+Thermoreceptors: in the base of the epidermis
+    Cold receptors: 10 < T < 35. Adelta and C fibers (faster)
+    Warm receptors: 35 < T < 50. Only C fibers (slower)
+NOCIRECEPTOR: receptors for pain
+    Everywhere in the body except brain
+    Detect mechanical, chemical or thermal damaging stimuli (e.g. molecules from damaged cells)
+    Free nerve endings
+    Adelta/C fibers
+    VISCERAL PAIN: pain originating in internal organs
+    REFERRED PAIN: situation where we identify visceral pain as coming from the skin on top of the organ that is actually experiencing it
+Propioceptors
+    KINESTHESIA: perception of the body's self position (e.g. muscle state, joint position)
+    Muscle spindle: detects changes in muscle fiber length
+    Golgi tendon organ: detects tendon extension to prevents excessive extension
+    Joint receptor: detects joint position
+Path to the brain
+    All tracts are: 1st order in ganglion (PNS), 2nd order in brainstem, 3rd order in thalamus
+    SOMATOTOPIC INFORMATION: axons in the tract are grouped according to what they innervate
+    Trigeminothalamic tract: somatic info for face across trigeminal nerve
+        1st: trigeminal ganglion
+        2nd: pons
+        3rd: thalamus
+    Posterior column tract: touch, proprioception for limbs and trunk. Somatotopic
+        1st: dorsal root ganglion
+        2nd: gracile and cuneate nuclei (ascends through spinal cord's posterior column)
+        3rd: thalamus
+    Anterolateral tract: temperature and pain
+        1st: dorsal root ganglion
+        2nd: posterior gray horn
+        3rd: thalamus
