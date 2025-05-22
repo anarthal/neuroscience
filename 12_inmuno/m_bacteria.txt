@@ -67,3 +67,9 @@ BIOFILM: community of bacteria living under a protective extracellular matrix
         2. Irreversible attachment: bacteria attach more firmly using adhesins (e.g. fimbriae)
         3. Maturation: (I) proliferation and EPS formation. (II) A 3D structure is created
         4. Dispersion: some bacteria detach to form new colonies
+Antibiotic resistance mechanisms
+    Inactivation: bacterial enzymes degrade the antibiotic
+    Altered target sites
+    Reduced drug uptake: membrane is less permeable to the antibiotic
+    Efflux pumps: antibiotic is actively pumped outside of the cell
+Horizontal gene transfer: see transformation, transduction, conjugation in 13_genetic_transfer_recombination.txt
