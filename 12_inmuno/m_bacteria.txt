@@ -1,0 +1,45 @@
+Background
+    CELL ENVELOPE: in bacteria, cell membranes (inner and outer if Gram-negative) + cell wall
+Bacterial morphologies and arrangements: guide further 
+    Coccus: spherical
+    Bacillus: rod-shaped
+    Spirillus: spiral
+    Vibrios: comma-shaped
+    Diplo-: arranged in pairs
+    Strepto-: twisted chain
+    Staphylococcus: cocci arranged in grape-shaped groups
+    Cuboidal: sarcinae
+GRAM STAINING: stain bacteria targeting the peptidoglycan component of their wall
+    GRAM-POSITIVE BACTERIA: stain purple in Gram staining
+        Inner membrane: usual lipid bilayer
+        Cell wall: thick peptidoglycan layer
+        TEICHOIC ACID: embedded in the peptidoglycan wall, to provide flexibility
+    GRAM-NEGATIVE BACTERIA: stain pink in Gram staining
+        Inner membrane: usual lipid bilayer
+        Cell wall: thin peptidoglycan layer
+        Outer membrane: another lipid bilayer, with porins and lipopolysaccharides
+        Lipopolysaccharides: attached to the outer membrane. Act as an endotoxin
+        PORIN: transmembrane protein in the outer membrane that allows the selective passing of certain molecules
+        PERIPLASMIC SPACE: space between the inner membrane and the cell wall
+    Antibiotics targeting peptidoglycan synthesis (e.g. penicillin) more effective against Gram-positive
+    Gram-negative lipopolysaccharides increase virulence
+BACTERIAL CAPSULE: layer of polysaccharides surrounding the cell envelope (glycocalyx)
+    Prevents phagocytosis by covering bacterial PAMPs (virulence factor)
+    Adherence
+    Holds water => protects the bacterium from dying out
+PILI/FIMBRIAE: short protein threads extending from the bacterium's surface
+    Adherence
+    Conjugation (plasmid exchange)
+FLAGELLUM: big whip-like bacterial appendage that allows bacteria to move
+    Parts
+        Basal body: protein complex embedded in the cell envelope that moves the rest of the flagellum
+        Hook: curved segment between anchoring the filament to the basal body
+        Filament: long, whip-like structure that moves in circles
+    Basal body generates rotation by using a proton gradient, and moves the rest of the flagellum
+    Clockwise rotation => tumbling (random direction changes); counterclockwise rotation => sustained movement in the same direction
+    Arrangements
+        Monotrichous: single flagellum
+        Amphitrichous: two flagella in opposite poles of the cell
+        Lophotrichous: several flagella in a small surface acting together
+
+        

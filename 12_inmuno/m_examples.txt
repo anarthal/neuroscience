@@ -1,0 +1,14 @@
+Streptococcus pneumoniae
+    Gram positive
+    Has capsule
+Bacillus anthracis
+    Gram positive
+    Has capsule
+Escherichia coli
+    Gram negative
+    Rod-shaped
+    Has fimbriae/pili
+Neisseria gonorrhoeae
+    Gram negative
+    Has fimbriae
+
