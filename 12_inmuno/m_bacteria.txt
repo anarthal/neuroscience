@@ -1,5 +1,6 @@
 Background
     CELL ENVELOPE: in bacteria, cell membranes (inner and outer if Gram-negative) + cell wall
+    BACTERIOCIN: bacterial toxin that inhibits proliferation of similar bacteria
 Bacterial morphologies and arrangements: guide further 
     Coccus: spherical
     Bacillus: rod-shaped
@@ -41,5 +42,28 @@ FLAGELLUM: big whip-like bacterial appendage that allows bacteria to move
         Monotrichous: single flagellum
         Amphitrichous: two flagella in opposite poles of the cell
         Lophotrichous: several flagella in a small surface acting together
-
-        
+ENDOSPORE: dormant form that some bacterial species can enter into under unfavorable conditions
+    VEGETATIVE BACTERIA: the usual, metabolically active state of bacteria (vs. the spore form)
+    SPORULATION: process where a bacterial cell gives produces a single spore. Activated by adverse conditions
+        1. Bacteria divides asymmetrically, creating a single spore
+        2. Mother cell engulfs the spore and matures it
+        3. Mother cell lysis
+        4. Spore can survive under harsh conditions for many years
+        5. Spore germinates into a regular vegetative cell when conditions are more favorable
+    Bacteria that can produce spores are usually Gram positive
+Plasmids
+    F plasmid (fertility): enables conjugation
+    R plasmid (resistance): antibiotics
+    Col plasmid: produce bacteriocins
+    Degradative plasmid: degrades substances. Useful for the chemical industry
+    Virulence plasmid
+BIOFILM: community of bacteria living under a protective extracellular matrix
+    Forms on a biotic (e.g. tooth plaque) and abiotic (e.g. implants) surface
+    EXTRACELLULAR POLYMERIC SUBSTANCES (EPS): extracellular matrix protecting bacteria in a biofilm. Proteins, polysaccharides, DNA
+    Bacteria living here are very resistant => chronic infections
+    PLANKTONIC BACTERIA: free floating bacteria, vs. the ones living in a biofilm
+    Stages
+        1. Reversible attachment: planktonic bacteria attach to a surface using weak forces
+        2. Irreversible attachment: bacteria attach more firmly using adhesins (e.g. fimbriae)
+        3. Maturation: (I) proliferation and EPS formation. (II) A 3D structure is created
+        4. Dispersion: some bacteria detach to form new colonies
