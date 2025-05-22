@@ -31,5 +31,10 @@ Conduction in dendrite
     Detrimental: intensity goes down with space
     Bidirectional conduction
     Low speed
+Conduction faster if
+    Fibers are wider
+    Fibers are more myelinated
+    Distance between Ranvier nodes is longer
+    Ranvier nodes themselves are shorter
 Multiple sclerosis: the immune system attacks myelin in the central nervous system
 Guillain-Barré syndrome: same but in the peripheral nervous system
