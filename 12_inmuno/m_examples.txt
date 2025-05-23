@@ -41,4 +41,11 @@ Ascaris lumbricoides (ascariasis)
     Nematode
     Uses no intermediate host (eggs in feces)
     Lives in the human intestine, although it travels through the heart and respiratory system while developing
+Entamoeba histolytica (amoebiasis)
+    Protozoa, amoeboid
+    Lives in the intestine, causes bloody diarrhea
+Toxoplasma gondii (toxoplasmosis)
+    Protozoa, has apical complex, sporozoa
+    Humans are intermediate hosts, cats are the definitive hosts
+    Uncooked meat or cat feces
 

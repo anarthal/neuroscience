@@ -24,8 +24,7 @@ Patten recognition: immune system cells recognize molecule patterns that indicat
 Phagocytosis
     PHAGOSOME: membrane-bound vesicle where phagocyted particles are enclosed
     OPSONIZATION: covering a phagocytosis target with opsonins to make it easier to target and to process
-    After recognition, the cell extends its membrane, engulfs the target and detaches parts of the membrane into a phagosome
-        PSEUDOPODIA: cell membrane extensions to engulf the target
+    After recognition, the cell extends its membrane (pseudopodia), engulfs the target and detaches parts of the membrane into a phagosome
     Phagosome merges with granules with ROS, then with lysosomes => Digestion
 OXIDATIVE BURST: releasing ROS to kill pathogens
     NADPH OXIDASE (NOX2): enzyme that produces ROS

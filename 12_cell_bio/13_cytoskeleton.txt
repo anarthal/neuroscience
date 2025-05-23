@@ -42,3 +42,5 @@ INTERMEDIATE FILAMENTS: structural support
         Nuclear lamina: network under nuclear envelope => structural support
         Desmosomes
 INTEGRIN: cell receptors that sense changes in the ECM and participate in cell-ECM adhesion
+PSEUDOPODIA: temporary cell membrane extensions for cell movement or phagocytosis
+    Created by cytoskeleton polymerization, usually actin
