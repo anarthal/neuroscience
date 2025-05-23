@@ -1,2 +1,32 @@
 ENDOPARASITE: parasite that lives in the host's interior
 ECTOPARASITE: parasite that live in the host's external surface
+VIRULENCE: describes the capacity of a pathogen to cause disease
+ETIOLOGY: the ultimate cause of the disease (e.g. infection, mutation)
+PATHOGENESIS: sequence of events that lead to the appear of a disease
+    How much pathogenesis happens depends on the host (e.g. immune system), pathogen (e.g. virulence) and env (e.g. poor hygiene)
+COLONIZATION: establishment of a non-invasive, stable colony of microorganism in the host's surface (e.g. microbiota). Vs. infection
+INFECTION: entry and multiplication of pathogens into a host. May or may not lead to disease
+    SUBCLINICAL INFECTION: infection that causes no or mild symptoms
+    CLINICAL INFECTION: infection that causes symptoms and signs
+    SYMPTOM: disease-related experience reported by the patient (e.g. pain)
+    Sign: measurable evidence of disease in a patient (e.g. fever)
+TISSUE TROPISM: the spectrum of tissues that a pathogen may infect
+Steps of pathogenesis
+    1. Pathogen in a reservoir comes into contact with the host and enters it
+        Skin: wounds
+        Respiratory tract (mucosa): inhalation
+        Gastrointestinal tract (mucosa): ingestion
+        Genitourinary tract (mucosa): sexual transmission
+        Conjuntiva (mucosa): eye
+        Parenteral route: deposition of pathogens beneath the skin (e.g. insect bite)
+    2.a. Attachment to host surfaces
+        ADHESIN: protein expressed by bacteria (e.g. fimbriae) and fungi to attach to surfaces
+            Target tissue needs to have complementarity with the concrete adhesin => determines the pathogen's tissue tropism
+            E.g. escherichia coli binding to intestinal epithelium
+            Potential therapeutic targets: should not produce antibiotic resistance (doesn't kill bacteria)
+        Biofilms
+    2.b. Colonization: overthrowing the local microbiota
+    3.a. Invasion of host tissues
+    3.b. Evading the immune system
+    4. Multiplication
+    5. Leaving the host to infect other hosts

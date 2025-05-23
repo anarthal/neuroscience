@@ -3,12 +3,17 @@ HELMINTH: multicellular worm parasite (endoparasite)
         TREMATODE: flat, leaf-shaped, parasitic worm. Life cycle with intermediate hosts. E.g. schistosoma
         CESTODE: flat, long, parasitic worm (tapeworm). E.g. taenia solium
     NEMATODE: cylindrical worm. Some are parasitic. E.g. ascaris lumbricoides
-Ectoparasite
-    Lice (piojos)
-    Ticks (garrapatas)
-    Fleas (pulgas)
-    Mites (ácaros)
-    Leaches (sanguijuelas)
+Ectoparasites
+    Examples
+        Lice (piojos)
+        Ticks (garrapatas)
+        Fleas (pulgas)
+        Mites (ácaros)
+        Leaches (sanguijuelas)
+    Vectors for disease transmission
+        Biological transmission: the transmitted pathogen has part of its life cycle inside the vector
+        Mechanical transmission: the transmitted pathogen is located in the vector's surface or feces
+        
 
 
 TBC: schistosoma life cycle?

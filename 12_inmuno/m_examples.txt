@@ -9,9 +9,30 @@ Escherichia coli
     Gram negative
     Rod-shaped
     Has fimbriae/pili
+    Can bind to intestinal epithelial cells via adhesins in their fimbriae
+    Uropathogenic e. coli does the same but for epithelial cells in the urinary tract
 Neisseria gonorrhoeae
     Gram negative
-    Has fimbriae
+    Diplococcus
+    Has adhesive pili (type IV) that bind to genital tract
+    Pili undergo antigen variation
+Helicobacter pylori (stomach ulcers)
+    Gram negative
+    Has flagella
+    1/2 of global population has it, but mostly asymptomatic
+    Expresses adhesins to adhere to the gastric epithelium
+    Can damage tissue and induce cancer
+Pseudomonas aeruginosa (biofilms in cystic fibrosis)
+    Gram negative
+    Rod-shaped
+    Wide antibiotic resistance (hospital acquired illnesses)
+    Usually opportunistic pathogen: may form biofilms in compromised patients, like people having cystic fibrosis (no mucus clearance)
+Salmonella (gastrointestinal infection)
+    Gram-negative
+    Bacillus
+    Acid-resistant: can survive stomach and inside macrophages
+    Has fimbriae to attach to intestinal epithelial cells
+    Intracellular parasite
 Clostridium
     Bacillus
     Gram positive

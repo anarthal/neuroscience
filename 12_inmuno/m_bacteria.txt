@@ -10,6 +10,7 @@ Bacterial morphologies and arrangements: guide further
     Strepto-: twisted chain
     Staphylococcus: cocci arranged in grape-shaped groups
     Cuboidal: sarcinae
+    Helical
 GRAM STAINING: stain bacteria targeting the peptidoglycan component of their wall
     GRAM-POSITIVE BACTERIA: stain purple in Gram staining
         Inner membrane: usual lipid bilayer
@@ -28,9 +29,14 @@ BACTERIAL CAPSULE: layer of polysaccharides surrounding the cell envelope (glyco
     Prevents phagocytosis by covering bacterial PAMPs (virulence factor)
     Adherence
     Holds water => protects the bacterium from dying out
-PILI/FIMBRIAE: short protein threads extending from the bacterium's surface
-    Adherence
+FIMBRIAE: short protein threads extending from the bacterium's surface. For adherence
+    Composed of different protein subunits (pilin)
+    Usher proteins (also in pili): integral membrane proteins that guide the polymerization of pilin subunits
+PILI: long protein protrusions extending from the bacterium's surface. Less numerous, bigger than fimbriae
     Conjugation (plasmid exchange)
+    Motility (type IV)
+    Composed of a single protein subunit (pilin)
+    TWITCHING MOTILITY: crawling of bacteria over host cells using type IV pili
 FLAGELLUM: big whip-like bacterial appendage that allows bacteria to move
     Parts
         Basal body: protein complex embedded in the cell envelope that moves the rest of the flagellum
@@ -60,13 +66,17 @@ Plasmids
 BIOFILM: community of bacteria living under a protective extracellular matrix
     Forms on a biotic (e.g. tooth plaque) and abiotic (e.g. implants) surface
     EXTRACELLULAR POLYMERIC SUBSTANCES (EPS): extracellular matrix protecting bacteria in a biofilm. Proteins, polysaccharides, DNA
-    Bacteria living here are very resistant => chronic infections
+    Bacteria living here are very resistant (not reachable by antibiotics or immune system) => chronic infections
+    Bacteria here express antibiotic resistance genes
     PLANKTONIC BACTERIA: free floating bacteria, vs. the ones living in a biofilm
     Stages
         1. Reversible attachment: planktonic bacteria attach to a surface using weak forces
         2. Irreversible attachment: bacteria attach more firmly using adhesins (e.g. fimbriae)
         3. Maturation: (I) proliferation and EPS formation. (II) A 3D structure is created
         4. Dispersion: some bacteria detach to form new colonies
+    Tooth plaque: streptococcus mutans, streptococcus subrinus and others
+        Metabolism generates acids => enamel decay
+        Periodontitis: chronic inflammation of gums due to immune system response
 Antibiotic resistance mechanisms
     Inactivation: bacterial enzymes degrade the antibiotic
     Altered target sites

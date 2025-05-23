@@ -1,0 +1,3 @@
+Interactions with pathogens
+    Compete with resources and attachment sites
+    May kill pathogens (e.g. bacteriocins) or benefit their growth
