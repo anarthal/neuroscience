@@ -1,0 +1,2 @@
+ENDOPARASITE: parasite that lives in the host's interior
+ECTOPARASITE: parasite that live in the host's external surface

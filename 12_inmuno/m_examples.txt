@@ -4,6 +4,7 @@ Streptococcus pneumoniae
 Bacillus anthracis
     Gram positive
     Has capsule
+    Can form spores
 Escherichia coli
     Gram negative
     Rod-shaped
@@ -11,4 +12,33 @@ Escherichia coli
 Neisseria gonorrhoeae
     Gram negative
     Has fimbriae
+Clostridium
+    Bacillus
+    Gram positive
+    Can form spores
+Plasmodium (malaria)
+    Protozoa
+    Has apical complex
+Trypanosome brucei (sleeping sickness)
+    Protozoa
+    Does antigen variation via VSG
+Saccharomyces cerevisiae: yeast
+Candida albicans (candidiasis - white tongue)
+    Usually a commensal organism in microbiota
+    Opportunistic pathogen: in immunocompromised individuals, it may grow too much
+Histoplasma capsulatum (histoplasmosis - respiratory symptoms)
+    Dimorphic fungi (mold outside, yeast inside the host)
+Blastomyces dermatitidis (blastomycosis - lungs and skin)
+    Dimorphic fungi (mold outside, yeast inside the host)
+Schistosoma (schistosomiasis)
+    Trematode
+    Uses snails as intermediate host
+    Live within the blood vessels
+Taenia solium (pork tapeworm)
+    Cestode
+    Uses pigs as intermediate host, humans as definitive host
+Ascaris lumbricoides (ascariasis)
+    Nematode
+    Uses no intermediate host (eggs in feces)
+    Lives in the human intestine, although it travels through the heart and respiratory system while developing
 

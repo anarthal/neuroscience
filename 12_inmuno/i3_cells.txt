@@ -2,7 +2,6 @@ Background
     CYTOKINE: protein involved in signalling. Can't enter the cytoplasm => uses membrane-bound receptors
     LYSOZYME: enzyme that degrades peptidoglycans in bacterial cell walls
     LACTOFERRIN: antimicrobial protein. Generates reactive hydroxyl species
-    HELMINTH: intestinal worm parasite
     HEPARIN: anti-coagulant
     METACHROMASIA: change in color in dye when it binds to certain substances
     LEUKOTRIENE: a type of inflammatory mediator

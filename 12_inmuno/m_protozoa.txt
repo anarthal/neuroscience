@@ -1,0 +1,11 @@
+Unicellular, eukaryotic cells
+APICAL COMPLEX: structure present in the apical part of some protozoa that allows them to enter into host cells to parasite them
+PELLICLE: structure surrounding some protozoa's cell membrane. Protozoa's equivalent to a cell wall, but less rigid
+CYST: resistant, low metabolism form that some protozoa can transform into when conditions are unfavorable
+    E.g. survive stomach pH until reaching the intestine
+    EXCYST: to exit the cyst state and transform into the active form
+VARIANT SURFACE GLYCOPROTEIN: protein in the surface of trypanosoma. Involved in antigen variation
+    Each trypanosoma expresses one VSG, but has genes for many different variations of the protein
+    After sexual reproduction, the new trypanosoma may express != VSGs by changing gene expression
+Trypanosoma may secrete molecules that degrade cytokines => Immune evasion
+

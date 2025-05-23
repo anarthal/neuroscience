@@ -1,0 +1,14 @@
+HELMINTH: multicellular worm parasite (endoparasite)
+    PLATYHELMINTHES: flat worms
+        TREMATODE: flat, leaf-shaped, parasitic worm. Life cycle with intermediate hosts. E.g. schistosoma
+        CESTODE: flat, long, parasitic worm (tapeworm). E.g. taenia solium
+    NEMATODE: cylindrical worm. Some are parasitic. E.g. ascaris lumbricoides
+Ectoparasite
+    Lice (piojos)
+    Ticks (garrapatas)
+    Fleas (pulgas)
+    Mites (ácaros)
+    Leaches (sanguijuelas)
+
+
+TBC: schistosoma life cycle?

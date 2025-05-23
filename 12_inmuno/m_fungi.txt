@@ -1,0 +1,11 @@
+Cell structure: eukaryotic
+    Have cell wall
+    ERGOSTEROL: molecule embedded in fungi plasma membrane, with similar effects to human cholesterol
+YEAST: unicellular fungus
+    Asexual reproduction through budding: part of the yeast buds out of the original cell to form a new one
+MOLD: multicellular fungus that forms a network of cells
+    HYPHAE: each of the filaments composing the structure of a mold
+        Cells in hyphae may be separated by septa (septate) or not (aseptate)
+    MYCELIUM: set of connected hyphae forming a web. The main mass of a fungus
+    Asexual or sexual reproduction using spores
+DIMORPHIC FUNGI: switch between yeast and mold forms depending on environmental conditions
