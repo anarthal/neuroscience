@@ -1,22 +1,27 @@
 Background
     DYSENTERY: gastroenteritis causing bloody diarrhea
-Unicellular, eukaryotic cells
-APICAL COMPLEX: structure present in the apical part of some protozoa that allows them to enter into host cells to parasite them
-    E.g. plasmodium
-PELLICLE: structure surrounding some protozoa's cell membrane. Protozoa's equivalent to a cell wall, but less rigid
-CYST: resistant, low metabolism form that some protozoa can transform into when conditions are unfavorable
-    E.g. survive stomach pH until reaching the intestine
-    EXCYSTATION: process of exiting the cyst state and transform into the active form
-VARIANT SURFACE GLYCOPROTEIN: protein in the surface of trypanosoma. Involved in antigen variation
-    Each trypanosoma expresses one VSG, but has genes for many different variations of the protein
-    After sexual reproduction, the new trypanosoma may express != VSGs by changing gene expression
-Trypanosoma may secrete molecules that degrade cytokines => Immune evasion
+Structures
+    Unicellular, eukaryotic cells
+    PELLICLE: structure surrounding some protozoa's cell membrane. Protozoa's equivalent to a cell wall, but less rigid
+    APICAL COMPLEX: structure present in the apical part of some protozoa that allows them to enter into host cells to parasite them
+        E.g. plasmodium
+    SUCTION DISC/VENTRAL DISC: cytoskeletal structure that allows some protozoans to attach to host surfaces
+        E.g. Giardia duodenalis (diarrhea - life cycle similar to amoeba histolytica)
+Immune system evasion
+    VARIANT SURFACE GLYCOPROTEIN: protein in the surface of trypanosoma. Involved in antigen variation
+        Each trypanosoma expresses one VSG, but has genes for many different variations of the protein
+        After sexual reproduction, the new trypanosoma may express != VSGs by changing gene expression
+    Living inside cells
+    Immune suppression: e.g. trypanosoma may secrete molecules that degrade cytokines
 Classification based on locomotion
     Amoeboid: use pseudopodia. E.g. entamoeba histolytica
     Flagellates: use flagella. E.g. trypanosoma
     Ciliates: use cilia. 
     Sporozoans: don't have motility in adult species. Use spores and have complex life cycles. E.g. plasmodium, toxoplasma gondii
 Life cycle of sporozoans: use an insect as intermediate host, as a vector for transmission
+    CYST: resistant, low metabolism form that some protozoa can transform into when conditions are unfavorable
+        E.g. survive stomach pH until reaching the intestine
+        EXCYSTATION: process of exiting the cyst state and transform into the active form
     SPOROZOITE: protozoan cells in the insect. Invade the host when the insect bites it
     SCHIZOGONY: type of asexual reproduction in protozoans where a cell divides its nucleus several times before splitting its cytoplasm
     SCHIZONT: protozoan cell living inside the host's cells that has divided its nucleus (multi-nucleated) but hasn't separated its cytoplasm yet
@@ -43,4 +48,3 @@ Life cycle of sporozoans: use an insect as intermediate host, as a vector for tr
         Excyst in small intestine => trophozoites => migrate to large intestine
         Trophozoites invade intestinal mucosa and reproduce => new cysts
         Cysts are excreted with feces => contaminate food and water
-    
