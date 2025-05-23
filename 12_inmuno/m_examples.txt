@@ -33,6 +33,13 @@ Salmonella (gastrointestinal infection)
     Acid-resistant: can survive stomach and inside macrophages
     Has fimbriae to attach to intestinal epithelial cells
     Intracellular parasite
+    Can enter cells via zippering (interacting with receptors)
+Listeria monocytogenes (listeriosis - gastroenteritis, meningitis)
+    Gram positive
+    Can enter cells via triggering (no receptors involved)
+    Can escape phagosomes
+    Can hijack the actin cytoskeleton to move through the cell and jump to other cells
+    Transmitted by eating contaminated food
 Clostridium
     Bacillus
     Gram positive

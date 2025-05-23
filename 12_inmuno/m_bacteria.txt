@@ -83,3 +83,6 @@ Antibiotic resistance mechanisms
     Reduced drug uptake: membrane is less permeable to the antibiotic
     Efflux pumps: antibiotic is actively pumped outside of the cell
 Horizontal gene transfer: see transformation, transduction, conjugation in 13_genetic_transfer_recombination.txt
+Epithelial invasion
+    ZIPPERING: triggers epithelial cell uptake by interacting with a receptor => actin polymerization (e.g. listeria)
+    TRIGGERING: triggers epithelial cell uptake by injecting molecules that cause actin polymerization (e.g. salmonella)

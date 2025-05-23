@@ -27,6 +27,15 @@ Steps of pathogenesis
         Biofilms
     2.b. Colonization: overthrowing the local microbiota
     3.a. Invasion of host tissues
+        Crossing the epithelial barrier
+            Active: pathogens cause their uptake by host cells (e.g. zippering, triggering)
+            Passive: use existing breaches (e.g. inflammation) or cause them by disrupting tight junctions
+        Crossing the endothelial barrier (or blood-brain barrier in CNS)
+            Transcellular pathway: cross endothelial cells by entering from one side and exiting in the other
+            Paracellular pathway: cross between cells after tight junctions have been disrupted
+            Trojan horse mechanism: invade immune cells and use them to cross the barrier
+        Enzymes that facilitate tissue penetration: proteases, collagenases, hyaluronidases
     3.b. Evading the immune system
+        Some pathogens can escape phagosomes
     4. Multiplication
     5. Leaving the host to infect other hosts
