@@ -5,6 +5,10 @@ Streptococcus pneumoniae
 Streptococcus pyogenes (scarlatine - strawberry tongue)
     Gram positive
     Antigen mimicry with heart tissue
+Staphylococcus aureus (usual comensal, opportunistic pathogen that causes almost everything)
+    Gram positive
+    Can release superantigens
+    Releases hemolysis: lyses red blood cells
 Bacillus anthracis
     Gram positive
     Has capsule
@@ -56,10 +60,22 @@ Chlamydia trachomatis
     Elementary body: infectious, resistant form of the bacterium that can enter host cells
     Reticulate body: non-infectious, replicative form of the bacterium after it has entered the host
     EB enters cell => forms an inclusion (vacuole) => changes to RB and replicates => forms more EB => lysis
-Clostridium
+Clostridium botulinum (botulism)
     Bacillus
     Gram positive
     Can form spores
+    A-B toxin that affects neurons at the neuromuscular junction
+    Botox comes from this toxin
+    Eating contaminated food with the toxin, swallowing the spores, entering wounds
+Clostridium tetani (tetanus)
+    Bacillus
+    Gram positive
+    Can form spores
+    A-B toxin that inhibits inhibitory neurotransmitters
+Vibrio cholerae (cholera - small intestine, diarrhea, vomiting)
+    Vibrio (comma shaped)
+    Gram negative
+    A-B toxin that activates cAMP production => ion imbalance, loss of water
 Plasmodium (malaria)
     Protozoa
     Has apical complex

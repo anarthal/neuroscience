@@ -48,6 +48,6 @@ Steps of pathogenesis
         HOST MIMICRY: pathogens produce molecules similar to the ones used by the host, confusing the immune system
             Antigen mimicry: antigens in pathogen similar to the ones in the host. Can make the immune system attack its own host
             Molecular mimicry: pathogen produces cytokines similar to the ones in host, confusing the immune system (e.g. virus)
-    3.c. Causing damage: direct (toxins, cell lysis), indirect (immune system response)
+    3.c. Causing damage: direct (toxins, virus cytophatic effects), indirect (immune system response)
     4. Multiplication
     5. Leaving the host to infect other hosts

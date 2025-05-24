@@ -1,0 +1,4 @@
+CYTOPATHIC EFFECTS: visible changes to host cells as a result of the replication of virus
+    Lysis
+    Syncytium formation
+    Inclusion bodies: aggregation of viral components
