@@ -25,6 +25,8 @@ Steps of pathogenesis
             E.g. escherichia coli binding to intestinal epithelium
             Potential therapeutic targets: should not produce antibiotic resistance (doesn't kill bacteria)
         Biofilms
+        Apical complex
+        Hooks, suckers, claws
     2.b. Colonization: overthrowing the local microbiota
     3.a. Invasion of host tissues
         Crossing the epithelial barrier
@@ -35,6 +37,7 @@ Steps of pathogenesis
             Paracellular pathway: cross between cells after tight junctions have been disrupted
             Trojan horse mechanism: invade immune cells and use them to cross the barrier
         Enzymes that facilitate tissue penetration: proteases, collagenases, hyaluronidases
+        Some pathogens use mechanical force
         INVASIN: type of adhesin expressed by some pathogens that bind to integrin receptors and cause uptake (e.g. yersinia pseudotuberculosis)
         Having motile structures (e.g. flagella) helps
     3.b. Evading the immune system
@@ -51,3 +54,24 @@ Steps of pathogenesis
     3.c. Causing damage: direct (toxins, virus cytophatic effects), indirect (immune system response)
     4. Multiplication
     5. Leaving the host to infect other hosts
+SYMBIOSIS: long-lived intimate relationship between two organisms. Might be beneficial or not
+    MUTUALISM: symbiosis where both organisms benefit (e.g. lichens)
+    COMMENSALISM: symbiosis where one organism benefits, while the other is neutral
+    PARASITISM: symbiosis where one organism benefits while harming the other
+    AMENSALISM: symbiosis where one organism harms the other without obtaining any benefit
+    Competition: symbiosis where both organisms are harmed
+Balanced virulence: parasites have advantage if they damage the host to feed but not too much, so it doesn't die
+Host specificity: in the context of parasites, describes the range of species that a parasite can infect
+    The parasite may have specialized structures (e.g. fimbriae), needs to survive the host, come into contact with it...
+    Evolution and host changes can lead to host switching => new diseases
+    Species ⊂ genus ⊂ family ⊂ suborder ⊂ order ⊂ class ⊂ phylum ⊂ kingdom (e.g. animalia) ⊂ domain (e.g. eukaryotes)
+    Strict specialist: single species
+    Congeneric specialist: single genus
+    Suprageneric specialist: single family
+    Low generalist: single suborder
+    High generalist: many suborders
+Parasites with complex life cycles
+    INTERMEDIATE HOST: where the immature parasite grows and (maybe) reproduces asexually. Transmits it to the definitive host
+    DEFINITIVE HOST: where the parasite reaches maturity and reproduces sexually
+
+
