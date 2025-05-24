@@ -4,6 +4,41 @@ Background
     PERFORIN: enzyme that creates holes in cell membranes
     GRANZYME: enzyme that triggers apoptosis upon entering a cell
     IMMUNE SURVEILLANCE: vigilance by the immune system to prevent tumors
+    ZYMOGEN/PROENZYME: molecule that can become an active enzyme after a chemical change
+    LECTIN: type of protein capable of recognizing and binding specific types of carbohydrates
+    MANNOSE: a concrete type of carbohydrate
+COMPLEMENT SYSTEM: set of soluble proteins in blood that get activated when pathogens are encountered
+    Causes lysis, inflammation and opsonization
+    Proteins exist in blood as zymogens, and need to be cleaved to become active
+        CN: inactive; CNa: small subunit that results from cleaving CN; CNb: big subunit. Except C2 (vice versa)
+    Classical pathway: triggered by antibodies (IgM, IgG) bound to antigens
+        C1 => C4 => C2 => C3 => C5 => MAC
+        C1: has a recognition protein C1q (6 globular domains, octopus shape), proteases C1r, C1s
+            C1q binds to antibodies constant regions => C1r activated => C1s activated => C4 activated
+        C4: once cleaved, C4b binds covalently to the antigen surface recognized by C1
+        C2: binds to C4b, gets cleaved by C1s => C4b2a complex (C3 convertase) => activate C3
+        C3: binds to the complex and gets cleaved => C3b => C4b2a3b complex (C5 convertase) => activate C5
+        C5: binds to the complex and gets cleaved => C5b => MAC
+    Alternative pathway: triggered by detecting foreign surfaces (e.g. endotoxins, cell walls)
+        C3 => Factor B => C3 => C5 => MAC
+        Tick over: always active at low levels, gets amplified on pathogen detection
+        Complement control proteins avoid getting this pathway activated against our own cells
+        C3: gets continuously hydrolyzed => C3b => binds to carbohydrates in pathogens
+        Factor B: binds to C3b and gets cleaved by factor D => C3b + Bb (C3 convertase)
+        Amplification loop: C3 convertase cleaves more C3 => more C3b
+        Another C3b molecules binds to the complex => C5 convertase
+        C5: binds to the complex and gets cleaved => C5b => MAC
+        Produces a lot of C3b => good at opsonization
+    Lectin pathway: triggered by lectins that detect PAMPs
+        MBL/MASPs => C4 => C2 => C3 => C5 => MAC
+        MBL/MAPSs complex: initiator complex similar to C1
+        Mannose-binding lectin (MBL): 6-headed globular molecule that recognizes PAMPs. Homologous to C1q
+        Mannose-binding lectin associated serine proteases (MASP-1 and MASP-2): proteases homologous to C1r, C1s
+        Like the classical pathway, but MASPs cleave C4 and C2
+    Opsonization is favored by C3b
+    ANAPHYLATOXIN: molecules of C3a, C4a, C5a that promote inflammation (by activating other immune cells)
+    MEMBRANE ATTACK COMPLEX (MAC): complex of complement proteins that can lyse cells by creating pores in the target cell's membrane
+        C5b => C6 => C7 => C8 => polymerizes C9, forming a barrel-like structure that creates the pore
 EXTRAVASATION: recruitment of immune cells to sites of infection
     1. Local activated macrophages use interleukins to make endothelial cells express cell-adhesion molecules
         Leukocytes slow down and roll over endothelium

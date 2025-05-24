@@ -44,10 +44,10 @@ Antibody structure
     IMMUNOGLOBULIN FOLD: two beta sheets (beta sandwich) joined by a disulfide bond
     IMMUNOGLOBULIN DOMAIN (Ig domain): a domain with an immunoglobulin fold
     Two == heavy chains (4 Ig domains), two == light chains (2 Ig domains)
-    Variable region (V): part of a chain that changes from molecule to molecule. In charge of antigen recognition
+    Variable region (V/Fab): part of a chain that changes from molecule to molecule. In charge of antigen recognition
         In the N-terminal domain, in both the heavy and the light chain
         Forms 2 antigen binding sites
-    Constant region (V): the other parts. In charge of neutralization, opsonization...
+    Constant region (C/Fc): the other parts. In charge of neutralization, opsonization...
     HINGE REGION: flexible region in the heavy chain. Increases range for recognition
     Light-heavy and heavy-heavy joined by disulfide bonds
     Domain names: VH, CH1, CH2, CH3 (heavy); VL, CL (light)
@@ -77,7 +77,7 @@ IgA: secreted (mucosa, saliva, MALT). 2nd most common
     Passive immunity to newborns (secreted with breast milk)
     Secreted by transcytosis. J-chain is recognized by epithelial cells
     Has hinge region
-IgM: 1st most common
+IgG: 1st most common
     In blood, interstitial fluid, saliva, breast milk...
     Can cross placenta => Protect fetus
     Can cross epithelial cells because it's small
