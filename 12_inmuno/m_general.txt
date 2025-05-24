@@ -35,7 +35,19 @@ Steps of pathogenesis
             Paracellular pathway: cross between cells after tight junctions have been disrupted
             Trojan horse mechanism: invade immune cells and use them to cross the barrier
         Enzymes that facilitate tissue penetration: proteases, collagenases, hyaluronidases
+        INVASIN: type of adhesin expressed by some pathogens that bind to integrin receptors and cause uptake (e.g. yersinia pseudotuberculosis)
+        Having motile structures (e.g. flagella) helps
     3.b. Evading the immune system
-        Some pathogens can escape phagosomes
+        ANTIGEN VARIATION: pathogen's ability to modify its surface antigens to escape the host's immune system (e.g. trypanosoma brucei)
+            Genetic recombination, changes in gene expression
+        IMMUNE MODULATION: pathogen's ability to interfere with the host's immune system normal function
+            Escaping the phagosome (e.g. listeria)
+            Interfering MHC II antigen presentation (e.g. some virus)
+            Promoting the production of anti-inflammatory cytokines (e.g. helminths, helicobacter pylori)
+            Directly infecting immune cells (e.g. HIV)
+        HOST MIMICRY: pathogens produce molecules similar to the ones used by the host, confusing the immune system
+            Antigen mimicry: antigens in pathogen similar to the ones in the host. Can make the immune system attack its own host
+            Molecular mimicry: pathogen produces cytokines similar to the ones in host, confusing the immune system (e.g. virus)
+    3.c. Causing damage: direct (toxins, cell lysis), indirect (immune system response)
     4. Multiplication
     5. Leaving the host to infect other hosts

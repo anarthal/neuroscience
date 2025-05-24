@@ -8,7 +8,7 @@ Structures
     SUCTION DISC/VENTRAL DISC: cytoskeletal structure that allows some protozoans to attach to host surfaces
         E.g. Giardia duodenalis (diarrhea - life cycle similar to amoeba histolytica)
 Immune system evasion
-    VARIANT SURFACE GLYCOPROTEIN: protein in the surface of trypanosoma. Involved in antigen variation
+    VARIANT SURFACE GLYCOPROTEIN (VSG): protein in the surface of trypanosoma. Involved in antigen variation
         Each trypanosoma expresses one VSG, but has genes for many different variations of the protein
         After sexual reproduction, the new trypanosoma may express != VSGs by changing gene expression
     Living inside cells

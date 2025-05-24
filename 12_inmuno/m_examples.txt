@@ -1,6 +1,10 @@
 Streptococcus pneumoniae
     Gram positive
     Has capsule
+    Does antigen variation: != strains have != polysaccharides in their capsule
+Streptococcus pyogenes (scarlatine - strawberry tongue)
+    Gram positive
+    Antigen mimicry with heart tissue
 Bacillus anthracis
     Gram positive
     Has capsule
@@ -22,6 +26,7 @@ Helicobacter pylori (stomach ulcers)
     1/2 of global population has it, but mostly asymptomatic
     Expresses adhesins to adhere to the gastric epithelium
     Can damage tissue and induce cancer
+    Modulates immune response by inducing the production of anti-inflammatory cytokines
 Pseudomonas aeruginosa (biofilms in cystic fibrosis)
     Gram negative
     Rod-shaped
@@ -37,9 +42,20 @@ Salmonella (gastrointestinal infection)
 Listeria monocytogenes (listeriosis - gastroenteritis, meningitis)
     Gram positive
     Can enter cells via triggering (no receptors involved)
-    Can escape phagosomes
+    Can escape phagosomes (listeriolysin)
     Can hijack the actin cytoskeleton to move through the cell and jump to other cells
     Transmitted by eating contaminated food
+Yersinia pseudotuberculosis (mild diarrhea)
+    Gram negative
+    Can enter cells via zippering (interacting with receptors using invasins)
+    Transmitted by eating contaminated food
+Chlamydia trachomatis
+    Gram negative
+    Obligate intracellular parasite
+    Sexually transmitted - usual std symptoms
+    Elementary body: infectious, resistant form of the bacterium that can enter host cells
+    Reticulate body: non-infectious, replicative form of the bacterium after it has entered the host
+    EB enters cell => forms an inclusion (vacuole) => changes to RB and replicates => forms more EB => lysis
 Clostridium
     Bacillus
     Gram positive
@@ -47,9 +63,14 @@ Clostridium
 Plasmodium (malaria)
     Protozoa
     Has apical complex
-Trypanosome brucei (sleeping sickness)
+Trypanosoma brucei (sleeping sickness)
     Protozoa
     Does antigen variation via VSG
+    Uses tse-tse fly as vector
+Trypanosoma cruzi (Chagas disease)
+    Protozoa
+    Uses kissing bugs as vector
+    Modulates immune response by inducing the production of anti-inflammatory cytokines
 Saccharomyces cerevisiae: yeast
 Candida albicans (candidiasis - white tongue)
     Usually a commensal organism in microbiota
