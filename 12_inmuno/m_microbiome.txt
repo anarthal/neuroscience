@@ -5,22 +5,9 @@ METAGENOME: the collective genetic material of all microorganisms in the microbi
 DYSBIOSIS: disruption in the balance of microbiota
 Features
     Diverse: changes between individuals
-    !Dynamic: changes with time, environment, diet...
+    Dynamic: changes with time, environment, diet...
     Interconnected: influences many other processes
 Both host and microbes have evolved adaptations to interact with each other
-Study techniques
-    Cultivation in the lab. But some organisms are unculturable
-    Microscope examination
-    Biochemical tests (e.g. Gram staining)
-    DNA sequencing (e.g. targeting the 16S rRNA conserved gene in bacteria)
-    Bioinformatics
-Dynamic composition: changes with time and with many factors
-    Diet: the main factor. Good: dietary fiber, prebiotics
-    Exercise: good
-    !Sleep: getting enough is good
-    Antibiotics: bad
-TBC: composition
-Human microbiome project: in-depth characterization of human microbiota
 Gut microbiota
     Mostly anaerobic medium
     Nutrient acquisition: ferments dietary fiber into short-chain fatty acids (SCFA)
@@ -40,9 +27,19 @@ Gut microbiota
     Brain-gut axis
         Communication happens primarily through the vagus nerve
         SCFAs can directly influence neurons or act by entering into the blood stream
-        Synthesize some neurotransmitters (?)
+        Aid in the synthesis of serotonin by synthesizing tryptophan
+        Influence in the synthesis and regulation of dopamine and GABA
         Dysbiosis promotes anxiety and depression
+        Autism spectrum disorders linked with dysbiosis
+    Inflammatory bowel disease: family of diseases involving chronic inflammation in the gut. Linked to dysbiosis
+    Obesity and type II diabetes linked to dysbiosis
+    Atherosclerosis linked to dysbiosis: TMAO produced by microbiota on certain diets + inflammation
+    Composition changes with
+        Diet: the main factor. Good: dietary fiber, prebiotics. Bad: fat
+        Antibiotics: dysbiosis, growth of antibiotic resistance bacteria (e.g. clostridium difficile)
+        Exercise: good
         Sleep: dysbiosis may alter sleep patterns. Not getting enough sleep causes dysbiosis
+        Stress: bad (stress hormone causes dysbiosis and inflammation)
 Skin microbiota
     Composition influenced by humidity and amount of sebum (nutrients)
     Helps skin barrier integrity
@@ -56,3 +53,32 @@ Respiratory tract microbiota
     Competition with pathogens
     Immune system development/modulation
 Vagina microbiota: lactobacillus maintains it acid to prevent pathogen growth
+Study techniques
+    Cultivation in the lab. But some organisms are unculturable
+    Microscope examination
+    Biochemical tests (e.g. Gram staining)
+    DNA sequencing (e.g. targeting the 16S rRNA conserved gene in bacteria)
+    Bioinformatics
+    Human microbiome project: in-depth characterization of human microbiota
+    Longitudinal studies: study the temporal evolution of the microbiome in an individual, rather than a single snapshot
+    METAGENOMICS: study of the genome of the microbiome. Can be used for personalized medicine
+    Problem: we know that correlation exists, but not causation (we don't understand the mechanism)
+Therapies
+    PROBIOTICS: medication consisting of live microorganisms to enhance gut microbiota
+        Lactobacillus, bifidobacterium, saccharomyces boulardii
+        Does not benefit all patients equally (microbiota variation between individuals)
+    PREBIOTICS: food ingredients that promote a healthy microbiota
+        Inulin: prebiotic dietary fiber (e.g. garlic)
+    FECAL MICROBIOTA TRANSPLANTATION (FMT): transferring fecal matter from a healthy individual into a patient with dysbiosis
+        Effective against clostridium difficile
+        May help irritable bowel syndrome and neurological conditions (experimental)
+        Requires personalized medicine (variability of microbiota)
+    SYNTHETIC MICROBIOME: standardized population of selected organisms considered beneficial
+        Less variation than with FMT
+        May not help all patients equally
+        Experimental
+    Personalized microbiome medicine: personalize microbiome-related techniques
+        Microbiome profiling: identify the composition of an individual's microbiome
+        Predictive modeling: try to predict microbiome-linked diseases (e.g. atherosclerosis)
+        Select the most adequate probiotics and prebiotics for the patient
+    
