@@ -82,7 +82,7 @@ BIOFILM: community of bacteria living under a protective extracellular matrix
         Periodontitis: chronic inflammation of gums due to immune system response
 Antibiotic resistance mechanisms
     Inactivation: bacterial enzymes degrade the antibiotic
-    Altered target sites
+    Altered target sites (e.g. mutate ribosome structure)
     Reduced drug uptake: membrane is less permeable to the antibiotic
     Efflux pumps: antibiotic is actively pumped outside of the cell
 Horizontal gene transfer: see transformation, transduction, conjugation in 13_genetic_transfer_recombination.txt

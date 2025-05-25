@@ -1,0 +1,58 @@
+MICROBIOME: ecosystem composed by the microorganisms living within the human body (or other system), their genome and their env
+    It's not just bacteria - includes also other kingdoms
+MICROBIOTA: the community of organisms living within the microbiome
+METAGENOME: the collective genetic material of all microorganisms in the microbiome
+DYSBIOSIS: disruption in the balance of microbiota
+Features
+    Diverse: changes between individuals
+    !Dynamic: changes with time, environment, diet...
+    Interconnected: influences many other processes
+Both host and microbes have evolved adaptations to interact with each other
+Study techniques
+    Cultivation in the lab. But some organisms are unculturable
+    Microscope examination
+    Biochemical tests (e.g. Gram staining)
+    DNA sequencing (e.g. targeting the 16S rRNA conserved gene in bacteria)
+    Bioinformatics
+Dynamic composition: changes with time and with many factors
+    Diet: the main factor. Good: dietary fiber, prebiotics
+    Exercise: good
+    !Sleep: getting enough is good
+    Antibiotics: bad
+TBC: composition
+Human microbiome project: in-depth characterization of human microbiota
+Gut microbiota
+    Mostly anaerobic medium
+    Nutrient acquisition: ferments dietary fiber into short-chain fatty acids (SCFA)
+        Bacteroidetes and firmicutes
+        Butyrate: SCFA that provides energy to colonocytes
+    Vitamin synthesis
+        Vitamin K: blood clotting. E.coli, bacterioides
+        Vitamin B12 and others: lactobacillus, bifidobacterium
+    Metabolizes some drugs
+    Immune system development
+        Stimulates production of antimicrobial substances
+        Helps create tolerance
+    Modulates the immune system (via SCFAs) => reduce inflammation
+    Helps intestinal barrier integrity
+        Competition with pathogens
+        SCFAs help to produce mucus and tight junctions in the mucosa
+    Brain-gut axis
+        Communication happens primarily through the vagus nerve
+        SCFAs can directly influence neurons or act by entering into the blood stream
+        Synthesize some neurotransmitters (?)
+        Dysbiosis promotes anxiety and depression
+        Sleep: dysbiosis may alter sleep patterns. Not getting enough sleep causes dysbiosis
+Skin microbiota
+    Composition influenced by humidity and amount of sebum (nutrients)
+    Helps skin barrier integrity
+    Competition with pathogens
+    Immune system development/modulation
+    Chemicals (e.g. soaps) and UV light are bad
+Oral microbiota: required for oral health but can cause dental decay
+    Influenced by saliva composition (nutrient vs. antimicrobial composition) and oral hygiene habits
+Respiratory tract microbiota
+    Mostly in the upper part
+    Competition with pathogens
+    Immune system development/modulation
+Vagina microbiota: lactobacillus maintains it acid to prevent pathogen growth

@@ -76,6 +76,10 @@ Vibrio cholerae (cholera - small intestine, diarrhea, vomiting)
     Vibrio (comma shaped)
     Gram negative
     A-B toxin that activates cAMP production => ion imbalance, loss of water
+Clostridioides difficile (diarrhea)
+    Gram positive
+    Resistant to many antibiotics
+    Associated to disturbance of gut microbiota after antibiotic treatment 
 Plasmodium (malaria)
     Protozoa
     Has apical complex
