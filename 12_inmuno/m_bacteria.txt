@@ -81,7 +81,7 @@ BIOFILM: community of bacteria living under a protective extracellular matrix
         Metabolism generates acids => enamel decay
         Periodontitis: chronic inflammation of gums due to immune system response
 Antibiotic resistance mechanisms
-    Inactivation: bacterial enzymes degrade the antibiotic
+    Inactivation: bacterial enzymes degrade the antibiotic (e.g. break beta-lactam ring)
     Altered target sites (e.g. mutate ribosome structure)
     Reduced drug uptake: membrane is less permeable to the antibiotic
     Efflux pumps: antibiotic is actively pumped outside of the cell
@@ -89,7 +89,8 @@ Horizontal gene transfer: see transformation, transduction, conjugation in 13_ge
 Epithelial invasion
     ZIPPERING: triggers epithelial cell uptake by interacting with a receptor => actin polymerization (e.g. listeria)
     TRIGGERING: triggers epithelial cell uptake by injecting molecules that cause actin polymerization (e.g. salmonella)
-QUORUM SENSING: bacterial cell to cell communication that triggers genetic regulation
+QUORUM SENSING: bacterial cell to cell communication that triggers genetic regulation depending on the community size
+    Triggers different reactions in bacteria when living in a community
     E.g. only express certain genes if there are enough bacteria to make them useful
 Toxins
     EXOTOXIN: secreted by bacteria to damage host cells
@@ -120,3 +121,14 @@ Toxins
             More specific, less side effects. Still in development
         Prophylaxis: any of the above when used to prevent disease in individuals exposed to toxins
         Rare diseases might not have a therapy yet
+HEAT-SHOCK RESPONSE: response activated on temperature increase. Produces chaperones to correct misfolded proteins
+Antibiotics targets
+    Cell wall synthesis: beta lactam, vancomycin
+    Ribosomes: macrolides, erythromicin (large subunit); tetracyclin, aminoglycosides (small subunit)
+    DNA gyrase: fluoroquinolones
+    RNA polymerase: rifampicin
+    Folic acid: sulfonamides, trimethoprim
+PHASE VARIATION: reversible, high-frequency switching between 2 != phenotypes in a clonal population of bacteria
+    Via site-specific recombination, DNA replication errors, DNA methylation
+    E.g. salmonella varies flagellin (antigen variation)
+    E.g. neisseria ghonorrea varies fimbriae (change tissue trophism)

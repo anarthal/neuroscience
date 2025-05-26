@@ -1,0 +1,24 @@
+AUTOTROPH: organism that synthesizes all their required carbon-based molecules from inorganic compounds. Vs heterotroph
+Culture media
+    Selective: kills some of the microorganisms (e.g. containing antibiotics)
+    Differential: distinguishes between organisms depending on their metabolic capabilities (e.g. media with blood)
+Bacterial growth curve phases: lag, exponential, stationary, death
+Organism classification depending on their relation to temperature
+    Psychrophiles: optimum at < 15ºC
+    Psychrotrophs: optimum at moderate, but also at low. Food spoilage
+    Mesophiles: optimum at 25-40ºC
+    Thermophiles: optimum at 50-80ºC. Hot springs
+    Hyperthermophiles: optimum at > 80ºC. Deep sea
+Organism classification depending on their relation to oxygen
+    OBLIGATE AEROBE: need oxygen
+    MICROAEROPHIL: need small quantities of oxygen
+    FACULTATIVE ANAEROBE: can live in anaerobic conditions, but less efficiently
+    AEROTOLERANT ANAEROBE: can live with oxygen, but they don't use it
+    OBLIGATE ANAEROBE: can't live with oxygen
+HALOPHILE: organism that tolerates or requires large salt concentrations to grow
+Glycolysis, Krebs, fermentation: see 14a_cell_respiration.txt
+Photosynthesis
+    Oxygenic: produces oxygen (vs. anoxygenic)
+    Non-cyclic photophosphorylation: photosynthesis that converts light into ATP and NADPH (electron carrier)
+    Cyclic photophosphorylation: photosynthesis that converts light into ATP only
+    Calvin cycle: set of reactions following photosynthesis that converts ATP and NADPH into sugars
