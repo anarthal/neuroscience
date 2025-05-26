@@ -1,3 +1,10 @@
+B cells
+    Start in bone marrow (immature)
+    Then go to the spleen (naive)
+T cells
+    First in bone marrow, then in thymus
+    Kill by secreting perforin
+
 lymphopoiesis
     central/primary lymphoid organs: where lymphocytes are produced
     B cells: bone marrows

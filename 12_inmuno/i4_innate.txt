@@ -96,4 +96,4 @@ Natural killer cell function: kill cells that might be infected or tumoral
     Has activating and inhibitory receptors. Inspects cells, and depending on what receptors say, kills or not
     Inspects MHC I. If it's absent (e.g. tumor), kills
     ANTIBODY-DEPENDANT CELLULAR CYTOTOXICITY: kills cells that have bound antibodies
-    Kills by perforins + granzymes
+    Kills by perforins + granzymes (granules)
