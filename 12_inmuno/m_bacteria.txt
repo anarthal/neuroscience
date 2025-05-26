@@ -1,6 +1,7 @@
 Background
     CELL ENVELOPE: in bacteria, cell membranes (inner and outer if Gram-negative) + cell wall
     BACTERIOCIN: bacterial toxin that inhibits proliferation of similar bacteria
+In membrane, phosphates bound to lipids using esther bonds (vs. ether in archaea)
 Bacterial morphologies and arrangements: guide further 
     Coccus: spherical
     Bacillus: rod-shaped

@@ -1,6 +1,9 @@
 ENDOPARASITE: parasite that lives in the host's interior
 ECTOPARASITE: parasite that live in the host's external surface
-VIRULENCE: describes the capacity of a pathogen to cause disease
+PATHOGENICITY: describes the capacity of a pathogen to cause disease
+VIRULENCE: describes the severity of the disease that a certain pathogen may cause
+RED QUEEN HYPOTHESIS: host and parasites are in a constant race to survive, constantly evolving to adapt
+    Genetic variation is important => sexual reproduction
 ETIOLOGY: the ultimate cause of the disease (e.g. infection, mutation)
 PATHOGENESIS: sequence of events that lead to the appear of a disease
     How much pathogenesis happens depends on the host (e.g. immune system), pathogen (e.g. virulence) and env (e.g. poor hygiene)
