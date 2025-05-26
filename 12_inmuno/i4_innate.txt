@@ -7,6 +7,13 @@ Background
     ZYMOGEN/PROENZYME: molecule that can become an active enzyme after a chemical change
     LECTIN: type of protein capable of recognizing and binding specific types of carbohydrates
     MANNOSE: a concrete type of carbohydrate
+INNATE IMMUNE SYSTEM: first internal line of defense in the body
+    Non-specific response: reaction based on molecule patterns, rather than specific sequences
+    Non-clonal: all cells of a certain lineage are genetically equal (vs. B/T lymphocytes)
+    Faster than the adaptive response
+    If it encounters the same pathogen twice
+        If occurrences are separated in time, responds equally
+        If they're continuous, either develops tolerance or overreacts
 COMPLEMENT SYSTEM: set of soluble proteins in blood that get activated when pathogens are encountered
     Causes lysis, inflammation and opsonization
     Proteins exist in blood as zymogens, and need to be cleaved to become active
@@ -72,6 +79,10 @@ Neutrophil function: war
     NETosis: trapping pathogens by expelling their own chromatin (implies cell death)
         Granules released inside the neutrophil => Nucleus breaks => Expel chromatin
         NEUTROPHIL EXTRACELLULAR TRAP (NET): chromatin released by neutrophils + other proteins, capable of trapping pathogens
+Eosinophil function: helminths
+    Linked with allergies: e.g. asthma linked to inflammation caused by eosinophil degranulation
+    Fight virus
+    Regulatory cytokines
 Macrophage function: war and cleanup
     Phagocytosis
     Oxidative burst

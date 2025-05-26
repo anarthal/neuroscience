@@ -1,0 +1,16 @@
+Skin
+    Physical barrier
+    Chemical barrier: lipids dissolve bacterial's cell membrane
+Mucosa
+    Mucus traps foreign particles
+    Cilia clears mucus
+    Other secretions (e.g. cerumen) and hair-like structures (e.g. eyelashes) serve similar purpose
+Secretions with anti-microbial substances (chemical barrier)
+    E.g. saliva, tears, sweat
+    LYSOZYME: enzyme that degrades peptidoglycans in bacterial cell walls
+    DEFENSIN: short peptides that can form pores in prokaryotic cell membranes
+        Prokaryotic cell membranes expose negative charges in the outer layer, and the peptide is cationic
+    PEPSIN: stomach's main gastric enzyme
+    Zinc (e.g. seminal fluid): kills pathogens
+Secretions with low pH: e.g. digestive, sweat, urine, sebus
+Microbiota

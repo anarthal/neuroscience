@@ -1,10 +1,13 @@
 CD4: helper T cells
 CD3: anchors TCR to the cell membrane
 CD8: cytotoxic T cells
+CD10: metalloprotease that aids in lymphoid cells exiting the bone marrow for further development
 CD19: surface protein in B cells that helps in signal transduction, together with CD21
 CD21: surface protein in B cells that recognizes the activation of the complement system
 CD28: co-stimulatory receptor in T cells, stimulated by antigen-presenting cells
+CD34: hematopoietic stem cell adhesion to the bone marrow
 CD40: surface protein expressed by APCs (e.g. B lymphocytes). Used by helper T cells to activate them
+CD79: expressed by B cells. Part of the signalling cascade after BCR activation
 CD80, CD86: expressed by APCs. Stimulate co-stimulatory receptors in T cells
 IL21: secreted by helper T cells to activate cytotoxic T cells and B cells
 
