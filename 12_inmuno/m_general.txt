@@ -10,6 +10,8 @@ INFECTION: entry and multiplication of pathogens into a host. May or may not lea
     CLINICAL INFECTION: infection that causes symptoms and signs
     SYMPTOM: disease-related experience reported by the patient (e.g. pain)
     Sign: measurable evidence of disease in a patient (e.g. fever)
+    Acute infections linked to high pathogen loads
+    Chronic infections linked to irreversible damage
 TISSUE TROPISM: the spectrum of tissues that a pathogen may infect
 Steps of pathogenesis
     1. Pathogen in a reservoir comes into contact with the host and enters it
@@ -48,10 +50,14 @@ Steps of pathogenesis
             Interfering MHC II antigen presentation (e.g. some virus)
             Promoting the production of anti-inflammatory cytokines (e.g. helminths, helicobacter pylori)
             Directly infecting immune cells (e.g. HIV)
+            Helminths: decrease T helpers, increase T regulators 
         HOST MIMICRY: pathogens produce molecules similar to the ones used by the host, confusing the immune system
             Antigen mimicry: antigens in pathogen similar to the ones in the host. Can make the immune system attack its own host
             Molecular mimicry: pathogen produces cytokines similar to the ones in host, confusing the immune system (e.g. virus)
-    3.c. Causing damage: direct (toxins, virus cytophatic effects), indirect (immune system response)
+        Living inside the host's cells
+    3.c. Causing damage
+        Direct: toxins, virus cytophatic effects, mechanical movement
+        Indirect: immune system response
     4. Multiplication
     5. Leaving the host to infect other hosts
 SYMBIOSIS: long-lived intimate relationship between two organisms. Might be beneficial or not
@@ -73,5 +79,9 @@ Host specificity: in the context of parasites, describes the range of species th
 Parasites with complex life cycles
     INTERMEDIATE HOST: where the immature parasite grows and (maybe) reproduces asexually. Transmits it to the definitive host
     DEFINITIVE HOST: where the parasite reaches maturity and reproduces sexually
-
-
+Host manipulation: some parasites can alter the host's behavior for their benefit
+    Neurotransmitter alteration
+    E.g. toxoplasma makes rodents be eaten by cats
+ZOONOTIC INFECTION: disease transmitted from an animal to a human
+    Host jump: the process where a disease changes species
+HERD IMMUNITY: situation where most individuals in a community are immune to a disease, so it doesn't spread

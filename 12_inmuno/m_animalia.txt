@@ -1,6 +1,6 @@
 HELMINTH: multicellular worm parasite (endoparasite)
     PLATYHELMINTHES: flat worms
-        TREMATODE: flat, leaf-shaped, parasitic worm. Life cycle with intermediate hosts. E.g. schistosoma
+        TREMATODE: flat, leaf-shaped, parasitic worm. Life cycle with intermediate hosts. E.g. schistosoma, echinostoma
         CESTODE: flat, long, parasitic worm (tapeworm). E.g. taenia solium
     NEMATODE: cylindrical worm. Some are parasitic. E.g. ascaris lumbricoides
 Ectoparasites
@@ -13,7 +13,11 @@ Ectoparasites
     Vectors for disease transmission
         Biological transmission: the transmitted pathogen has part of its life cycle inside the vector
         Mechanical transmission: the transmitted pathogen is located in the vector's surface or feces
-        
-
+Echinostoma life cycle
+    Eggs in definitive host's feces
+    Eggs hatch in water => miracidia
+    Miracidia invades snails => cercariae
+    Cercariae invades other snails/frogs => metacercariae
+    Metacecaria ingested by definitive host => adult in intestine
 
 TBC: schistosoma life cycle?

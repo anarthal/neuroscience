@@ -1,5 +1,4 @@
 Background
-    CYTOKINE: protein involved in signalling. Can't enter the cytoplasm => uses membrane-bound receptors
     LACTOFERRIN: antimicrobial protein. Generates reactive hydroxyl species
     HEPARIN: anti-coagulant
     METACHROMASIA: change in color in dye when it binds to certain substances
@@ -117,9 +116,9 @@ Natural killers
 Innate lymphoid cells
     Found in tissues, not in the blood stream
     Secrete cytokines
-
-
-Communication is important because of the complex tasks that the immune system does
+Communication molecules
+    CYTOKINE: protein involved in signalling. Can't enter the cytoplasm => uses membrane-bound receptors
+    CHEMOKINE: molecule involved in cell migration (attracts cells to certain points)
     Paracrine
         Long range: diffuse a molecule that might reach many cells
         Short range: ~synaptic: to a single cell (in the cavity between cells)
@@ -143,5 +142,3 @@ Communication is important because of the complex tasks that the immune system d
     Tumor necrosis factors
         Pro-inflammatory, might induce proliferation or apoptosis
     TGF-beta
-    Chemokines: mediate migration (attract cells to certain points)
-
