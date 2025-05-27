@@ -88,7 +88,7 @@ Antibiotic resistance mechanisms
     Efflux pumps: antibiotic is actively pumped outside of the cell
 Horizontal gene transfer: see transformation, transduction, conjugation in 13_genetic_transfer_recombination.txt
 Epithelial invasion
-    ZIPPERING: triggers epithelial cell uptake by interacting with a receptor => actin polymerization (e.g. listeria)
+    ZIPPERING: triggers epithelial cell uptake by interacting with a receptor => actin polymerization (e.g. listeria, yersinia enterocolitica's invasin)
     TRIGGERING: triggers epithelial cell uptake by injecting molecules that cause actin polymerization (e.g. salmonella)
 QUORUM SENSING: bacterial cell to cell communication that triggers genetic regulation depending on the community size
     Triggers different reactions in bacteria when living in a community
@@ -101,12 +101,15 @@ Toxins
             Pore-forming toxin: proteins that oligomeryze in the target membrane forming barrels => pores
             Phospholipases: degrade the phospholipids in the plasma membrane
             Causes ion imbalances and cell death
+            Listeriolysin O.: creates pores in the phagosome
+            Hemolysins (e.g. staphylococcus aureus): lyse red blood cells
         A-B TOXIN: composed of a B subunit that binds to receptors to cause endocytosis, and an A subunit that causes toxicity in the cell 
-            Diphtheria: inhibits elongation factor required for ribosome translocation during translation
+            Diphtheria (respiratory): inhibits elongation factor required for ribosome translocation during translation
             Botulinum: affects neurons at the neuromuscular junction. Inhibits the SNARE complex => no neurotransmitter release
             Tetanus: affects neurons, preventing the release of inhibitory neurotransmitters
-            Cholera: activates cAMP production in small intestine cells => ion imbalances => water loss
+            Cholera (enterotoxin): activates cAMP production in small intestine cells => ion imbalances => water loss
     ENDOTOXIN: released when bacteria die. Intrinsic component of bacteria (LPS). Can cause septic shock
+        Recognized by pattern recognition receptors, like toll-like receptors and CD14
         SEPSIS: life-threatening condition where the immune system response to an infection causes damage to its own organs
         SEPTIC SHOCK: sepsis with very low blood pressure and other abnormal metabolic activities
         Caused by cytokine storms => general inflammation, vasodilation
@@ -124,7 +127,7 @@ Toxins
         Rare diseases might not have a therapy yet
 HEAT-SHOCK RESPONSE: response activated on temperature increase. Produces chaperones to correct misfolded proteins
 Antibiotics targets
-    Cell wall synthesis: beta lactam, vancomycin
+    Cell wall synthesis: beta lactam, penicillin, vancomycin
     Ribosomes: macrolides, erythromicin (large subunit); tetracyclin, aminoglycosides (small subunit)
     DNA gyrase: fluoroquinolones
     RNA polymerase: rifampicin

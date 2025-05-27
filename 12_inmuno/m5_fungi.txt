@@ -9,3 +9,5 @@ MOLD: multicellular fungus that forms a network of cells
     MYCELIUM: set of connected hyphae forming a web. The main mass of a fungus
     Asexual or sexual reproduction using spores
 DIMORPHIC FUNGI: switch between yeast and mold forms depending on environmental conditions
+    Mold cold (in the env), heat yeast (inside the host)
+    Candida albicans does it the other way around

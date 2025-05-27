@@ -16,6 +16,24 @@ B cell development
     migration to secondary organs
     encounter antigen
     CD19: lineage marker for B cells
+Phases TL;DR
+    1. Pre-pro: recombination in heavy chain started
+    2. Pro: DJ recombination in heavy chain finished
+    3. Late pro: VDJ recombination in heavy chain finished
+    4. Large pre: express a preBCR, with the complete heavy chain and a surrogate light chain
+        Positive selection: can it bind to something? Stromal cell used for testing
+        If it can't, test with the other chromosome. If it can't, apoptosis
+        If it passes the test, clonal proliferation
+    5. Small pre: recombination VJ in light chain started
+    6. Immature B cell: recombination VJ in light chain finished
+        Positive selection: can the light chain bind to the heavy chain? If it can't, try rearranging other genes (2 genes involved in light chain)
+        Cell detaches from stromal cell
+        Negative selection: don't do harm
+            If the cell binds strongly to self-antigens, eliminate it
+            If it bind lightly, edit it and try again
+
+
+
 from common lymphoid progenitor to B cell
     1. pre-pro: start in the bone marrow
         close to mesenchymal stromal cells

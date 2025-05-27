@@ -130,7 +130,7 @@ Communication molecules
         they activate transcription factors => change in phenotype
         It is the receptor that has the gamma-chain. The cytokine is the ligand
     Beta-chain cytokines: cell proliferation and differentiation
-    IL-6 like cytokines: can be graduated to produce less/more response, based on the cell receptors
+    IL-6 like cytokines: lymphocyte activation
         Involved in acute reactions
         Promotes B cell activation
     Note: STAT chains are faster
@@ -142,3 +142,4 @@ Communication molecules
     Tumor necrosis factors
         Pro-inflammatory, might induce proliferation or apoptosis
     TGF-beta
+    CXCL8: chemotaxis

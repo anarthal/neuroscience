@@ -24,6 +24,7 @@ Neisseria gonorrhoeae
     Diplococcus
     Has adhesive pili (type IV) that bind to genital tract
     Pili undergo antigen variation
+    Does phase variation with fimbriae
 Helicobacter pylori (stomach ulcers)
     Gram negative
     Has flagella
@@ -114,4 +115,3 @@ Toxoplasma gondii (toxoplasmosis)
     Protozoa, has apical complex, sporozoa
     Humans are intermediate hosts, cats are the definitive hosts
     Uncooked meat or cat feces
-

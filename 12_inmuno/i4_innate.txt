@@ -23,8 +23,8 @@ COMPLEMENT SYSTEM: set of soluble proteins in blood that get activated when path
         C1: has a recognition protein C1q (6 globular domains, octopus shape), proteases C1r, C1s
             C1q binds to antibodies constant regions => C1r activated => C1s activated => C4 activated
         C4: once cleaved, C4b binds covalently to the antigen surface recognized by C1
-        C2: binds to C4b, gets cleaved by C1s => C4b2a complex (C3 convertase) => activate C3
-        C3: binds to the complex and gets cleaved => C3b => C4b2a3b complex (C5 convertase) => activate C5
+        C2: binds to C4b, gets cleaved by C1s => C4b2a complex (C3 convertase) => activates C3
+        C3: binds to the complex and gets cleaved => C3b => C4b2a3b complex (C5 convertase) => activates C5
         C5: binds to the complex and gets cleaved => C5b => MAC
     Alternative pathway: triggered by detecting foreign surfaces (e.g. endotoxins, cell walls)
         C3 => Factor B => C3 => C5 => MAC
@@ -46,6 +46,10 @@ COMPLEMENT SYSTEM: set of soluble proteins in blood that get activated when path
     ANAPHYLATOXIN: molecules of C3a, C4a, C5a that promote inflammation (by activating other immune cells)
     MEMBRANE ATTACK COMPLEX (MAC): complex of complement proteins that can lyse cells by creating pores in the target cell's membrane
         C5b => C6 => C7 => C8 => polymerizes C9, forming a barrel-like structure that creates the pore
+Inflammation
+    Increases blood vessel diameter => slows down blood flow
+    Increases blood vessel permeability => allows extravasation
+    Produces blod clotting in the blood vessels near infection => prevent spreading
 EXTRAVASATION: recruitment of immune cells to sites of infection
     1. Local activated macrophages use interleukins to make endothelial cells express cell-adhesion molecules
         Leukocytes slow down and roll over endothelium
@@ -86,9 +90,11 @@ Eosinophil function: helminths
 Macrophage function: war and cleanup
     Phagocytosis
     Oxidative burst
+    Produce inflammatory cytokines to attract neutrophils and other cells to points of invasion
     EFFEROCYTOSIS: phagocytosis of apoptotic cells before they cause extra inflammation
-    Clean up inflammatory cytokines
+    Clean up inflammatory cytokines (e.g. IL-6)
     Macrophage polarization: may be pro-inflammatory (M1) or anti-inflammatory (M2). Change between them as required
+        Default to M2, switch to M1 when required
     Presents antigens from phagocytosis in MHC II
 Dendritic cell function: presenting antigens
     Phagocytes, but doesn't degrade as much as a macrophage => Antigens exposed in MHC II
