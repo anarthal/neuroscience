@@ -1,0 +1,32 @@
+Channels produce current spikes to generate action potentials, vs. transporters/pumps that maintain concentration gradients
+Cl- channels regulate excitability
+Channel characteristics
+    High-throughput, vs. ion transporters and pumps
+    Move ions downhill their concentration gradient, vs. pumps
+    Voltage-gated, ligand-gated, thermo/mechano-sensitive
+    Selective: only one or a set of ions can pass
+Channel states
+    Resting: closed but can open
+    Open
+    Inactive/refractory: closed and can't open
+For the same ion, != channel types with != kinetic properties
+    E.g. some Na+ channels inactivate quickly, others don't and keep a small current during resting potential
+Voltage-gated channels
+    Structure
+        Membrane-spanning regions
+        Voltage-sensor domains
+        Selective pore filter
+    Na+, Ca2+, K+ channels fit this
+    Cl- channels have a single amino-acid close to pore as voltage sensor, instead
+    Selective for single ion
+Ligand-gated channels
+    Can admit more than one ion type
+    Ionotropic vs. metabotropic
+Ion transporter: moves some ions uphill and others downhill the concentration gradient. No ATP required
+Measuring voltage/currents
+    CONDUCTANCE: inverse of resistance
+    VOLTAGE CLAMP: fix membrane potential by injecting the required current
+        Measures injected current => cell conductance for a certain membrane potential
+        Measures current for the entire cell
+    PATCH CLAMP: refinement of voltage clamp to measure current of an individual ion channel
+        Attaches a glass pipette to a patch of the cell membrane, spanning a single ion channel, fixes voltage and measures current
