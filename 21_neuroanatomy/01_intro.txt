@@ -1,0 +1,5 @@
+volume electron microscopy: like electron microscopy, but 3D
+afferent = input, efferent = output
+somatic system is monosynaptic (directly from CNS to muscle), while ANS is polysynaptic (intermediate synapse in ganglion)
+    sympathetic uses ACh, then NA
+    parasympathetic only uses ACh

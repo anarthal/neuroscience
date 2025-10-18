@@ -1,0 +1,5 @@
+action potential wave shape is always the same: same amplitude, length, ...
+    information is conveyed by the pathway (what circuit it's happening in) and the frequency that potentials are fired upon
+> dendritic complexity in human pyramidal cells => probably why we have greater capacity
+> inhibitory regions in human brain than in animals
+> non-neuronal cells in human brain than in animals
