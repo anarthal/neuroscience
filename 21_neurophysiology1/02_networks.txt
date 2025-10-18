@@ -1,6 +1,8 @@
 Divergence: pattern where activating one neuron activates many other neurons. Common in input. Vs convergence, common in output
 Feedforward inhibition: pattern where the active pathway inhibits opposing pathways
 Feedback inhibition: pattern where the active pathway regulates itself
+Lateral inhibition: pattern where excitatory cell in the main path excites cells that inhibit nearby cells
+    E.g. edge enhancement in visual pathway
 GRADED POTENTIAL: potential that is proportional in time and amplitude to the stimulus
     Input signals to neurons are graded potentials
     Translated to action potentials, constant in "shape"
@@ -9,4 +11,3 @@ GRADED POTENTIAL: potential that is proportional in time and amplitude to the st
 TRIGGER ZONE: axon initial segment
     Integrative function: highest density of Na+ channels => where the decision to generate action potentials is made
 Active zone: where synaptic vesicles are excreted
-
