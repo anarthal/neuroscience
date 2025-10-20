@@ -1,0 +1,20 @@
+We can model excitable cells as electrical circuits
+    Ion channels act as resistances
+    Electromotive force for ions act as batteries
+    Non-conductive part of the membrane acts as a capacitor
+Ion concentrations
+    K+ more abundant inside, Na+, Ca2+, Cl- more abundant outside
+        In developing cells, Cl- more abundant inside
+    NERNST EQUATION: electrical potential for a single ion species in equilibrium
+        E_in = RT/zF * ln(C_out/C_in)
+        Equilibrium happens when the electric field compensates the effect of diffusion because of the concentration gradient
+        For cations, the bigger C_in, the more negative the potential
+    GOLDMAN EQUATION: membrane electrical potential for several ion species in steady state
+        Vm: membrane potential
+        In steady state, since Vm != E_K, E_Na, E_Cl, there are currents inside/outside the cell
+        E.g. K+: Vm < Ek => K+ ions exit the cell
+        Na+/K+ pump, Cl- co-transporters maintain the gradients by neutralizing the leakage current
+        Leakage currents depend on (E_xx - Vm) but also on the permeability (conductance)
+        In resting conditions, K+ permeability is the biggest
+        When depolarized, Na+ permeability is the biggest
+    
