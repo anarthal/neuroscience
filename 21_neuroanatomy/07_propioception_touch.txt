@@ -1,0 +1,19 @@
+Somatosensory modalities
+    Proprioception
+    Touch
+    Temperature
+    Nociception: pain
+Each receptor (e.g. golgi tendon organ vs. muscle spindles) associated to different types of nerve fiber (e.g. A-alpha, A-beta)
+Trigemino-thalamic system: like dorsal column-medial lemniscus, but for face somatosensory info
+    Ventral posterior medial receives this info in the thalamus
+    Contains large multipolar cells that project to cortex (talamocortical cells). Excitatory, glutamate
+    Also inhibitory cells that receive input from cortex
+RECEPTOR FIELD: area of the skin covered by a single receptor
+Primary somatosensory cortex: posterior to central sulcus
+    The more receptor density, the wider the area in the somatosensory cortex
+Secondary somatosensory cortex: posterior to primary, higher order processing
+ALLODYNIA: some stimuli are felt like pain when they shouldn't
+HYPERALGESIA: increased sensitivity to pain
+NEUROPATHIC PAIN: feeling pain without any stimuli, usually because nerve endings were damaged (e.g. phantom limb in amputated limb)
+Parvocellular: has small cells. vs. magnocellular
+Enthorhinal cortex: transition between 
