@@ -1,0 +1,21 @@
+Background
+    ORBITAL GYRI: medial, below frontal gyri
+    FUSIFORM GYRUS: spindle-shaped gyrus, for visual processing
+        The more basal of the temporal/parietal gyri
+        Anterior, superior to cerebellum, inferior to parahippocampal gyrus
+    CINGULATE GYRUS: arc-shaped gyrus above corpus callosum, below the rest of the cortex and white matter
+    PARAHIPPOCAMPAL GYRUS: gyrus that continues the cingulate gyrus. Below hippocampus, medial to fusiform gyrus
+    ENTORHINAL CORTEX: rostral end of the parahippocampal gyrus. 5 layers
+    UNCUS: hook-shaped structure at the rostral end of the parahippocampal gyrus folding medially
+    FORNIX: arch-shaped fiber bundle communicating hippocampus and diencephalon/hypothalamus
+        Below lateral ventricles
+        Frontal medial (hypothalamus), goes more lateral as it goes backwards until reaching above hippocampus
+        CRUS OF THE FORNIX: the edges of the fornix reaching the hippocampus
+        COMMISSURE OF THE FORNIX: layer of fibers connecting the two crura before they divide => connects the two hippocampi
+HIPPOCAMPAL FORMATION: subiculum, hippocampus proper, dentate gyrus
+    SUBICULUM: (latin support) below hippocampus proper, above entorhinal cortex. Transition area between 5 and 3 layers
+    DENTATE GYRUS: structure at the "end" of the hippocampus proper. 3 layers
+    CORNU AMMONIS/HIPPOCAMPUS PROPER: the main body of the hippocampus. 3 layers
+    CA1 to CA4: each of the divisions of the hippocampus proper, based on cytoarchitecture
+    Cortex is continuous. In coronal section: entorhinal cortex, subiculum, hippocampus proper (CA1 to CA4), dentate gyrus
+    Fimbria: fibers leaving hippocampus that form the fornix
