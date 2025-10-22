@@ -1,13 +1,1 @@
-THALAMUS: main relay station to/from the cerebral cortex. Part of the diencephalon
-Anatomy
-    On top of the midbrain
-    Has left/right lobes, separated by the 3rd ventricle
-    INTERTHALAMIC ADHESION: mass of gray matter that connects both thalamus units, through the 3rd ventricle
-    INTERNAL MEDULLARY LAMINA: internal surface of white matter dividing each lobe in two
-    INTERNAL CAPSULE: thick band of white matter connecting thalamus <=> cerebral cortex
-        Above the thalamus, between caudate nucleus and lentiform nuclei
-Neurons
-    Relay neurons
-        Neurotransmitter: glutamate (excitatory)
-    Interneurons: modulate relay neurons
-        Neurotransmitter: GABA (inhibitory)
+Moved to 21_neuroanatomy/06_diencephalon.txt

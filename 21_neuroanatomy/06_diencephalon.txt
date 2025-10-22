@@ -1,0 +1,43 @@
+THALAMUS: main relay station to/from the cerebral cortex. Part of the diencephalon
+    Also integrative function: filters and modulates info
+Anatomy
+    On top of the midbrain
+    Has left/right lobes, separated by the 3rd ventricle
+    INTERTHALAMIC ADHESION: mass of gray matter that connects both thalamus units, through the 3rd ventricle
+    INTERNAL MEDULLARY LAMINA: internal surface of white matter dividing each lobe in two
+    EXTERNAL MEDULLARY LAMINA: thin band of white matter surrounding thalamus laterally
+    INTERNAL CAPSULE: thick band of white matter connecting thalamus <=> cerebral cortex
+        Above the thalamus, between caudate nucleus and lentiform nuclei
+Nuclei
+    Anterior group: in the anterior part, within the two bands of the internal medullary lamina
+    Medial group: medial to the internal medullary lamina. AKA dorsomedial group
+    Lateral group: lateral to the internal medullary lamina. Here ventral => lower than lateral
+        Lateral dorsal: upper, anterior
+        Lateral posterior: upper, posterior
+        Ventral anterior: lateral, lower, anterior
+        Ventral lateral: lateral, lower, more posterior
+        Ventral posterior: lateral, lower, most posterior. Somatosensory
+            Ventral posterior lateral: body somatosensory
+            Ventral posterior medial: face somatosensory
+        Pulvinar: posterior
+        Medial geniculate: adhesion posterior to pulvinar. Auditory
+        Lateral geniculate: adhesion posterior to pulvinar, lateral to medial geniculate. Sight
+    Intralaminar: within internal medullary lamina. Indirect sensory pathway
+    Midline: between the two thalamus hemispheres, surrounding third ventricle. Indirect sensory pathway
+    Reticular: within the external medullary lamina
+Neurons
+    Relay neurons
+        Neurotransmitter: glutamate (excitatory)
+    Interneurons: modulate relay neurons
+        Neurotransmitter: GABA (inhibitory)
+Subcortical afferents
+    Direct/specific sensory pathway: specific information for a single sensory modality
+        Info is not modulated, just relayed to the cortex
+        Used to perceive details
+        Somatosensory (VPL/VPM), auditory (MGB), visual (LGB)
+    Indirect/nonspecific sensory pathway: diffuse information without topographic organization
+        Info processed by reticular formation first
+        Used to perceive that "something is happening" before perceiving details
+Cortical afferents
+    Layer V (large pyramidal neurons): uses thalamus as a relay for communication with other cortex areas
+    Layer VI (corticothalamic pyramidal neurons): feedback connection to regulate thalamic activity
