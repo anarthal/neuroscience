@@ -19,3 +19,15 @@ HIPPOCAMPAL FORMATION: subiculum, hippocampus proper, dentate gyrus
     CA1 to CA4: each of the divisions of the hippocampus proper, based on cytoarchitecture
     Cortex is continuous. In coronal section: entorhinal cortex, subiculum, hippocampus proper (CA1 to CA4), dentate gyrus
     Fimbria: fibers leaving hippocampus that form the fornix
+
+
+PAPEZ CIRCUIT: for memory formation
+    Hippocampus => fornix => mamillary body => anterior nucleus => cingulate gyrus
+Removing the hippocampal formation removes the ability to consolidate working memory to long-term memory
+LONG-TERM POTENTIATION: molecular mechanism that increases the likelihood that two neurons synapse
+    Early: repeated stimulation causes more glutamate receptors available
+    Late: repeated stimulation causes protein synthesis and morphological changes
+    Happens in most neurons, but is particularly well described in CA3 => CA1 potentiation
+GPS
+    Place cell: activates on recognition of particular locations
+    Grid cell: TODO
