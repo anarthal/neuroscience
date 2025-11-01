@@ -1,0 +1,5 @@
+TEGMENTAL AREAS: in pons/midbrain, the core/dorsal areas
+BASILAR AREAS: in pons/midbrain, the ventral areas. In the pons, the bulbous area
+PERIAQUEDUCTAL GRAY: gray matter surrounding cerebral aqueduct, in the midbrain/pons
+RHOMBOID FOSSA: the floor of the 4th ventricle
+TECTUM OF THE MIDBRAIN: posterior part, where colliculli are

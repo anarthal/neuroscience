@@ -1,0 +1,12 @@
+Functional components: indicates the function of spinal nerve/cranial nerve fibers and neurons. Special components only in cranial nerves
+    GENERAL SOMATIC AFFERENT (GSA): sensory, innervating the body wall (e.g. skin)
+    GENERAL VISCERAL AFFERENT (GVA): sensory, innervating visceral structures (e.g. cardiac muscle)
+    GENERAL SOMATIC EFFERENT (GSE): motor, innervating skeletal muscle
+    GENERAL VISCERAL EFFERENT (GVE): motor, innervating cardiac/smooth muscle and glands
+    SPECIAL SOMATIC AFFERENT (SSA): sensory, for special senses (e.g. optic nerve)
+    SPECIAL VISCERAL AFFERENT (SVA): sensory, for taste
+    SPECIAL VISCERAL EFFERENT (SVE): motor, innervating smooth muscle derived from branchial arches (e.g. mastication)
+    Note: special somatic efferent does not exist
+MYOTOME: group of muscles innervated by the same spinal/cranial nerve
+PROPRIOSPINAL FIBERS: connect different parts of the spinal cord, for reflexes
+REXED'S LAMINA: each of the subdivisions of the gray matter in the spinal cord, based on cytoarchitecture
