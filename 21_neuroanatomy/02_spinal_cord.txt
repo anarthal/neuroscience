@@ -10,3 +10,28 @@ Functional components: indicates the function of spinal nerve/cranial nerve fibe
 MYOTOME: group of muscles innervated by the same spinal/cranial nerve
 PROPRIOSPINAL FIBERS: connect different parts of the spinal cord, for reflexes
 REXED'S LAMINA: each of the subdivisions of the gray matter in the spinal cord, based on cytoarchitecture
+Sympathetic system
+    Ganglia next to the spinal cord
+    PARAVERTEBRAL GANGLIA: ganglion chain, outside the spinal chord, containing sympathetic motor neurons
+    PREVERTEBRAL GANGLIA: ganglia slightly further away from the spinal chord, containing sympathetic motor neurons
+    RAMUS COMMUNICANTES: joins spinal nerve and paravertebral ganglion chain
+        Gray: no myelin. Postganglionic fibers
+        White: myelinated. Preganglionic fibers
+    Preganglionic neurons in intermediolateral column (lateral gray horn). Use ACh
+    Postganglionic neurons in paravertebral or prevertebral chains. Use NA
+Parasympathetic system: ganglia next to the organs it innervates. Use ACh
+TBC: move this
+    Cortex layer III and IV: communication within cortex areas
+    Cortex layer IV: more prominent in sensory cortices
+    Cortex layer V: main output of the cortex to lower areas. Where motor pathways start
+CORTICOSPINAL TRACT: main somatic motor pathway
+    Somatotopic
+    Starts in pyramidal cells in layer V of the cortex
+    Descends directly through cerebral peduncles
+    85% decussates in the pyramids, descends through lateral corticospinal tract (medial to spinocerebellar tract)
+    15% does not decussate, descends through the anterior corticospinal tract
+    Synapses in motor neuron in ventral horn
+RUBROSPINAL: from red nucleus
+    Decussates in midbrain
+    Descends through rubrospinal tract, lateral to corticospinal tract
+    Synapses in motor neuron in ventral horn

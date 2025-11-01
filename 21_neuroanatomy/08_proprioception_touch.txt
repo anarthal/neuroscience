@@ -12,7 +12,7 @@ POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory inf
     SENSORY DECUSSATION: decussation at medulla level, formed by internal arcuate fibers
     Ascends through medial lemniscus through all the brain stem until thalamus
     Synapses in ventral posterior lateral (VPL) in thalamus
-    TBC: where does it go from here?
+    Then, to primary somatosensory cortex
     Implements lateral inhibition to provide more precise information => Two-point discrimination
 ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS
     Slower, less localized than posterior column medial lemniscus
@@ -21,6 +21,7 @@ ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS
         Sensory neurons in dorsal root ganglia
         Some axons descend a couple levels => interneurons => reflexes
         Some axons ascend a couple of levels, then synapse in posterior horn
+            SUBSTANTIA GELATINOSA: Rexed's lamina II, in posterior gray horn, where interneurons for ALS are
         LISSAUER'S COLUMN/POSTEROLATERAL TRACT: bundle of axons in ALS between entering the dorsal root and the synapse in the posterior horn
         After synapsing, axons decussate through the anterior white commissure
         Then, axons ascend through the anterior/lateral columns

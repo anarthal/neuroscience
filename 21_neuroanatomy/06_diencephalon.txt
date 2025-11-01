@@ -24,7 +24,7 @@ Nuclei
         Lateral geniculate: adhesion posterior to pulvinar, lateral to medial geniculate. Sight
     Intralaminar: within internal medullary lamina. Indirect sensory pathway
     Midline: between the two thalamus hemispheres, surrounding third ventricle. Indirect sensory pathway
-    Reticular: within the external medullary lamina
+    Reticular: within the external medullary lamina. Regulatory (no relay)
 Neurons
     Relay neurons
         Neurotransmitter: glutamate (excitatory)
