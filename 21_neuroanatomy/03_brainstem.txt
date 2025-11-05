@@ -3,3 +3,46 @@ BASILAR AREAS: in pons/midbrain, the ventral areas. In the pons, the bulbous are
 PERIAQUEDUCTAL GRAY: gray matter surrounding cerebral aqueduct, in the midbrain/pons
 RHOMBOID FOSSA: the floor of the 4th ventricle
 TECTUM OF THE MIDBRAIN: posterior part, where colliculli are
+SOLITARY NUCLEUS: nucleus in medulla oblongata. Taste and general visceral afferents
+    SOLITARY TRACT: tract starting in solitary nucleus
+    GUSTATORY NUCLEUS: part of the solitary nucleus dedicated to taste
+NUCLEUS AMBIGUUS: nucleus in medulla oblongata. Muscles in palate, pharynx, larynx, and some parasympathetic
+DORSAL (MOTOR) NUCLEUS OF THE VAGUS: in medulla oblongata. Parasympathetic preganglionic neurons for many organs
+SALIVATORY NUCLEI: parasympathetic innervation of salivary glands, in the pons. Superior and inferior
+Cranial nerves
+    HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
+        Nucleus: hypoglossal nucleus in medulla oblongata
+    ACCESSORY NERVE (XI): motor, innervates trapezoid and sternocleidomastoid mucles
+        Nucleus: in spinal cord
+    VAGUS NERVE (X): mixed
+        Somatic sensations from ear and other small parts: superior ganglion, spinal trigeminal tract
+        Visceral sensations from many organs (lungs, heart) and part of taste: inferior ganglion, solitary tract, solitary nucleus
+        Parasympathetic innervation of many organs: from dorsal motor vagus nucleus
+        Innervation of muscles in palate, pharynx, larynx: nucleus ambiguus
+    GLOSSOPHARYNGEAL NERVE (IX): mixed
+        Somatic sensations from tongue, tympani: superior ganglion, spinal trigeminal tract
+        Visceral sensations from some parts and part of taste: inferior ganglion, solitary tract, solitary nucleus
+        Parasympathetic innervation of salivary glands, from inferior salivary nucleus
+        Innervation of the muscle to swallow
+    VESTIBULOCOCHLEAR NERVE (VIII): innervates cochlea (hearing) and vestibule (equilibrium)
+        VESTIBULAR NUCLEI: 4 nuclei where vestibular branch of VIII ends. In pons
+            Superior
+            Medial: long, below superior
+            Lateral
+            Inferior: long, below lateral
+        COCHLEAR NUCLEI: 2 nuclei where cochlear branch of VIII ends. Anterior, posterior.
+    FACIAL NERVE (VII): mixed. Similar to glossopharyngeal
+    ABDUCENS NERVE (VI): motor. Eye muscles
+        Starts in abducens nucleus
+    TRIGEMINAL NERVE (V): mixed
+        Has 3 divisions, covering different areas in the head
+        Touch, proprioception, nociception for face
+        Innervates mastication muscles and other
+        Nuclei
+            Spinal trigeminal nucleus: sensory. Long, vertical, extending from pons to spinal cord
+            Principal sensory: mid-pons
+            Motor nucleus: next to principal sensory
+            Mesencephalic nucleus: vertical, extending to midbrain
+    TROCHLEAR NERVE (IV): motor. Eye muscles
+        From trochlear nucleus, in midbrain
+    OCULOMOTOR NERVE (III): motor. Other eye muscles

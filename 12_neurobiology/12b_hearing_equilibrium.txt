@@ -20,7 +20,7 @@ Anatomy
             SACCULE: membranous cavity near cochlea
             UTRICLE: membranous, bigger cavity where semicircular canals start
         SEMICIRCULAR CANALS: set of 3 perpendicular canals stemming from vestibule. Related to equilibrium
-        VESTIBULOCOCHLEAR NERVE: innervates hearing and equilibrium. One branch for cochlea, one for vestibule/semicircular canals
+        Vestibulocochlear nerve: innervates hearing and equilibrium. One branch for cochlea, one for vestibule/semicircular canals
 Hearing receptors
     Inner hair cells: in cochlear transversal sections, isolated. The ones that contribute the most to hearing
     Outer hair cells: in cochlear transversal sections, in groups of 3. Contribute to distinguishing frequencies
