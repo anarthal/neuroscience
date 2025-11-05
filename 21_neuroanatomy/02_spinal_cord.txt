@@ -35,3 +35,20 @@ RUBROSPINAL: from red nucleus
     Decussates in midbrain
     Descends through rubrospinal tract, lateral to corticospinal tract
     Synapses in motor neuron in ventral horn
+MEDIAL LONGITUDINAL FASCICULUS: fascicle closer to the anterior while commissure
+TECTOSPINAL TRACT: head movements
+    From superior colliculus
+    In medial longitudinal fasciculus
+VESTIBULOSPINAL TRACT: reflex response to equilibrium information, to maintain posture
+    From vestibular nuclei
+    Medial: in medial longitudinal fasciculus. Bilateral. Head and neck
+    Lateral: lateral to anterior corticospinal tract. Contralateral. Rest of the body
+RUBROSPINAL TRACT: from red nucleus, to ventral horn
+    Next to lateral gray horn
+RETICULOSPINAL TRACT: from reticular formation, for posture and muscle tone
+    Surrounds lateral gray horn
+Vestibular nuclei (TBC)
+    Medial: medulla oblongata
+    Lateral: medulla oblongata
+    Inferior: medulla oblongata
+    Superior: pons
