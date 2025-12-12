@@ -31,9 +31,10 @@ CORTICOSPINAL TRACT: main somatic motor pathway
     85% decussates in the pyramids, descends through lateral corticospinal tract (medial to spinocerebellar tract)
     15% does not decussate, descends through the anterior corticospinal tract
     Synapses in motor neuron in ventral horn
-RUBROSPINAL: from red nucleus
+RUBROSPINAL TRACT: control of distal flexors in upper limb (e.g. flexing fingers)
+    From red nucleus
     Decussates in midbrain
-    Descends through rubrospinal tract, lateral to corticospinal tract
+    Descends through rubrospinal tract, lateral to corticospinal tract, next to lateral gray horn
     Synapses in motor neuron in ventral horn
 MEDIAL LONGITUDINAL FASCICULUS: fascicle closer to the anterior while commissure
 TECTOSPINAL TRACT: head movements
@@ -43,8 +44,6 @@ VESTIBULOSPINAL TRACT: reflex response to equilibrium information, to maintain p
     From vestibular nuclei
     Medial: in medial longitudinal fasciculus. Bilateral. Head and neck
     Lateral: lateral to anterior corticospinal tract. Contralateral. Rest of the body
-RUBROSPINAL TRACT: from red nucleus, to ventral horn
-    Next to lateral gray horn
 RETICULOSPINAL TRACT: from reticular formation, for posture and muscle tone
     Surrounds lateral gray horn
 SPINOCEREBELLAR TRACT: proprioceptive information from trunk and lower limbs to the cerebellum
