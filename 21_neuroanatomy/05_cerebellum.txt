@@ -1,26 +1,59 @@
+Background
+    VESTIBULO-OCULAR REFLEX (VOR): maintains gaze stable when moving the head by moving the eyes in the opposite direction
+General anatomy
+    Medial-lateral divisions
+        Vermis: the central region
+        Hemispheres: everything that is not the vermis
+        Paravermis: region in the hemispheres next to the vermis
+    Anterior-posterior divisions
+        Lobes: the main divisions, delimited by fissures. Anterior, posterior, flocculonodular
+        Fissures: primary fissure, posterolateral fissure
+        Lobules: each of the 10 subdivisions of the vermis and hemispheres. Designated with roman numerals from I (posterior) to X (anterior)
+        UVULA: vermis lobule IX
+        NODULUS: vermis lobule X. Part of the flocculonodular lobe
+        FLOCCULUS: hemisphere lobule HX. Part of the flocculonodular lobe
 Peduncles
     Inferior (to medulla)
-        TBC: composed by restiform and juxtarestiform bodies
+        RESTIFORM BODY: the bigger part of the inferior peduncle
+        JUXTARESTIFORM BODY: the smaller part of the inferior peduncle
     BRACHIUM PONTIS: middle peduncle (to pons)
     BRACHIUM CONJUNCTIVUM: superior peduncle (to midbrain)
-SPINOCEREBELLAR TRACT: proprioceptive information from trunk and lower limbs to the cerebellum
-    Dorsal: ipsilateral, mainly from thoracic segments
-        Posterior root ganglia
-        Synapse in Clarke nucleus
-            CLARKE NUCLEUS/POSTERIOR THORACIC NUCLEUS: nucleus in the gray horn where 2nd order neurons for this tract are
-        Ascend through dorsal spinocerebellar tract
-        Enter cerebellum through inferior cerebellar peduncle
-    Ventral: double cross, mainly from lumbar segments
-        Posterior root ganglia
-        Synapse in spinal border cells
-        Decussate through anterior white commissure
-        Ascend through ventral spinocerebellar tract
-        Enter cerebellum through superior cerebellar peduncle
-        Recross again
-CUNEOCEREBELLAR TRACT: proprioceptive information from upper trunk and upper limbs to the cerebellum. Ipsilateral
-    Ascend the spinal cord through cuneate fasciculus until medulla oblongata
-    Synapse in accessory cuneate nucleus
-        ACCESSORY CUNEATE NUCLEUS: nucleus in medulla oblongata, lateral to the main cuneate nucleus, relaying info to the cerebellum
-    Fibers enter the cerebellum through the inferior peduncle
-
+Deep cerebellar nuclei: main cerebellar output. From medial to lateral
+    Fastigial nucleus
+    Interposed nuclei
+        Globose nucleus
+        Emboliform nucleus
+    Dentate nucleus
+Cerebellar circuit
+    Inputs enter the cortex, as mossy fibers or climbing fibers
+    Inputs also send collaterals to the linked deep nucleus. E.g. anterior spinocerebellar to fastigial
+    Purkinje cell layer performs summation and sends output to the deep cerebellar nuclei
+    Deep nuclei project outside the cerebellum
+Vestibular system (vestibular nuclei)
+    Input: vestibular, visual, somatic
+    Output
+        Eye movements: nuclei of oculomotor (III), trochlear (IV), abducens (VI) CN
+        Head and neck movements (equilibrium): nuclei of accessory (XI) CN
+        Muscle tone for equilibrium: vestibulospinal tract
+        Conscious sensation of equilibrium: cerebral cortex, through thalamic ventral posterior nucleus
+VESTIBULOCEREBELLUM/ARCHICEREBELLUM: balance, eye movements, modulates vestibulo-ocular reflex
+    The oldest cerebellum part phylogenetically
+    Corresponds to flocculonodular lobe and uvula
+    Inputs: vestibular and visual (as mossy fibers)
+        PRIMARY VESTIBULOCEREBELLAR FIBERS: vestibule, VIII CN, juxtarestiform body, cerebellum
+            Bypass vestibular nuclei
+            Collateral to fastigial nucleus
+        SECONDARY VESTIBULOCEREBELLAR FIBERS: vestibule, VIII CN, synapse in all vestibular nuclei, restiform body, cerebellum
+    Output: vestibular nuclei, through juxtarestiform body
+    Gabaergic intervestibular system: inhibitory connections between contralateral vestibular nuclei. Enhances their function
+SPINOCEREBELLUM/PALEOCEREBELLUM: control of trunk and limb muscles. Posture and correction of movements in real time (e.g. walking)
+    Intermediate age phylogenetically
+    Vermis: axial and proximal muscles
+        Linked to fastigial nucleus
+        Input: anterior spinocerebellar, trigeminal (somatosensory and proprioceptive)
+        Output: vestibular nuclei (posture), reticular formation, thalamus/motor cortex
+    Paravermis: distal muscles
+        Linked to interposed nuclei
+        Input: posterior spinocerebellar
+        Output: red nucleus, reticular formation, thalamus/motor cortex
 

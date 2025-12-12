@@ -47,8 +47,22 @@ RUBROSPINAL TRACT: from red nucleus, to ventral horn
     Next to lateral gray horn
 RETICULOSPINAL TRACT: from reticular formation, for posture and muscle tone
     Surrounds lateral gray horn
-Vestibular nuclei (TBC)
-    Medial: medulla oblongata
-    Lateral: medulla oblongata
-    Inferior: medulla oblongata
-    Superior: pons
+SPINOCEREBELLAR TRACT: proprioceptive information from trunk and lower limbs to the cerebellum
+    Dorsal: ipsilateral, mainly from thoracic segments
+        Posterior root ganglia
+        Synapse in Clarke nucleus
+            CLARKE NUCLEUS/POSTERIOR THORACIC NUCLEUS: nucleus in the gray horn where 2nd order neurons for this tract are
+        Ascend through dorsal spinocerebellar tract
+        Enter cerebellum through inferior cerebellar peduncle
+    Ventral: double cross, mainly from lumbar segments
+        Posterior root ganglia
+        Synapse in spinal border cells
+        Decussate through anterior white commissure
+        Ascend through ventral spinocerebellar tract
+        Enter cerebellum through superior cerebellar peduncle
+        Recross again
+CUNEOCEREBELLAR TRACT: proprioceptive information from upper trunk and upper limbs to the cerebellum. Ipsilateral
+    Ascend the spinal cord through cuneate fasciculus until medulla oblongata
+    Synapse in accessory cuneate nucleus
+        ACCESSORY CUNEATE NUCLEUS: nucleus in medulla oblongata, lateral to the main cuneate nucleus, relaying info to the cerebellum
+    Fibers enter the cerebellum through the inferior peduncle
