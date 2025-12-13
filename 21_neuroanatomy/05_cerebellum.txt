@@ -56,4 +56,9 @@ SPINOCEREBELLUM/PALEOCEREBELLUM: control of trunk and limb muscles. Posture and 
         Linked to interposed nuclei
         Input: posterior spinocerebellar
         Output: red nucleus, reticular formation, thalamus/motor cortex
-
+CEREBROCEREBELLUM/PONTOCEREBELLUM/NEOCEREBELLUM: planning and executing upper limb fine movements. Adjusts timing of muscle activation
+    Newest phylogenetically
+    Corresponds to lateral hemispheres
+    Linked to dentate nucleus
+    Inputs: pontine nuclei, inferior olive
+    Output: red nucleus, motor cortex via thalamus

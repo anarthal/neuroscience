@@ -9,6 +9,10 @@ SOLITARY NUCLEUS: nucleus in medulla oblongata. Taste and general visceral affer
 NUCLEUS AMBIGUUS: nucleus in medulla oblongata. Muscles in palate, pharynx, larynx, and some parasympathetic
 DORSAL (MOTOR) NUCLEUS OF THE VAGUS: in medulla oblongata. Parasympathetic preganglionic neurons for many organs
 SALIVATORY NUCLEI: parasympathetic innervation of salivary glands, in the pons. Superior and inferior
+Olive: set of nuclei in medulla oblongata/pons
+    INFERIOR OLIVE: performs integration of somatosensory information from spinal cord, motor commands and other inputs, and projects to cerebellum
+    SUPERIOR OLIVE: related to hearing
+PONTINE NUCLEI: receive input from motor-related cerebral cortices (i.e. what's the current plan?) and other inputs. Integrates them and projects to cerebellum
 Cranial nerves
     HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
         Nucleus: hypoglossal nucleus in medulla oblongata
