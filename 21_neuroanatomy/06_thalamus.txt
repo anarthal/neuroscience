@@ -2,7 +2,7 @@ Diencephalon components
     Thalamus
     Hypothalamus
     Subthalamic nuclei: linked to basal nuclei. Motor
-    Epithalamus: limbic system (TBC: components)
+    Epithalamus: part of limbic system, plus pineal gland
 THALAMUS: main relay station to/from the cerebral cortex. Part of the diencephalon
     Also integrative function: filters and modulates info
 Anatomy

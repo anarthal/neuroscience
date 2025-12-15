@@ -1,6 +1,9 @@
 TEGMENTAL AREAS: in pons/midbrain, the core/dorsal areas
 BASILAR AREAS: in pons/midbrain, the ventral areas. In the pons, the bulbous area
 PERIAQUEDUCTAL GRAY: gray matter surrounding cerebral aqueduct, in the midbrain/pons
+    Pain suppression
+    Cardiovascular control (e.g. heart rate)
+    Emotional response
 RHOMBOID FOSSA: the floor of the 4th ventricle
 TECTUM OF THE MIDBRAIN: posterior part, where colliculli are
 SOLITARY NUCLEUS: nucleus in medulla oblongata. Taste and general visceral afferents

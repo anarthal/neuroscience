@@ -1,0 +1,34 @@
+Located anterior, caudal to thalamus
+Anatomy
+    Preoptic area: anterior, superior to optic chiasm
+        MEDIAL PREOPTIC NUCLEUS: releases gonadotroponin-releasing hormone (GnRH) to the portal system of the hypophysis => gonadotroponin is released (influences reproductive behavior)
+    Lateral zone
+        Contains a "feeding center" => stimulates appetite
+        Tuberal nuclei => release histamine => promotes arousal and attention
+        Prefornix nuclei => release orexin => promotes arousal and appetite
+        MEDIAL FOREBRAIN BUNDLE: bundle of axons in the lateral zone
+    Medial zone (nuclei from inferior to superior)
+        Supraoptic region: immediately above optic chiasm. The most anterior
+            SUPRACHIASMATIC NUCLEUS: immediately superior to optic chiasm. Biological clock (circadian rhythms).
+                Input: retina (needs to sense light to adjust cycles to 24h)
+                Internally, clock proteins are transcribed cyclically (genes that turn themselves on and off)
+                Output: pineal gland (melatonin), reticular formation
+            SUPRAOPTIC NUCLEUS: anterior to suprachiasmtic nucleus. Axons extends to posterior hypophysis, where they secrete oxytocin and ADH
+            Anterior nucleus: senses blood temperature and activates the adequate visceral response to regulate it
+            PARAVENTRICULAR NUCLEUS: the most superior nucleus in supraoptic region. Same function as supraoptic
+        Tuberal region: posterior to supraoptic region
+            ARCUATE NUCLEUS: produces hormone-releasing hormones, secreted into the anterior hypophysis portal system
+            Ventromedial nucleus: promotes satiety sensation
+            Dorsomedial nucleus: emotions. Stimulation produces rage
+        Mammillary region: posterior to tuberal region
+            MAMMILLARY BODY: nuclei in the inferior part of hypothalamus. Involved in transforming short-term memories into long-term ones
+            Posterior nucleus: almost continuous with periaqueductal gray, same functions
+        Paraventricular zone: immediately below third ventricle
+Tracts
+    TUBEROINFUNDIBULAR TRACT: tract with axons ending in the portal system, to signal anterior hypophysis
+    HYPOTHALAMO-HYPOPHYSEAL TRACT: tract with paraventricular and supraoptic axons traveling to posterior hypophysis
+Senses changes in blood osmotic pressure. If pressure rises, generates thirst sensation
+PINEAL GLAND: gland that produces melatonin. Not nerve tissue. Located in the epithalamus
+HABENULAR NUCLEI: nuclei in the epithalamus, involved in emotional responses to olfaction
+
+    
