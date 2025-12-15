@@ -19,8 +19,8 @@ Nuclei
     Lateral group: lateral to the internal medullary lamina. Here ventral => lower than lateral
         Lateral dorsal: upper, anterior
         Lateral posterior: upper, posterior
-        Ventral anterior: lateral, lower, anterior
-        Ventral lateral: lateral, lower, more posterior
+        Ventral anterior: lateral, lower, anterior. Signal from basal nuclei to motor cortices 
+        Ventral lateral: lateral, lower, more posterior. Signal from basal nuclei and cerebellum to motor cortices
         Ventral posterior: lateral, lower, most posterior. Somatosensory
             Ventral posterior lateral: body somatosensory
             Ventral posterior medial: face somatosensory

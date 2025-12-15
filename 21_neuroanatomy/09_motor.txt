@@ -1,0 +1,43 @@
+Corticospinal tract is composed by axons in several cortices (and not just MI) => Movement involves parallel processing
+    Primary motor cortex (MI): involved in activating individual muscles. Brodmann area 4
+    SUPPLEMENTARY MOTOR CORTEX: planning sequence of movements. Stimulation can cause activation of several muscles. Brodmann area 6
+    Premotor cortex: preparation to move. Controls proximal muscles to orient the body to prepare it for movement. Brodmann area 6
+    Every cortex has somatotopic organization (one body map per cortex)
+CORTICONUCLEAR PATHWAY/CORTICOBULBAR PATHWAY: from motor cortices to cranial nerve nuclei in brain stem
+SUBSTANTIA INNOMINATA: set of nuclei and white matter in the basal forebrain, below anterior thalamus. Part of basal nuclei
+Basal nuclei
+    Dorsal basal nuclei
+        Neostriatum: caudate nucleus + putamen
+        Paleostriatum: globus pallidus
+            Globus pallidus medial/internal
+            Globus pallidus lateral/external
+            Medullary lamina: separates medial and lateral parts
+    Ventral striatum: nucleus accumbens + olfactory tubercle
+    Ventral pallidum: substantia innominata
+    Not part of basal nuclei, but functionally associated
+        Substantia nigra
+            SUBSTANTIA NIGRA PARS COMPACTA: cell-dense part of substantia nigra. The ones with melanin and dopamine
+            SUBSTANTIA NIGRA PARS RETICULATA: part of substantia nigra where cells and white matter mix. Similar cytoarchitecture to globus pallidus medial
+        Subthalamic nucleus
+    Striatal complex: neostriatum + ventral striatum
+    Pallidal complex: globus pallidus + ventral pallidum
+Globus pallidus medial and substantia nigra pars reticulata tonically inhibit their targets with GABA
+Basic circuit. Explained with movement, but can be applied to other outputs where basal nuclei are involved
+    Direct/facilitating circuit: triggers movement
+        Thalamus has excitatory connections to motor cortex
+        Globus pallidus internal has inhibitory connections to thalamus => Inhibit unwanted movements
+        Striatal complex has inhibitory connections to globus pallidus internal, but they don't fire by default
+        Before a movement is performed, cerebral cortex activates striatal complex => inhibits globus pallidus => activates thalamus => activates motor cortex
+    Indirect circuit: suppresses movement
+        Subthalamic nucleus has excitatory connections to globus pallidus internal, inactive by default
+        Globus pallidus lateral has inhibitory connections to subthalamic nuclei, active by default
+        Neostriatum has inhibitory connections to globus pallidus lateral, inactive by default
+        Cerebral cortex activates neostriatum => inhibits globus pallidus lateral => desinhibits subthalamic nucleus => activates globus pallidus internal => inhibits thalamus
+    Hyperdirect circuit: suppresses movement
+        Cerebral cortex directly activates subthalamic nucleus => activates globus pallidus internal => inhibits thalamus
+    
+    TBC: check this
+    Nigrostriatal pathway: substantia nigra to motor cortex, through basal ganglia, subthalamic nucleus and thalamus, that facilitates direct pathway
+        Striatum has inhibitory connections to globus pallidus external, enabled by default
+        Globus pallidus external has inhibitory connections to subthalamic nucleus, disabled by default
+        Substantia nigra inhibits striatum => activate globus pallidus external => inhibit subthalamic nucleus => facilitate movement

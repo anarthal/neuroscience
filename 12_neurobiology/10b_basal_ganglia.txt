@@ -4,7 +4,7 @@ Anatomy: all structures symmetrical (have left and right components)
     PUTAMEN: also lentiform, more lateral than globus pallidus, and adjacent to it
     CAUDATE NUCLEUS: shape ~ lateral ventricle. Just below ventricle, above thalamus, more central than the other nuclei
     LENTIFORM NUCLEUS: globus pallidus + putamen
-    STRIATUM: putamen + caudate nucleus
+    NEOSTRIATUM: putamen + caudate nucleus
 SUBTHALAMIC NUCLEUS: not part of basal ganglia, but associated to it
     On top of substantia nigra
     Neurotransmitter: glutamate (excitatory)
@@ -14,19 +14,6 @@ MEDIUM SPINY NEURON: neurons in caudate nucleus and putamen (striatum)
     Input: motor cortex and substantia nigra
     Output: thalamus (and then cerebral cortex)
 Functions: motor control, learning and response to emotions. Also cognitive functions
-Pathways
-    Facilitating pathway: reverberating circuit with cerebral cortex, via basal ganglia and thalamus, that triggers movement
-        Thalamus has excitatory connections to motor cortex
-        Globus pallidus internal has inhibitory connections to thalamus => Inhibit unwanted movements
-        Striatum has inhibitory connections to globus pallidus internal, but they don't fire by default
-        Before a movement is performed, cerebral cortex activates striatum => inhibits globus pallidus => activates thalamus => activates motor cortex
-    Indirect pathway: reverberating circuit with cerebral cortex, via basal ganglia, subthalamic nucleus and thalamus, that suppresses movement
-        Subthalamic nucleus has excitatory connections to globus pallidus internal
-        Cerebral cortex activates subthalamic nucleus => activates globus pallidus => inhibits thalamus
-    Nigrostriatal pathway: substantia nigra to motor cortex, through basal ganglia, subthalamic nucleus and thalamus, that facilitates direct pathway
-        Striatum has inhibitory connections to globus pallidus external, enabled by default
-        Globus pallidus external has inhibitory connections to subthalamic nucleus, disabled by default
-        Substantia nigra inhibits striatum => activate globus pallidus external => inhibit subthalamic nucleus => facilitate movement
 PARKINSON: degeneration of dopaminergic neurons in substantia nigra
     LEWY BODIES: alpha-synuclein aggregates in neurons that cause them to die
     Affects basal ganglia circuits
