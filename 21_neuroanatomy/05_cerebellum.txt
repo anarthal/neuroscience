@@ -51,7 +51,7 @@ SPINOCEREBELLUM/PALEOCEREBELLUM: control of trunk and limb muscles. Posture and 
     Vermis: axial and proximal muscles
         Linked to fastigial nucleus
         Input: anterior spinocerebellar, trigeminal (somatosensory and proprioceptive)
-        Output: vestibular nuclei (posture), reticular formation, thalamus/motor cortex
+        Output: vestibular nuclei (posture), reticular formation, thalamus (ventral lateral)/motor cortex
     Paravermis: distal muscles
         Linked to interposed nuclei
         Input: posterior spinocerebellar
