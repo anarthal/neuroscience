@@ -21,6 +21,7 @@ RETICULOTEGMENTAL NUCLEUS: in dorsal pons
     Inputs: cerebral cortex and superior colliculus (vision)
     Outputs: projects to cerebellum
     Involved in eye movement control
+CENTRAL TEGMENTAL TRACT: from lateral solitary nucleus to thalamus. Carries gustatory info. Ipsilateral
 Cranial nerves
     HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
         Nucleus: hypoglossal nucleus in medulla oblongata

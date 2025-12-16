@@ -40,6 +40,7 @@ MEDIAL LONGITUDINAL FASCICULUS: fascicle closer to the anterior while commissure
 TECTOSPINAL TRACT: head movements
     From superior colliculus
     In medial longitudinal fasciculus
+    Contralateral
 VESTIBULOSPINAL TRACT: reflex response to equilibrium information, to maintain posture
     From vestibular nuclei
     Medial: in medial longitudinal fasciculus. Bilateral. Head and neck
