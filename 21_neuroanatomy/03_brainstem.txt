@@ -8,29 +8,43 @@ RHOMBOID FOSSA: the floor of the 4th ventricle
 TECTUM OF THE MIDBRAIN: posterior part, where colliculli are
 SOLITARY NUCLEUS: nucleus in medulla oblongata. Taste and general visceral afferents
     SOLITARY TRACT: tract starting in solitary nucleus
-    GUSTATORY NUCLEUS: part of the solitary nucleus dedicated to taste
-NUCLEUS AMBIGUUS: nucleus in medulla oblongata. Muscles in palate, pharynx, larynx, and some parasympathetic
+    GUSTATORY NUCLEUS/LATERAL SOLITARY NUCLEUS: part of the solitary nucleus receiving taste info
+    MEDIAL SOLITARY NUCLEUS: part of the solitary nucleus receiving visceral somatosensory info
+NUCLEUS AMBIGUUS: nucleus in medulla oblongata. Muscles in palate, pharynx, larynx, and some parasympathetic (SVE)
 DORSAL (MOTOR) NUCLEUS OF THE VAGUS: in medulla oblongata. Parasympathetic preganglionic neurons for many organs
 SALIVATORY NUCLEI: parasympathetic innervation of salivary glands, in the pons. Superior and inferior
 Olive: set of nuclei in medulla oblongata/pons
     INFERIOR OLIVE: performs integration of somatosensory information from spinal cord, motor commands and other inputs, and projects to cerebellum
     SUPERIOR OLIVE: related to hearing
 PONTINE NUCLEI: receive input from motor-related cerebral cortices (i.e. what's the current plan?) and other inputs. Integrates them and projects to cerebellum
+RETICULOTEGMENTAL NUCLEUS: in dorsal pons
+    Inputs: cerebral cortex and superior colliculus (vision)
+    Outputs: projects to cerebellum
+    Involved in eye movement control
 Cranial nerves
     HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
         Nucleus: hypoglossal nucleus in medulla oblongata
     ACCESSORY NERVE (XI): motor, innervates trapezoid and sternocleidomastoid mucles
         Nucleus: in spinal cord
+        Fibers from nucleus ambiguus (SVE)
     VAGUS NERVE (X): mixed
-        Somatic sensations from ear and other small parts: superior ganglion, spinal trigeminal tract
-        Visceral sensations from many organs (lungs, heart) and part of taste: inferior ganglion, solitary tract, solitary nucleus
-        Parasympathetic innervation of many organs: from dorsal motor vagus nucleus
-        Innervation of muscles in palate, pharynx, larynx: nucleus ambiguus
+        Has two ganglia
+            Inferior (further from CNS): GVA, SVA cell bodies
+            Superior (closer to CNS): GSA cell bodies
+        Somatic sensations from ear and other small parts: superior ganglion, spinal trigeminal tract (GSA)
+        Visceral sensations from many organs (lungs, heart): inferior ganglion, solitary tract, medial solitary nucleus (GVA)
+        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Parasympathetic innervation of many organs: from dorsal motor vagus nucleus (GVE)
+        Innervation of muscles in palate, pharynx, larynx: nucleus ambiguus (SVE)
     GLOSSOPHARYNGEAL NERVE (IX): mixed
+        Has two ganglia
+            Inferior (further from CNS): GVA, SVA cell bodies
+            Superior (closer to CNS): GSA cell bodies
         Somatic sensations from tongue, tympani: superior ganglion, spinal trigeminal tract
-        Visceral sensations from some parts and part of taste: inferior ganglion, solitary tract, solitary nucleus
-        Parasympathetic innervation of salivary glands, from inferior salivary nucleus
-        Innervation of the muscle to swallow
+        Visceral sensations from some parts: inferior ganglion, solitary tract, medial solitary nucleus (GVA)
+        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Inferior salivary fibers (GVE)
+        Innervation of the muscle to swallow from nucleus ambiguus (SVE)
     VESTIBULOCOCHLEAR NERVE (VIII): innervates cochlea (hearing) and vestibule (equilibrium)
         VESTIBULAR NUCLEI: 4 nuclei where vestibular branch of VIII ends. In pons
             Superior
@@ -39,12 +53,17 @@ Cranial nerves
             Inferior: long, below lateral
         COCHLEAR NUCLEI: 2 nuclei where cochlear branch of VIII ends. Anterior, posterior.
     FACIAL NERVE (VII): mixed. Similar to glossopharyngeal
+        Has only one ganglion
+        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Lacrimo muconasal fibers: parasympathetic innervation of glands (GVE)
+        Superior salivatory fibers (GVE)
+        Facial expression muscles (SVE)
     ABDUCENS NERVE (VI): motor. Eye muscles
         Starts in abducens nucleus
     TRIGEMINAL NERVE (V): mixed
         Has 3 divisions, covering different areas in the head
-        Touch, proprioception, nociception for face
-        Innervates mastication muscles and other
+        Touch, proprioception, nociception for face (GSA)
+        Innervates mastication muscles and other (SVE)
         Nuclei
             Spinal trigeminal nucleus: sensory. Long, vertical, extending from pons to spinal cord
             Principal sensory: mid-pons
@@ -53,3 +72,5 @@ Cranial nerves
     TROCHLEAR NERVE (IV): motor. Eye muscles
         From trochlear nucleus, in midbrain
     OCULOMOTOR NERVE (III): motor. Other eye muscles
+        Oculomotor nucleus (GSE)
+        CILIARY NUCLEUS/EDINGER-WESTPHAL NUCLEUS: controls ciliary muscles (GVE)
