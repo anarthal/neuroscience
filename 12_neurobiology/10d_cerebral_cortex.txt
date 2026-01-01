@@ -10,7 +10,7 @@ Lobes
     Temporal lobe: the most lateral. Olfaction and hearing
     Insula lobe: below temporal lobe, adjacent to putamen. Part of the limbic system
     Longitudinal fissure: separates left and right hemispheres
-    Lateral fissure: separates frontal/parietal and temporal lobes
+    Lateral fissure/Sylvian fissure: separates frontal/parietal and temporal lobes
     Central sulcus: separates frontal and parietal lobes
     Parieto-occipital sulcus: separates parietal and occipital lobes
 Tracts
