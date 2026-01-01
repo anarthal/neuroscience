@@ -1,0 +1,32 @@
+Background
+    MOTOR END-PLATE: synapse at the neuromuscular junction
+    END-PLATE POTENTIAL: postsynaptic potential at a muscle cell
+To be a neurotransmitter, a substance must be
+    Present in presynaptic terminal
+    Released on depolarization, interacting with Ca2+
+    Causing an effect in the postsynaptic terminal
+DALE'S PRINCIPLE: all neurons release the same set of neurotransmitters at all of their synapses
+    CO-TRANSMITTER: set of neurotransmitters released by a neuron, in addition to the most abundant one
+    Currently challenged: some neurons don't fit this, and trigger frequency influences which transmitters are released
+Neuropeptides are often co-transmitters
+    Small neurotransmitters require less Ca2+ than neuropeptides => released at lower stimulation frequencies than neuropeptides
+    Small neurotransmitters synthesized at presynaptic terminal. Neuropeptides in the soma
+    Small neurotransmitters stored in clear-core vesicles. Neuropeptides in dense-core vesicles
+    Small neurotransmitters vesicles are recycled. Neuropeptides vesicles are single use
+    Small neurotransmitters usually bind to ionotropic receptors (faster, local), neuropeptides to metabotropic receptors (slower, for modulation)
+POSTSYNAPTIC DENSITY: site in the postsynaptic element containing the neurotransmitter receptors (this is why it's electron dense in the microscope)
+    PSD-95: postsynaptic scaffold protein holding the receptors together, on the inside of the cell
+        Used as a marker of a postsynaptic element. Antibodies used to identify it
+QUANTAL RELEASE: neurotransmitters are released in discrete quanta. Quantum = one vesicle
+    MINIATURE END-PLATE POTENTIAL: end-plate potential caused by the release of one quantum. < threshold
+Release process (small neurotransmitter)
+    There is a reserve pool at the presynaptic terminal containing loaded vesicles
+    SYNAPSIN: protein that keeps vesicles attached to the reserve pool
+    CALMODULIN-DEPENDENT-KINASE: kinase activated by Ca2+ that phosphorylates synapsin => detaches vesicles from the reserve pool
+    SYNAPTOTAGMIN: protein attached to the vesicles that binds Ca2+ to cause the final release (SNAREs don't bind Ca2+)
+    1. Action potential arrives => Ca2+ enters the cell
+    2. Vesicles are mobilized from the reserve pool by phosphorylation of synapsin
+    3. Vesicles are docked to the plasma membrane by SNARE proteins
+    4. Priming: SNAREs are arranged into the required conformation for exocytosis
+    5. Synaptotagmin curves the plasma membrane until fusion
+    6. Budding: new empty vesicles are extracted from the plasma membrane by clathrin coating. Dynamin finishes the budding process
