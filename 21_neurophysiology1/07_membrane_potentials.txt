@@ -1,20 +1,31 @@
+Ion concentrations
+    K+ more abundant inside, Na+, Ca2+, Cl- more abundant outside
+    In developing cells, Cl- more abundant inside
+ELECTROCHEMICAL POTENTIAL for an ion: net driving force for an ion species to move across the membrane (volts). Sum of
+    Concentration gradient: due to the uneven distribution of ion species across the membrane
+    Electrical gradient: due to the electric field caused by the membrane accumulating opposite charges
+EQUILIBRIUM POTENTIAL for an ion (E_ion): membrane potential where electrochemical potential is zero for that ion (electric force compensates concentration gradient)
+    NERNST EQUATION: equilibrium potential for a single ion species
+        E_in = RT/zF * ln(C_out/C_in)
+    Equilibrium happens when the electric field compensates the effect of diffusion because of the concentration gradient
+    For cations, the bigger C_out, the more positive the potential (e.g. Na)
+GOLDMAN EQUATION: membrane resting potential (electrical potential for several ion species in steady state)
+    Vm = RT/F * ln((P_Na * C_Na_out + P_K * C_K_out + P_Cl * C_Cl_in) / (P_Na * C_Na_in + P_K * C_K_in + P_Cl * C_Cl_out))
+    P_ion: permeability of the ion species across the membrane. Has dimensions
+    Vm tends to the E_ion for the ion with highest permeability
+        In resting conditions, K+ permeability is the biggest
+        When depolarized, Na+ permeability is the biggest
+    In steady state, since Vm != E_K, E_Na, E_Cl, there are currents inside/outside the cell
+        E.g. K+: Vm < Ek => K+ ions exit the cell
+    Na+/K+ pump, Cl- co-transporters maintain the gradients by neutralizing the leakage current
+    Leakage currents depend on (E_xx - Vm) but also on the permeability (conductance)
+Usual values
+    Vm = -65mV
+    E_K = -79mV
+    E_Na = 60mV
+    E_Cl = -70mV
 We can model excitable cells as electrical circuits
     Ion channels act as resistances
     Electromotive force for ions act as batteries
     Non-conductive part of the membrane acts as a capacitor
-Ion concentrations
-    K+ more abundant inside, Na+, Ca2+, Cl- more abundant outside
-        In developing cells, Cl- more abundant inside
-    NERNST EQUATION: electrical potential for a single ion species in equilibrium
-        E_in = RT/zF * ln(C_out/C_in)
-        Equilibrium happens when the electric field compensates the effect of diffusion because of the concentration gradient
-        For cations, the bigger C_in, the more negative the potential
-    GOLDMAN EQUATION: membrane electrical potential for several ion species in steady state
-        Vm: membrane potential
-        In steady state, since Vm != E_K, E_Na, E_Cl, there are currents inside/outside the cell
-        E.g. K+: Vm < Ek => K+ ions exit the cell
-        Na+/K+ pump, Cl- co-transporters maintain the gradients by neutralizing the leakage current
-        Leakage currents depend on (E_xx - Vm) but also on the permeability (conductance)
-        In resting conditions, K+ permeability is the biggest
-        When depolarized, Na+ permeability is the biggest
-    
+    Ion pumps act as current sources (and keep batteries charged)
