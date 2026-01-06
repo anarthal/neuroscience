@@ -1,0 +1,28 @@
+TETANIC STIMULATION: high-frequency sequence of individual stimulations to a neuron
+SYNAPTIC FACILITATION: short-term increase in the synaptic strength upon shortly-spaced action potentials
+    Some Ca2+ remains in the post-synaptic element (from the previous AP) when the next AP arrives
+    This causes more neurotransmitter to be released
+    Lasts milliseconds
+SYNAPTIC DEPRESSION: short-term decrease in the synaptic strength upon repeated shortly-spaced stimulation
+    Because the pool of synaptic vesicles is depleted
+    Lasts milliseconds
+SYNAPTIC AUGMENTATION: similar to facilitation, but lasts seconds
+    Due to Ca2+ accumulation
+SYNAPTIC POTENTIATION/POST-TETANIC POTENTIATION: similar to facilitation, but lasts minutes
+    Due to Ca2+ accumulation, but != mechanism than augmentation
+Aplysia long-term plasticity
+    Habituation: reduced response to repeated stimulation. Due to synaptic depression
+    Sensitization: enhanced response to stimulation, due to association with another noxious stimulus
+        Caused by facilitatory interneurons releasing serotonin in the presynaptic terminal
+        Serotonin => GPCR => PKA
+            Short term: closes K+ channels => AP lasts longer => More Ca2+ influx => More neurotransmitter released
+            Long term: alters gene expression => self-activated PKA, protein synthesis for new synapses
+Long-term potentiation in mammals (e.g. hippocampus)
+    Triggered when NMDA glutamate receptors activate (there is glutamate and the cell is depolarized => coincidence detector)
+    Stimulation should be short and high frequency
+    Early-phase: extra AMPA receptors are inserted in the membrane
+    Late-phase: kinases activate transcription regulators => increase protein synthesis => new synapses
+Long-term depression in mammals (e.g. hippocampus and cerebellum)
+    Balances long-term potentiation => learning
+    Triggered when NMDA receptors activate at low-frequency for long periods of time
+    Caused by the internalization of AMPA receptors in the hippocampus
