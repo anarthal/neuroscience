@@ -1,37 +1,26 @@
-
-Many != types of ionic channels, in != neuron types and in != neuron types
-    Differences allow != responses to adapt to !=, complex stimuli
-K+ channel types: the more varied ones
-    Slow rectifiers: slow dynamics, Hodgkin Huxley model
-    Ca2+ activated channels: regulated by the amount of Ca2+ inside the cell (open when Ca2+ enters the cell). Depolarization also helps
-    A-type channels: fast dynamics, like Na+ channels
-    M-type: slow dynamics, but activated by ACh
-Cytoplasmic effects (e.g. Ca2+ or 2nd messengers) also change the dynamics of channels
-Types of ion channels depend on the neuron region we're looking to
-    Dendrites: have a lot of != channel types to respond to stimuli and perform the integration of these
-        Backpropagation of action potentials: propagate AP to dendrites. Modulates inputs during AP
-    Axon initial segment: high density of channels with low threshold requirements, to start generating AP: Na+, M-type K+, A-type K+
-    Nodes of Ranvier
-        In node: high density of Na+ channels
-        Paranode: the site where myelin is anchored
-        Juxta paranode: inside the sheet, next to paranode. High density of K+ channels, to produce hyperpolarization
-    Presynaptic terminals: Ca2+, to trigger neurotransmitter release
-Nodes of Ranvier problems
-    The longer nodes of Ranvier are, the slower the conduction. More membrane exposed => more capacitance
-    If myelin sheath doesn't seal completely (bad scaffold proteins), ion current flows inside paranode
-        no separation between Na+ and K+ channels => depolarization and hyperpolarization at the same time => AP lost
-!= channel types => != dynamic responses
-    E.g. auditory neurons can fire at high frequency. Kv3 K+ channels => fast repolarization
-    Neurons with A-type K+ channels introduce a delay in their response to the input if they were hyperpolarized before
-    Potential-dependent excitability: a neuron has Ca2+ channels
-        In resting potential, Ca2+ are inactivated
-        If the neuron is hyperpolarized and has Ca2+ channels, these are no longer inactivated
-        A smaller input causes Ca2+ channels to open, in addition to Na+ channels => may cause an AP even at subthreshold inputs
-    Pacemaker neurons
-        Hyperpolarization opens HCN => depolarization
-        Low-threshold Ca2+ channels => open with minimal depolarization => more depolarization
-        Na+ channels and action potential. Ca2+ and HCN close
-        Repolarization starts the cycle again
-        
-
-
+Conductance changes during AP because channels open
+    Na+ high during depolarization, K+ high during repolarization
+    Voltage clamp important to eliminate interaction between Na+ and K+ channels
+Conductance changes with time
+    Both Na+ and K+ channels open on depolarization => Increased conductance
+    Na+ channels open rapidly and then inactivate
+    K+ channels open slowly and don't inactivate
+    Absolute refractory period caused by Na+ channel inactivation
+    Relative refractory period caused by K+ channels still active and some Na+ channels still inactive
+Passive electrical properties: determine how an electrical impulse spreads, without active regeneration involving ion channels
+    Considering a cylindrical axon of radius r
+    Membrane resistance (r_m): resistance of the axon membrane per unit of length. r_m ∝ 1/r
+    Membrane capacitance (c_m): same, but for capacitance. c_m ∝ r
+    Axial resistance (r_a): resistance of the axon's cytoplasm per unit of length. r_a ∝ 1/r²
+Action potential velocity proportional to 1 / (r_a * c_m)
+    Action potential spreads passively (electrotonically), except in sites where it's regenerated (e.g. nodes of Ranvier)
+    Current in AP flows both forward and backward, but refractory period makes AP propagate only forward
+    Axon diameter increases conduction speed: speed ∝ r
+    Insulation (myelin) decreases c_m more efficiently than increasing the radius => increases speed
+In long structures, voltage response caused by injected current decays with space
+    AXON LENGTH CONSTANT (λ): length it takes for voltage to decay to 37% of its initial value
+    λ = sqrt(r_m / r_a)
+    Insulation (myelin) increases r_m => increases λ
+Threshold varies: the stronger the stimulus, the shorter the time it needs to be active to fire an AP
+    RHEOBASE: minimum stimulus intensity that causes an AP when sustained for a very long period of time
+    CRONAXIE: time period required by a stimulus with amplitude 2*rheobase to trigger an AP

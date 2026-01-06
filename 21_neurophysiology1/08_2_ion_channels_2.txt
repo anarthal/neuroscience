@@ -1,0 +1,37 @@
+
+Max firing rate depends on which types of ion channels the neuron has (faster channels => higher firing rate)
+
+Many != types of ionic channels, in != neuron types and in != neuron types
+    Differences allow != responses to adapt to !=, complex stimuli
+K+ channel types: the more varied ones
+    Slow rectifiers: slow dynamics, Hodgkin Huxley model
+    Ca2+ activated channels: regulated by the amount of Ca2+ inside the cell (open when Ca2+ enters the cell). Depolarization also helps
+    A-type channels: fast dynamics, like Na+ channels
+    M-type: slow dynamics, but activated by ACh
+Cytoplasmic effects (e.g. Ca2+ or 2nd messengers) also change the dynamics of channels
+Types of ion channels depend on the neuron region we're looking to
+    Dendrites: have a lot of != channel types to respond to stimuli and perform the integration of these
+        Backpropagation of action potentials: propagate AP to dendrites. Modulates inputs during AP
+    Axon initial segment: high density of channels with low threshold requirements, to start generating AP: Na+, M-type K+, A-type K+
+    Nodes of Ranvier
+        In node: high density of Na+ channels
+        Paranode: the site where myelin is anchored
+        Juxta paranode: inside the sheet, next to paranode. High density of K+ channels, to produce hyperpolarization
+    Presynaptic terminals: Ca2+, to trigger neurotransmitter release
+Nodes of Ranvier problems
+    The longer nodes of Ranvier are, the slower the conduction. More membrane exposed => more capacitance
+    If myelin sheath doesn't seal completely (bad scaffold proteins), ion current flows inside paranode
+        no separation between Na+ and K+ channels => depolarization and hyperpolarization at the same time => AP lost
+!= channel types => != dynamic responses
+    E.g. auditory neurons can fire at high frequency. Kv3 K+ channels => fast repolarization
+    Neurons with A-type K+ channels introduce a delay in their response to the input if they were hyperpolarized before
+    Potential-dependent excitability: a neuron has Ca2+ channels
+        In resting potential, Ca2+ are inactivated
+        If the neuron is hyperpolarized and has Ca2+ channels, these are no longer inactivated
+        A smaller input causes Ca2+ channels to open, in addition to Na+ channels => may cause an AP even at subthreshold inputs
+    Pacemaker neurons
+        Hyperpolarization opens HCN => depolarization
+        Low-threshold Ca2+ channels => open with minimal depolarization => more depolarization
+        Na+ channels and action potential. Ca2+ and HCN close
+        Repolarization starts the cycle again
+        
