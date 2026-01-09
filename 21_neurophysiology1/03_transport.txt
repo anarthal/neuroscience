@@ -1,0 +1,11 @@
+Tau: a microtubule-associated protein that regulates microtubule organization
+    Different in axons than in dendrites
+PROTOFILAMENT: microtubule dimer formed of an alpha and a beta tubulin
+Microfilament functions
+    Neuronal growth cone
+    Formation of dendritic spines
+    Synaptic plasticity
+Fast transport: moves vesicles and organelles back and forth (mitochondria =>, vesicles =>, endosomes <=)
+    Uses microtubules
+    Also moves mRNAs =>, using bound proteins, to enable local protein synthesis at synapses
+Slow transport: moves cytosol =>. Mostly passive

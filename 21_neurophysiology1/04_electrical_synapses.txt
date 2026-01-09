@@ -1,0 +1,6 @@
+Gap junctions allow direct ion flow => electrical continuity
+For coordinated responses (e.g. aplysia ink release)
+Sub-threshold signals transmitted
+Almost instant transmission
+Can also transmit 2nd messengers and other signals
+Glial cells use them for communication (e.g. Ca2+ waves)
