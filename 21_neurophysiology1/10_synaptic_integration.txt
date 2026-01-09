@@ -1,0 +1,33 @@
+POSTSYNAPTIC DENSITY: site in the postsynaptic element containing the neurotransmitter receptors (this is why it's electron dense in the microscope)
+The receptor determines whether a synapse is excitatory or inhibitory, not the neurotransmitter
+Morphological classification of synapses
+    These are guidelines, the only definitive way to determine if excitatory/inhibitory is biochemical tests, but this is usually enough
+    Type I/asymmetric
+        Postsynaptic density is very big
+        Usually excitatory
+        Contact in dendritic spines
+    Type II/symmetric
+        Postsynaptic density similar to presynaptic
+        Usually inhibitory
+        Contact in dendritic tree or soma
+REVERSAL POTENTIAL: for an ion channel, membrane potential where no net current flows
+    For channels that conduct a single type of ion, equal to the equilibrium potential
+    Makes sense for channels conducting more than one type of ion
+Glutamate receptors
+    Ionotropic: reversal potential == 0. Always excitatory
+        AMPA: conduct Na+ and K+
+        Kainate: like AMPA
+        NMDA: conduct Na+, K+ and Ca2+
+            Has a Mg2+ block that is removed with depolarization => coincidence detector
+    Metabotropic: may be excitatory or inhibitory
+    PSD-95: postsynaptic scaffold protein holding the receptors together, on the inside of the cell
+        Used as a marker of a postsynaptic element. Antibodies used to identify it
+GABA receptors: inhibitory
+    GABAA: ionotropic. Open Cl- channels
+    GABAB: metabotropic. End up opening K+ channels
+Axon initial segment performs the summation because it's the zone with lower threshold (highest Na+ density)
+Properties affecting integration
+    Time constant τ: the bigger, the more likely that two EPSPs close in time are summed together
+    Length constant λ: the bigger, the more likely that two EPSPs in != regions are summed together
+DENDRITIC SPIKE: an AP generated in a dendrite. Propagated electrotonically to the cell body and axon initial segment  
+Synapse location (axo-dendritic, somatic, axonic) determines its function. E.g. axo-axonic regulates neurotransmitter release

@@ -14,9 +14,6 @@ Neuropeptides are often co-transmitters
     Small neurotransmitters stored in clear-core vesicles. Neuropeptides in dense-core vesicles
     Small neurotransmitters vesicles are recycled. Neuropeptides vesicles are single use
     Small neurotransmitters usually bind to ionotropic receptors (faster, local), neuropeptides to metabotropic receptors (slower, for modulation)
-POSTSYNAPTIC DENSITY: site in the postsynaptic element containing the neurotransmitter receptors (this is why it's electron dense in the microscope)
-    PSD-95: postsynaptic scaffold protein holding the receptors together, on the inside of the cell
-        Used as a marker of a postsynaptic element. Antibodies used to identify it
 QUANTAL RELEASE: neurotransmitters are released in discrete quanta. Quantum = one vesicle
     MINIATURE END-PLATE POTENTIAL: end-plate potential caused by the release of one quantum. < threshold
 Release process (small neurotransmitter)

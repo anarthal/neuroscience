@@ -21,6 +21,7 @@ In long structures, voltage response caused by injected current decays with spac
     AXON LENGTH CONSTANT (λ): length it takes for voltage to decay to 37% of its initial value
     λ = sqrt(r_m / r_a)
     Insulation (myelin) increases r_m => increases λ
+Time constant τ = r_m * c_m: time it takes for the voltage step response to get to 63% of its final value
 Threshold varies: the stronger the stimulus, the shorter the time it needs to be active to fire an AP
     RHEOBASE: minimum stimulus intensity that causes an AP when sustained for a very long period of time
     CRONAXIE: time period required by a stimulus with amplitude 2*rheobase to trigger an AP
