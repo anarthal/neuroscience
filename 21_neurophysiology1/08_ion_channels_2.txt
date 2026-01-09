@@ -1,12 +1,11 @@
-
-Max firing rate depends on which types of ion channels the neuron has (faster channels => higher firing rate)
-
-Many != types of ionic channels, in != neuron types and in != neuron types
+Many != types of ionic channels, in != neuron types and in != neuron zones
     Differences allow != responses to adapt to !=, complex stimuli
+    Neurons specialize by expressing != types of ion channels (especially K+ channels)
+    Neuron max firing rate depends on which types of ion channels the neuron has (faster channels => higher firing rate)
 K+ channel types: the more varied ones
-    Slow rectifiers: slow dynamics, Hodgkin Huxley model
+    Delayed rectifiers: slow dynamics, Hodgkin Huxley model. Open slowly but they don't inactivate
     Ca2+ activated channels: regulated by the amount of Ca2+ inside the cell (open when Ca2+ enters the cell). Depolarization also helps
-    A-type channels: fast dynamics, like Na+ channels
+    A-type channels: like Na+ channels: activate rapidly and inactivate
     M-type: slow dynamics, but activated by ACh
 Cytoplasmic effects (e.g. Ca2+ or 2nd messengers) also change the dynamics of channels
 Types of ion channels depend on the neuron region we're looking to
@@ -22,14 +21,19 @@ Nodes of Ranvier problems
     The longer nodes of Ranvier are, the slower the conduction. More membrane exposed => more capacitance
     If myelin sheath doesn't seal completely (bad scaffold proteins), ion current flows inside paranode
         no separation between Na+ and K+ channels => depolarization and hyperpolarization at the same time => AP lost
-!= channel types => != dynamic responses
-    E.g. auditory neurons can fire at high frequency. Kv3 K+ channels => fast repolarization
+Neuron specialization examples
+    Auditory neurons can fire at high frequency because they have Kv3 K+ channels => fast repolarization
     Neurons with A-type K+ channels introduce a delay in their response to the input if they were hyperpolarized before
+        Because hyperpolarization removes A-type K+ channel inactivation => Transient K+ current on depolarization => Delay
     Potential-dependent excitability: a neuron has Ca2+ channels
         In resting potential, Ca2+ are inactivated
         If the neuron is hyperpolarized and has Ca2+ channels, these are no longer inactivated
         A smaller input causes Ca2+ channels to open, in addition to Na+ channels => may cause an AP even at subthreshold inputs
-    Pacemaker neurons
+    Accommodation: prevents repetitive firing upon a prolonged stimulus due to M-type K+ channels
+        Happens in sympathetic system
+        Prolonged stimulus opens M-type K channels => current that doesn't allow more than one action potential
+        ACh closes M-type channels => accommodation doesn't happen
+    HYPERPOLARIZATION-ACTIVATED CYCLIC NUCLEOTIDE CHANNEL (HCN): generates a depolarizing current on hyperpolarization => pacemaking
         Hyperpolarization opens HCN => depolarization
         Low-threshold Ca2+ channels => open with minimal depolarization => more depolarization
         Na+ channels and action potential. Ca2+ and HCN close
