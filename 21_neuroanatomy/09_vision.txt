@@ -1,4 +1,4 @@
-STRIATE CORTEX/V1: primary visual cortex
+STRIATE CORTEX/V1: primary visual cortex. In occipital lobe
 Processing levels
     Inferior: low-level features (e.g. color, contrast). In retina
     Intermediate: objects. In lateral geniculate nucleus and V1
@@ -41,9 +41,9 @@ Retinal processing: information trimmed (99% filtered before reaching optic nerv
     Horizontal cell: perform horizontal inhibition to sharpen images
     Amacrine cells: comparisons to make ganglion cells more sensitive to moving stimuli
     Ganglion cells
-        Magnocellular: big receptive field. High temporal resolution. To magnocellular layers of LGN
-        Parvocellular: small receptive field. High spatial resolution. To parvocellular layers of LGN
-        Koniocellular: intermediate. To intercalated layers of LGN
+        Magnocellular (M or Y): big receptive field. High temporal resolution. To magnocellular layers of LGN
+        Parvocellular (P or X): small receptive field. High spatial resolution. To parvocellular layers of LGN
+        Koniocellular (K or W): intermediate. To intercalated layers of LGN
         Others regulate circadian rhythms (hypothalamus)
 MIOSIS: reduction of pupil diameter using the sphincter muscles
     Parasympathetic
@@ -52,4 +52,20 @@ MYDRIASIS: increase of pupil diameter using dilator muscles
     Sympathetic
     Hypothalamus => lateral gray horn in spinal cord (ACh) => superior cervical ganglion (NE) => dilator muscle
 PUPILLARY LIGHT REFLEX: opening/closing the pupil when lighting conditions change
-
+Visual field: part of the world seen by a person looking straight. Each eye's field divided into two hemifields laterally
+    Nasal hemifield: the more medial one
+    Temporal hemifield: the more lateral one
+RETINOTOPY: maintenance of the retinal spatial organization in other parts of the brain (e.g. LGN, V1)
+Geniculate pathway
+    Ganglion cell axons form the optic nerve
+    Nasal hemifields decussate in the optic chiasm, temporal hemifields remain ipsilateral => Overall process is contralateral
+    OPTIC TRACT: continuation of ganglion cell axons after the optic chiasm. End in LGN
+    OPTIC RADIATIONS: fibers from LGN to V1
+LGN structure: 6 cell layers, separated by thin myelin sheets with koniocellular cells
+    Magnocellular layers (1, 2): from magnocellular ganglion cells
+    Parvocellular layers (3, 4, 5, 6): from parvocellular ganglion cells
+    Ipsilateral layers (1, 4, 6): from temporal ipsilateral hemifield
+    Contralateral layers (2, 3, 5): from nasal contralateral hemifield
+    Each layer has a representation of its visual field that maintains retinotopy
+    Fibers in LGN originated in superior retina travel directly to V1, through internal capsule
+    Fibers in LGN originated in interior retina pass through the temporal field, forming Meyer's loop
