@@ -1,25 +1,6 @@
 EXTRINSIC EYE MUSCLES: muscles that move the eye
-Eyeball anatomy
-    FIBROUS TUNICA: outer, protective layer of the eyeball
-        SCLERA: outer, white cover of dense connective tissue
-        CORNEA: transparent layer that covers the lens. Continuous with sclera
-        LIMBUS: transition zone between cornea and sclera
-    VASCULAR TUNICA: intermediate layer of the eyeball
-        CHOROID: vascular layer beneath sclera that provides nutrients
-        PUPIL: hollow part anterior to lens that lets light in. Adjustable in size
-        IRIS: extension of choroid that adjusts pupil's size. Responsible for eye color
-    RETINA: inner layer of the eyeball, where images are formed
-        PIGMENTED RETINA: melanin-rich, inner layer of retina
-            Absorbs excess light
-            Renews photoreceptors
-            Why we see the pupil black
-        NEURAL RETINA: signal transduction
-            Photoreceptor layer: contains cells that absorb light
-            Bipolar layer: 1st order neurons
-            Ganglion layer: 2nd order neurons
-    Lens: converging, to focus images in the retina
-    ANTERIOR CHAMBER: between cornea and lens, filled with aqueous humor
-    VITREOUS CHAMBER: between lens and retina, filled with vitreous humor
+INTRINSIC EYE MUSCLES: muscles embedded in the eye (sphincter, dilator, ciliary)
+Eyeball anatomy: moved to 21_neuroanatomy/09_vision.txt
 Photoreceptors
     Rods: for night vision (black and white). More sensitive than cones
     Cones: for color vision. Each one sensitive to red, blue or green

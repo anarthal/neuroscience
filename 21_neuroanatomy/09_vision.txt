@@ -1,0 +1,55 @@
+STRIATE CORTEX/V1: primary visual cortex
+Processing levels
+    Inferior: low-level features (e.g. color, contrast). In retina
+    Intermediate: objects. In lateral geniculate nucleus and V1
+    Superior: further processing. In V2-V5
+Eyeball anatomy
+    FIBROUS TUNICA: outer, protective layer of the eyeball
+        SCLERA: outer, white cover of dense connective tissue
+        CORNEA: transparent layer that covers the lens. Continuous with sclera
+        LIMBUS: transition zone between cornea and sclera
+        CONJUNCTIVA: epithelial tissue extending from the lateral part of the cornea, covering the sclera
+    VASCULAR TUNICA/UVEA: intermediate layer of the eyeball
+        CHOROID: vascular layer beneath sclera that provides nutrients
+        PUPIL: hollow part anterior to lens that lets light in. Adjustable in size
+        IRIS: extension of choroid that adjusts pupil's size. Responsible for eye color
+        CILIARY BODY: tissue behind iris containing ciliary muscle
+        CILIARY MUSCLE: changes the lens' shape, to accommodate vision at != distances
+        Pupillary sphincter muscle: embedded in the iris. Makes the pupil smaller
+        Pupillary dilator muscle: embedded in the iris. Makes the pupil bigger
+    RETINA: inner layer of the eyeball, where images are formed
+        PIGMENTED RETINA: melanin-rich, inner layer of retina
+            Absorbs excess light
+            Protects, nourishes and renews photoreceptors
+            Why we see the pupil black
+        NEURAL RETINA: signal transduction
+            Photoreceptor layer: contains cells that absorb light
+            Outer synaptic/plexiform layer: synapses between photoreceptors and bipolar cells. Contains horizontal cells
+            Bipolar layer: 1st order neurons
+            Inner synaptic/plexiform layer: synapses between bipolar and ganglion cells. Contains amacrine cells
+            Ganglion layer: 2nd order neurons
+        EYE DISC: point in the eyeball where optic nerve exits. Blind spot
+        MACULA LUTEA: portion of the retina directly opposed to pupil
+        FOVEA CENTRALIS: center of macula lutea. Has no rods, bipolar or ganglion cells => High-resolution color vision
+    Lens: converging, to focus images in the retina. Inverts and reverses the image
+    ANTERIOR CHAMBER: between cornea and lens, filled with aqueous humor
+    VITREOUS CHAMBER: between lens and retina, filled with vitreous humor
+Retinal processing: information trimmed (99% filtered before reaching optic nerve)
+    Receptive field of a cell: region of the retina that triggers a response in the cell when illuminated
+    ON bipolar/ganglion cell: fires more rapidly when illuminated. Vs. OFF cell. Having both decreases response time
+    Retina specially sensitive to image edges and temporal changes in image
+    Horizontal cell: perform horizontal inhibition to sharpen images
+    Amacrine cells: comparisons to make ganglion cells more sensitive to moving stimuli
+    Ganglion cells
+        Magnocellular: big receptive field. High temporal resolution. To magnocellular layers of LGN
+        Parvocellular: small receptive field. High spatial resolution. To parvocellular layers of LGN
+        Koniocellular: intermediate. To intercalated layers of LGN
+        Others regulate circadian rhythms (hypothalamus)
+MIOSIS: reduction of pupil diameter using the sphincter muscles
+    Parasympathetic
+    Edinger-westphal (ACh) => ciliary ganglion (NE) => sphincter muscle
+MYDRIASIS: increase of pupil diameter using dilator muscles
+    Sympathetic
+    Hypothalamus => lateral gray horn in spinal cord (ACh) => superior cervical ganglion (NE) => dilator muscle
+PUPILLARY LIGHT REFLEX: opening/closing the pupil when lighting conditions change
+
