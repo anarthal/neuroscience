@@ -10,8 +10,11 @@ Conductance changes with time
 Passive electrical properties: determine how an electrical impulse spreads, without active regeneration involving ion channels
     Considering a cylindrical axon of radius r
     Membrane resistance (r_m): resistance of the axon membrane per unit of length. r_m ∝ 1/r
+        Dimensions: resistance * length, because more length => less resistance (parallel)
     Membrane capacitance (c_m): same, but for capacitance. c_m ∝ r
+        Dimensions: capacitance / length
     Axial resistance (r_a): resistance of the axon's cytoplasm per unit of length. r_a ∝ 1/r²
+        Dimensions: resistance / length
 Action potential velocity proportional to 1 / (r_a * c_m)
     Action potential spreads passively (electrotonically), except in sites where it's regenerated (e.g. nodes of Ranvier)
     Current in AP flows both forward and backward, but refractory period makes AP propagate only forward

@@ -1,0 +1,15 @@
+tensor tympani (trigeminal V), stapedius (facial VII) => muscles that decrease hearing sensitivity
+    reflex takes a small time
+ampulla: protrusion in the base of the semicircular canals
+receptors are in membranous laberynths
+vestibular branch of VIII: sub-branches exiting from ampulla, utricle and saccule
+modiolus: bone forming the center of the cochlea
+helicotrema: connects scala timpani and scala vestibuli, only in the final part of the cochlea
+oval window: where stapes hit, connected to scala vestibuli
+    waves "enter" through stapes, scala vestibuli, helicotrema, scala timpani
+malleus, incus, stapes
+cochlear nuclei are in trapezoid body, then decussate, lateral lemniscus, inferior colliculus, medial geniculate, cortex
+superior olivary nucleus (pons) => localization of the sound
+binaural is bilateral, monaural is contralateral
+superior olivary complex: handles binaural info
+

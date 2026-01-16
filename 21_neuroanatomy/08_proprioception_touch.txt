@@ -1,38 +1,19 @@
-POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory info to CNS
-    Heavily myelinated fibers
-    Somatotopic organization: lower dermatomes => more medial
-    Spinal cord: fibers travel in the posterior column
-        POSTERIOR FUNICULI: other name for posterior column
-        Sensory neurons in dorsal root ganglia
-        Some axons synapse in the gray matter (reflexes), the rest ascend forming the posterior column
-        GRACILE FASCICULUS: the more medial one
-        CUNEATE FASCICULUS: the more lateral one
-    Synapse in medulla oblongata in gracile and cuneate nuclei
-    INTERNAL ARCUATE FIBERS: first part of the axons of the neurons in gracile/cuneate nuclei, forming a decussation. End in medial lemniscus
-    SENSORY DECUSSATION: decussation at medulla level, formed by internal arcuate fibers
-    Ascends through medial lemniscus through all the brain stem until thalamus
-    Synapses in ventral posterior lateral (VPL) in thalamus
-    Then, to primary somatosensory cortex
-    Implements lateral inhibition to provide more precise information => Two-point discrimination
-ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS
-    Slower, less localized than posterior column medial lemniscus
-    Somatotopic organization: lower dermatomes => more lateral
-    Spinal cord: fibers travel in the anterior/lateral columns
-        Sensory neurons in dorsal root ganglia
-        Some axons descend a couple levels => interneurons => reflexes
-        Some axons ascend a couple of levels, then synapse in posterior horn
-            SUBSTANTIA GELATINOSA: Rexed's lamina II, in posterior gray horn, where interneurons for ALS are
-        LISSAUER'S COLUMN/POSTEROLATERAL TRACT: bundle of axons in ALS between entering the dorsal root and the synapse in the posterior horn
-        After synapsing, axons decussate through the anterior white commissure
-        Then, axons ascend through the anterior/lateral columns
-    NEOSPINOTHALAMIC TRACT: goes directly from spinal cord to VPL in thalamus
-        Quicker, more localized
-        From thalamus to primary somatosensory cortex
-    PALEOSPINOTHALAMIC TRACT: multi-synaptic, through reticular formation
-        Slower, more diffuse
-        From thalamus to cortices of limbic system
-    Has also fibers ending in reticular formation, midbrain, tectum
-    
-
-
-    
+Somatosensory modalities
+    Proprioception
+    Touch
+    Temperature
+    Nociception: pain
+Each receptor (e.g. golgi tendon organ vs. muscle spindles) associated to different types of nerve fiber (e.g. A-alpha, A-beta)
+Trigemino-thalamic system: like dorsal column-medial lemniscus, but for face somatosensory info
+    Ventral posterior medial receives this info in the thalamus
+    Contains large multipolar cells that project to cortex (talamocortical cells). Excitatory, glutamate
+    Also inhibitory cells that receive input from cortex
+RECEPTOR FIELD: area of the skin covered by a single receptor
+Primary somatosensory cortex: posterior to central sulcus
+    The more receptor density, the wider the area in the somatosensory cortex
+Secondary somatosensory cortex: posterior to primary, higher order processing
+ALLODYNIA: some stimuli are felt like pain when they shouldn't
+HYPERALGESIA: increased sensitivity to pain
+NEUROPATHIC PAIN: feeling pain without any stimuli, usually because nerve endings were damaged (e.g. phantom limb in amputated limb)
+Parvocellular: has small cells. vs. magnocellular
+Enthorhinal cortex: transition between 
