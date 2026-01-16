@@ -1,4 +1,3 @@
-STRIATE CORTEX/V1: primary visual cortex. In occipital lobe
 Processing levels
     Inferior: low-level features (e.g. color, contrast). In retina
     Intermediate: objects. In lateral geniculate nucleus and V1
@@ -75,3 +74,24 @@ PUPILLARY LIGHT REFLEX/PHOTOMOTOR REFLEX: opening/closing the pupil when lightin
     Ganglion cells => pretectal nucleus (midbrain). 50% of fibers decussate in the optic chiasm => consensual response
     Pretectal nucleus => Edinger-westphal nucleus (bilateral, decussate through anterior commissure)
     Edinger-westphal nucleus => ciliary ganglion => sphincter muscle (ipsilateral)
+ACCOMMODATION REFLEX: changes the lens' shape to focus on nearby objects via the ciliary muscles
+    Ganglion cells => LGN => V1 => Associative cortices => Edinger-Westphal => Ciliary ganglion => Ciliary muscles
+STRIATE CORTEX/V1: primary visual cortex (Brodman 17)
+    In occipital lobe, under calcarine sulcus
+    STRIA OF GENNARI: myelinated fibers from LGN reaching V1 layer IV
+    Cell receptive fields
+        Simple receptive field (layer IV): concentric field, like the ones in retina
+        Complex receptive field: cell activated most when stimulus has a particular position and orientation
+        Hypercomplex receptive field: cell activated most when stimulus has a particular orientation, regardless of its position
+    Functionally organized in vertical columns
+        All cells in a vertical respond best to a particular orientation
+        All cells in a vertical respond more a stimulus if it's either ipsilateral (for some columns) or contralateral (for other columns)
+        ORIENTATION COLUMN: column with cells sharing similar orientation properties
+        OCULAR DOMINANCE COLUMN: column with cells sharing the same ipsilateral/contralateral preference
+        Both properties change in an approximately perpendicular way
+        HYPERCOLUMN: ipsilateral + contralateral sets of columns spanning an orientation change of 180º
+    Blob: set of cells that have poor orientation response. Color sensitivity
+    Interblob: everything that is not a blob
+High-level processing
+    M-stream/dorsal stream: "where" (low detail, high temporal and space awareness)
+    P-stream/ventral stream: "what" (high detail, form and color)

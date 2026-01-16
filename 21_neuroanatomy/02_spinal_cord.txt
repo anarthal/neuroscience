@@ -23,9 +23,11 @@ Parasympathetic system
     Postganglionic neurons in ganglia next to the organs it innervates. Use ACh
     E.g. ciliary ganglion for pupil dilation, located behind the eyeball
 TBC: move this
-    Cortex layer III and IV: communication within cortex areas
-    Cortex layer IV: more prominent in sensory cortices
+    Cortex layers I to III: receive input from other cortex areas
+    Cortex layer III: efferent cortex to cortex fibers
+    Cortex layer IV: receives input from thalamus. More prominent in sensory cortices
     Cortex layer V: main output of the cortex to lower areas. Where motor pathways start
+    Cortex layer VI: projections to the thalamus
 POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory info to CNS
     Heavily myelinated fibers
     Somatotopic organization: lower dermatomes => more medial
