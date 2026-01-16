@@ -34,6 +34,12 @@ Eyeball anatomy
     Lens: converging, to focus images in the retina. Inverts and reverses the image
     ANTERIOR CHAMBER: between cornea and lens, filled with aqueous humor
     VITREOUS CHAMBER: between lens and retina, filled with vitreous humor
+MIOSIS: reduction of pupil diameter using the sphincter muscles
+    Parasympathetic
+    Edinger-westphal (ACh) => ciliary ganglion (NE) => sphincter muscle
+MYDRIASIS: increase of pupil diameter using dilator muscles
+    Sympathetic
+    Hypothalamus => lateral gray horn in spinal cord (ACh) => superior cervical ganglion (NE) => dilator muscle
 Retinal processing: information trimmed (99% filtered before reaching optic nerve)
     Receptive field of a cell: region of the retina that triggers a response in the cell when illuminated
     ON bipolar/ganglion cell: fires more rapidly when illuminated. Vs. OFF cell. Having both decreases response time
@@ -45,13 +51,6 @@ Retinal processing: information trimmed (99% filtered before reaching optic nerv
         Parvocellular (P or X): small receptive field. High spatial resolution. To parvocellular layers of LGN
         Koniocellular (K or W): intermediate. To intercalated layers of LGN
         Others regulate circadian rhythms (hypothalamus)
-MIOSIS: reduction of pupil diameter using the sphincter muscles
-    Parasympathetic
-    Edinger-westphal (ACh) => ciliary ganglion (NE) => sphincter muscle
-MYDRIASIS: increase of pupil diameter using dilator muscles
-    Sympathetic
-    Hypothalamus => lateral gray horn in spinal cord (ACh) => superior cervical ganglion (NE) => dilator muscle
-PUPILLARY LIGHT REFLEX: opening/closing the pupil when lighting conditions change
 Visual field: part of the world seen by a person looking straight. Each eye's field divided into two hemifields laterally
     Nasal hemifield: the more medial one
     Temporal hemifield: the more lateral one
@@ -69,3 +68,10 @@ LGN structure: 6 cell layers, separated by thin myelin sheets with koniocellular
     Each layer has a representation of its visual field that maintains retinotopy
     Fibers in LGN originated in superior retina travel directly to V1, through internal capsule
     Fibers in LGN originated in interior retina pass through the temporal field, forming Meyer's loop
+PUPILLARY LIGHT REFLEX/PHOTOMOTOR REFLEX: opening/closing the pupil when lighting conditions change
+    When only one eye is illuminated
+        Direct response: illuminated eye's response
+        Consensual response: the other eye's response
+    Ganglion cells => pretectal nucleus (midbrain). 50% of fibers decussate in the optic chiasm => consensual response
+    Pretectal nucleus => Edinger-westphal nucleus (bilateral, decussate through anterior commissure)
+    Edinger-westphal nucleus => ciliary ganglion => sphincter muscle (ipsilateral)
