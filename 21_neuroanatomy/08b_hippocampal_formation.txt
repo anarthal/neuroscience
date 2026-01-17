@@ -29,7 +29,10 @@ PAPEZ CIRCUIT: closed-loop circuit, involved in emotions and long-term memory fo
     Back to mammillary body
     Fornix also sends collaterals to other structures: preoptic region, nucleus accumbens, prefrontal cortex
 Hippocampal formation circuit
-    Input: entorhinal cortex
+    Input
+        Mainly entorhinal cortex
+        Amygdala (bidirectional)
+        Septal nuclei
     Neurons in entorhinal cortex synapse mainly with dentate gyrus by going through hippocampal fissure (perforant pathway)
         Also send collaterals to CA3
     Dentate gyrus => CA3
@@ -39,8 +42,5 @@ Hippocampal formation circuit
     CA1 => Subiculum
     Output: mainly from subiculum, although also from CA1 and CA3. Through fimbria and fornix
         ALVEUS: tract containing fibers from subiculum, CA1 and CA3 passing through hippocampus proper. Becomes fimbria later.
+Intrinsic circuit: only considering the hippocampal formation. Vs. extrinsic circuit, considering the other structures
 Removing the hippocampal formation removes the ability to consolidate working memory to long-term memory
-
-GPS
-    Place cell: activates on recognition of particular locations
-    Grid cell: TODO
