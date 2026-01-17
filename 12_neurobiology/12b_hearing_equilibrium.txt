@@ -2,6 +2,7 @@ Anatomy
     External ear: captures sound vibrations to make the tympanic membrane vibrate
         EAR AURICLE: formed by cartilage. Captures vibrations
         TYMPANIC MEMBRANE: transmits vibrations to middle ear
+        EXTERNAL AUDITORY MEATUS: passage between auricle and tympanic membrane
     Middle ear: air-filled cavity that transmits and amplifies vibrations to the inner ear using 3 ossicles
     Inner ear: where the receptors for hearing and equilibrium are
         BONY LABYRINTH: external part of inner ear. Surrounded by bone, filled by perilymph

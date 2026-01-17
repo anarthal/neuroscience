@@ -1,15 +1,52 @@
-tensor tympani (trigeminal V), stapedius (facial VII) => muscles that decrease hearing sensitivity
-    reflex takes a small time
+See also 12_neurobiology/12b_hearing_equilibrium.txt
+Anatomy
+    Ossicles: malleus (attached to tympani), incus, stapes (attached to cochlea)
+    Oval window: joining between the stapes and the cochlea. Point where ossicle vibration is converted into fluid pressure waves
+    Round window: where scala tympani ends. Into middle ear, but no contact with ossicles
+    MODIOLUS: bone forming the center of the cochlea
+    Scala vestibuli and scala tympani are bony and continuous. Scala vestibuli ends in oval window
+    HELICOTREMA: connects scala timpani and scala vestibuli at the apex (end) of the cochlea
+    SPIRAL GANGLION: center of the modiolus, where the 1st order neurons are
+Physiology
+    Auricle captures vibration and makes tympani vibrate
+    Ossicles amplify vibration and translate it to fluid pressure waves, starting at scala vestibuli, then propagating to scala tympani
+    This also makes cochlear duct vibrate => Stereocilia deformed => AP
+    Inner hair cells mainly involved in hearing, outer hair cells modulate
+Hearing pathways
+    MONAURAL: pathway that involves information from only one ear. Contralateral
+    BINARUAL: pathway that integrates information from both ears. Bilateral
+    TONOTOPY: situation where fiber anatomic location depends on the sound frequency that excites cells the most
+        Receptors in the cochlea sensitive to != frequencies, linked to their position. This distribution is maintained throughout the pathways 
+    TRAPEZOID BODY: bundle of decussating hearing fibers in medulla oblongata. Ventral
+    ACOUSTIC STRIA: bundle of decussating hearing fibers in medulla oblongata. Dorsal
+    Spiral ganglion cells => Ipsilateral cochlear nuclei (medulla oblongata)
+    Monaural pathway
+        Starts in cochlear nuclei
+        Decussates in trapezoid body
+        Ascends in medial lemniscus
+        Synapses in inferior colliculus
+        Synapses in medial geniculate nucleus
+        Ascends to cortex
+    MEDIAL SUPERIOR OLIVARY NUCLEUS (MSO): sound localization based on time differences between signals in the != ears
+        Uses summation (coincidence detector)
+        Ascends through ipsilateral medial lemniscus and follow the same pathway as monaural info
+    LATERAL SUPERIOR OLIVARY NUCLEUS (LSO): sound localization based on intensity differences between signals in the != ears
+        Uses subtraction. Synapse in trapezoid body nucleus inverts sign of the contralateral signal
+        Ascends through ipsilateral medial lemniscus and follow the same pathway as monaural info
+    Primary auditory cortex (AI): Brodmann 41
+    Secondary auditory cortex (AII): Brodmann 42
+Descending pathways: modulate central pathways and cochlear sensitivity to certain frequencies
+    From cortex, synapses in medial geniculate nucleus and inferior colliculus
+    Then, to superior olivary complex (not in MSO nor LSO)
+    Then, to hair cells in the cochlea
+ACOUSTIC REFLEX/MIDDLE EAR REFLEX: reflex that reduces middle ear sensitivity. Triggered by loud sounds, for protection
+    Better at protecting against long-lived sounds (needs time to start)
+    TENSOR TYMPANI: muscle that pulls tympani, to decrease sound transmission. Innervated by trigeminal (V)
+    STAPEDIUS: muscle that pulls stapes, to decrease sound transmission. Innervated by facial (VII)
+    Superior olivary complex => Motor nucleus of V, nucleus of VII
+ACOUSTIC STARTLE REFLEX: reflex that causes startle (asustarse) when hearing an unexpected loud noise
+    Inferior colliculus => Superior colliculus => Reticular formation and spinal cord
+
 ampulla: protrusion in the base of the semicircular canals
 receptors are in membranous laberynths
 vestibular branch of VIII: sub-branches exiting from ampulla, utricle and saccule
-modiolus: bone forming the center of the cochlea
-helicotrema: connects scala timpani and scala vestibuli, only in the final part of the cochlea
-oval window: where stapes hit, connected to scala vestibuli
-    waves "enter" through stapes, scala vestibuli, helicotrema, scala timpani
-malleus, incus, stapes
-cochlear nuclei are in trapezoid body, then decussate, lateral lemniscus, inferior colliculus, medial geniculate, cortex
-superior olivary nucleus (pons) => localization of the sound
-binaural is bilateral, monaural is contralateral
-superior olivary complex: handles binaural info
-

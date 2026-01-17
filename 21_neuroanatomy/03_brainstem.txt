@@ -59,12 +59,14 @@ Cranial nerves
         Lacrimo muconasal fibers: parasympathetic innervation of glands (GVE)
         Superior salivatory fibers (GVE)
         Facial expression muscles (SVE)
+        Innervates stapedius
     ABDUCENS NERVE (VI): motor. Eye muscles
         Starts in abducens nucleus
     TRIGEMINAL NERVE (V): mixed
         Has 3 divisions, covering different areas in the head
         Touch, proprioception, nociception for face (GSA)
         Innervates mastication muscles and other (SVE)
+        Innervates tensor tympani
         Nuclei
             Spinal trigeminal nucleus: sensory. Long, vertical, extending from pons to spinal cord
             Principal sensory: mid-pons
