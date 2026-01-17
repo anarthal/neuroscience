@@ -19,15 +19,28 @@ HIPPOCAMPAL FORMATION: subiculum, hippocampus proper, dentate gyrus
     CA1 to CA4: each of the divisions of the hippocampus proper, based on cytoarchitecture
     Cortex is continuous. In coronal section: entorhinal cortex, subiculum, hippocampus proper (CA1 to CA4), dentate gyrus
     Fimbria: fibers leaving hippocampus that form the fornix
-
-
-PAPEZ CIRCUIT: for memory formation
-    Hippocampus => fornix => mamillary body => anterior nucleus => cingulate gyrus
+    HIPPOCAMPAL FISSURE: fissure separating entorhinal cortex/subiculum and dentate gyrus
+PAPEZ CIRCUIT: closed-loop circuit, involved in emotions and long-term memory formation
+    Mammillary body (hypothalamus)
+    Anterior nucleus (thalamus)
+    Cingulate cortex
+    Parahippocampal formation (see below)
+    Fimbria and fornix
+    Back to mammillary body
+    Fornix also sends collaterals to other structures: preoptic region, nucleus accumbens, prefrontal cortex
+Hippocampal formation circuit
+    Input: entorhinal cortex
+    Neurons in entorhinal cortex synapse mainly with dentate gyrus by going through hippocampal fissure (perforant pathway)
+        Also send collaterals to CA3
+    Dentate gyrus => CA3
+    CA3 => CA1
+        SCHAFFER COLLATERAL: CA3 collateral into CA1
+        Long-term potentiation specially well described here
+    CA1 => Subiculum
+    Output: mainly from subiculum, although also from CA1 and CA3. Through fimbria and fornix
+        ALVEUS: tract containing fibers from subiculum, CA1 and CA3 passing through hippocampus proper. Becomes fimbria later.
 Removing the hippocampal formation removes the ability to consolidate working memory to long-term memory
-LONG-TERM POTENTIATION: molecular mechanism that increases the likelihood that two neurons synapse
-    Early: repeated stimulation causes more glutamate receptors available
-    Late: repeated stimulation causes protein synthesis and morphological changes
-    Happens in most neurons, but is particularly well described in CA3 => CA1 potentiation
+
 GPS
     Place cell: activates on recognition of particular locations
     Grid cell: TODO

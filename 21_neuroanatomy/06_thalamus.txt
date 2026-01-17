@@ -14,7 +14,7 @@ Anatomy
     INTERNAL CAPSULE: thick band of white matter connecting thalamus <=> cerebral cortex
         Above the thalamus, between caudate nucleus and lentiform nuclei
 Nuclei
-    Anterior group: in the anterior part, within the two bands of the internal medullary lamina
+    Anterior group: in the anterior part, within the two bands of the internal medullary lamina. Papez's circuit
     Medial group: medial to the internal medullary lamina. AKA dorsomedial group
     Lateral group: lateral to the internal medullary lamina. Here ventral => lower than lateral
         Lateral dorsal: upper, anterior
