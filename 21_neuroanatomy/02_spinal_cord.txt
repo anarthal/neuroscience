@@ -28,7 +28,7 @@ TBC: move this
     Cortex layer IV: receives input from thalamus. More prominent in sensory cortices
     Cortex layer V: main output of the cortex to lower areas. Where motor pathways start
     Cortex layer VI: projections to the thalamus
-POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory info to CNS
+POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory info to CNS. Contralateral
     Heavily myelinated fibers
     Somatotopic organization: lower dermatomes => more medial
     Spinal cord: fibers travel in the posterior column
@@ -44,7 +44,7 @@ POSTERIOR COLUMN MEDIAL LEMNISCAL SYSTEM: proprioception, tactile, vibratory inf
     Synapses in ventral posterior lateral (VPL) in thalamus
     Then, to primary somatosensory cortex
     Implements lateral inhibition to provide more precise information => Two-point discrimination
-ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS
+ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS. Contralateral
     Slower, less localized than posterior column medial lemniscus
     Somatotopic organization: lower dermatomes => more lateral
     Spinal cord: fibers travel in the anterior/lateral columns
@@ -62,29 +62,6 @@ ANTEROLATERAL SYSTEM: pain, temperature, crude touch (no position) info to CNS
         Slower, more diffuse
         From thalamus to cortices of limbic system
     Has also fibers ending in reticular formation, midbrain, tectum
-CORTICOSPINAL TRACT: main somatic motor pathway
-    Somatotopic
-    Starts in pyramidal cells in layer V of the cortex
-    Descends directly through cerebral peduncles
-    85% decussates in the pyramids, descends through lateral corticospinal tract (medial to spinocerebellar tract)
-    15% does not decussate, descends through the anterior corticospinal tract
-    Synapses in motor neuron in ventral horn
-RUBROSPINAL TRACT: control of distal flexors in upper limb (e.g. flexing fingers)
-    From red nucleus
-    Decussates in midbrain
-    Descends through rubrospinal tract, lateral to corticospinal tract, next to lateral gray horn
-    Synapses in motor neuron in ventral horn
-MEDIAL LONGITUDINAL FASCICULUS: fascicle closer to the anterior while commissure
-TECTOSPINAL TRACT: head movements
-    From superior colliculus
-    In medial longitudinal fasciculus
-    Contralateral
-VESTIBULOSPINAL TRACT: reflex response to equilibrium information, to maintain posture
-    From vestibular nuclei
-    Medial: in medial longitudinal fasciculus. Bilateral. Head and neck
-    Lateral: lateral to anterior corticospinal tract. Contralateral. Rest of the body
-RETICULOSPINAL TRACT: from reticular formation, for posture and muscle tone
-    Surrounds lateral gray horn
 SPINOCEREBELLAR TRACT: proprioceptive information from trunk and lower limbs to the cerebellum
     Dorsal: ipsilateral, mainly from thoracic segments
         Posterior root ganglia
@@ -104,3 +81,30 @@ CUNEOCEREBELLAR TRACT: proprioceptive information from upper trunk and upper lim
     Synapse in accessory cuneate nucleus
         ACCESSORY CUNEATE NUCLEUS: nucleus in medulla oblongata, lateral to the main cuneate nucleus, relaying info to the cerebellum
     Fibers enter the cerebellum through the inferior peduncle
+CORTICOSPINAL TRACT: main somatic motor pathway. Contralateral
+    Somatotopic
+    Starts in pyramidal cells in layer V of the cortex
+    Descends directly through cerebral peduncles
+    85% decussates in the pyramids, descends through lateral corticospinal tract (medial to spinocerebellar tract)
+    15% does not decussate, descends through the anterior corticospinal tract
+    Synapses in motor neuron in ventral horn
+RUBROSPINAL TRACT: control of distal flexors in upper limb (e.g. flexing fingers). Contralateral
+    From red nucleus
+    Decussates in midbrain
+    Descends through rubrospinal tract, lateral to corticospinal tract, next to lateral gray horn
+    Synapses in motor neuron in ventral horn
+MEDIAL LONGITUDINAL FASCICULUS: fascicle closer to the anterior while commissure
+TECTOSPINAL TRACT: head movements. Contralateral
+    From superior colliculus
+    Decussates in midbrain
+    In medial longitudinal fasciculus
+    Synapses in motor neuron in ventral horn
+VESTIBULOSPINAL TRACT: reflex response to equilibrium information, to maintain posture
+    From vestibular nuclei
+    Medial: in medial longitudinal fasciculus. Bilateral. Head and neck
+    Lateral: lateral to anterior corticospinal tract. Ipsilateral. Rest of the body
+RETICULOSPINAL TRACT: from reticular formation, for posture and muscle tone
+    Surrounds lateral gray horn
+    Each fiber synapses in multiple spinal cord levels (collaterals)
+    Lateral: from medulla oblongata reticular formation. Posture (inhibition). Bilateral
+    Medial: from pontine reticular formation. Extensor (excitatory). Ipsilateral
