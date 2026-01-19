@@ -22,6 +22,13 @@ RETICULOTEGMENTAL NUCLEUS: in dorsal pons
     Outputs: projects to cerebellum
     Involved in eye movement control
 CENTRAL TEGMENTAL TRACT: from lateral solitary nucleus to thalamus. Carries gustatory info. Ipsilateral
+Trigeminal system: somatic info from head and neck
+    Cranial nerves X, IX, VIII and (mainly) V => synapse in trigeminal sensory nuclei
+    To thalamus (VPM)
+    To somatosensory cortex
+    Dorsal: carries proprioception. To principal nucleus. Ipsilateral
+    Ventral: carries nociception. To spinal trigeminal nucleus. Contralateral
+    Mesencephalic nucleus has 1st order neurons that synapse in principal nucleus
 Nerve functional components: indicates the function of spinal nerve/cranial nerve fibers and neurons. Special components only in cranial nerves
     GENERAL SOMATIC AFFERENT (GSA): sensory, innervating the body wall (e.g. skin)
     GENERAL VISCERAL AFFERENT (GVA): sensory, innervating visceral structures (e.g. cardiac muscle)

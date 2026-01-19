@@ -6,4 +6,4 @@ Taste pathway
     Converge in solitary tract
     Synapse in gustatory nucleus/lateral solitary nucleus (medulla oblongata)
     Some fibers to hypothalamus and limbic system
-    Other fibers to thalamus (VPM) => Primary gustatory cortex (insula)
+    Other fibers to ipsilateral thalamus (VPM) => Primary gustatory cortex (insula)
