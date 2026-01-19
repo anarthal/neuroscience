@@ -23,7 +23,7 @@ Nuclei
         Ventral lateral: lateral, lower, more posterior. Signal from basal nuclei and cerebellum to motor cortices
         Ventral posterior: lateral, lower, most posterior. Somatosensory
             Ventral posterior lateral: body somatosensory
-            Ventral posterior medial: face somatosensory
+            Ventral posterior medial: face somatosensory, taste
         Pulvinar: posterior
         Medial geniculate: adhesion posterior to pulvinar. Auditory
         Lateral geniculate: adhesion posterior to pulvinar, lateral to medial geniculate. Sight

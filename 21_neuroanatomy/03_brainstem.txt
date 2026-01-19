@@ -22,6 +22,15 @@ RETICULOTEGMENTAL NUCLEUS: in dorsal pons
     Outputs: projects to cerebellum
     Involved in eye movement control
 CENTRAL TEGMENTAL TRACT: from lateral solitary nucleus to thalamus. Carries gustatory info. Ipsilateral
+Nerve functional components: indicates the function of spinal nerve/cranial nerve fibers and neurons. Special components only in cranial nerves
+    GENERAL SOMATIC AFFERENT (GSA): sensory, innervating the body wall (e.g. skin)
+    GENERAL VISCERAL AFFERENT (GVA): sensory, innervating visceral structures (e.g. cardiac muscle)
+    GENERAL SOMATIC EFFERENT (GSE): motor, innervating skeletal muscle
+    GENERAL VISCERAL EFFERENT (GVE): motor, innervating cardiac/smooth muscle and glands
+    SPECIAL SOMATIC AFFERENT (SSA): sensory, for special senses (e.g. optic nerve)
+    SPECIAL VISCERAL AFFERENT (SVA): sensory, for taste
+    SPECIAL VISCERAL EFFERENT (SVE): motor, innervating smooth muscle derived from branchial arches (e.g. mastication)
+    Note: special somatic efferent does not exist
 Cranial nerves
     HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
         Nucleus: hypoglossal nucleus in medulla oblongata
@@ -34,19 +43,21 @@ Cranial nerves
             Superior (closer to CNS): GSA cell bodies
         Somatic sensations from ear and other small parts: superior ganglion, spinal trigeminal tract (GSA)
         Visceral sensations from many organs (lungs, heart): inferior ganglion, solitary tract, medial solitary nucleus (GVA)
-        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Part of taste (SVA)
         Parasympathetic innervation of many organs: from dorsal motor vagus nucleus (GVE)
         Innervation of muscles in palate, pharynx, larynx: nucleus ambiguus (SVE)
     GLOSSOPHARYNGEAL NERVE (IX): mixed
         Has two ganglia
             Inferior (further from CNS): GVA, SVA cell bodies
             Superior (closer to CNS): GSA cell bodies
-        Somatic sensations from tongue, tympani: superior ganglion, spinal trigeminal tract
+        Somatic sensations from tongue, tympani: superior ganglion, spinal trigeminal tract (GSA)
         Visceral sensations from some parts: inferior ganglion, solitary tract, medial solitary nucleus (GVA)
-        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Part of taste (SVA)
         Inferior salivary fibers (GVE)
         Innervation of the muscle to swallow from nucleus ambiguus (SVE)
-    VESTIBULOCOCHLEAR NERVE (VIII): innervates cochlea (hearing) and vestibule (equilibrium)
+    VESTIBULOCOCHLEAR NERVE (VIII)
+        Cochlea (hearing) (SSA)
+        Vestibule (equilibrium) (SSA)
         VESTIBULAR NUCLEI: 4 nuclei where vestibular branch of VIII ends. In pons
             Superior
             Medial: long, below superior
@@ -55,7 +66,8 @@ Cranial nerves
         COCHLEAR NUCLEI: 2 nuclei where cochlear branch of VIII ends. Anterior, posterior.
     FACIAL NERVE (VII): mixed. Similar to glossopharyngeal
         Has only one ganglion
-        Part of taste: inferior ganglion, solitary tract, lateral solitary nucleus (SVA)
+        Somatic sensations from part of the face (GSA)
+        Part of taste (SVA)
         Lacrimo muconasal fibers: parasympathetic innervation of glands (GVE)
         Superior salivatory fibers (GVE)
         Facial expression muscles (SVE)
@@ -64,7 +76,7 @@ Cranial nerves
         Starts in abducens nucleus
     TRIGEMINAL NERVE (V): mixed
         Has 3 divisions, covering different areas in the head
-        Touch, proprioception, nociception for face (GSA)
+        Touch, proprioception, nociception for face (GSA). This is the most prominent GSA cranial nerve
         Innervates mastication muscles and other (SVE)
         Innervates tensor tympani
         Nuclei
@@ -77,3 +89,5 @@ Cranial nerves
     OCULOMOTOR NERVE (III): motor. Other eye muscles
         Oculomotor nucleus (GSE)
         CILIARY NUCLEUS/EDINGER-WESTPHAL NUCLEUS: controls ciliary muscles (GVE)
+    OPTIC NERVE (II): sensory (SSA)
+    OLFACTORY NERVE (I): sensory (SVA)

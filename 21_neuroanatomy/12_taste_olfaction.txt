@@ -1,0 +1,9 @@
+Taste pathway
+    1st order neurons in ganglia of CN, depending on taste bud position
+        Vagus (X): nodose ganglion
+        Glossopharyngeal (IX): petrosal ganglion
+        Facial (VII): geniculate ganglion
+    Converge in solitary tract
+    Synapse in gustatory nucleus/lateral solitary nucleus (medulla oblongata)
+    Some fibers to hypothalamus and limbic system
+    Other fibers to thalamus (VPM) => Primary gustatory cortex (insula)
