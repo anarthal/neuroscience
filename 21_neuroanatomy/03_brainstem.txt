@@ -32,10 +32,11 @@ Nerve functional components: indicates the function of spinal nerve/cranial nerv
     SPECIAL VISCERAL EFFERENT (SVE): motor, innervating smooth muscle derived from branchial arches (e.g. mastication)
     Note: special somatic efferent does not exist
 Cranial nerves
-    HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue
+    HYPOGLOSSAL NERVE (XII): motor, innervates muscles of the tongue (GSE)
         Nucleus: hypoglossal nucleus in medulla oblongata
-    ACCESSORY NERVE (XI): motor, innervates trapezoid and sternocleidomastoid mucles
+    ACCESSORY NERVE (XI): motor
         Nucleus: in spinal cord
+        Innervates trapezoid and sternocleidomastoid muscles (GSE)
         Fibers from nucleus ambiguus (SVE)
     VAGUS NERVE (X): mixed
         Has two ganglia
@@ -71,23 +72,43 @@ Cranial nerves
         Lacrimo muconasal fibers: parasympathetic innervation of glands (GVE)
         Superior salivatory fibers (GVE)
         Facial expression muscles (SVE)
-        Innervates stapedius
-    ABDUCENS NERVE (VI): motor. Eye muscles
+        Innervates stapedius (SVE)
+    ABDUCENS NERVE (VI): motor. Eye muscles (GSE)
         Starts in abducens nucleus
     TRIGEMINAL NERVE (V): mixed
         Has 3 divisions, covering different areas in the head
         Touch, proprioception, nociception for face (GSA). This is the most prominent GSA cranial nerve
-        Innervates mastication muscles and other (SVE)
-        Innervates tensor tympani
+        Innervates mastication muscles (SVE)
+        Innervates tensor tympani (SVE)
         Nuclei
             Spinal trigeminal nucleus: sensory. Long, vertical, extending from pons to spinal cord
             Principal sensory: mid-pons
             Motor nucleus: next to principal sensory
             Mesencephalic nucleus: vertical, extending to midbrain
-    TROCHLEAR NERVE (IV): motor. Eye muscles
+    TROCHLEAR NERVE (IV): motor. Eye muscles (GSE)
         From trochlear nucleus, in midbrain
     OCULOMOTOR NERVE (III): motor. Other eye muscles
         Oculomotor nucleus (GSE)
         CILIARY NUCLEUS/EDINGER-WESTPHAL NUCLEUS: controls ciliary muscles (GVE)
     OPTIC NERVE (II): sensory (SSA)
     OLFACTORY NERVE (I): sensory (SVA)
+Reverse cranial nerve functionality
+    [GSE] Tongue intrinsic muscles: hypoglossal (XII)
+    [GSE] Trapezoid and sternocleidomastoid muscles: accessory (XI)
+    [GSE] Extrinsic eye muscles: abducens (VI), trochlear (IV), oculomotor (III)
+    [GVE] Parasympathetic innervation of general organs: dorsal vagus nucleus, vagus (X)
+    [GVE] Saliva: glossopharyngeal (IX), facial (VII)
+    [GVE] Tears, mucus: facial (VII)
+    [GVE] Intrinsic eye muscles: Edinger-westphal, oculomotor (III)
+    [SVE] Swallow through pharynx and larynx (nucleus ambiguus): accessory (XI), vagus (X), glossopharyngeal (IX)
+    [SVE] Facial expression muscles: facial (VII)
+    [SVE] Stapedius: facial (VII)
+    [SVE] Tensor tympani: trigeminal (V)
+    [SVE] Mastication muscles: trigeminal (V)
+    [GSA] Touch, temperature, pain from head (trigeminal system): vagus (X), glossopharyngeal (IX), facial (VII), trigeminal (V)
+    [GVA] Visceral pain, pressure from body organs (medial solitary nucleus): vagus (X), glossopharyngeal (IX)
+    [SSA] Balance (vestibular): vestibulocochlear (VIII)
+    [SSA] Hearing (cochlea): vestibulocochlear (VIII)
+    [SSA] Vision: optic (II)
+    [SVA] Taste (lateral solitary nucleus): vagus (X), glossopharyngeal (IX), facial (VII)
+    [SVA] Olfaction: olfactory (I)
