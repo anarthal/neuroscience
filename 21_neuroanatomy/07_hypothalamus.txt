@@ -3,7 +3,7 @@ Anatomy
     Preoptic area: anterior, superior to optic chiasm
         MEDIAL PREOPTIC NUCLEUS: releases gonadotroponin-releasing hormone (GnRH) to the portal system of the hypophysis => gonadotroponin is released (influences reproductive behavior)
     Lateral zone
-        Contains a "feeding center" => stimulates appetite
+        Lateral nucleus: "feeding center" (stimulates appetite)
         Tuberal nuclei => release histamine => promotes arousal and attention
         Prefornix nuclei => release orexin => promotes arousal and appetite
         MEDIAL FOREBRAIN BUNDLE: bundle of axons in the lateral zone

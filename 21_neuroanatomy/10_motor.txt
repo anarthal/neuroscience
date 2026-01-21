@@ -1,3 +1,6 @@
+Background
+    D1 RECEPTOR: dopamine receptor 1, excitatory
+    D2 RECEPTOR: dopamine receptor 2, inhibitory
 Corticospinal tract is composed by axons in several cortices (and not just MI) => Movement involves parallel processing
     Primary motor cortex (MI): involved in activating individual muscles. Brodmann area 4
     SUPPLEMENTARY MOTOR CORTEX: planning sequence of movements. Stimulation can cause activation of several muscles. Brodmann area 6
@@ -22,6 +25,7 @@ Basal nuclei
     Striatal complex: neostriatum + ventral striatum
     Pallidal complex: globus pallidus + ventral pallidum
 Globus pallidus medial and substantia nigra pars reticulata tonically inhibit their targets with GABA
+MEDIAN STELLATE NEURON: neostriatum neurons. Use GABA
 Basic circuit. Explained with movement, but can be applied to other outputs where basal nuclei are involved
     Direct/facilitating circuit: triggers movement
         Thalamus has excitatory connections to motor cortex
