@@ -1,0 +1,14 @@
+Optimal T = 21ºC (although might go to 25ºC)
+HEPA filter: High efficiency particulate air system (filters air)
+PPE = Personal Protection Equipment
+BSL = Biosafety Level
+    BSL-i inherits BSL-i-1 safety measures
+    BSL-1: no isolation (limited access), gloves, coats
+    BSL-2: moderately dangerous pathogens and animal cells. Cabinets 
+        Cabinet air flow from top to bottom
+    BSL-3: more serious diseases, inhalation. Coveralls (head and shoes - not really required for BSL-2)
+        Cabinet doesn't have direct access, only with gloves
+    BSL-4: rare
+
+
+

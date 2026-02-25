@@ -1,0 +1,17 @@
+Retinal detachment: neural retina detaches from pigmented retina
+Pigmented retina transforms vitamin A => 11-cis-retinal => transported to neural retina and converted into 11-trans-retinal => transported back and recycled
+Rods are more sensitive to vitamin A deficiency
+We have much more rods than cones
+Deuteranopia: color blindness
+Photopigments: in the plasma membranes of cones, and in the membrane of disks (rods). Transmembrane proteins. Change config on light absorption
+    Rhodopsin (rods), red/blue/green opsin (cones)
+Dark: cytosolic cGMP high, Na+ channels open, glutamate released
+Light: 11-trans-retinal activates opsin => activates transducin => lowers cGMP concentration => Na+ channels close, no glutamate released
+No action potentials in photoreceptors - only de/hyper polarization
+Receptive field for a bipolar cell encompasses several photoreceptors
+    The edge/center discrimination is due to lateral inhibition
+    ON and OFF bipolar cells receive the same stimulus on light, but react differently (!= neurotransmitter receptors)
+multiple rows => 1 bipolar => 1 ganglion
+1 cone => 1 bipolar => 1 ganglion
+bipolar cells don't trigger AP, it's just graded potentials
+Ganglion cells responsive to mellanopsin: only ganglion cell type that is sensitive to light => suprachiasmatic nucleus and pupillary right reflex

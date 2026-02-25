@@ -1,0 +1,10 @@
+Single-cell omics: operate on a single cell (vs. bulk omics, operating on many cells)
+Multi-omics: integrates >3 techniques
+Effect: relationship that exists in data (a "finding")
+Number of replicates: sample size
+Large number of false positives even when using a low p, because we're performing lots of tests
+Bonferroni correction: take a lower p, such that risk stays at 5%. Too conservative
+Benjamini-Hochberg for false discovery rate: compute a q-value derived from p-values, and discard results based on this. Balance
+Bad reproducibility (specially proteomics). Standard operating procedures important
+    Redefine reproducibility: not the same molecules, but the same higher-level pathways
+Ontology: structured representation of reality in terms of objects and relations

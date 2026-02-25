@@ -1,0 +1,25 @@
+C = O => carbonyl
+C = O + R, R' => ketone
+C = O + R, H => aldehyde
+glucose, manose, fructose have the same chemical formula (isomers)
+structural isomers: type of bindings are != (e.g. glucose has an aldehyde, fructose has a ketone)
+stereoisomers: type of bindings are ==, but some functional groups (e.g. alcohols are flipped)
+    number of stereoisomers: 2^n, with n = number of chiral carbons
+    chiral carbon if all of its 4 bindings are connected to != groups (e.g. glucose n = 4)
+if OH position in carbon number 5 is on the right, D-, otherwise L-
+intermediates hemi-ketals no
+Fischer projection: straight line
+anomeric carbon: the one that has the functional group
+pyranose ring: ring with 5 C and an O
+alpha: H in the anomeric carbon upwards, beta downwards
+    or if carbon 6 trans OH, alpha
+most of the sugars in aqueous solution is in ring form
+furanose: pentagon with an O in one node
+COOH tends to have negativity
+glycosidic bond: OH in the anomeric carbon reacts with something else
+N-glycosidic bond: glycosidic bond to a N
+non-reducing sugar: all of their anomeric carbons are forming bonds
+storage polysaccharides not soluble in water => no change to osmotic pressure
+branches 1-6
+amylases digest glycogen and work with alpha 1-4, and not beta 1-4 => we don't digest cellulose
+

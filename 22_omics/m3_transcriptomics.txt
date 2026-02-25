@@ -1,0 +1,29 @@
+DNA methylation is long-term
+Bisulfite sequencing: studies DNA methylation (silencing)
+ATAC-seq: studies how open the chromatin is
+Gene ontology: DB with a classification of genes with related functionality
+eQTL: gene difference that influences how a gene is transcribed
+
+Micro-arrays: yes/no check (needs knowledge about the sequence). Not sequencing. Cheap
+Bulk: which RNA sequences are present and in which amount
+    Can be used to discover new transcripts
+Single-cell: like bulk, but every cell is tagged
+    Single-nuclei: like single cell, but pick just nucleus. For very complex cells
+    Expensive and more difficult to analyze
+Spatial RNA-seq: adds spatial information
+    But it looses resolution: every point contains more than one cell
+
+PCA for low-dimensionality (~500)
+    Separate by principal components
+    Each PC may be assigned a 'label' (e.g. what is the biological function?)
+    Distance between points is relevant
+    Explained variance tells about how good the PC is
+UMAP/tSNE for high-dimensionality
+    Non-linear
+    Distances are not relevant, axis are meaningless
+    Just for visualization, "close" points are similar, nothing more
+Clustering is performed independently of dimensionality reduction
+    When the clustering algorithm yields results consistent with UMAP, that's a good sign
+    "Separation" depends on context: if we pick neurons vs. astrocytes, we can't see differences between astrocytes. But we can see them if we pick astrocytes alone
+    
+

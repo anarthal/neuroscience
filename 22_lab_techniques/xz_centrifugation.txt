@@ -1,0 +1,22 @@
+Separates depending on size, shape and density
+Boycott effect: if you incline a tube, particles sedimenting reach the tube wall faster, then slide down
+Can separate particles >= 5um
+Usually have temperature control => e.g. to avoid proteases from working while we centrifuge, set to 4ºC
+Centrifuge speed better expressed in g, but can also be expressed in rpm
+Preparatory centrifugation: preparation for further analysis
+    Differential centrifugation: separate particles by their size properties, based on force and time
+        If you centrifugate too much time, everything goes in the same pellet
+        You might centrifugate several times, at != speeds
+            E.g. subcellular fractionation (i.e. separate organelles from each other)
+            Homogeneize with digitonin
+            Centrifugate at low speed => nuclei, cytoskeleton
+            Medium speed => mitochondria, lysosomes, peroxisomes
+            High speed => plasma membrane, ER
+            Max speed => cytosol
+    Density gradient centrifugation: instead of creating a pellet, create bands
+        Rate-zonal centrifugation: based on size
+            E.g. ficoll blood separation
+        Isopycnic centrifugation: based on density
+            Medium needs to be more dense than the particles to separate so they don't form a pellet
+Analytical centrifugation: analyze properties while centrifugating
+    To observe the structure of the molecules - not common

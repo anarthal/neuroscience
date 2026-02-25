@@ -1,0 +1,79 @@
+Homogenization: make the sample homogeneous in composition so we can pick reproducible samples from it
+Note: things with cell wall are more difficult to break
+Harsh
+    Lysate: fluid produced by a lysis technique
+    Mild homogenization: break cell clumps (homogenization at cell level)
+        Vs. harsh, ending up in lysis
+    Abrasives: grind with beads to break the tissue
+        Poor reproducibility, although can be made with industrial equipment
+    High-pressure: use a press. Make the material pass through a small hole using pressure
+    Blades: for tough tissue
+    Sonication: ultrasounds that generate cavitation
+        Higher intensity and lower frequency => more strength. You want enough strength to break cells, but not enough to burn proteins
+        You need to control time because it generates heat (and in localized spots)
+    Osmosis: place in hypotonic medium (e.g. distilled water) => cell explodes
+        Used with red blood cells
+Mild: preserve organelles and nucleus
+    Trituration: pass it through an embolo
+        Medical needle gauge system: bigger number, thinner needle
+        No bubbling, it kills cells
+    Enzymatic tissue digestion: remove ECM
+        Commercial cocktails of enzymes (e.g. collagenases, trypsin...)
+        Cut, wash with PBS, digest at 37ºC, then strain to clean up debris
+Lysis
+    Mechanical: tends to preserve contents better, in theory
+    Enzymatic: specific enzyme that digests cell membranes
+        Lysozyme: breaks peptidoglycan => breaks cell walls
+        Used with hypotonic solutions => break the cell membrane underneath
+        Other enzymes target specific components in cell walls of specific species
+        Proteinase K: breaks nuclear envelope and digests DNAses and RNAses
+        Expensive - no one does it
+    Chemical: use pH or detergents
+        Cheap and popular
+        But the chemicals may interfere with downstream procedures - might need removal
+        Don't work well with thing with cell wall
+        Detergent-based
+            Surfactant = detergent
+            Structure is similar to physiological lipids => can destroy membrane lipids
+            Tend to form micelles (hydrophobic tail inside, hydrophilic heads outside, in a circular fashion)
+            Detergent molecules get in place of phospholipids and make pores
+            Stabilizes hydrophobic proteins usually embedded in the plasma membrane
+                Solubilization. Instead of aggregating when the membrane dissolves, they are still in solution keeping their properties
+                One micelle by protein
+            Ionic detergents: "harsh" because they tend to denaturalize proteins (hydrophilic head is charged)
+                Sodium Dodecyl Sulfate (SDS): negatively charged
+                The negative charge disturbs ionic and hydrogen bonds, but not covalent bonds
+                Net charge of the micelle is negative
+                CTAB: positively charged
+                    Used to "kill" prokaryotes because their membrane has negative charges on the outside
+                pH affects how they work => don't use if you need extreme pH values
+                Can't be used if you need to operate with high concentration of other salts => because salt charges interact with the ones in the detergent
+            Non-ionic detergents: hydrophilic head is not charged
+                More popular because they don't affect the structure of proteins
+                Exact chemical name not important
+                Triton X-100: breaks the nuclear envelope. Also used for prokaryotes
+                NP-40: used to lyse mammalian cells. It doesn't break nuclear envelope
+                Glucosidic units: sugar as the hydrophilic tail
+                    OG: used to crystalize proteins for X-ray diffraction
+                    DDM: for membrane-embedded proteins
+                    Digitonin: breaks membranes containing cholesterol => Good to keep organelles intact
+                        Cholesterol is abundant in plasma membrane (rigid), but not so much in internal organelles (not so rigid, e.g. ER)
+            Zwitterionic detergents: both positive and negative charge in the molecule
+                In the middle of ionic and non-ionic detergents
+            Capacity to solubilize hydrophobic things proportional to the capacity to denaturalize proteins
+        pH-based: not used in the lab, but used in commercial kits
+            Used together with a detergent
+            Alkaline: NaOH + SDS. Isolating plasmids
+            Acidic: inorganic acid. Isolating RNA
+    Keeping proteins intact: more problematic than nucleic acids
+        You need a pH buffer and an ion donor (salt)
+        Because there are many proteases in cells that might get activated during lysis
+        Protease inhibitors: usually commercial cocktails. Many proteases and an inhibitor for each one
+        We expose proteins to oxygen => Oxidized (e.g. proteins start making disulfide bonds and aggregate)
+        Alkylating agents: bind to certain amino acid side chains to prevent aggregation
+        Blocking phosphatases is needed, even if you're not interested in phosphorylation cascades
+            Because phosphorylation state may change how the protein is targeted by other proteins
+        Temperature control is needed => work in ice, otherwise the enzymes work faster than inhibitors
+            Except for SDS, because it precipitates
+        Depending on proteins, add other stabilizers: e.g. glycerol, sucrose
+            

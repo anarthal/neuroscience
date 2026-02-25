@@ -1,0 +1,46 @@
+BPG: metabolic product of glycolysis
+Relaxed hemoglobin has more affinity for O2
+Bohr effect: low pH, high CO2 => less hemoglobin affinity for O2 => O2 released in tissue
+Haldane effect: complementary to Bohr
+BPG reduces hemoglobin affinity for oxygen
+    High metabolic activity (high O2 needs) => increased BPG concentration => hemoglobin releases O2
+2,3-DPG: decreases hemoglobin affinity for oxygen
+    Doesn't have an effect in fetal Hb
+Polycythemia: abnormal production of red-blood cells => increases blood viscosity and may cause thrombos
+Michaelis-Menten equation for reaction velocity
+    1st order reaction: velocity proportional to the concentration of substrate
+    [S]: substrate concentration
+    Low [S]: 1st order reaction
+    As [S] increases, the curve flattens (saturation)
+K_d: dissociation constant = k_-1 / k1
+K_a: association constant = k1 / k_-1
+The higher K_d, the less affinity the enzyme has for the substrate
+In an enzymatic reaction we have 2 factors
+    Affinity: how well does the enzyme bind to the substrate
+    Catalysis: how well does the enzyme create the product
+K_m = (k_-1 + k_2) / k_1 (combines both affinity and catalysis)
+    Experimentally: the substrate concentration at which reaction velocity reaches 1/2 the maximum velocity
+Inhibition
+    Competitive: competes with the substrate for the binding site
+        At low [S], it doesn't change much. Effects appear at higher [S]
+        K_m changes
+        Maximum velocity doesn't change - asymptotic velocity remains the same, but requires higher [S]
+    Non-competitive: inhibits the reaction but doesn't compete with the substrate. E.g. changes the conformation of the enzyme
+        Maximum velocity is affected because the enzyme is altered
+        K_m not altered (?)
+    Uncompetitive: compound that binds the enzyme-substrate complex and doesn't allow the reaction to move forward
+        
+
+Regulation time scales
+    Fast: changes to existing molecules
+        Allosteric changes (seconds)
+        phosphorylation (minutes)
+    Slow: changes in gene expression and hormones
+    Irreversible: e.g. proteolytic cleavage
+        E.g. trypsinogen => trypsin (produced by pancreas, activated in small intestine, for protein digestion)
+Every enzyme has an optimal
+    pH
+    T (usually the higher, the better, to a point where the enzyme denaturalizes)
+
+
+

@@ -1,0 +1,5 @@
+PLAC-seq: is an enhancer actually behaving like an enhancer?
+    PLAC: Proximity ligation-assisted ChIP-Seq
+    Check physical linkage
+Super-enhancer: a region containing several enhancers
+    A super-enhancer is key for cell identity. If a SNP falls here, it's probably relevant

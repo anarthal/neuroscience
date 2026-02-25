@@ -1,0 +1,45 @@
+Collection: follow std procedure
+    Samples must be labeled
+    Human data anonymized
+        Total: all PII removed or encrypted
+        Partial: some data (e.g. age, gender) conserved
+        Pseudoanonymization: data mapped to code, code mapping stored encrypted
+    The most used in pseudo anonymization
+    In the container, date and all info that might be useful for handling
+    For plasmids, plasmid name and gene inserted, but not bacterial strain if we just work with ecoli
+    Accompanying form: a form in the lab stating the details about a stored sample
+Storage: cryopreservation (liquid nitrogen, slow down the metabolism)
+    Cells, tissues, organs: -196ºC
+    Hooks, with boxes attached to them, in a tank full of liquid N
+    Cryo-damaging: cell exploding because water freezes and increases volume
+    DMSO: prevents crystal formation but is toxic. ~50% cells die. Freezing point decreases
+        Has a polar area
+        Shields protein structure
+        Toxic because it gets inside the membrane and makes holes, converts alpha helices into beta sheets, and generates ROS in mitochondria
+        10% for cell lines, 5% for delicate cells like primary cells
+        Toxicity happens more at higher T (> º0C)
+    Osmotic shock: water flows out of the cell because of the ice crystals formed outside
+        Happens if you freeze the cell too slowly
+    FBS or FCS (fetal bovine/calf serum): buffer to dampen ROS (albumin 'sacrifices itself' to remove ROS)
+    Freeze slowly, thaw quickly and remove the DMSO
+    Defrost by rubbing with hands or in hot water bath
+        Then dilute in medium to reduce DMSO concentration, then centrifuge to eliminate DMSO
+    Mr Frosty (cryocooler): reduce T to -20ºC at a rate of 1ºC/min (has isopropanol in the bottom to achieve this)
+        Then to -80ºC freezer, dry ice, then -196ºC for long-term storage
+    Glycerol: similar to DMSO, but less toxic. Used for bacteria and cells used for clinical purposes
+        DMSO is smaller, so it permeates better => You need to wait less before freezing
+        More osmotic imbalances. But bacteria is more protected to this because of the cell wall
+        Bacteria has glycerol transporter that expels glycerol => more protected
+        Mg2+ protects bacterial membranes because LPS are negatively charged, and Mg2+ shields them
+        ~25%-35%
+    Bacteria stored at -80ºC
+    Spermatozoan also have glycerol transporter => glycerol used to store them
+    Fixed samples: paraffin embedded at 4ºC (for samples not to be used alive)
+    Proteins: mix with protease inhibitors and stored at -20ºC (short-term use) or -80ºC (long-term use), or lyophilized (TBC)
+        Plastic vials (short term) or glass (long term), because proteins stick to plastic
+        Freeze and thaw cycles degrade molecules => divide the sample into individual aliquotes
+    Lipids: dissolve in non-water solvent (e.g. methanol), store at -20ºC in crystal vial, use gas to avoid oxygen degradation, no light
+    Sugars: tend to be contaminated with microbes. 4ºC (for simple sugars) or -20ºC (for complex sugars)
+    RNA usually in 0.5ml because they fit in the PCR machine
+Lab registers
+    Each box in the freezers has an associated sheet stating what's in the tube

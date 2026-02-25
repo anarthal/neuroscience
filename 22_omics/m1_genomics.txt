@@ -1,0 +1,10 @@
+WGS = Whole Genome Sequencing
+Single-nucleotide variation: a deviance from the reference genome in one nucleotide
+SNPs: a single-nucleotide variation present in at least 1% of the population (i.e. relatively common)
+    Usually does not give us a strong phenotype
+Copy number variation: != numbers of copies of the same gene
+Array-based comparative genomic hybridization: introduce probes with specific sequences to verify if they match
+SNP arrays
+    They also allow to know if there are deletions or duplications (studying intensity)
+    In normal heterozygosis, every progenitor may have a != allele (or not) => for the same chromosome, you will be heterozygotic for some SNPs, homo for others
+    

@@ -1,0 +1,24 @@
+ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a chemical bond
+BIOMOLECULE: molecule composed mainly by C and H
+In a peptide bond, the oxygen pulls the electrons => C has more density of negative charges on the other side => peptide bond is double bond like
+Conditionally non-essential: can be produced by our body, but not at the same rate as the others
+You always write N=>C
+Basic group: amino, acid: carboxyl
+In normal conditions, amino acids are ionized, but net charge = 0
+    Zwitterion: when a molecule has both positive and negative charges (ionizations). Does not imply that the net charge is 0
+Non-polar side chains: they are not ionized and net charge is zero
+    Proline: has a cycle between residue - amine => can't rotate as freely
+Uncharged polar: net charge is zero, but have electrostatic effects
+    Cysteine: has a thiol group, very reactive under oxidative stress => forms a disulfide bond if another cysteine is close
+Thiol group: HS
+Outside the cell we have oxidative conditions
+    Extracellular proteins usually have cysteines because it helps stabilize
+Charged: side chains are positively charged (basic), or negatively charged (acid)
+pK: constant of equilibrium. pH at which 50% of an entity is ionized
+Histidine: the only one that has pK close to physiological => part ionized, part not ionized
+Amino-acids are "buffers" (they take or give protons, depending on pH)
+Isoelectric point (pI): pH at which amino-acid net charge is zero
+    For alanine: mean(pK1, pK2)
+Alpha helix can only form if the residues allow it. E.g. too many glycines (small)/triptophans (big) don't fit
+    Proline's N is too 'busy' to form a H bond
+Alpha helix has stricter constraints than beta sheet
