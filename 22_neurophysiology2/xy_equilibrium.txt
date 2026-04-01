@@ -1,0 +1,35 @@
+Utricle: acceleration in horizontal axes (X and Y axes)
+Saccule: acceleration in vertical plane (Z axis)
+Semicircular canals: angular movements
+Macula = otolithic organs = utricle + Saccule
+Cupula in semicircular canals is in the ampulla, and blocks the endolymph circulation
+    The cupula bends and generates the signal
+Otoliths
+    Gravity provides a static signal
+    Linear acceleration also triggers signal
+Semicircular canals have opposite excitation directions
+Type I hair cells
+    Pear-shaped
+    Fast signals
+Type II hair cells
+    Column-shaped
+    Slower signals
+Kinocilium: the tallest stereocillium in a cell
+Tip-link: filament linking stereocillia
+    Made of cadherin, mutations cause hearing loss but doesn't affect equilibrium so much
+Supporting cells: generate the otoliths and gelatinous structure
+Movement in the direction of Kinocilium => depolarization
+    Introduce K+ in the cell => depolarization => Ca2+ enters the cell => K+ exits the cell and glutamate is released
+    There is always a base signal, movements either amplify it or silence it
+Pathway
+    Vestibular ganglion
+    Vestibular nuclei (also act as integration center)
+    Less importance than other senses in the cerebral cortex, mostly reflexes
+VOR: keep the eye fixed even when the head rotates
+    Mediated by vestibular nuclei
+Nystagmus: saccadic movements to restore what VOR has moved
+Benign paroxysmal positional vertigo: otoliths get into the semicircular canals
+Meniere disease: too much endolymph
+Vestibulospinal reflex: prevent us from falling
+    Lateral vestibulospinal: contract extensor muscles
+Asymmetric tonic neck: in newborns, rotation of head causes extension of limbs

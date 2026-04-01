@@ -1,0 +1,60 @@
+We need to remove DNA first
+Electrophoresis using polyacrylamide gels (PAGE)
+    Polyacrylamide
+        Has smaller pores than agarose
+        The bigger the bis-acrylamide, the smaller the pore size
+        Monomers are neurotoxic
+        APS and TEMED trigger polymerization
+    Protein net charge depends on amino-acid composition and environment pH
+        Even with the same molecular weight, the most negatively charged will move further
+    Each protein has a != shape
+        Even with the same molecular weight, globular proteins will move further because they adapt to pores better
+    Use SDS to
+        Denature proteins eliminates tertiary structure => eliminate the shape problem
+        Cover all the protein with negative charges => eliminate the charge problem (gets masked)
+    But proteins containing disulfide bonds are not denatured by SDS
+        Introduce a reducing agent to remove the disulfide bond
+        Beta-ME: cheap reducing agent
+            Easy to handle, you can have it on the bench
+            Aids detergents with solving proteins
+            But degrades with oxygen and is volatile
+        DTT: expensive
+            More potent and quicker: with less concentration you can achieve the same effect
+            Good when you can't dilute your sample a lot
+            More expensive
+            Less volatile and toxic than beta-ME
+            Needs to be conserved at -20ºC
+    But some very complex proteins are difficult to denature => heat at 95ºC
+        If working with very hydrophobic proteins (e.g. transmembrane), milder heat, otherwise they aggregate
+        Heating is used to help SDS. Once SDS denatures the protein, it no longer goes back to its original shape
+    We need to quantify how much protein concentration we have because wells have a maximum
+    In each well we insert the proteins and the sample buffer. The sample buffer is prepared beforehand and has
+        SDS
+        A dye
+        Glycerol => make samples heavy
+        pH buffer
+        But reducing agents shouldn't be placed in the sample buffer because it's volatile, and preclude you from doing non-reducing gels
+    You add proteins, sample buffer and distilled H2O => all wells should have the same volume
+    Non-reducing gels => check if you have disulfide bonds
+        Then you get two/several bands if you had a disulfide bonds, corresponding to each of the subunits that were joined by the disulfide bond that was broken
+    Stacking gel: a low-concentration phase placed on top so proteins focus on a plane
+        Dissolve everything first, then add the polymerization agents
+        Stacking should have big pores, usually 5% concentration (or smaller for bigger proteins)
+        Resolving gel: the one used to separate the proteins. Usually 10% concentration (smaller pores), but might vary with the type of protein you want to analyze
+    You can also create gradient gels: top has big pores, bottom has small pores => higher dynamic range
+    Casting
+        pour stacking gel and wait for polymerization
+        same for the stacking (but placing a comb to create the wells)
+        remove the comb
+        Add the running buffer
+        Insert the sample (needs to happen after adding the running buffer so the running buffer doesn't disperse the sample)
+    The dye is to monitor where the proteins are running
+        It runs faster than the proteins => when it exits the resolving buffer, it's time to stop the machine
+        Dying happens within the gel
+        Wash, fix, dye, remove excess stain
+        Coomassie (for higher concentrated proteins - the most used) or silver (for lower concentration - mostly superseded by western blot)
+Blue-native gels: if you want to study the proteins without denaturing them first
+    Useful to study complexes
+    No SDS, no reducing agent, no heat
+    E.g. 2D SDS-PAGE: separate 1st by complex, then by weight
+

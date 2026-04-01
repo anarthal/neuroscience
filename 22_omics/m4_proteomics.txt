@@ -1,0 +1,111 @@
+
+No equivalent to PCR for proteomics
+Expression proteomics: how much protein is expressed in each cell type?
+Structural
+    which post-translational modifications does the protein have?
+    distribution in intracell compartments
+    how does it interact with other proteins
+Databases: with all proteins that are expressed per cell type, with their sequence
+Mass spectrometry
+    Measure mass of intact/partially digested proteins
+    You need to ionize the particle you want to measure
+    Subject the particle in movement to an electric/magnetic field, measure the radius of trajectory curvature
+    Gets a frequency distribution depending on the mass-to-charge ratio (m/z) of the particle
+        More mass => deflected less
+        More charge => deflected more
+    Analytical matching: if you get a sequence of >= 6 amino-acids, that's mostly unique within the proteome
+        Although some conserved sequences may match with more than 1 protein
+        If different measurements match to the same protein => more confident that it's actually this protein
+    Digestion (into smaller peptide chunks) and separation (!= proteins in != tubes) reduce complexity
+    There are instruments to measure the masses and the sequence of the peptide chunks
+    Problems
+        Dynamic: proteins change much more than DNA
+        Concentration !=: some proteins with high concentration, other (also interesting) much smaller
+        Dynamic range of MS: ~4 orders of magnitude
+        Separating increases sensitivity
+    Bottom-up: digest into small peptides, then try to recover
+        'Shotgun': you need to re-assemble. Less targeted
+    Top-down: analyze entire proteins. You get the PTMs and get better results with similar proteins, but isn't universal (works badly for large, hydrophobic proteins)
+    First clean-up (detergents, protease inhibitors, DNAses)
+    Separating 1st is good because intact proteins have a more varied range of physical properties (e.g. move != in electrophoresis)
+    Separation
+        Electrophretic
+            1D-SDS-PAGE
+                Thiol reductant so the protein unfolds
+                SDS charges the protein
+                Use polyacrylamide (instead of agarose) for the gel
+                Regular electrophoresis and measure distance traveled
+                Bad resolution
+            Isoloelectric focus: migration across a pH gradient
+                Proteins move until reaching its isoelectric point
+                Might be done in a gel or solution
+            2D-SDS-PAGE: combination of 1D-SDS-PAGE and isoelectric focus
+                First isoelectric focus, then 1D-SDS-PAGE
+                Conventional staining
+                Staining might interfere with downstream analysis
+        Chromatographic: separate based on interactions between a stationary and a mobile phase
+            Mobile phase: the proteins dissolved in liquid/carrier gas (liquid or gas chromatography)
+            Samples interacting more move more slowly
+            Retention time: how much time does the metabolite take to exit the stationary phase?
+    The most used protease is trypsin
+        Better if they have a well specifies specificity
+        E.g. proteinase K is not specific
+    You need charged molecules to get them in mass spectrometer, wide range of techniques to achieve this
+    Tandem MS: 1st run a MS to separate by m/z (rough separation), keep only one m/z value, then run another MS with higher accuracy
+        QqQ: filter, fragment, filter. Filters efficiently, but lower resolution. Better for quantitative analysis (e.g. how much of a protein do I have?)
+        Ion trap: like QqQ, but it produces a finite set of analysis, rather than a continuous flow. Better for qualitative analysis (e.g. sequencing)
+    Time-of-flight analyzer: detect based on how much time it takes for molecules to reach the detector
+        Q-TOF: like QqQ, but last Q gets replaced by TOF => higher resolution
+    Cyclotron resonance: analyzes everything at the same time (without focusing on a single m/z), but very expensive
+    Resolution: how able is the tool to detect differences between similar m/z samples? M/dM
+    Accuracy: what's the smallest unit of mass that the tool can detect
+    Detectors
+        Faraday cup: collects ions and produces a current proportional to the number of incident ions
+        Dynode: has walls such that every time an ion hits, two electrons are emitted. Amplifies the signal
+    Matrix effects: other compounds used in upstream methods (e.g. chromatography) worsen MS results
+        Ion suppression: you get less signal than expected, and probably non-linear effects
+    Targeted proteomics
+        single-reaction monitoring: you need to know the protein of interest and the ion it fragments into
+        parallel-reaction monitoring: Q1 selects, Q2 fragments, but then a special analyzer capable of analyzing all the resulting fragments (e.g. PTMs)
+Bottom up is not good enough to profile the entire proteome, better for targeted analysis
+    Sample preparation critical (e.g. remove salts and detergents)
+    Separated using special methods, e.g. specialized chromatography techniques
+    No method is enough to separate enough the entire proteome. Sometimes use 2 techniques to separate in 2 dimensions
+    Top-down: first measure the intact protein, then fragment, then measure the fragments to read the sequence
+Protein identification
+    Molecular ion: the ion originated from the precursor molecule, without breaking
+    Fragment ion: ions created by breaking the precursor molecule
+    Precursor peak: the peak in the frequency in the m/z corresponding to the molecular ion. At m/z=M+
+    Base peak: the peak with the highest frequency in the m/z distribution. Doesn't have to be the precursor peak
+    For proteins, we usually use soft ionization (breaks molecules less)
+    There should be a peak at m/z=M+1 <= corresponds to the relative abundance of 13C (height num carbon atoms/100 * precursor peak)
+    Adducts: additional peaks that appear when other compounds (e.g. water, acetic acid) gets integrated in the ions
+    Peptide mass fingerprinting: we get the mass spec of peptide fragments => database
+        Cleave usually with trypsin => Cut at lysine or arginine, if they're not next to an arginine
+        Virtual digestion => From a protein with a known sequence, get the peptides that we may get
+        From the sequence mass => Database => Set of protein hits
+        The more tolerance we have in mass measurements, the more hits we have
+        The more peptides we analyze, the narrower the search
+        Good for pure proteins (e.g. confirm 'is this the protein I want?'). But messy for protein mixtures
+        Ambiguity: e.g. amino acid rearrange => == mass
+        PTMs will fail to match => you may need to remove modifications (e.g. phosphorylations via a phosphatase)
+        For identification, not for sequencing
+    Sequencing with tandem MS
+        Every amino-acid has a != mass
+        Peptides usually break through the peptide bond
+        If we only get one charge to the molecule
+            b-ion: the N-terminus fragment of the molecule
+            y-ion: the C-terminus fragment
+        A given sequence that breaks generates a given mass spectrum
+            Assign peaks y_(N-1), y_(N-2) to the ones in the right
+            The difference in mass tells the amino-acid
+            Same for the b indices
+            With the two sequences, you get the full motif
+            Different sequences break in different ways depending on sequence
+    identification with tandem MS
+
+
+
+
+
+Nuclear magnetic resonance: alternative to MS. Less sensitive, but more reproducible, and less destructive

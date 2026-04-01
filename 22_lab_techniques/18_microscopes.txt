@@ -1,0 +1,44 @@
+Airy disk: blur in microscope due to refraction
+    Sets a limit to the level of detail (resolution) that a microscope can get
+    The smaller wavelength (colder colors), the smaller the airy disk
+        But higher wavelength penetrate better
+    Electron microscopy removes this problem
+    If your volume is big (e.g. entire organs), stereomicroscopy or light sheet
+    Tissue (3-10 um): widefield, confocal
+        Confocal achieves more detail
+    Cells and large organelles (0.2-10um)
+        If you just need to see big things (e.g. nuclei): widefield
+        If you need to see small organelles with precision: confocal
+    Colocalization: are 2 proteins living at the same time in the same place?
+        Use confocal
+    Confocal uses a potent laser and kills cells
+    Deconvolution: removes out-of-focus light (post-processing)
+    Nano-structures (smaller than diffraction limit): super-resolution microscope, electron microscopy
+Cryo-EM: the most potent microscopy technique ATM
+Contrast: ability to distinguish what we want to see against the background
+    Transparent live samples
+        phase contrast: for the contour
+        differential interference contrast: for volume
+    Transparent fixed samples: TEM
+    Specific protein or structure (in its original place): fluorescence (with optical microscopy)
+    Opaque objects: SEM
+Microscope config
+    Upright: watching the sample from above. Vs. inverted
+Working distance: distance from lens to sample
+Lens
+    Chromatic aberration: distortion because != wavelengths refract differently
+        Achro: corrects this
+    Spherical aberration: distortion because a planar target can't focus on a planar surface
+        Fluar: corrects this
+    Magnification depends on the lens but also on the eyepiece lens
+    Tube length: from lens to eyepiece lens, typically infinite for variable size today
+    Numerical aperture: measures the ability to capture diffracted light. Greater magnifications => greater NA
+        NA = sin(alpha) * diffraction_index
+        Dry objectives: limit 1 (because n=1 for air)
+        Objectives using oil: limit 1.5
+    Immersium medium: what media can be used with? (lmm = multi-immersion, W = water, oil = oil, gly = glycerine)
+        Important because if we introduce media with n != n_glass, rays scatter
+        Also coded as a color
+    Coverslip thickness: standard is 0.17mm, but all of them are manufactured
+        Collar may help, but objectives have an optimal width
+    DIC: suitable for polarized light

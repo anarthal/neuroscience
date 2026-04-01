@@ -1,0 +1,82 @@
+DNA purification techniques
+    Lyse
+        Strong detergents (e.g. SDS, Triton X-100) - something that destroys nuclear envelope
+        With proteinase K to remove proteins
+        Or alkaline lyses for plasmids. In this case we need to get rid of genomic DNA, too
+            Alkaline lysis denatures DNA, and affects more genomic DNA because it's more supercoiled
+            After neutralization, we can precipitate genomic DNA
+    Separate DNA from other cellular material: centrifuge
+        This removes all insoluble material, e.g. debris, precipitate proteins
+        We take the supernatant
+        Spin columns: allow running the next steps more easily
+    Bind DNA: make DNA bind to a solid surface so it precipitates
+        Silica surface: negative charges
+        Add salt so negative charges interact with the cations rather than water
+            Chaotropic? salt: special kind of salt that is able to completely displace water
+        The area becomes hydrophobic
+        Then the DNA binds
+    Wash: remove everything that is not DNA
+        Isopropanol, water and salt: fixate DNA by creating a 'mountain' of hydrophobic layers
+        Ethanol, water: remove everything else
+    Elute: resuspend in nuclease-free buffer
+        Nuclease-free water: short-term
+RNA purification
+    RNAses very active, and require Mg2+ or similar to be inhibited
+    Special material (e.g. pipette tips) stating "RNAse free"
+    Lysis: use Trizol (alcohol + chaotropic salt). Acid => lyses and denatures proteins (including RNAses)
+    Add chloroform and centrifuge: RNA goes to top
+    Wash as with DNA
+    Drying: remove any remaining alcohol (because we don't have the same columns as before)
+    Resuspend in RNAse free water
+Quality assessment
+    Gel electrophoresis
+        Agarose with Tris-EDTA buffer
+        Needs to be dissolved, heated and then cooled so it becomes a gel
+        Higher concentration => Smaller pore sizes => Better for smaller molecules
+        Add intercalating agents => disrupt structure => now UV light sensitive
+            GelRed is safer than ethidium bromide because it's bigger => difficult to enter cell membrane
+        Ladder: size reference ('ladder' because sizes are of increasing size)
+        Degradation shows as a smear
+        If you put too much, also a small smear
+    When checking genomic DNA: problems if your fragments are very big => they don't fit the agarose pores
+        All chromosomes travel the same distance (or don't travel at all)
+        If we reduce the agarose concentration, the gel becomes unstable
+        Pulse-field gel electrophoresis: successively apply pulses at an angle
+    Or you can just sequence it - this is more used when doing plasmids
+    For plasmids, depending on its conformation, it migrates more or less
+        The 'real' one is nicked open-circular DNA
+    RNA: use reverse transcriptase
+        Copy into complementary DNA (cDNA) and PCR (RT-PCR)
+        Then use standard DNA methods
+        Resulting fragments are small => use denser gel
+    Quantify RNA: photo of gel electrophoresis
+        Compare to a reliable control: basally expressed gene (e.g. H3 gene)
+        Relative quantification: a gene is expressed X times the expression of H3 or GADPH
+        Usually operate in 8 bit grayscale images
+    Spectrophotomer: measures how much light is absorbed by sample => concentration
+        DNA and RNA absorbs UV light because bases have aromatic rings that absorb light
+        Optimal wavelength: 260nm
+        Other compounds, other wavelengths (e.g. proteins 280nm) => we can assess how pure is our sample => ratio 260/280 (proteins), 260/230 (alcohols et al)
+DNA removal: required if we target proteins because it's viscous
+    If we used a detergent that didn't break the nucleus, just centrifuge gently
+    But if we target nuclear proteins (e.g. transcription factors), we can't do that
+    Sonication breaks the DNA, but may 'burn' proteins
+    Enzymatic: use DNAses that cut the DNA into fragments that don't cause trouble
+        But nucleases are proteins, take into account!
+Contaminant elimination: we want to remove SDS and similar because it disrupts downstream analysis
+    Dialysis: introduce a semi-permeable membrane that lets small molecules pass (contaminants) but not proteins
+    Gel exclusion chromatography: beads with holes
+        Small molecules get into the holes and elute later
+        Bigger molecules don't get into the holes and elute earlier
+    Lead to highly diluted sample
+Whole lysate quantification: how much protein concentration do we have in a sample?
+    BCA: add a set of compounds to the sample that colors proteins purple. The purpler, the more concentrated
+        Use bovine serum albumin (BSA) as a reference protein. Construct a concentration/absorbance linear regression and use it
+        Curve is approx. the same for all amino-acids
+        But high concentration of specific ones (e.g. tryphtophan) might change color and make the curve unusable
+        Not usable with certain agents (e.g. reducing, metal-chelator)
+    Bradford Assay: dye-binding technique
+        Coomassie brilliant blue: it's red when alone, becomes blue when it binds to proteins
+        The more bound, the bluer
+        Can be used with reducers and metal-chelators, but results are not good if the sample contains detergent
+        Better to use BCA if possible

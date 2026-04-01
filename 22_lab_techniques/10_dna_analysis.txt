@@ -1,0 +1,43 @@
+Sequencing
+    Sanger
+        ddNTP: modified nucleotide linked to a fluorophore that inhibits further polymerization
+        Can only sequence small segments, up to 1kb
+        Reading longer sequences: 'walking primer'. Design a primer with the nucleotides in the ending sequence
+PCR
+    Tm (melting): temperature at which 50% of primers are annealed
+    Ta (annealing): temperature at which primers are annealed
+        should be Tm - 5ºC
+        Too high: primers don't prime
+        Too low: primers prime too much
+    Tm = f(G/C, num_nucleotides)
+    num_nucleotides should be [17, 45]
+        Too many: Tm gets closed to 95ºC
+    G/C should be [0.4, 0.6]
+    Tm should be [60, 75] ºC
+    Temperature of extension and denaturation are constant
+    Time of extension varies: f(polymerase, length of the fragment)
+        E.g. Taq does 1000bp/min, but makes more mistakes; Pfu 400bp/min but makes less mistakes
+        Speed is constant
+    1st denaturation is longer because you need to denature the entire template
+    Usually [30, 35] cycles
+    Final extension cycle at the end to finish any unfinished molecules
+R-PCR
+    cDNA: coding DNA. No introns present
+    Purify RNA, then use reverse transcriptase, then PCR (needs the usual sequence-specific primers)
+    Oligo-dTs: RNA primers that locate the poly-A tail so only mRNA is reverse-transcripted
+        They sometimes don't amplify the full mRNA. If the downstream PCR primers are located within the 5' end of the gene, they may fail
+    Random primers: 6 nucleotide random primers that amplify randomly
+        But they are random - sometimes it doesn't work
+    You can mix them
+qPCR: quantitative
+    Relative quantification: how much DNA vs. a control
+    Ct value: the cycle in which the fluorescence value exceeds a certain threshold
+Molecular cloning
+    Insert: the piece of DNA you want to insert into the plasmid
+    Promoter direction in the plasmid is relevant: you don't want to clone the gene in reverse order
+    Cutting the plasmid: select 2 restriction enzymes in the plasmid and digest the plasmid
+        Each enzyme has a != buffer type, so each cute in a separate iteration
+        Then you place it in gel electrophoresis to extract the small DNA fragment that you've cut
+    To cut the gene of interest: similar to a PCR, but your primers have the restriction enzyme sequence at the sides
+    Use a DNA ligase (from a virus) to seal the gene to the plasmid
+    Then either sequence or digestion analysis
