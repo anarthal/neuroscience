@@ -1,0 +1,30 @@
+RECOMBINANT PROTEIN: protein produced by genetic engineering
+BLUE-WHITE SCREENING: molecular cloning technique where recombinant bacteria can be distinguished from non-recombinant by their color
+Most common host is E. coli. Different strains optimized for different purposes
+    Plasmid storage: mutations for easier transformation, blue-white screening
+    Yield: reduced protease and RNAse activity
+CODON USAGE BIAS: describes preference of an organism to express an amino-acid with a certain codon, instead of their synonyms. != in != species
+    Codon optimization: write the target gene with codons friendly to the vector => better efficiency
+Affinity tag: extra cDNA corresponding to an extra peptide that facilitates purifying the protein of interest
+IPTG: inducer compound (activates gene expression). Higher concentration => more induction
+BLASTICIDIN: antibiotic used for selecting vectors after transformation
+INCLUSION BODY: cluster of misfolded protein aggregates caused by over-expression
+OPTICAL DENSITY: measure of light attenuation due to absorption. log(I_after/I_before)
+Growth phases: describes how cell number varies with time when they grow
+    Lag phase: initial phase, slow growth
+    Log phase: exponential growth
+    Stationary phase: growth stalled
+    Death phase: cell die after too much time
+Protein induction procedure
+    Wait until cells enter in log phase
+    Add inducer
+    Wait for an optimal amount of time
+    Lyse the cells
+Variables to optimize
+    When should the inducer be added? Use optical density as a measurement of how many bacterial cells there are
+    Higher temperature => quicker protein synthesis, but may cause inclusion bodies/toxicity due to cell machinery overwhelm
+    Higher inducer concentrations => similar effect to temperature
+    Time until harvest => amount of retrieved protein plateaus at a certain time. Inducing for longer doesn't yield any better result
+    Soluble proteins can be induced fast. More insoluble ones require going slower to prevent inclusion bodies
+PROTEIN INDUCTION TEST: experiment to check the optimal conditions for bacteria to generate proteins
+STARTER CULTURE: in an induction test, the initial bacterial culture that gets split to test different conditions
