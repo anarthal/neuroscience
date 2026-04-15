@@ -1,0 +1,21 @@
+ELISA (Enzyme-Linked Immunoabsorbent Assay): technique to quantify how much of a specific protein is present in a protein mixture
+    More quantitative than WB, higher throughput, more false positives
+Target protein is the antigen. A detection antibody (protein-specific) is linked to an enzyme that produces color if substrate is added
+Antibodies
+    Capture antibody: antigen-specific. Attaches to the well and captures the antigen
+    Primary/detection antibody: antigen-specific. Attaches to another antigen in the antibody, creating a sandwich
+    Secondary antibody: not antigen-specific. Attaches to the primary antibody. Linked to the enzyme, provides signal
+Sandwich ELISA: allows protein quantification
+    Plate: 96-well raw polystyrene plates
+        Raw polystyrene is hydrophobic => allows proteins to bind to the well surface
+    Coating: add the capture antibody so it binds to the well. Incubate, then wash
+    Blocking: occupy any missing space in the well surface, so further steps don't bind non-specifically
+        Use bovine serum albumin (BSA), milk or similar
+    Add the protein mixture, incubate, wash
+    Add the primary antibody, incubate, wash
+    Add the secondary antibody, incubate, wash
+        Example enzyme: horseradish peroxidase (reduces H2O2 and oxidizes other substances => color)
+    Add the substrate and measure
+Direct/indirect ELISA: used to test antibodies
+    Like sandwich, but the plate is coated with antigen, instead of antibodies. No protein mixture is added
+    Antibodies added as usual
