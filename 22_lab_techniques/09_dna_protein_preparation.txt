@@ -1,3 +1,6 @@
+Background
+    CHAOTROPIC SALT: special kind of salt that is able to completely displace water by forming a cation bridge
+    CHELATION: metal ion sequestration by a compound (chelator) that forms covalent bonds with the metal ion, incorporating it into a ring
 DNA purification techniques
     Lyse
         Strong detergents (e.g. SDS, Triton X-100) - something that destroys nuclear envelope
@@ -11,8 +14,7 @@ DNA purification techniques
         Spin columns: allow running the next steps more easily
     Bind DNA: make DNA bind to a solid surface so it precipitates
         Silica surface: negative charges
-        Add salt so negative charges interact with the cations rather than water
-            Chaotropic? salt: special kind of salt that is able to completely displace water
+        Add chaotropic salt so negative charges interact with the cations rather than water
         The area becomes hydrophobic
         Then the DNA binds
     Wash: remove everything that is not DNA
@@ -23,26 +25,40 @@ DNA purification techniques
 RNA purification
     RNAses very active, and require Mg2+ or similar to be inhibited
     Special material (e.g. pipette tips) stating "RNAse free"
-    Lysis: use Trizol (alcohol + chaotropic salt). Acid => lyses and denatures proteins (including RNAses)
-    Add chloroform and centrifuge: RNA goes to top
-    Wash as with DNA
-    Drying: remove any remaining alcohol (because we don't have the same columns as before)
-    Resuspend in RNAse free water
+    TRIZOL: pink mixture of a chaotropic salt + phenol. Acid (pH 5)
+    1. Add trizol to cause lysis. Also denatures proteins (including RNAses)
+    2. Add chloroform and centrifuge to separate
+        Bottom, pink phase => phenol, chloroform, proteins, impurities
+        Middle, white phase => DNA and some proteins
+        Top, transparent phase => water and RNA
+    3. Wash with isopropanol => precipitates RNA
+    4. Wash with ethanol => remove any remaining salts and contaminants
+    5. Drying: remove any remaining alcohol (because we don't have the same columns as in DNA)
+    6. Resuspend in RNAse free water
 Quality assessment
     Gel electrophoresis
-        Agarose with Tris-EDTA buffer
-        Needs to be dissolved, heated and then cooled so it becomes a gel
+        AGAROSE: polysaccharide that forms a mesh suitable for electrophoresis
+        AGAROBIOSE: agarose monomers
         Higher concentration => Smaller pore sizes => Better for smaller molecules
-        Add intercalating agents => disrupt structure => now UV light sensitive
+        Gels are prepared in Tris-EDTA buffer (e.g. TAE)
+            TRIZMA BASE: pH buffer
+            EDTA: chelates metal ions (like Mg2+) => inhibits nucleases
+            Acetic acid: adjusts pH
+            Distilled water: filler
+        Needs to be dissolved, heated and then cooled so it becomes a gel
+        Add intercalating agents to the cooling agarose to visualize DNA
+            Disrupt DNA structure => make it deflect UV light
             GelRed is safer than ethidium bromide because it's bigger => difficult to enter cell membrane
+            Shouldn't be added before heating to prevent degradation
         Ladder: size reference ('ladder' because sizes are of increasing size)
+            Gene ruler: a particular ladder brand
         Degradation shows as a smear
         If you put too much, also a small smear
-    When checking genomic DNA: problems if your fragments are very big => they don't fit the agarose pores
+    Pulse-field gel electrophoresis: successively applies pulses at an angle
+        When checking genomic DNA: problems if your fragments are very big => they don't fit the agarose pores
         All chromosomes travel the same distance (or don't travel at all)
         If we reduce the agarose concentration, the gel becomes unstable
-        Pulse-field gel electrophoresis: successively apply pulses at an angle
-    Or you can just sequence it - this is more used when doing plasmids
+        Or you can just sequence it - this is more used when doing plasmids
     For plasmids, depending on its conformation, it migrates more or less
         The 'real' one is nicked open-circular DNA
     RNA: use reverse transcriptase
@@ -53,10 +69,15 @@ Quality assessment
         Compare to a reliable control: basally expressed gene (e.g. H3 gene)
         Relative quantification: a gene is expressed X times the expression of H3 or GADPH
         Usually operate in 8 bit grayscale images
-    Spectrophotomer: measures how much light is absorbed by sample => concentration
+    SPECTROPHOTOMETER: measures how much light is absorbed by sample => concentration
+        ABSORBANCE: measures light attenuation when passing through a medium. A = ln(I_before/I_after), with I being light intensities
+        Beer-Lambert's law: absorbance proportional to concentration for a given wavelength
         DNA and RNA absorbs UV light because bases have aromatic rings that absorb light
-        Optimal wavelength: 260nm
-        Other compounds, other wavelengths (e.g. proteins 280nm) => we can assess how pure is our sample => ratio 260/280 (proteins), 260/230 (alcohols et al)
+        Optimal wavelength: 260nm. Other compounds, other wavelengths (e.g. proteins 280nm)
+        We can assess purity with absorbance ratios
+            Ratio 260/280: protein contamination. Ideal >=1.8
+            Ratio 260/230: other organic compounds (e.g. alcohols). Ideal >= 2.0
+        NANODROP: spectrophotometer that can work with very small quantities => use when you have scarce DNA/RNA samples
 DNA removal: required if we target proteins because it's viscous
     If we used a detergent that didn't break the nucleus, just centrifuge gently
     But if we target nuclear proteins (e.g. transcription factors), we can't do that
@@ -70,13 +91,20 @@ Contaminant elimination: we want to remove SDS and similar because it disrupts d
         Bigger molecules don't get into the holes and elute earlier
     Lead to highly diluted sample
 Whole lysate quantification: how much protein concentration do we have in a sample?
-    BCA: add a set of compounds to the sample that colors proteins purple. The purpler, the more concentrated
+    NanoDrop can't be used here because whole cell lysates contain many different proteins and components that absorb UV light
+        Could be used if you had a pure protein
+    BICINCHONINIC ACID ASSAY (BCA assay): protein quantification method based on colorimetry, compatible with detergents
+        Add a set of compounds to the sample that colors proteins purple. The purpler, the more concentrated
+            Cu2+ reduced to Cu+ in the presence of peptide bonds and alkaline medium
+            BCA and Cu+ form a purple complex that absorbs light at 562nm
         Use bovine serum albumin (BSA) as a reference protein. Construct a concentration/absorbance linear regression and use it
         Curve is approx. the same for all amino-acids
         But high concentration of specific ones (e.g. tryphtophan) might change color and make the curve unusable
-        Not usable with certain agents (e.g. reducing, metal-chelator)
-    Bradford Assay: dye-binding technique
+        Not usable with reducing agents or metal chelators (e.g. EDTA)
+    BRADFORD ASSAY: protein quantification method based on colorimetry, compatible with reducing agents
         Coomassie brilliant blue: it's red when alone, becomes blue when it binds to proteins
         The more bound, the bluer
         Can be used with reducers and metal-chelators, but results are not good if the sample contains detergent
+        More variation than BCA
+        Dye is acidic => may denature proteins
         Better to use BCA if possible

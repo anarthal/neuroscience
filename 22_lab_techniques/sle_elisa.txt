@@ -1,0 +1,45 @@
+Title: Diagnosis of Disease Based on Immune Response
+3 patients (A, B, C), 40mL of blood
+Check for systemic lupus erythematosus disease (autoimmune, SLE anti-DNA antibody)
+Gloves
+1. Centrifuge whole blood at RT for 15min => discard cells that would cause false positives
+    counterbalance
+2.Using the serum from patient A, prepare three dilutions as follows (so we have != diluted samples to check concentration):
+
+    Take 1 ml of serum from patient A and add 1 ml of phosphate-buffered saline (PBS) solution. This is a 1:2 dilution. (eppendorf)
+    Take 1 ml of serum from patient A and add 9 ml of PBS. This is a 1:10 dilution. (falcon)
+    Take 0.1 ml of serum from patient A and add 9.9 ml of PBS. This is a 1:100 dilution. (falcon)
+    Then mix gently
+
+
+
+3. Prepare an ELISA plate with 0.1 ml of the different dilutions of patient serum using an Eppendorf® pipettor.
+
+Note: The ELISA plate has been pretreated to bind SLE antigen to each well. (so coating is done)
+table is: patient A, B, C, positive, negative
+    1:2
+    1:10
+    1:100
+
+4. Add to the ELISA plate 0.1 ml dilutions for each titer of anti-DNA primary antibody (positive control) and a buffer (PBS) (negative control). 
+    One control for each patient
+5. Incubate the ELISA plate at 37° C for 15 minutes. This allows the SLE antibody to bind to the antigen-coated wells. 37ºC is body temperature
+    Uses an incubator
+
+6.  Remove the fluid from each well with the pipettor and wash with 0.1 ml of PBS.
+
+Often, in a real laboratory, these washes are repeated 3-6 times prior to adding the next substance. In order to speed this example along, we have given just one rinse/wash example per step. 
+    Washing helps remove any antibody that did not react with the SLE antigen in the well. When the fluid is removed from the well, antibody that has reacted with antigen remains attached to the well surface. Unreacted (unbound) antibody may also remain in the well in the small amount of fluid that is left behind. This unbound antibody must be removed, because the anti-human antibody added in the next step will recognize and react with any antibody remaining in the well, regardless of whether that antibody is specific for the SLE antigen. A reaction with non-SLE antibody will produce a false-positive result. 
+7. Add 0.1 ml of buffered solution containing a secondary antibody that recognizes antibodies made in humans. Note this secondary antibody is made in a rabbit and has an attached enzyme (HRP) that will interact with the substrate in the next step. 
+8. Incubate the ELISA plate at 37° C for 15 minutes. 
+ Incubating serum samples in antigen-coated wells helps ensure that the antibody present in the sample will interact correctly with the antigen. Because SLE is a disease of humans, the reaction usually occurs at the temperature of the human body, which is 37 degrees C. Time is important: the reaction must proceed long enough for adequate binding to occur or the measurement will be artificially low.
+
+    Problem: If the timer is set to less than 15 minutes, the proper reaction will not occur and no color will be evident at the end of the assay. The observer will record the results incorrectly as false negatives.
+
+    Problem: If the temperature is set too low, the reaction will not be completed in the allowed time. If the temperature is set too high, protein (antigen and antibody) will be adversely affected via a process known as denaturation, which diminishes its ability to interact. The results will again be recorded as false negatives. 
+9. Remove the fluid from each well with the pipettor and wash with 0.1 ml of PBS. 
+10. Add 0.1 ml of buffered solution containing the chemical substrate (HRP-substrate). If there are human antibodies present, the clear substrate will turn yellow. 
+    One of the most commonly used enzymes that can be attached to antibody is called horseradish peroxidase. The enzyme together with hydrogen peroxide acts on a chemical called ABTS (2,2'-azinobis-3-ethylbenzothiazoleine-6-sulfonic acid) to produce a yellow solution that can be estimated by eye or quantitatively measured in a spectrometer at 414 nanometers. 
+11. Set timer for 15 minutes. 
+
+Your correct plate: (1) Maidhof W, Hilas O. Lupus: an overview of the disease and management options. P T. 2012 Apr;37(4):240-9. PMID: 22593636; PMCID: PMC3351863. Available from: https://pmc.ncbi.nlm.nih.gov/articles/PMC3351863/

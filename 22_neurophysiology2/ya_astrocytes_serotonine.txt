@@ -1,0 +1,5 @@
+Ex-vivo Ca2+ signalling
+    Inject Ca2+ reporter via viral vector specific for astrocytes
+    Kill but maintain slice cells alive
+    Image with blue light => fluorescence proportional to Ca2+
+Can also be applied in vivo

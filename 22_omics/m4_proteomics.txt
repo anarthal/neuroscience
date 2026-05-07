@@ -103,7 +103,35 @@ Protein identification
             With the two sequences, you get the full motif
             Different sequences break in different ways depending on sequence
     identification with tandem MS
-
+PPI
+    Bait experiment: immobilize one protein, then elute and separate => all proteins that might interact with the immobilized protein
+        Reverse bait experiment: immobilize the other proteins obtained in the bait experiment, to confirm interaction
+        You might do this along all the proteins in a complex to obtain a network
+        But requires immobilizing the protein => time consuming, and might cause loss of protein function
+    Alternative: immunoprecipìtation
+    Predictions
+        Motif-based: find motifs that are known to interact with another
+        Sequence-based: like motifs, but more general
+        Codon-usage: the ones with more favorable codon usage will probably be expressed more
+        Close in the genome
+        Co-presence: proteins that interact are either all present or all absent in a genome. Compare with other genomes to find orthologs (same gene, != species)
+        Fusion: if two genes in one species were fused in another, these proteins likely interact
+        Keeping the order: if two proteins interact, their genes will likely be in the same order in all species
+        Functional similarity: if they share pathways in gene ontology, they probably interact
+        Incorrect assignment of orthologs leads to failure
+        Proteins in the same functional network probably interact
+        Difficult to apply in eukaryotes
+        An interaction may happen without any of these signals
+        Can't tell if it's a functional relation or a physical interaction
+Mapping modifications
+    Requires more coverage than identification, as modifications may happen in any Aa
+    Tools need to be specified which modifications we expect => can deduce modifications and where by the mass difference between modified and unmodified ions
+    E.g. phosphorylation adds 80 units
+    All the y/b ions containing the modification will be displaced from the predicted value by the weight of the modification
+    Difficult because the non-modified form is usually more abundant
+    Enrichment: technique to make the modified version more abundant
+        E.g. use antibodies that target the phosphorylated site and analyze this
+        
 
 
 

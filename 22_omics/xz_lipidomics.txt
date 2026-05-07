@@ -1,0 +1,31 @@
+Main feature of lipids: solved in non-polar solvents
+Less diversity than metabolites, but still wide range
+Types
+    Triglycerides/fatty acids
+    Phospholipids
+    Sterols (e.g. cholesterol)
+Partition coefficient = concentration_organic/concentration_aqueous
+    LogP = log_10 (Partition coefficient)
+    LogP > 0 => hydrophobic
+Extraction
+    Single-phase: mix your sample with an inmiscible solvent (e.g. isopropanol), discard the other because lipids in isopropanol
+    2-phase: chloroform (lipids will be here) and methanol (other molecules)
+        But chloroform goes to the bottom, so you need to cross the methanol => contaminants
+    3-phase: also by hydrophobicity
+Separation: for a clearer signal in MS
+    Usually chromatography
+    Retention time is useful, but not portable within != instruments
+    Normal-phase chromatography: polar stationary phase, non-polar mobile phase
+        The more polar, the longer they stay
+    Reverse-phase chromatography: non-polar stationary phase, polar mobile phase
+    HILIC: to separate lipids that are polar
+        Polar stationary phase, polar moving phase
+    IC: stationary phase ion with one charge, mobile the oppòsite => separate charged molecules
+    IMS: separate based on shape, size, charge. Based on interaction with a neutral gas (e.g. He)
+        Can separate isomers
+        Drift time: similar to retention time
+    Still overlap. You might combine methods but only when searching for known metabolites
+        2D liquid chromatography
+MS: similar techniques as in proteomics
+    MS has problems with isomeric structures, couple with IMS for this
+In-source loss of water: some ions might loose a water molecule during MS

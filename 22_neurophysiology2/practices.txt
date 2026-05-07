@@ -1,0 +1,24 @@
+Background
+    PATELLA: kneecap bone
+    PATELLAR TENDON/PATELLAR LIGAMENT: distal part of the quadriceps tendon. Goes over the patella, then to the tibia (really a ligament)
+    CALCANEAL TENDON: Achilles tendon
+    CALCANEUS: heel's bone
+    GASTROCNEMIUS: muscle from the femur to the calcaneus (calf - gemelo)
+    SOLEUS: muscle deep to the gastrocnemius (calf)
+MOTOR UNIT: lower motor neuron + all the nerve fibers innervated by it
+Electrocardiogram
+    P wave: initial auricle depolarization
+    QRS complex: second peak due to ventricle depolarization. Down, up, down
+    T wave: final peak, due to ventricle repolarization
+    CILIOSPINAL CENTER/BUDGE'S CENTER: cluster of pre-ganglionic sympathetic neurons in lateral gray horn. Involved in pupil dilation
+ODDBALL PARADIGM: test where an individual is presented with high-frequency standard stimuli, and low-frequency target stimuli (e.g. 'identify the sound that is different')
+EVENT-RELATED POTENTIAL (ERP): peak in an EEG in response to an event
+P300: event-related potential that appears in oddball paradigm tests when the target stimuli appears
+    Approx. 300ms after the stimulus
+PATELLAR REFLEX: when patellar tendon is hit, quadriceps contracts
+JENDRASSIK MANEUVER: procedure to distract the individual while performing the patellar reflex. Increases reflex amplitude
+CALCANEAL REFLEX: when calcaneal tendon is hit, soleus and gastrocnemius contract
+PLANTAR REFLEX/BABINSKI REFLEX: when the foot plant is stroked from heel to toes, toes should flex towards the plant
+    If they spread or flex in the opposite direction, possible upper motor neuron damage
+CILIOSPINAL REFLEX: when pain is generated in the back of the neck, the pupil dilates
+    Pain => hypothalamus => ciliospinal center => cervical ganglion => pupil dilator

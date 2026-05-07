@@ -1,0 +1,73 @@
+Metabolites consumed/produced during metabolism, small (<1.5kDa)
+Metabolomics: studying metabolite quantities => fingerprints that identify pathological states
+No link between metabolite and gene (as opposed to proteins)
+    And no relationship between quantity of protein expression and metabolite concentration
+    Although can predict whether the metabolite is there or not (e.g. if the enzyme is required)
+Metabolome is considered the closer to the phenotype ('what is happening now')
+Metabolome much more dynamic than proteome, transcriptome and genome
+    Difficult to preserve the metabolome from extraction to analysis
+Wide variety of metabolites, with != sizes, physical properties, dynamics, concentrations, polar vs. non-polar
+Primary: the ones absolutely required (e.g. amino acids), vs. secondary (e.g. signalling molecules)
+Targeted metabolomics: quantify the amount of a known set of metabolites
+    You can get concentrations, deeper insights
+Untargeted metabolomics: identify what metabolites are there without a-priori knowledge
+    More difficult, no standard packs
+    Needs to combine retention time and mass spec data
+    Less accuracy (too many signals at a time => batch effect)
+Metabolic fingerprinting: like unbiased, but comparing two different settings (e.g. healthy vs. diseased)
+Metabolic profiling: focus on certain metabolites related to a single pathway (e.g. Krebs cycle)
+Quantifying
+    Relative: normalized vs. some reference in your cohort. Easier to get, but difficult to extend to other groups
+    Absolute: gets the real concentration, but needs calibration and is more involved
+No single method that can capture all metabolites
+Steps
+    Sample preparation
+        Quenching: arrest metabolism to prevent metabolite alteration
+            Use acid, trypsin, methanol, and freezing
+        Volatile molecules vaporize => cold handling
+        Metabolite extraction: remove all the enzymes and leave metabolites only
+            Targeted methods can use protocols tailored for what they're analyzing
+            Solid-phase extraction: concentrate metabolites as much as possible
+                Pass it through a solid matrix that interacts with the compound of interest (similar to DNA columns)
+                Then wash to remove contaminants
+                Then elute into a small volume
+                Might loose part of the metabolite
+            Liquid-liquid extraction
+            Solvent extraction: use a solvent to precipitate proteins and dissolve the compound of interest
+                Polar metabolites like polar solvents, non-polar metabolites like non-polar solvents
+                Water: the more polar. Might loose anything non very-polar
+                Methanol: slightly less polar, very used, can solve some non-polar, too
+                You can mix water and water to adjust polarity
+                Acetonitrile: middle ground
+                Ethyl acetate, chloroform, isopropanol: non-polar (e.g. lipids)
+    Separation: reduce complexity
+        Liquid chromatography: the more used. For polar metabolites
+        Gas chromatography: for the volatile compounds
+        Derivatization: convert a metabolite into its volatile counterpart
+            Required for gas chromatography
+            Can increase peak strength
+            Stick a group to the compounds of interest to achieve it
+            Reduces polarity
+    Mass spec
+        Ionization
+            Hard: for inorganic compounds and non-polar molecules
+            Soft: for the rest. E.g. electrospray
+                Positive ion mode: compound gains a proton, for basic compounds. Better for untargeted, because it gets more ions
+                Negative ion mode: compound loses a proton, for acid compounds. Cleaner if you can do it
+            MALDI: for intact samples
+            In-source fragmentation: your ion fragments in the mass spec. Unwanted
+        Mass analyzer: usually QqQ (filter by m/z, then fragment, then filter by m/z and detect)
+        Analyze in a similar way as in proteomics
+    Analysis
+        Feature: a (retention time, m/z) pair
+        One metabolite associated to several features (e.g. isotopes)
+        MSI level: confidence level when annotating your sample. Level 1 (completely confirmed) to level 4 (unknown)
+    Nuclear magnetic resonance
+        Quantitative, and does not require separation
+        Less sensitivity => you need higher concentrations
+        Can be used with compounds that can't be ionized
+    Matrix effects: the effect of the medium the sample is in (e.g. solvent)
+        E.g. ion suppression
+            
+
+            

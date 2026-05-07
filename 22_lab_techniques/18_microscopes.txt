@@ -42,3 +42,44 @@ Lens
     Coverslip thickness: standard is 0.17mm, but all of them are manufactured
         Collar may help, but objectives have an optimal width
     DIC: suitable for polarized light
+Mounting
+    Always count, because you need to have always the same number of cells per experiment for reproducibility
+    Adherent: place the coverslip in the bottom of the plate, then let the cells grow
+        Cultivate in a plate, measure how many
+        Calculate how many you'd need to have a 70% confluence in the well
+        Pipette 1/2 of this because cells double each day (approx.)
+        Leave the well for a day
+    Non-adherent cells: need coating to stick to the surfaces
+        Glycocalyx is anionic, but glass is, too => coating needs to be cationic
+        Submerging the coverslip in HCl overnight helps to 'clean' it
+        Or cover the coverslip with ECM compounds, like collagen (but it's expensive)
+Fixing
+    Cross-linking: creates links between proteins and within protein residues
+        Formaldehyde: it's a gas - sold as formalin: liquid + saturated with formaldehyde gas + methanol (but methanol is a fixative, too)
+        Paraformaldehyde: polymerized, solid form of formaldehyde. Powder, should be added a base and heated
+            But the vapors are dangerous
+            PFA is methanol free, better than formalin
+        Gluteraldehyde: for EM
+        May fix too much and block epitopes required for immunology-based fluorescence
+    Coagulating fixatives: makes protein precipitate
+        Preserves immuno detection, but doesn't preserve morphology
+        Methanol does this
+    Don't fix too much, otherwise you can't cut slices
+Permeabilization: required if you need immunological techniques
+    Because antibodies are too big to cross the membrane => Make holes
+    With cross-linking fixatives only
+    Use detergents at low concentration
+        Triton X-100: also perforates nuclear envelope, if you want your antibody to enter everywhere
+        NP-40 or digitonin: if you don't want the antibody to enter the nucleus
+Staining
+    Dyes: binding to acid or basic components
+    Fluorescence: binding to a particular molecule
+    Organelle staining dyes: can cross membranes without breaking them, and bind depending on the organelle
+    Plasma membrane: using fluorescently linked lectins => bind to the glycocalyx
+    MitoTracker: for mitochondria. Reliant on membrane potential. First dye, then fix (because fixation removes membrane potential)
+    BODIPY ceramide: fluorescent lipid that accumulates in Golgi. First dye, then fix (because fixation stops Golgi transport)
+    DAPI and Hoetsch: bind to DNA => stain nucleus
+    Antibodies are cleaner in general
+    Block: prevent non-specific interactions. Ideally, 10% FBS
+Mounting media: prevent air because of the != refraction index
+    E.g. mobiol

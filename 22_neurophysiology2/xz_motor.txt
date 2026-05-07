@@ -1,0 +1,32 @@
+Hierarchy
+    Higher: strategy (what movement do I want?)
+    Middle: tactics (what muscle sequence do I need to use?)
+    Low: execution
+Sensorimotor: requires sensor input to properly adjust, at the three levels
+Neuron types
+    Upper motor: all components in CNS. The ones directly contacting lower motor neurons
+        Damage here keeps reflexes intact
+    Lower motor neuron: execution neurons. Soma in CNS, axons synapse outside it
+        Damage here loses the muscle, as it degenerates when not used
+Cortical afferents not just from M1, also from the other motor cortices
+Specialized pyramidal neurons for each movement feature: direction, speed, force
+    Final direction is proposed to be the vector sum of all the activated neurons
+M1: the one that contains upper motor neurons
+    Subject to plasticity
+Premotor: more associative. Direct stimulation does not cause movement
+    Info from other cortices, outputs to the primary motor cortex
+Mirror neurons: function of imitation. Fires when executing a movement, or watching another execute the same movement
+    Discovered in premotor cortex, but in many other places, too
+Supplementary motor area. Coordination of movement sequences
+    Active when thinking about movement
+    Responds to internal cues (vs. premotor that responds to external cues)
+    Fire more instants before the actual execution of the movement
+    Seem bilateral - both sides activate upon stimulus
+Descending tracts
+    Lateral corticospinal (the one that crosses) => distal parts, precise movement
+    Ventral corticospinal (the one that does not) => proximal parts, gross movement
+    Corticobulbar: same but for CNs
+    Rubrospinal: less function in humans, may compensate corticospinal tract damage
+    Pons reticulospinal: support antigravitational machinery
+    Medullary reticulospinal: inhibition of the antigravitational machinery
+ALS: degenerates upper motor neurons

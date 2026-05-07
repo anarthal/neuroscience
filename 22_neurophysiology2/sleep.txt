@@ -1,0 +1,17 @@
+Electroencephalogram waves: higher frequency means higher neuronal activity
+    Delta waves (1-4Hz): deep sleep
+    Theta waves (4-8Hz): start of sleep
+    Alpha waves (8-12Hz): awake state, relaxed
+    Beta waves (12-30Hz): awake state, alert
+    Gamma waves (30-100Hz): awake start, high-level cognitive functioning
+Sleep phases
+    Non-rapid eye movement (NREM)
+        N1: transition between wakefulness and sleep. Alpha, theta waves
+        N2: light sleep. Theta waves with sleep spindles and K-complexes
+        N3: moderate sleep. Delta waves
+        N4: deep sleep. Delta waves
+    Rapid eye movement (REM): vivid dreams, high cerebral activity. EEG as if awake
+    Wakefulness levels: awake > REM > N1 > N2 > N3 > N4
+    Phases repeated in periods of 90min: N1 => N2 => N3 => N4 => REM => N1...
+SLEEP SPINDLE: burst of neuronal activity during N2
+K-COMPLEX: high amplitude peak of neuronal activity during N2, to prevent awakening upon stimulus

@@ -1,0 +1,26 @@
+The body might upregulate receptors for an hormone if it's downregulated (and vice-versa), to compensate
+Hormone therapy: block hormone receptors that promote the growth of certain tumors (e.g. breast)
+Agonist: for a certain receptor specialized for a certain molecule, another molecule that can interact with the receptor
+    Agonist for testosterone: can interact with the same receptors
+    Partial agonist: produce partial response
+        May be because it has the same affinity but causes less response (competes with the original molecule)
+    Inverse agonist: causes the inverse response than the natural ligand
+    Antagonist: blocks the receptor and does nothing
+    Competitive antagonist/reversible antagonist: competes with the agonist for the receptors
+        Proportion matters - increasing the agonist compensates the antagonist
+    Noncompetitive antagonist/irreversible antagonist: bind to the receptor covalently (not necessarily to the binding site) and prevent the agonist from interacting with the receptor
+Circulating hormones: they circulate in blood (endocrine). Vs. local hormones (paracrine and autocrine)
+Lipid-soluble: they come from lipids
+    Effective when uptaken by mouth because they are not broken by digestion and can cross the intestinal barrier
+    They can cross the cell membrane and affect the inside (e.g. go into nucleus and change gene expression)
+Water-soluble: they can't be taken by mouth
+    They can't cross the cell membrane => Cell signalling cascade with plasma membrane receptor (e.g. GPCR)
+    Permissive hormone (with respect to other): one that causes synergestic effect with the other
+        Mechanism: promote more receptors for the other, 2nd messenger cascade amplification
+    Synergestic effect: the effect of the two hormones together is greater than the sum of the effects of the individual effects
+    Antagonistic effect: the effect of the two hormones together is smaller than the sum of the effects of the individual effects
+In the hypothalamus/adenohypophysis
+    Hypothalamus releases hormone-releasing-hormone to portal system => increase hormone production
+    Negative feedback: higher hormone concentration prevents further liberation
+    Some hormones also have corresponding hormone-inhibiting-hormones. Inverse effect to hormone-releasing-hormone
+    

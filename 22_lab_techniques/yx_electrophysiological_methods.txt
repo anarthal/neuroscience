@@ -1,0 +1,13 @@
+Patch clamp
+    Each experiment needs a new freshly made pipette
+    Try to reduce signal/noise ratio by
+        faraday cage surrounding experiment
+    Brain slices must be fresh (animal recently killed)
+    Microscope-guided: you can't see the pipette with naked eye
+    Difficult to perform
+Juxtacellular recordings
+    For in-vivo (e.g. anesthesized mouse)
+    Works best for cells for nuclei with pacemaker activity (e.g. raphe, substantia nigra - periodically firing)
+    You can inject dye into the target cell so when you kill the animal know which cell you recorded
+    Dopaminergic neurons burst when activated => this may be a stress factor => vulnerability
+    Different burst patterns in different neurons (e.g. lateral more bursty than medial => more vulnerable)

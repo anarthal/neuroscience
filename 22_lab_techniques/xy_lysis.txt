@@ -1,6 +1,6 @@
 Homogenization: make the sample homogeneous in composition so we can pick reproducible samples from it
 Note: things with cell wall are more difficult to break
-Harsh
+Harsh (whole cell lysis)
     Lysate: fluid produced by a lysis technique
     Mild homogenization: break cell clumps (homogenization at cell level)
         Vs. harsh, ending up in lysis
