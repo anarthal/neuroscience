@@ -1,0 +1,49 @@
+EPICRITIC SYSTEM: part of the somatosensory system with high discriminative ability (fine touch, pressure)
+PROTOPATHIC SYSTEM: part of the somatosensory system with low discriminative ability (pain, temperature)
+PIEZO RECEPTORS: family of cation channels, non-selective, mechanically gated
+TRANSIENT RECEPTOR POTENTIAL RECEPTOR (TRP): family of cation channels, involved in many sensory modalities
+MYOTATIC REFLEX: reflex that contracts muscle when stretched rapidly, to prevent damage
+INVERSE MYOTATIC REFLEX: reflex that relaxes the muscle when its tension is too high, to prevent damage
+Receptor adaptation speed
+    PHASIC RECEPTOR: responds to stimulus variations (fast adaptation). Detects "when" (temporal component of the stimulus)
+    TONIC RECEPTOR: responds to sustained stimulus with a sustained response (slow adaptation). Detects "where" (spatial component of the stimulus)
+Touch and pressure related receptors
+    HAIR FOLLICLE RECEPTOR: surrounds hair follicles and responds to hair movement. Fine touch
+        Non-encapsulated
+        May have fast or slow adaptation
+        Small field receptor size
+    FREE NERVE ENDING: receptor in the superficial layer of the skin. Itch, tickle
+        Non-encapsulated
+        Slow adaptation
+        Big field receptor size
+    MEISSNER CORPUSCLE: receptor in the dermis of glabra skin, for discriminative touch
+        Encapsulated
+        Formed by several layers of epithelial cells surrounded by a nerve fiber
+        Fast adaptation
+        Small field receptor size
+    MERKEL CELL: receptor in the dermis of skin, for texture detection
+        Non-encapsulated
+        Formed by a single epithelial cell associated to a nerve fiber
+        Slow adaptation
+        Small field receptor size
+    PACINI CORPUSCLE: receptor in the deep dermis and subcutaneous tissue, for high frequency vibration
+        Onion-like layers of epithelium surrounding a nerve fiber
+        Fast adaptation
+        Big field receptor size
+    RUFFINI ENDING: receptor in the deep dermis, joints, tendons and ligaments, to detect stretch
+        Encapsulated
+        Slow adaptation
+        Big field receptor size
+Proprioception related receptors
+    MUSCLE SPINDLE: receptor within the muscle that detects muscle stretch (when the muscle becomes longer)
+        Placed in the center of the muscle
+        Composed of specialized muscle fibers and a nerve fiber
+        Slow adaptation rate
+        Triggers the myotatic reflex
+    GOLGI TENDON ORGAN: receptor within the tendon that detects muscle tension (when the muscle becomes shorter)
+        Composed of nerve fibers intertwined with the tendon's collagen fibers
+        Triggers the inverse myotatic reflex
+    JOINT KINESTHETIC RECEPTOR: receptors that transmit joint position, movement and pressure
+        Composed of free nerve endings, Pacini corpuscles and Ruffini endings
+    
+    
