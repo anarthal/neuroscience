@@ -1,0 +1,26 @@
+Background
+    TRANSIENT RECEPTOR POTENTIAL MELASTATIN (TRPM): a type of TRP channels involved in taste
+EPITHELIUM SODIUM CHANNEL (ENaC): ion channel selective for Na+ ions
+    Responsible for part of the salty taste
+ACID-SENSING ION CHANNEL (ASIC): ligand-gated cation channel that opens in the presence of H+ (acid)
+    ASIC1, ASIC2
+    Responsible for sour taste
+TASTE RECEPTOR TYPE 1: GPCR responsible for sweet and umami taste
+TASTE RECEPTOR TYPE 2: GPCR responsible for bitter taste
+Concrete receptors named TXRY
+    E.g. T1R2: taste receptor type 1 member 2. Sweet detection
+GPCR transduction in taste
+    Ligand binds to GPCR
+    Intracellular cascade
+    Ca2+ is released from endoplasmic reticulum
+    Ca2+ opens TRPM channels
+    Na+ enters the cell => depolarization => neurotransmitter release
+Detection threshold
+    Bitter, sour, umami: low thresholds
+    Salty and sweet: high thresholds
+Neurotransmitters
+    Salty and sour: serotonin
+    Sweet, sour, umami: ATP
+Gustatory cortex is not segregated into regions by flavor like other sensory cortices
+Orbitofrontal cortex and insula cortex integrate taste and odor
+    
