@@ -1,3 +1,27 @@
+Background
+    SPHINGOLIPID: a kind of lipid, found in high concentrations in the plasma membrane
+    CERAMIDE: building block molecules of sphingolipids
+        Synthesized de novo in the ER
+        Then transported to Golgi for modification and package into vesicles => into the membrane or final destination
+    BODIPY: chemical compound used in fluorescent dies
+    PHOTOBLEACHING: loss of fluorescence of a sample due to repeated excitation/fluorescence cycles
+Light microscopy: uses visible light
+    Bright field: the usual, 2 lens, needs staining => can't do in-vivo
+    Dark field: doesn't need staining => can do in-vivo
+    PHASE CONTRAST MICROSCOPY: based on phase differences between the light that encounters the specimen (scattered) and the light that doesn't
+        Darker zones are dense structures, e.g. nucleus, ribosomes
+        No staining => can do in vivo
+        Can create visual artifacts like halos
+        Requires a set of rings in the microscope
+    DIFFERENTIAL INTERFERENCE CONTRAST MICROSCOPY (DIC): similar to phase contrast, but uses polarized light
+        Higher resolution than phase contrast, no halos
+        Achieves a 3D effect
+        Requires a set of prisms in both the microscope and the objective
+Microscope config
+    UPRIGHT MICROSCOPE: lens is above the sample, light source is below
+        Common in histology
+    INVERTED MICROSCOPE: lens is below the sample, light source is above
+        Common in cell culture. Can be used with glass containers
 Airy disk: blur in microscope due to refraction
     Sets a limit to the level of detail (resolution) that a microscope can get
     The smaller wavelength (colder colors), the smaller the airy disk
@@ -22,10 +46,8 @@ Contrast: ability to distinguish what we want to see against the background
     Transparent fixed samples: TEM
     Specific protein or structure (in its original place): fluorescence (with optical microscopy)
     Opaque objects: SEM
-Microscope config
-    Upright: watching the sample from above. Vs. inverted
-Working distance: distance from lens to sample
 Lens
+    WORKING DISTANCE: distance from lens to sample/coverslip
     Chromatic aberration: distortion because != wavelengths refract differently
         Achro: corrects this
     Spherical aberration: distortion because a planar target can't focus on a planar surface
@@ -42,6 +64,13 @@ Lens
     Coverslip thickness: standard is 0.17mm, but all of them are manufactured
         Collar may help, but objectives have an optimal width
     DIC: suitable for polarized light
+Sample carrier
+    MICROSCOPIC SLIDE: thick, glass surface where the sample is placed
+    COVERSLIP: thin, small glass surface that covers the sample. Should be 0.17mm glass
+    Light should encounter coverslip first, and thickness should be 0.17mm. Otherwise, light is scattered
+    Upright microscope: sample on top of slide, then coverslip
+    Inverted microscope: sample on top of coverslip, then slide
+    Avoid plastic coverslips, they are too thick, interact with polarized light, and have auto fluorescence
 Mounting
     Always count, because you need to have always the same number of cells per experiment for reproducibility
     Adherent: place the coverslip in the bottom of the plate, then let the cells grow
@@ -53,10 +82,10 @@ Mounting
         Glycocalyx is anionic, but glass is, too => coating needs to be cationic
         Submerging the coverslip in HCl overnight helps to 'clean' it
         Or cover the coverslip with ECM compounds, like collagen (but it's expensive)
-Fixing
-    Cross-linking: creates links between proteins and within protein residues
+Fixing: preserve the current cellular state and morphology
+    CROSS-LINKING FIXATIVE: compound that fixes cellular state by creating links between proteins and within protein residues
         Formaldehyde: it's a gas - sold as formalin: liquid + saturated with formaldehyde gas + methanol (but methanol is a fixative, too)
-        Paraformaldehyde: polymerized, solid form of formaldehyde. Powder, should be added a base and heated
+        Paraformaldehyde (PFA): polymerized, solid form of formaldehyde. Powder, should be added a base and heated
             But the vapors are dangerous
             PFA is methanol free, better than formalin
         Gluteraldehyde: for EM
@@ -75,11 +104,13 @@ Staining
     Dyes: binding to acid or basic components
     Fluorescence: binding to a particular molecule
     Organelle staining dyes: can cross membranes without breaking them, and bind depending on the organelle
-    Plasma membrane: using fluorescently linked lectins => bind to the glycocalyx
-    MitoTracker: for mitochondria. Reliant on membrane potential. First dye, then fix (because fixation removes membrane potential)
-    BODIPY ceramide: fluorescent lipid that accumulates in Golgi. First dye, then fix (because fixation stops Golgi transport)
-    DAPI and Hoetsch: bind to DNA => stain nucleus
+        Plasma membrane: using fluorescently linked lectins => bind to the glycocalyx
+        MitoTracker: for mitochondria. Reliant on membrane potential. First dye, then fix (because fixation removes membrane potential)
+        BODIPY CERAMIDE: fluorescent lipid that accumulates in Golgi. First dye, then fix (because fixation stops Golgi transport)
+        DAPI and Hoetsch: bind to DNA => stain nucleus
     Antibodies are cleaner in general
     Block: prevent non-specific interactions. Ideally, 10% FBS
-Mounting media: prevent air because of the != refraction index
-    E.g. mobiol
+MOUNTING MEDIUM: liquid/gel applied to the sample (between slide and coverslip)
+    Preservation: avoid drying out, photobleaching
+    Make the refraction index closer to glass' => better resolution
+    MOWIOL: a popular mounting medium for microscopy

@@ -1,9 +1,4 @@
-Light microscopy: uses visible light
-    Bright field: the usual, 2 lens, needs staining => can't do in-vivo
-    Dark field: doesn't need staining => can do in-vivo
-    Phase contrast: based on phase differences. Darker zones are dense structures, e.g. nucleus, ribosomes
-        No staining => can do in vivo
-    DIC/Nomarsky: variation of phase contrast, to see 3D surface
+Light microscopy: moved to 22_lab_techniques/18_microscopes.txt
 Fluorescence microscopy
     Small molecule fluorescent dyes: dye has affinity for certain molecule, e.g. DNA. You need to kill the cell
     Immunofluorescence: uses flurorescent antibodies. You need to kill the cell
