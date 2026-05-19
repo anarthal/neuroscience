@@ -5,6 +5,8 @@ Background
         Then transported to Golgi for modification and package into vesicles => into the membrane or final destination
     BODIPY: chemical compound used in fluorescent dies
     PHOTOBLEACHING: loss of fluorescence of a sample due to repeated excitation/fluorescence cycles
+    FORMALIN: water + formaldehyde + ethanol mixture
+    FORMOL: commercial name for formalin
 Light microscopy: uses visible light
     Bright field: the usual, 2 lens, needs staining => can't do in-vivo
     Dark field: doesn't need staining => can do in-vivo
@@ -114,3 +116,20 @@ MOUNTING MEDIUM: liquid/gel applied to the sample (between slide and coverslip)
     Preservation: avoid drying out, photobleaching
     Make the refraction index closer to glass' => better resolution
     MOWIOL: a popular mounting medium for microscopy
+Histology section preparation
+    Tissue processing: from a fresh specimen, get a thin slice that can be preserved long-term
+        Fixation: same function as fixation for cell samples. Usually with formalin
+        Dehydration: remove all water, because paraffin wax is hydrophobic. Uses ethanol (volatile and mixes with water)
+        Clearing: remove all ethanol, because it does not mix with paraffin wax. Uses xylene (mixes with ethanol and paraffin wax)
+        Wax infiltration: make the tissue consistent enough to be cut in thin slices. Uses hot paraffin wax that later solidifies
+        Embedding: place the tissue in a wax block so it can be cut. Defines the orientation when slicing => critical
+        Slicing
+    Staining: from a processed slice, apply the stain for visualization and mount it on a slide for visualization and storage
+        De-wax: remove all wax, because it's hydrophobic and does not mix with stain components, which are water-based. Uses xylene
+        Rehydrate: remove xylene and replace it with water. Uses ethanol, in decreasing concentrations
+        Stain
+        Dehydrate: remove all water again, for preservation. Same procedure as in tissue processing (ethanol)
+        Clearing: remove ethanol, to make tissue transparent. Same procedure as in tissue processing (xylene)
+        Mounting: apply mounting media and place on the slide
+    MORDANT AGENT: chemical that helps the dye attach to the tissue
+        May be applied before, during or after the staining, depending on the concrete stain
