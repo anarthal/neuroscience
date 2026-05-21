@@ -1,10 +1,85 @@
-WGS = Whole Genome Sequencing
-Single-nucleotide variation: a deviance from the reference genome in one nucleotide
-SNPs: a single-nucleotide variation present in at least 1% of the population (i.e. relatively common)
-    Usually does not give us a strong phenotype
-Copy number variation: != numbers of copies of the same gene
-Array-based comparative genomic hybridization: introduce probes with specific sequences to verify if they match
-SNP arrays
-    They also allow to know if there are deletions or duplications (studying intensity)
-    In normal heterozygosis, every progenitor may have a != allele (or not) => for the same chromosome, you will be heterozygotic for some SNPs, homo for others
-    
+Background
+    AMYLASE: enzyme that digests starch
+    HAPLOTYPE BLOCK: block within a chromosome where almost no historical recombination has happened
+        All SNPs within the block are inherited together
+    WGS = Whole Genome Sequencing
+Genomics answers 'what can happen?': genetic risk, inherited traits, evolutionary history
+GENETIC DISEASE: a disease caused by a change in a DNA sequence
+    Germline: mutation inherited from parents
+    Acquired: mutation during lifetime
+REFERENCE GENOME: fully sequenced genome of a set of individuals used as a coordinate system to define genetic variability
+    Human: hg18 (older) and hg38. But does not represent all genetic backgrounds equally
+Genetic variation
+    SINGLE-NUCLEOTIDE VARIATION (SNV): a deviance from the reference genome in one nucleotide
+        SINGLE-NUCLEOTIDE POLYMORPHISM (SNP): a single-nucleotide variant present in at least 1% of the population (i.e. relatively common)
+        A SNV does not imply disease
+        Epilepsy associated with a SNV in ACh ion channels
+        Autism associated with a SNV in synaptic proteins
+        B ALLELE: for a biallelic SNV, the least common variant (vs. the one in the reference genome)
+    Indels: small insertions/deletions. E.g. intellectual disability associated with indels in neuronal developmental genes
+    Tandem repeat expansion: increase in the number of copies of a repetitive sequence of DNA
+        Usually causes disease when sequences get too long (over a threshold)
+        E.g. Huntington disease
+    COPY NUMBER VARIATION (CNV): gain or loss of large DNA segments
+        Autism associated with chromosomal micro-deletions
+        Schizophrenia associated with duplications in genes affecting synaptic balance
+        Genetic backgrounds where potatoes were part of the diet have more amylase gene copies
+    Structural variants: duplication, deletion or transferral of a chromosome or large parts of it
+        E.g. neural development disorders
+    Regulatory mutations: mutations in regulatory sequences => alter quantity or timing of expression
+    Only ~0.5% of the genome is variable
+Study procedures
+    COMPARATIVE GENOMIC HYBRIDIZATION (CGH): technique to study CNVs and structural variants qualitatively across the chromosomes
+        Patient's DNA and reference DNA, fluorescently labelled with != colors (e.g. red and green), 1:1 proportion
+        Metaphase chromosomes (normal DNA), no labelling
+        Labelled and unlabelled samples competitively hybridize with normal DNA and produce a signal across each chromosome
+        Study relative signal intensity for each color => detect variations
+            E.g. yellow: normal, green: deletion, red: gain
+        Can't detect balanced variations (e.g. translocations or reversals)
+    ARRAY-BASED COMPARATIVE GENOMIC HYBRIDIZATION (aCGH): technique to check for a set of CNVs in a genome
+        Like CGH, but metaphase chromosomes are replaced by short DNA fragments where suspected CNVs may happen
+        Each array cell targets a specific CNV
+        Signal intensity proportional to the amount of DNA
+        Usual signal representation: log2 R = log2(sample_intensity/reference_intensity)
+    SNP ARRAY: technique to check whether a set of SNPs is present in a genome
+        Works for biallelic variants: assumes that the population has either allele A or B
+        Probes: fluorescently labelled sequences matching either allele A (one color) or allele B (!= color) for one SNP
+        Each array cell contains both probes targeting one SNP
+        Patient's DNA is amplified by PCR, fixed to the array and hybridized to the probes
+        Resulting signal
+            Single color (e.g. red or green): homozygous for that allele
+            Color mix (e.g. yellow): heterozygous
+            No signal: unknown. May be due to technical error, rare 3rd allele
+        Modern SNP arrays quantify the signal for each allele, Ia and Ib => in general better than aCGH
+        B ALLELE FREQUENCY (BAF): for a biallelic SNV being sequenced, the proportion of the obtained signal supporting the B allele
+            BAF = Ib / (Ia + Ib)
+            Used for genotyping
+            Homozygous A: ~0.0
+            Heterozygous: ~0.5
+            Homozygous B: ~1.0
+        LOG R RATIO (LRR): ratio between the total signal and the expected signal if there were only two copies of the DNA under study
+            LRR = log2 ((Ia + Ib) / I_expected)
+            Used to detect CNVs
+            2 copies: ~0
+            Insertion: >0
+            Deletion: <0
+        Cheaper and more scalable than sequencing, but targets only known variants
+    Sequencing
+        VARIANT ALLELE FREQUENCY (VAF): when sequencing a SNV, the proportion of reads supporting a particular letter
+            VAF = num_variant_reads / total_reads
+            Low VAF does not imply biology, it can be because of sequencing errors
+        READ DEPTH/COVERAGE: the amount of times that a particular base has been sequenced (i.e. appears in a read)
+            30x: a base appears in 30 reads
+            If a certain segment has increased/decreased coverage (against the )
+GENOME-WIDE ASSOCIATION STUDY (GWAS): observational study that tries to find associations between genome variants and a trait (e.g. disease)
+    E.g. which genes may be associated with Alzheimer's disease?
+    May use data from the technologies described above (e.g. sequencing or SNP arrays)
+    Outputs risk, not certainty
+    MANHATTAN PLOT: plot of all SNPs in an study, with X = chromosome position, Y = -log10(P)
+        P = statistical significance of the association of the SNP to the trait under study
+        Higher points => higher significance
+    LINKAGE DISEQUILIBRIUM (LD): effect showing several nearby SNPs as linked to a trait because contiguous traits are segregated together
+        Some of these SNPs may be biologically relevant, the others are just artifacts => complicates interpreting results
+        LD heatmap: shows correlation between pairs of SNPs
+    Conclusions don't tell anything about cell type
+POLYGENIC RISK SCORE: relative risk of an individual with a certain genetic background of suffering a disease vs. a control group
