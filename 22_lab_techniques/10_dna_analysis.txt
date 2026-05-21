@@ -1,10 +1,18 @@
 Background
     cDNA: coding DNA. No introns present
-Sequencing
-    Sanger
-        ddNTP: modified nucleotide linked to a fluorophore that inhibits further polymerization
-        Can only sequence small segments, up to 1kb
-        Reading longer sequences: 'walking primer'. Design a primer with the nucleotides in the ending sequence
+SANGER SEQUENCING: slow but accurate method to determine the sequence of a short DNA molecule
+    Uses a complementary DNA primer: needs to know some nucleotides before the sequence of interest
+    ddNTP: modified nucleotide linked to a fluorophore that inhibits further polymerization
+        Each ddNTP can replace one nucleotide, and is labeled with a != color
+    In 4 tubes, sequence of interest + dNTPs + ddNTPs
+        When a ddNTP is incorporated at length N, synthesis is terminated => Position N contains the corresponding nucleotide
+        Separate using electrophoresis => sizes for each tube => sequence
+    Can only sequence small segments, up to 1kb (ddNTP addition is random => smaller sequences have greater probability of happening)
+    Reading longer sequences: 'walking primer'. Design a primer with the nucleotides in the ending sequence
+NEXT-GENERATION SEQUENCING (NGS): collecting of techniques to sequence with higher throughput
+    Sequencing happens with methods similar to Sanger, but in parallel, targeting random DNA fragments
+    SEQUENCING READ: each of the DNA sequences output by NGS
+    Reads must be processed with bioinformatics tools to make sense of them
 PCR
     Tm (melting): temperature at which 50% of primers are annealed
     Ta (annealing): temperature at which primers are annealed
