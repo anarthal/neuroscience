@@ -1,0 +1,50 @@
+EPIGENOMICS: genome-wide study of epigenetic markers
+    Answers 'how is DNA being used?'
+    Cell-type specific, dynamic, with environmental influence
+Markers
+    DNA methylation in promoters: associated with repression
+        Happens in the C at CpG sites
+        The one with most long-term effects, but can still change through lifetime
+        Acts as a signal to recruit proteins that stick histone markers and close DNA. Does not block DNA directly
+        Methylation in the exon does NOT cause silencing
+    Histone modifications
+        Shorter-term effects than DNA methylation
+        Acts as a signal to recruit proteins that open/close DNA. Does not block DNA directly
+        Learning changes histone marks
+        H3K4me3: active promoter
+        H3K27ac: active enhancer
+        H3K9ac: open chromatin
+        H3K27me3: repression
+        H3K9me3: constitutive heterochromatin
+    Chromatin accessibility: physical outcome of epigenetics
+        Closed chromatin: gene is silent
+        Permissive chromatin: intermediate state between open and closed
+        Open chromatin: gene is transcribed
+Study methods
+    BISULFITE SEQUENCING: technique to study DNA methylation across the genome
+        DNA is extracted and fragmented into a library
+        Sodium bisulfite converts unmethylated C into U. Methylated C are left as C
+        PCR amplification and sequencing => U amplified as T
+        After alignment, compare original sequences with sequences amplified after bisulfite conversion
+            Original C, converted C => C was methylated
+            Original C, converted T => C was unmethylated
+            Original T, converted T => this has always been a T, unrelated to methylation
+    CHROMATIN IMMUNOPRECIPITATION SEQUENCING (ChIP-seq): technique to study histone marks across the genome
+        Select an antibody targeting a specific histone mark
+        DNA is extracted, cross-linked (prevent nucleosomes from disassembling) and fragmented
+        Immunoprecipitation: with antibodies, purify the histones containing the selected mark and its associated DNA
+        Clean up DNA and sequence => the DNA that appears in sequencing is the one containing the mark
+    ASSAY FOR TRANSPOSASE-ACCESSIBLE CHROMATIN (ATAC-seq): technique to study which parts of the genome are open chromatin
+        Cells are lysed gently (intact nucleus)
+        TAGMENTATION: process where a transposase enzyme cuts DNA and inserts sequencing adapters, in a single step
+        A transposase enzyme enters the nucleus and performs tagmentation only where chromatin is open
+        Select DNA fragments containing the adapters only
+        Sequence them => the DNA that appears in sequencing is the one where chromatin is open
+    Unbiased: none of these methods require targeting a particular sequence
+    Combine these methods with GWAS
+        GWAS: set of SNPs that might be important. Look up epigenetic profiles for these loci
+        ATAC-seq: is the chromatin open at this locus? In which cell types?
+        ChIP-seq: what kind of element is the locus? Enhancer, promoter?
+        Bisulfite sequencing: does the locus show long-term repression
+POISED GENE: gene that is not active, but is in a ready state so it can be activated quickly
+SUPER-ENHANCER: cluster of enhancers close in the genome

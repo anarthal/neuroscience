@@ -13,6 +13,9 @@ NEXT-GENERATION SEQUENCING (NGS): collecting of techniques to sequence with high
     Sequencing happens with methods similar to Sanger, but in parallel, targeting random DNA fragments
     SEQUENCING READ: each of the DNA sequences output by NGS
     Reads must be processed with bioinformatics tools to make sense of them
+    SEQUENCING ADAPTER: small fragments of DNA appended to DNA fragments to be sequenced, required for the sequencing process
+    DNA LIBRARY: set of small DNA fragments with adapters that can be fed to a parallel sequencing instrument
+        Usually performed by DNA sequencing facilities
 PCR
     Tm (melting): temperature at which 50% of primers are annealed
     Ta (annealing): temperature at which primers are annealed
