@@ -56,6 +56,27 @@ Digestion: divide the protein into small peptide sequences that can be analyzed 
     TRYPSIN: protease that cleaves at lysine (K) and arginine (R) unless followed by a proline (P)
         Used in proteomics because it's well characterized => we can simulate digestions
     Non-specific proteases: better coverage but we can't simulate digestion
+MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a molecule
+    Ions subjected to an electric/magnetic field are deflected differently depending on their m/z
+    Vacuum important in instrumentation (avoid interference from gas molecules)
+    MOLECULAR ION: the ion originated from the precursor molecule (molecule to analyze), without breaking it
+    FRAGMENT ION: ions created by breaking the precursor molecule
+    BASE PEAK: highest peak in the MS spectrum. Doesn't have to be the precursor peak
+    PRECURSOR PEAK: peak in the MS spectrum corresponding to the molecular ion
+    Ion source: generates ions from the molecule to analyze
+        HARD IONIZATION: high-energy ionization methods that destroy the molecular ion and generate many fragments => for small molecules
+        SOFT IONIZATION: low-energy ionization methods that don't destroy the molecular ion => for big biomolecules
+        ELECTRON IMPACT (EI): hard ionization method where molecules are bombarded with electrons => end up losing electrons
+        FAST ATOM BOMBARDMENT (FAB): another hard ionization method
+        ELECTROSPRAY IONIZATION (ESI): soft ionization method where compounds in solution are applied a high voltage and nebulize in a spray
+            Produces ions with multiple charges => avoids too big m/z values => helps instruments
+            Positive ion mode: compound gains an H+. For basic compounds
+            Negative ion mode: compound loses an H+. For acid compounds
+            The most sensitive (works with low concentrations)
+        MATRIX-ASSISTED LASER DESORPTION IONIZATION (MALDI): soft ionization method where compounds crystalize in a matrix and are extracted with a laser
+            Generates singly charged ions
+        
+
 Most 6 amino acid sequences are unique within the proteome => identification
 
 
@@ -108,10 +129,7 @@ Bottom up is not good enough to profile the entire proteome, better for targeted
     No method is enough to separate enough the entire proteome. Sometimes use 2 techniques to separate in 2 dimensions
     Top-down: first measure the intact protein, then fragment, then measure the fragments to read the sequence
 Protein identification
-    Molecular ion: the ion originated from the precursor molecule, without breaking
-    Fragment ion: ions created by breaking the precursor molecule
-    Precursor peak: the peak in the frequency in the m/z corresponding to the molecular ion. At m/z=M+
-    Base peak: the peak with the highest frequency in the m/z distribution. Doesn't have to be the precursor peak
+    
     For proteins, we usually use soft ionization (breaks molecules less)
     There should be a peak at m/z=M+1 <= corresponds to the relative abundance of 13C (height num carbon atoms/100 * precursor peak)
     Adducts: additional peaks that appear when other compounds (e.g. water, acetic acid) gets integrated in the ions
