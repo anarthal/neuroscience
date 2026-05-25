@@ -1,10 +1,64 @@
+Background
+    PROTEOFORMS: each of the proteins derived from a single gene. May be different due to alternative splicing and PTMs
+    AMPHOLYTE: molecule with both acid and basic groups. Can act as either depending on pH (e.g. amino acids)
+Why proteomics
+    mRNA levels don't always correlate with protein concentration (mRNA stability, protein degradation)
+    From a single mRNA, multiple proteoforms (post-translational modifications)
+Difficulties
+    No equivalent to PCR for proteomics
+    Proteome is more varied and more dynamic than genome/transcriptome
+    Wide range of concentrations
+Approaches
+    Expression proteomics: how much protein is expressed in each cell type?
+    Structural proteomics
+        Distribution in intracellular compartments
+        Which post-translational modifications does the protein have?
+        How does it interact with other proteins?
+    Functional proteomics: what does this protein do?
+Separation: whole-cell lysate is too complex => separating reduces complexity
+    Electrophoresis
+        1D-SDS-PAGE: see 22_lab_techniques/11_sds_page.txt
+            Bad resolution: every band has lots of proteins
+            Not enough for whole cell lysates, but may be enough for CSF
+        ISOELECTRIC FOCUSING (IEF): separating method according to isoelectric point (pI)
+            When subjected to an electric field in a pH gradient, molecules migrate until reaching their pI
+        2D-SDS-PAGE: separating method using isoelectric focusing first, then SDS-PAGE
+            IMMOBILIZED PH GRADIENT (IPG) STRIP: plastic strip with a pH gradient, for isoelectric focusing. Acts as stacking gel
+            Conventional staining
+            Staining might interfere with downstream analysis
+            Not very reproducible
+            Large, hydrophobic proteins don't separate well during isoelectric focusing
+            Different proteoforms may have != pI => != bands
+            Can't detect low concentration proteins
+        PREPARATIVE ISOELECTRIC FOCUSING: isoelectric focusing that can separate a high quantity of proteins (vs. analytical)
+            Usually in solution. pH gradient produced by soluble ampholytes
+        CAPILLARY ELECTROPHORESIS: isoelectric focusing across a microscopic capillary
+            Small sample concentrations
+            More precise and reproducible
+            Can be coupled to mass spectrometry
+    CHROMATOGRAPHY: separation method family based on interaction times between a stationary and a mobile phase
+        RETENTION TIME: in chromatography, period of time that each analyte takes to exit the stationary phase
+        Mobile phase may be liquid or gas
+        Samples interacting more move more slowly
+        CHROMATOGRAM: plots the chromatograph's detector signal vs. time (visual output of a chromatography)
+        HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC): generic term for modern chromatography where the mobile phase is liquid (uses pumps instead of gravity)
+        REVERSE PHASE LIQUID CHROMATOGRAPHY: stationary phase is non-polar, mobile phase is polar (e.g. proteins solved in water)
+            Separates proteins based on hydrophobicity. More hydrophobic proteins interact more => elute later
+        NORMAL PHASE LIQUID CHROMATOGRAPHY: stationary phase is polar, mobile phase is non-polar (e.g. organic solvent)
+            Separates proteins based on hydrophobicity. More hydrophilic proteins interact more => elute later
+        SIZE EXCLUSION CHROMATOGRAPHY: stationary phase are beads with pores (e.g. agarose)
+            Separates proteins based on shape and size. Smaller molecules get into the pores => interact more => elute later
+        GAS CHROMATOGRAPHY: mobile phase is a gas, stationary phase is solid or liquid
+            Gas should be inert, e.g. He
+Digestion: divide the protein into small peptide sequences that can be analyzed by MS
+    Short sequences better for MS analysis: more sensitivity, less absolute error
+    Some large, hydrophobic proteins can't be analyzed intact
+    TRYPSIN: protease that cleaves at lysine (K) and arginine (R) unless followed by a proline (P)
+        Used in proteomics because it's well characterized => we can simulate digestions
+    Non-specific proteases: better coverage but we can't simulate digestion
+Most 6 amino acid sequences are unique within the proteome => identification
 
-No equivalent to PCR for proteomics
-Expression proteomics: how much protein is expressed in each cell type?
-Structural
-    which post-translational modifications does the protein have?
-    distribution in intracell compartments
-    how does it interact with other proteins
+
 Databases: with all proteins that are expressed per cell type, with their sequence
 Mass spectrometry
     Measure mass of intact/partially digested proteins
@@ -28,25 +82,6 @@ Mass spectrometry
     Top-down: analyze entire proteins. You get the PTMs and get better results with similar proteins, but isn't universal (works badly for large, hydrophobic proteins)
     First clean-up (detergents, protease inhibitors, DNAses)
     Separating 1st is good because intact proteins have a more varied range of physical properties (e.g. move != in electrophoresis)
-    Separation
-        Electrophretic
-            1D-SDS-PAGE
-                Thiol reductant so the protein unfolds
-                SDS charges the protein
-                Use polyacrylamide (instead of agarose) for the gel
-                Regular electrophoresis and measure distance traveled
-                Bad resolution
-            Isoloelectric focus: migration across a pH gradient
-                Proteins move until reaching its isoelectric point
-                Might be done in a gel or solution
-            2D-SDS-PAGE: combination of 1D-SDS-PAGE and isoelectric focus
-                First isoelectric focus, then 1D-SDS-PAGE
-                Conventional staining
-                Staining might interfere with downstream analysis
-        Chromatographic: separate based on interactions between a stationary and a mobile phase
-            Mobile phase: the proteins dissolved in liquid/carrier gas (liquid or gas chromatography)
-            Samples interacting more move more slowly
-            Retention time: how much time does the metabolite take to exit the stationary phase?
     The most used protease is trypsin
         Better if they have a well specifies specificity
         E.g. proteinase K is not specific
