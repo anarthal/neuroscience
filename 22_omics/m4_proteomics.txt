@@ -16,6 +16,30 @@ Approaches
         Which post-translational modifications does the protein have?
         How does it interact with other proteins?
     Functional proteomics: what does this protein do?
+Analysis levels
+    BOTTOM-UP PROTEOMICS: approach where proteins are digested into peptides < 30 aas, then analyzed
+        Not good to profile the entire proteome (too complex), better for targeted proteomics
+        Tools are well developed
+        Peptide to protein inference difficult
+        Better separate before digestion
+        SHOTGUN PROTEOMICS: bottom-up approach where a protein mixture is digested and analyzed all together (less targeted than usual approaches)
+    MIDDLE-DOWN PROTEOMICS: approach where proteins are digested into peptides > 30 aas, then analyzed
+    TOP-DOWN PROTEOMICS: approach where proteins are analyzed intact
+        Can get PTMs
+        Not supported for all proteins
+        Tools less developed
+        Sample preparation more critical
+TARGETED PROTEOMICS: method to detect and quantify one (or several) known proteins (e.g. drug testing)
+    SELECTED REACTION MONITORING (SRM): MS technique for targeted proteomics where a single protein is filtered and analyzed
+        Usually ESI-QqQ
+        Both the 1st and 2nd detector filter for specific m/z values
+    MULTIPLE REACTION MONITORING (MRM): MS technique for targeted proteomics where multiple proteins are filtered and analyzed
+        Usually ESI-QqQ
+        The 1st detector filters for one m/z value. The 2nd selects multiple
+        Ion transition: each of the filters in the 2nd analyzer
+        Cheaper than PRM, usually for drug testing
+    PARALLEL REACTION MONITORING (PRM): MS technique for targeted proteomics where the entire sample is analyzed at the same time
+        Usually orbitrap
 Separation: whole-cell lysate is too complex => separating reduces complexity
     Electrophoresis
         1D-SDS-PAGE: see 22_lab_techniques/11_sds_page.txt
@@ -64,8 +88,6 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
     Vacuum important in instrumentation (avoid interference from gas molecules)
     MOLECULAR ION: the ion originated from the precursor molecule (molecule to analyze), without breaking it
     FRAGMENT ION: ions created by breaking the precursor molecule
-    BASE PEAK: highest peak in the MS spectrum. Doesn't have to be the precursor peak
-    PRECURSOR PEAK: peak in the MS spectrum corresponding to the molecular ion
     Ion source: generates ions from the molecule to analyze
         HARD IONIZATION: high-energy ionization methods that destroy the molecular ion and generate many fragments => for small molecules
         SOFT IONIZATION: low-energy ionization methods that don't destroy the molecular ion => for big biomolecules
@@ -114,37 +136,22 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
     MATRIX EFFECTS: inaccuracies in measurement when the target analyte is contaminated with other compounds (i.e. is in a matrix, like blood)
         Upstream analysis methods (i.e. detergents) can also produce this
         ION SUPPRESSION: matrix effect where a contaminant decreases the target analyte's signal
-Analysis levels
-    BOTTOM-UP PROTEOMICS: approach where proteins are digested into peptides < 30 aas, then analyzed
-        Not good to profile the entire proteome (too complex), better for targeted proteomics
-        Tools are well developed
-        Peptide to protein inference difficult
-        Better separate before digestion
-        SHOTGUN PROTEOMICS: bottom-up approach where a protein mixture is digested and analyzed all together (less targeted than usual approaches)
-    MIDDLE-DOWN PROTEOMICS: approach where proteins are digested into peptides > 30 aas, then analyzed
-    TOP-DOWN PROTEOMICS: approach where proteins are analyzed intact
-        Can get PTMs
-        Not supported for all proteins
-        Tools less developed
-        Sample preparation more critical
-TARGETED PROTEOMICS: method to detect and quantify one (or several) known proteins (e.g. drug testing)
-    SELECTED REACTION MONITORING (SRM): MS technique for targeted proteomics where a single protein is filtered and analyzed
-        Usually ESI-QqQ
-        Both the 1st and 2nd detector filter for specific m/z values
-    MULTIPLE REACTION MONITORING (MRM): MS technique for targeted proteomics where multiple proteins are filtered and analyzed
-        Usually ESI-QqQ
-        The 1st detector filters for one m/z value. The 2nd selects multiple
-        Ion transition: each of the filters in the 2nd analyzer
-        Cheaper than PRM, usually for drug testing
-    PARALLEL REACTION MONITORING (PRM): MS technique for targeted proteomics where the entire sample is analyzed at the same time
-        Usually orbitrap
+    Spectrum interpretation
+        BASE PEAK: highest peak in the MS spectrum. Doesn't have to be the precursor peak
+        MOLECULAR ION PEAK/PRECURSOR PEAK: peak in the MS spectrum corresponding to the molecular ion
+        Any peak at m/z = M corresponding to an ion containing C12 has an adjacent peak corresponding to C13
+            1% of all C atoms is C13 => the C13 peak is smaller
+            M and M+1 peaks separated by 1/z (mass difference of 1)
+            M+1 peak intensity proportional to the number of C atoms
+        ADDUCT ION: ion formed by merging the molecular ion with another atom or compound (e.g. [M+Na]+)
+            Can create peaks with m/z > the molecular ion's m/z
+
 
 
 Most 6 amino acid sequences are unique within the proteome => identification
 
 
 Protein identification
-    There should be a peak at m/z=M+1 <= corresponds to the relative abundance of 13C (height num carbon atoms/100 * precursor peak)
     Adducts: additional peaks that appear when other compounds (e.g. water, acetic acid) gets integrated in the ions
     Peptide mass fingerprinting: we get the mass spec of peptide fragments => database
         Cleave usually with trypsin => Cut at lysine or arginine, if they're not next to an arginine
