@@ -1,6 +1,7 @@
 Background
     PROTEOFORMS: each of the proteins derived from a single gene. May be different due to alternative splicing and PTMs
     AMPHOLYTE: molecule with both acid and basic groups. Can act as either depending on pH (e.g. amino acids)
+    ISOTOPE: set of atoms belonging to the same chemical elements, but with != mass (i.e. != num neutrons)
 Why proteomics
     mRNA levels don't always correlate with protein concentration (mRNA stability, protein degradation)
     From a single mRNA, multiple proteoforms (post-translational modifications)
@@ -58,6 +59,8 @@ Digestion: divide the protein into small peptide sequences that can be analyzed 
     Non-specific proteases: better coverage but we can't simulate digestion
 MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a molecule
     Ions subjected to an electric/magnetic field are deflected differently depending on their m/z
+        More mass => deflected less
+        More charge => deflected more
     Vacuum important in instrumentation (avoid interference from gas molecules)
     MOLECULAR ION: the ion originated from the precursor molecule (molecule to analyze), without breaking it
     FRAGMENT ION: ions created by breaking the precursor molecule
@@ -89,9 +92,10 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
             Scanning: ions flow continuously
         COLLISION-INDUCED DISSOCIATION (CID): technique to fragment ions in a gas phase using collisions
         TRIPLE QUADRUPOLE (QqQ): tandem MS setup using a quadrupole for selecting, a collision cell, and another quadrupole for analyzing
-            Low resolution => for targeted proteomics (vs. discovery)
+            Low resolution but effective mass filter => for quantitative analysis (i.e. how much protein do I have?)
         ION TRAP: chamber that stores, fragments and selects ions in discrete cycles
             Low resolution, but higher than QqQ
+            Better for qualitative analysis (i.e. identification, sequencing)
         TIME OF FLIGHT (TOF): accelerates ions and separates them based on the time it takes for them to get to the detector
             High resolution
             Usually with MALDI
@@ -108,14 +112,21 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
             Refinement of the Faraday cup
         MICROCHANNEL PLATE DETECTOR (MCP): plate with small conduits, each acting as a dynode => spatial resolution
     MATRIX EFFECTS: inaccuracies in measurement when the target analyte is contaminated with other compounds (i.e. is in a matrix, like blood)
+        Upstream analysis methods (i.e. detergents) can also produce this
         ION SUPPRESSION: matrix effect where a contaminant decreases the target analyte's signal
 Analysis levels
     BOTTOM-UP PROTEOMICS: approach where proteins are digested into peptides < 30 aas, then analyzed
+        Not good to profile the entire proteome (too complex), better for targeted proteomics
         Tools are well developed
         Peptide to protein inference difficult
         Better separate before digestion
+        SHOTGUN PROTEOMICS: bottom-up approach where a protein mixture is digested and analyzed all together (less targeted than usual approaches)
     MIDDLE-DOWN PROTEOMICS: approach where proteins are digested into peptides > 30 aas, then analyzed
     TOP-DOWN PROTEOMICS: approach where proteins are analyzed intact
+        Can get PTMs
+        Not supported for all proteins
+        Tools less developed
+        Sample preparation more critical
 TARGETED PROTEOMICS: method to detect and quantify one (or several) known proteins (e.g. drug testing)
     SELECTED REACTION MONITORING (SRM): MS technique for targeted proteomics where a single protein is filtered and analyzed
         Usually ESI-QqQ
@@ -132,57 +143,7 @@ TARGETED PROTEOMICS: method to detect and quantify one (or several) known protei
 Most 6 amino acid sequences are unique within the proteome => identification
 
 
-Databases: with all proteins that are expressed per cell type, with their sequence
-Mass spectrometry
-    Measure mass of intact/partially digested proteins
-    You need to ionize the particle you want to measure
-    Subject the particle in movement to an electric/magnetic field, measure the radius of trajectory curvature
-    Gets a frequency distribution depending on the mass-to-charge ratio (m/z) of the particle
-        More mass => deflected less
-        More charge => deflected more
-    Analytical matching: if you get a sequence of >= 6 amino-acids, that's mostly unique within the proteome
-        Although some conserved sequences may match with more than 1 protein
-        If different measurements match to the same protein => more confident that it's actually this protein
-    Digestion (into smaller peptide chunks) and separation (!= proteins in != tubes) reduce complexity
-    There are instruments to measure the masses and the sequence of the peptide chunks
-    Problems
-        Dynamic: proteins change much more than DNA
-        Concentration !=: some proteins with high concentration, other (also interesting) much smaller
-        Dynamic range of MS: ~4 orders of magnitude
-        Separating increases sensitivity
-    Bottom-up: digest into small peptides, then try to recover
-        'Shotgun': you need to re-assemble. Less targeted
-    Top-down: analyze entire proteins. You get the PTMs and get better results with similar proteins, but isn't universal (works badly for large, hydrophobic proteins)
-    First clean-up (detergents, protease inhibitors, DNAses)
-    Separating 1st is good because intact proteins have a more varied range of physical properties (e.g. move != in electrophoresis)
-    The most used protease is trypsin
-        Better if they have a well specifies specificity
-        E.g. proteinase K is not specific
-    You need charged molecules to get them in mass spectrometer, wide range of techniques to achieve this
-    Tandem MS: 1st run a MS to separate by m/z (rough separation), keep only one m/z value, then run another MS with higher accuracy
-        QqQ: filter, fragment, filter. Filters efficiently, but lower resolution. Better for quantitative analysis (e.g. how much of a protein do I have?)
-        Ion trap: like QqQ, but it produces a finite set of analysis, rather than a continuous flow. Better for qualitative analysis (e.g. sequencing)
-    Time-of-flight analyzer: detect based on how much time it takes for molecules to reach the detector
-        Q-TOF: like QqQ, but last Q gets replaced by TOF => higher resolution
-    Cyclotron resonance: analyzes everything at the same time (without focusing on a single m/z), but very expensive
-    Resolution: how able is the tool to detect differences between similar m/z samples? M/dM
-    Accuracy: what's the smallest unit of mass that the tool can detect
-    Detectors
-        Faraday cup: collects ions and produces a current proportional to the number of incident ions
-        Dynode: has walls such that every time an ion hits, two electrons are emitted. Amplifies the signal
-    Matrix effects: other compounds used in upstream methods (e.g. chromatography) worsen MS results
-        Ion suppression: you get less signal than expected, and probably non-linear effects
-    Targeted proteomics
-        single-reaction monitoring: you need to know the protein of interest and the ion it fragments into
-        parallel-reaction monitoring: Q1 selects, Q2 fragments, but then a special analyzer capable of analyzing all the resulting fragments (e.g. PTMs)
-Bottom up is not good enough to profile the entire proteome, better for targeted analysis
-    Sample preparation critical (e.g. remove salts and detergents)
-    Separated using special methods, e.g. specialized chromatography techniques
-    No method is enough to separate enough the entire proteome. Sometimes use 2 techniques to separate in 2 dimensions
-    Top-down: first measure the intact protein, then fragment, then measure the fragments to read the sequence
 Protein identification
-    
-    For proteins, we usually use soft ionization (breaks molecules less)
     There should be a peak at m/z=M+1 <= corresponds to the relative abundance of 13C (height num carbon atoms/100 * precursor peak)
     Adducts: additional peaks that appear when other compounds (e.g. water, acetic acid) gets integrated in the ions
     Peptide mass fingerprinting: we get the mass spec of peptide fragments => database
