@@ -16,6 +16,9 @@ Approaches
         Which post-translational modifications does the protein have?
         How does it interact with other proteins?
     Functional proteomics: what does this protein do?
+PROTEIN QUANTIFICATION: answers 'how much of this specific protein do I have?'
+PROTEIN IDENTIFICATION: answers 'which protein is this?'
+PROTEIN SEQUENCING: answers 'what is the amino acid sequence of this protein?'
 Analysis levels
     BOTTOM-UP PROTEOMICS: approach where proteins are digested into peptides < 30 aas, then analyzed
         Not good to profile the entire proteome (too complex), better for targeted proteomics
@@ -145,14 +148,26 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
             M+1 peak intensity proportional to the number of C atoms
         ADDUCT ION: ion formed by merging the molecular ion with another atom or compound (e.g. [M+Na]+)
             Can create peaks with m/z > the molecular ion's m/z
+PEPTIDE MASS FINGERPRINTING (PMF): protein identification method that uses peptides from digestion as the protein 'fingerprints'
+    Most 6 amino acid sequences are unique within the proteome
+    1. Separate as much as possible (ideally single protein). This method does not work well with mixtures.
+    2. Digest the selected protein with a well characterized enzyme (e.g. trypsin) => peptides
+    3. Analyze the peptides with MS => peptide masses
+    4. Simulate the digestion of all known proteins => theoretical peptide masses for each protein
+    5. Match the obtained masses with the theoretical masses => scores (highest score => most likely protein)
+    Usually MALDI-TOF
+    Needs a complete database
+        SWISS-PROT: a protein sequence database
+    The better mass accuracy, the better results
+    Doesn't work well with PTMs => remove before analysis or predict so the software incorporates them
+    Ambiguity with homolog proteins
+    Incomplete digestion: the enzyme may not cleave every single site it's supposed to. Software should account for this
 
 
 
-Most 6 amino acid sequences are unique within the proteome => identification
 
 
 Protein identification
-    Adducts: additional peaks that appear when other compounds (e.g. water, acetic acid) gets integrated in the ions
     Peptide mass fingerprinting: we get the mass spec of peptide fragments => database
         Cleave usually with trypsin => Cut at lysine or arginine, if they're not next to an arginine
         Virtual digestion => From a protein with a known sequence, get the peptides that we may get
