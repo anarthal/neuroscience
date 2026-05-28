@@ -150,7 +150,7 @@ MASS SPECTROMETRY: technique to measure the mass-to-charge (m/z) ratio of a mole
             Can create peaks with m/z > the molecular ion's m/z
 PEPTIDE MASS FINGERPRINTING (PMF): protein identification method that uses peptides from digestion as the protein 'fingerprints'
     Most 6 amino acid sequences are unique within the proteome
-    1. Separate as much as possible (ideally single protein). This method does not work well with mixtures.
+    1. Separatthe selected protein with a well characterized enzyme (e.g. trypsin) => peptidese as much as possible (ideally single protein). This method does not work well with mixtures.
     2. Digest the selected protein with a well characterized enzyme (e.g. trypsin) => peptides
     3. Analyze the peptides with MS => peptide masses
     4. Simulate the digestion of all known proteins => theoretical peptide masses for each protein
@@ -158,39 +158,37 @@ PEPTIDE MASS FINGERPRINTING (PMF): protein identification method that uses pepti
     Usually MALDI-TOF
     Needs a complete database
         SWISS-PROT: a protein sequence database
-    The better mass accuracy, the better results
+    The better mass accuracy, the better results (bigger tolerance => more peptides match)
     Doesn't work well with PTMs => remove before analysis or predict so the software incorporates them
-    Ambiguity with homolog proteins
+    May result in ambiguity (e.g. amino acid sequence rearrangement does not change mass)
     Incomplete digestion: the enzyme may not cleave every single site it's supposed to. Software should account for this
+Peptide sequencing with tandem MS
+    Every amino-acid has a != mass
+    Peptides usually break across the peptide bond
+        B-ION: ion created when a peptide breaks and a charge is retained in the N-terminus fragment
+        Y-ION: ion created when a peptide breaks and a charge is retained in the C-terminus fragment
+        There are also a, c, x, z ions (other bonds breaking), but less frequent
+        b_i ion, y_i ion: for a peptide, B/Y ion containing i amino-acids
+        y-ions more frequent when using trypsin because K and R are more prone to retain charge
+    1. Assign peaks in the spectrum to y and b ions. y ions in the upper m/z values more intense
+    2. Deduce the sequence based on the differences in mass between each ion in the series
+    Not all ions in the series have the same likelihood of appearing
+    Labour intensive
+Protein identification with tandem MS
+    1. Separate
+    2. Digest the selected protein with a well characterized enzyme (e.g. trypsin) => peptides
+    3. Run the sample through MS/MS => spectrum for all peptides, selected m/z for 2nd analysis, single peptide spectrum
+    4. Simulate the digestion of all known proteins => theoretical mass spectra for each protein
+    5. Match the obtained masses with the theoretical spectra => scores (highest score => most likely protein)
+    SEQUEST: software that automates protein identification from tandem MS data
+    Can resolve ambiguities in PMF
+    Analyzes a single peptide instead of multiple peptides => unexpected PTMs can worsen results
+        
 
 
 
 
 
-Protein identification
-    Peptide mass fingerprinting: we get the mass spec of peptide fragments => database
-        Cleave usually with trypsin => Cut at lysine or arginine, if they're not next to an arginine
-        Virtual digestion => From a protein with a known sequence, get the peptides that we may get
-        From the sequence mass => Database => Set of protein hits
-        The more tolerance we have in mass measurements, the more hits we have
-        The more peptides we analyze, the narrower the search
-        Good for pure proteins (e.g. confirm 'is this the protein I want?'). But messy for protein mixtures
-        Ambiguity: e.g. amino acid rearrange => == mass
-        PTMs will fail to match => you may need to remove modifications (e.g. phosphorylations via a phosphatase)
-        For identification, not for sequencing
-    Sequencing with tandem MS
-        Every amino-acid has a != mass
-        Peptides usually break through the peptide bond
-        If we only get one charge to the molecule
-            b-ion: the N-terminus fragment of the molecule
-            y-ion: the C-terminus fragment
-        A given sequence that breaks generates a given mass spectrum
-            Assign peaks y_(N-1), y_(N-2) to the ones in the right
-            The difference in mass tells the amino-acid
-            Same for the b indices
-            With the two sequences, you get the full motif
-            Different sequences break in different ways depending on sequence
-    identification with tandem MS
 PPI
     Bait experiment: immobilize one protein, then elute and separate => all proteins that might interact with the immobilized protein
         Reverse bait experiment: immobilize the other proteins obtained in the bait experiment, to confirm interaction
