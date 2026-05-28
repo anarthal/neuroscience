@@ -1,29 +1,48 @@
-DNA methylation is long-term
-Bisulfite sequencing: studies DNA methylation (silencing)
-ATAC-seq: studies how open the chromatin is
-Gene ontology: DB with a classification of genes with related functionality
-eQTL: gene difference that influences how a gene is transcribed
-
-Micro-arrays: yes/no check (needs knowledge about the sequence). Not sequencing. Cheap
-Bulk: which RNA sequences are present and in which amount
+TRANSCRIPTOMICS: large scale analysis of the transcriptome (gene expression)
+VOLCANO PLOT: plots statistical significance vs. magnitude of change (fold change) between two conditions
+GENE ONTOLOGY: DB with a classification of genes based on functionality
+mRNA MICRO-ARRAY: measures gene expression for a big number of genes
+    Yes/no check for a number of genes => needs knowledge about the sequence
+    Cheap, high throughput
+BULK TRANSCRIPTOMICS: measures gene expression averaged across all cells in the sample
+    RNA-seq: retro-transcribe, PCR, sequence as DNA
+    Can measure gene expression differences between != conditions (e.g. healthy vs. disease)
+    Blender effect: looses cell-specifics and effects happening in a small subset of the cells
     Can be used to discover new transcripts
-Single-cell: like bulk, but every cell is tagged
-    Single-nuclei: like single cell, but pick just nucleus. For very complex cells
-    Expensive and more difficult to analyze
-Spatial RNA-seq: adds spatial information
-    But it looses resolution: every point contains more than one cell
-
-PCA for low-dimensionality (~500)
-    Separate by principal components
-    Each PC may be assigned a 'label' (e.g. what is the biological function?)
-    Distance between points is relevant
-    Explained variance tells about how good the PC is
-UMAP/tSNE for high-dimensionality
-    Non-linear
-    Distances are not relevant, axis are meaningless
-    Just for visualization, "close" points are similar, nothing more
+SINGLE-CELL RNA SEQUENCING (scRNA-seq): measures gene expression of individual cells
+    Gel Beads-in-emulsions (GEMs): technology to achieve single-cell resolution by isolating each cell in a bead
+        Each bead has a != barcode: sequence that uniquely identifies each cell. Attaches to the poly-A mRNA tail
+    UNIQUE MOLECULE IDENTIFIER (UMI): sequence that uniquely identifies each mRNA molecule in scRNA-seq
+        PCR may amplify each molecule differently => deduplicate => truly know how much RNA there was
+    Expensive
+    High dimensionality => more difficult to analyze
+    RNA PSEUDOTIME: family of algorithms that try to infer cell development across time
+        Based on a snapshot acquired at a given time => does not represent real time
+        Good for tissues in homeostasis (e.g. skin)
+        Requires specifying the initial and final states => may introduce bias
+    RNA VELOCITY: family of algorithms that infer how cells will evolve along pseudotime trajectories
+        Based on the ratio of spliced vs. unspliced RNA for each gene
+        States with more spliced RNA come after the ones with more unspliced RNA
+    Lineage tracing: find which cells arise from a given ancestor by mitosis
+        Tags each cell with a unique barcode, allows for development, collects the sample
+    Multiome: perform RNA-seq and epigenomic analysis in single cells
+        Answers 'is this gene expressed because of this other epigenetic marker?'
+Spatial RNA-seq: measure gene expression keeping spatial information
+    Collect a number of small samples from a tissue slice and record spatial information. Perform RNA-seq to all of them
+    Looses resolution: every point contains more than one cell
+Dimensionality reduction
+    PCA: for low-dimensionality (~500)
+        Separate by principal components
+        Each PC may be assigned a 'label' (e.g. what is the biological function?)
+        Distance between points is relevant
+        Explained variance tells about how good the PC is
+    UNIFIED MANIFOLD APPROXIMATION AND PROJECTION (UMAP): non-linear dimensionality reduction algorithm for high-dimensionality data
+        Distances are not relevant, axis are meaningless
+        Just for visualization, "close" points are similar, nothing more
 Clustering is performed independently of dimensionality reduction
     When the clustering algorithm yields results consistent with UMAP, that's a good sign
     "Separation" depends on context: if we pick neurons vs. astrocytes, we can't see differences between astrocytes. But we can see them if we pick astrocytes alone
-    
-
+EXPRESSION QUANTITATIVE TRAIT LOCUS (eQTL): genetic variant that influences how much a certain gene is expressed
+    Usually located within promoters/enhancers
+    cis-eQTL: if the regulatory effect happens in cis (vs. trans-eQTL)
+    Discovered by acquiring genotype and gene expression levels for many individuals => statistical analysis ('does this variant predict expression levels?')
