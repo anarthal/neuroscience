@@ -1,0 +1,43 @@
+NUCLEAR MAGNETIC RESONANCE (NMR): technique to analyze chemical compounds, based on the resonance frequencies of the atoms
+Characteristics
+    Can determine molecular structure (MS can't)
+    Less sensitive than MS
+    More reproducible than MS
+    Non-destructive
+    Less sample preparation. Can be used with intact tissue
+Principle
+    Atomic nuclei that have an odd number of protons and neutrons have spin and magnetic moment
+        H1 and C13 have, C12 doesn't
+    In the absence of a magnetic field, nuclei are randomly oriented
+    If a constant magnetic field B0 is applied, nuclei align, with their magnetic moment direction precessing in parallel to B0
+        Some in parallel (alpha state) => low energy state
+        Some in antiparallel (beta state) => high energy state
+        Transitioning between the low and high energy states requires energy
+        LARMOR FREQUENCY: frequency of the precession movement. Proportional to B0
+    If an orthogonal, magnetic field pulse is superimposed, nuclei are perturbed
+        Nuclei absorb energy and flip to the high-energy state
+        When they return to equilibrium, they emit the energy back as electromagnetic radiation at their Larmor frequency
+        FREE INDUCTION DECAY (FID): signal emitted by the perturbed nuclei when returning to equilibrium, captured by NMR equipment
+Output: spectrum with frequency in X axis, intensity in Y axis
+    CHEMICAL SHIFT (delta): measurement of frequency relative to a reference molecule (ppm)
+        delta = (freq_compound - freq_reference) / freq_instrument
+        Because frequencies depend on B0 => instrument-dependent
+        Depends on the electronic environment of each nucleus (proton for H1)
+        TMS used as a standard
+        CHEMICALLY EQUIVALENT NUCLEI: nuclei experimenting the same chemical shift
+        Electrons surrounding a nucleus create a magnetic field and shield the nucleus => having electrons around reduces chemical shift
+        Electronegative nuclei draw electrons from nearby nuclei => de-shield => bigger chemical shift
+        Hydrogen bonds => de-shield (dynamic)
+    INTENSITY INTEGRATION: area under the curve for each peak
+        Depends on the number of nuclei with that particular electronic environment
+    SPIN-SPIN COUPLING (J): split of peaks corresponding to protons due to other neighboring protons
+        Num_peaks = n + 1, with n = number of neighbor protons
+        Singlet: n = 0, no splitting
+        Doublet: n = 1, split into 2
+        Triplet: n = 2, split into 3
+        Quartet: n = 3, split into 4
+        No splitting if the neighboring group is chemically equivalent
+2D NUCLEAR MAGNETIC RESONANCE (2D-NMR): NMR experiment repeated under two difference excitation conditions => outputs 2 frequency axes
+C13 NMR yields a smaller signal
+ISOTOPIC LABELLING: label a molecule by replacing some of its atoms by detectable isotopes (e.g. C13)
+    

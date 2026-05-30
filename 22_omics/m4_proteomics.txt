@@ -218,8 +218,3 @@ Mapping modifications
     Enrichment: technique to make the modified version more abundant
         E.g. use antibodies that target the phosphorylated site and analyze this
         
-
-
-
-
-Nuclear magnetic resonance: alternative to MS. Less sensitive, but more reproducible, and less destructive
