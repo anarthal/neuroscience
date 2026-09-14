@@ -7,22 +7,27 @@ Metabolome is considered the closer to the phenotype ('what is happening now')
 Metabolome much more dynamic than proteome, transcriptome and genome
     Difficult to preserve the metabolome from extraction to analysis
 Wide variety of metabolites, with != sizes, physical properties, dynamics, concentrations, polar vs. non-polar
-Primary: the ones absolutely required (e.g. amino acids), vs. secondary (e.g. signalling molecules)
-Targeted metabolomics: quantify the amount of a known set of metabolites
-    You can get concentrations, deeper insights
-Untargeted metabolomics: identify what metabolites are there without a-priori knowledge
-    More difficult, no standard packs
-    Needs to combine retention time and mass spec data
-    Less accuracy (too many signals at a time => batch effect)
-Metabolic fingerprinting: like unbiased, but comparing two different settings (e.g. healthy vs. diseased)
-Metabolic profiling: focus on certain metabolites related to a single pathway (e.g. Krebs cycle)
+Metabolite classification
+    Primary: the ones absolutely required (amino acids, lipids, sugars, nucleic acids)
+    Secondary: cell or tissue-specific (e.g. signalling molecules)
+    Intermediate: short-lived (e.g. NADH, pyruvate)
+Analysis types
+    TARGETED METABOLOMICS: quantify the amount of a known set of metabolites
+        You can get concentrations, deeper insights
+    UNTARGETED METABOLOMICS: identify what metabolites are present without a-priori knowledge
+        More difficult, no standard packs
+        Needs to combine retention time and mass spec data
+        Less accuracy (too many signals at a time => batch effect)
+    METABOLIC FINGERPRINTING: untargeted analysis to compare two different settings (e.g. healthy vs. diseased)
+        Objective: identify molecular markers
+    METABOLIC PROFILING: study certain metabolites related to a single pathway (e.g. Krebs cycle)
 Quantifying
     Relative: normalized vs. some reference in your cohort. Easier to get, but difficult to extend to other groups
     Absolute: gets the real concentration, but needs calibration and is more involved
 No single method that can capture all metabolites
 Steps
     Sample preparation
-        Quenching: arrest metabolism to prevent metabolite alteration
+        QUENCHING: arrest metabolism to prevent metabolite alteration
             Use acid, trypsin, methanol, and freezing
         Volatile molecules vaporize => cold handling
         Metabolite extraction: remove all the enzymes and leave metabolites only
@@ -43,7 +48,7 @@ Steps
     Separation: reduce complexity
         Liquid chromatography: the more used. For polar metabolites
         Gas chromatography: for the volatile compounds
-        Derivatization: convert a metabolite into its volatile counterpart
+        DERIVATIZATION: convert a metabolite into its volatile counterpart
             Required for gas chromatography
             Can increase peak strength
             Stick a group to the compounds of interest to achieve it
