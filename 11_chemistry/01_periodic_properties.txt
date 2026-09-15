@@ -1,0 +1,80 @@
+Quantum mechanics
+    SCHRODINGER EQUATIONS: equations of movement for a quantum system. Akin to Newton's laws, but for quantum mechanics
+    WAVE FUNCTION (Ψ): mathematical function describing the state of a quantum system
+        Usually accepts (position, time) as arguments, but also possibilities exist (e.g. momentum)
+        May return a real or complex number with no direct physical interpretation
+        Usually, |Ψ|^2 is the probability density function associated to obtaining the given state for those inputs
+            Integrating |Ψ|^2 along all input yields 1
+ELECTRONIC CONFIGURATION: distribution of electrons for a certain atom/ion
+    Atomic nucleus + electrons treated as an isolated quantum system
+    ORBITAL: wave function for an electron
+        Accepts space and time as parameters, returns a complex value
+        |Ψ|^2 is the probability density function of finding the electron at any given time and position
+        Plotted as a 3D region => region where the electron has 90% probability of being found
+        Orbital may refer to the 3D region, too
+    QUANTUM NUMBERS: set of parameters defining orbitals
+        Only orbitals with quantum numbers satisfying certain rules are possible
+        Each orbital is associated to a certain energy level. Changing from one orbital to another requires exchanging a discrete amount of energy
+        PRINCIPAL QUANTUM NUMBER (n): the most influential number. Defines the orbital's size (how far from the nucleus tends the electron to be)
+            n = 1, 2, 3...
+            For a mono-electronic system, fully defines the orbital's energy
+            For a poly-electronic system, l is also required to know the energy level
+            ELECTRON SHELL: set of orbitals with the same n
+        ANGULAR QUANTUM NUMBER/AZIMUTHAL QUANTUM NUMBER (l): defines the orbital's shape
+            l = 0, 1, 2... n-1
+            S ORBITAL: orbital with l = 0. Spheric, centered in the nucleus, gets bigger as n increases
+            P ORBITAL: orbital with l = 1. Pear-shaped with two lobes rooted in the nucleus
+                > energy than the s orbital with the same n
+            D ORBITAL: orbital with l = 2
+            F ORBITAL: orbital with l = 3
+            G ORBITAL: orbital with l = 4
+            H ORBITAL: orbital with l = 5
+            ELECTRON SUBSHELL: set of orbitals with the same n and l
+        MAGNETIC QUANTUM NUMBER (m_l): defines the orbital's spatial orientation
+            m_l = -l, -(l - 1), ..., 1, 0, 1, ..., l - 1, l
+            1 s orbital, 3 p orbitals, 5 d orbitals, 7 f orbitals...
+        SPIN'S QUANTUM NUMBER (m_s): define's the electron magnetic spin (behavior when a magnetic field is applied)
+            Does not influence the orbital's energy level or spatial characteristics
+            m_s = 1/2 or -1/2
+            Each orbital with the same spatial characteristics may be inhabited with two electrons with != spins
+        Notation
+            u{orbital_name}^v: the orbital with n = u, l = orbital_name has v electrons in it
+            E.g. 1s² = orbital with n = 1, l = 0 has 2 electrons in it
+        Box diagrams
+            Each big box is a subshell
+            Each small box is an orbital's 3D region (i.e. fixed n, l, m_l)
+            Each arrow is an electron. Arrow up for m_s = 1/2, down for -1/2
+    How to build electronic configurations
+        AUFBAU PRINCIPLE: orbitals with lower energy levels are filled first
+            1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, ...
+        PAULI EXCLUSION PRINCIPLE: no two electrons can have the same quantum numbers
+            I.e. each orbital with the same (n, l, m_l) can fit two electrons with != spin
+        HUND'S RULE: when filling a subshell, the most stable configuration is the one with the biggest number of unpaired electrons
+            PAIRED ELECTRONS: pair of electrons within the same orbital (same n, l, m_l), but different spin
+        There are exceptions in the transition metals: 
+
+
+Exam question: order elements by periodic properties
+IONIZATION ENERGY: amount of energy required to extract an electron from an atom, in gas phase
+    Measures the tendency of an element to lose electrons
+    FIRST IONIZATION ENERGY: ionization energy to extract the first electron
+    NTH IONIZATION ENERGY: ionization energy to extract the N-th atom from a N-1 cation
+    Decreases when going down a group: more electrons at higher energy levels, easier to extract
+    Increases when going forward a period: TBC
+        Exceptions: if removing one electron would yield a specially stable config, ionization energy would decrease
+        E.g. Be has 2s^2, B has 2s^2 2p^1. Removing one electron from B yields 2s^2 => Ionization energy for B < Be
+        Same for N and O: N < O because removing one electron from O yields a half-full p orbital, stable
+    Second ionization energy always > first, but jump is not equal for all elements
+        If the initial cation is specially stable (e.g. isoelectronic to a noble gas), then it is big
+        E.g. 2nd ionization energy for Li very high
+        E.g. 2nd ionization energy for Be small, but 3rd one very high
+    Elements with smaller ionization energies tend to appear as cations in nature (e.g. Na in NaCl)
+ELECTRON AFFINITY: amount of energy released when an electron is added to a neutral atom, in gas phase
+    Measures the tendency of an element to gain electrons
+    Varies in the same way as ionization energy for the same reasons
+    TBC: exceptions
+    Elements with bigger electron affinities tend to appear as anions in nature (e.g. Cl in NaCl)
+ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a covalent bond
+    When a bond is formed, electrons tend to spend more time closer to the most electronegative atom
+    Molecules formed by elements with very different electronegativities form polar compounds
+    

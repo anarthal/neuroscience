@@ -1,4 +1,3 @@
-ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a chemical bond
 BIOMOLECULE: molecule composed mainly by C and H
 In a peptide bond, the oxygen pulls the electrons => C has more density of negative charges on the other side => peptide bond is double bond like
 Conditionally non-essential: can be produced by our body, but not at the same rate as the others
