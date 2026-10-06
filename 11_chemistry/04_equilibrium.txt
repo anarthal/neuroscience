@@ -1,0 +1,30 @@
+Equilibrium is dynamic: even if macroscopically nothing changes, the reaction is proceeding in both directions
+[X] denotes molar concentration
+K_c: Equilibrium constant using concentrations
+K_p: Equilibrium constant using partial pressures
+Homogeneous Equilibrium: evth same phase
+Subindex (aq): the reaction happens in solution
+In gas phase, assuming ideal gases, K_p = K_c * (RT)^(Delta N)
+In heterogeneous Equilibrium, solid and liquid species are not taken into account
+    Their concentration is supposed to remain constant, given by their density
+    Take only into account gases and species in solution
+Equilibrium constants are adimensional even if you'd think otherwise
+    Each concentration is supposed to be divided by a "reference concentration"
+Reaction quotient Q: same definition as equilibrium constant, but usable outside equilibrium
+    In equilibrium, Q = K
+In Gibbs energy, use K_c for solution, K_p for gasses
+Reaction direction
+    K >> 1: shifted towards products
+    K << 1: shifted towards reactants
+Le Chatelier: if any variables involved in equilibrium (concentrations, temperature, pressure) changes, reaction shifts towards a new equilibrium
+    "Tends to counteract the perturbation"
+    Equilibrium constants don't change
+    E.g. increasing reactant concentration also increases product concentration
+    E.g. P increases (gas, constant T) => V decreases => [] increases for all species => effect depends on the stoichiometric coefficient
+    But T changes K_c
+        Endothermic: increasing T shifts towards products
+        Exothermic: increasing T shifts towards reactants
+    Catalyst makes equilibrium reached faster, but doesn't change K_c
+    
+    
+

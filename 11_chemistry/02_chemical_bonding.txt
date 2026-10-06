@@ -1,0 +1,45 @@
+VALENCE ELECTRONS: electrons in outer shells in an atom. The ones involved in forming chemical bonds
+BOND DISTANCE: distance between the centers of two atoms involved in a chemical bond
+    Applicable to covalent and ionic bonds
+No need to remember eq for lattice energy
+LATTICE ENERGY: energy required to break an ionic compound in solid state into its individual gaseous ions
+    Depends on the Coulomb potential and the crystal's geometry
+Energy of formation defined in terms of the most stable states for each of the elements (e.g. Na solid, Cl gaseous)
+COORDINATION NUMBER: number of cations surrounding an anion (or vice versa)
+Each line in a "bond diagram" represents 2 shared electrons
+There won't be 4 and 5 electron bonds in the 2nd period because there are no free orbitals (this is more than 8 electrons)
+Polar = it has a dipole moment > 0
+    Same atom = non-polar
+Each bond has a dipole moment, total dipole moment is vector sum of individual moments for each bond in the molecule
+    Individual dipole moments may be != 0, and total be == 0 (e.g. symmetry)
+Lone pair = pair of valence electrons that are not shared (not part of any bond in the molecule)
+Dotted line = para adentro, bold line = afuera
+Only polar solvents can solve ionic compounds
+Distance between atoms in a covalent bond is smaller for double/triple/... bonds
+Resonant structures: structures that are also possible for a molecule. In reality, all present to some extent
+Electron pairs tend to repulse each other, whether they are part of a bond or not => angular structures
+    Electron pair geometry: the geometry of the pairs, e.g. tetrahedral
+        When separating 4 regions of space: tetrahedral
+        When separating 3 regions of space: trigonal planar
+    Molecular geometry: the one for the molecule, e.g. angular for water, trigonal pyramidal for NH3
+    The lone pair causes more repulsion than the bond-forming pairs
+        E.g. NH3 is not an exact tetrahedral
+In a benzene ring, we would expect distances between double bonds to be smaller, but they are all the same => resonant structures
+Valence bond theory: a bond is interpreted as the overlap of several orbitals
+Sigma bond: the overlapping occurs along the line joining atomic nuclei
+Pi bond: the overlapping occurs outside the line joining atomic nuclei
+Double bonds may contain only one sigma bond, the other has to be pi
+To form a bond, you need an unpaired electron. E.g. even if C is 1s² 2s² 2p², a reconfiguration happens before bonding: becomes [He] 2s¹ 2p³
+Hybridization theory: for CH4, we know that geometry is tetrahedral
+    but if we try to apply valence bond theory, we wouldn't get tetrahedral: we have s¹ and p³ electrons
+    Proposal: the resulting orbitals are neither s nor p, but a hybrid, and all equal (sp³)
+    Also sp², if there are only 3 electrons hybridizing, and sp if there are only 2
+    sp³ yields tetrahedral, sp² trigonal planar, sp linear. Look for electron pair geometry, not for molecular geometry!
+    C2H2 (triple bond): C with H is sp, then 2 pi bonds and 1 sigma bond to form the triple bond
+    sp³d: one electron from s to d => trigonal bipyramidal
+    sp³d² => octahedral
+Miscibility given by intermolecular forces: e.g. if you have dipole-dipole interactions they mix, but if you mix polar and non-polar they don't mix
+H bond: H with N, O, F with a lone pair
+H bonds increase melting/boiling points: stronger attractive forces
+
+
