@@ -40,6 +40,7 @@ ELECTRONIC CONFIGURATION: distribution of electrons for a certain atom/ion
         Notation
             u{orbital_name}^v: the orbital with n = u, l = orbital_name has v electrons in it
             E.g. 1s² = orbital with n = 1, l = 0 has 2 electrons in it
+            Orbitals sorted by n, then l, rather by the order in which they fill
         Box diagrams
             Each big box is a subshell
             Each small box is an orbital's 3D region (i.e. fixed n, l, m_l)
@@ -51,14 +52,29 @@ ELECTRONIC CONFIGURATION: distribution of electrons for a certain atom/ion
             I.e. each orbital with the same (n, l, m_l) can fit two electrons with != spin
         HUND'S RULE: when filling a subshell, the most stable configuration is the one with the biggest number of unpaired electrons
             PAIRED ELECTRONS: pair of electrons within the same orbital (same n, l, m_l), but different spin
-        There are exceptions in the transition metals: 
-
-
-Exam question: order elements by periodic properties
+        These are rules of thumb with exceptions
+            Half-filled and fully-filled nd orbitals are particularly stable
+            Cu is [Ar] 3d⁵ 4s¹, instead of  [Ar] 3d⁴ 4s²
+            Cr is [Ar] 3d10 4s¹, instead of [Ar] 3d⁸ 4s²
+    ISOELECTRONIC SPECIES: pair of atoms/ions with the same electronic configuration
+Magnetism
+    DIAMAGNETIC ATOM: atom or ion that is weakly repelled by a magnetic field
+        All electrons are paired in its electronic configuration
+    PARAMAGNETIC ATOM: atom or ion that is strongly attracted by a magnetic field
+        Some electrons are unpaired in its electronic configuration
+PERIODIC PROPERTIES: atomic radius, ionization energy, electron affinity, electronegativity
+    All tendencies shown here are general tendencies with exceptions, specially in transition metals
+ATOMIC RADIUS: distance from the nucleus to outermost electrons
+    Can't be measured directly. Usually half the distance between atoms in a molecule/ionic crystal
+    Increases when going down a group: more filled energy levels
+    Decreases when going forward a period: same filled energy levels, but more protons/electrons => electrons drawn closer to nucleus
+    IONIC RADIUS: same as atomic radius, but for an ion
+        Cations are smaller than the atoms they come from: same number of protons but less electrons
+        Anions are bigger than the atoms they come from: same number of protons but more electrons
 IONIZATION ENERGY: amount of energy required to extract an electron from an atom, in gas phase
     Measures the tendency of an element to lose electrons
     FIRST IONIZATION ENERGY: ionization energy to extract the first electron
-    NTH IONIZATION ENERGY: ionization energy to extract the N-th atom from a N-1 cation
+    N-TH IONIZATION ENERGY: ionization energy to extract the N-th atom from a N-1 cation
     Decreases when going down a group: more electrons at higher energy levels, easier to extract
     Increases when going forward a period: TBC
         Exceptions: if removing one electron would yield a specially stable config, ionization energy would decrease
@@ -78,3 +94,5 @@ ELECTRONEGATIVITY: ability of an element to attract electrons in the context of 
     When a bond is formed, electrons tend to spend more time closer to the most electronegative atom
     Molecules formed by elements with very different electronegativities form polar compounds
     
+
+Exam question: order elements by periodic properties
