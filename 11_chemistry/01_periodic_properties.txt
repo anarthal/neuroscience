@@ -106,4 +106,14 @@ ELECTRONEGATIVITY: ability of an element to attract electrons in the context of 
     When a bond is formed, electrons tend to spend more time closer to the most electronegative atom
     Molecules formed by elements with very different electronegativities form polar compounds
     Same general tendency as ionization energy, and because of the same reasons
+Element classification
+    ALKALI METALS: elements in group 1, outer orbital ns1
+    ALKALI EARTH METALS: elements in group 2, outer orbital ns2
+    S-BLOCK ELEMENTS: elements in group 1 and 2 (outer orbital nsx)
+    P-BLOCK ELEMENTS: elements in group 13 to 18 (outer orbital ns2 npx)
+    MAIN-GROUP ELEMENTS: all elements in the s-block and p-block
+    D-BLOCK ELEMENTS: elements in group 3 to 12 (outer orbital ns2 ndx)
+    TRANSITION METALS: elements in the d-block that are metals (most of them, but not all)
+    LANTHANIDES: elements with electronic configuration [Xe] 6s2 4fx
+    ACTINIDES: elements with electronic configuration [Rn] 7s2 5fx
 Exam question: order elements by periodic properties

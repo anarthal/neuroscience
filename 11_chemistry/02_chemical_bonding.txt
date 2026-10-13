@@ -1,22 +1,60 @@
 VALENCE ELECTRONS: electrons in outer shells in an atom. The ones involved in forming chemical bonds
 BOND DISTANCE: distance between the centers of two atoms involved in a chemical bond
-    Applicable to covalent and ionic bonds
-No need to remember eq for lattice energy
-LATTICE ENERGY: energy required to break an ionic compound in solid state into its individual gaseous ions
-    Depends on the Coulomb potential and the crystal's geometry
-Energy of formation defined in terms of the most stable states for each of the elements (e.g. Na solid, Cl gaseous)
-COORDINATION NUMBER: number of cations surrounding an anion (or vice versa)
-Each line in a "bond diagram" represents 2 shared electrons
+    Applicable to both covalent and ionic bonds
+BOND ANGLE: angle between the lines joining three atoms bond together
+OCTET RULE: main-group elements tend to bond in a way that achieves 8 electrons in its outer shell
+    Achieves an electronic configuration akin to a noble gas
+IONIC BOND: bond in which an atom species donates electrons to another, forming anions and cations
+    Usually between atoms with high electron affinity and atoms with low ionization energy (metal and non-metal)
+    LATTICE ENERGY: energy required to break an ionic compound in solid state into its individual gaseous ions
+        Depends on the Coulomb potential and the crystal's geometry
+    BORN-HABER CYCLE: thermodynamic cycle to measure lattice energy indirectly
+        ENTHALPY OF ATOMIZATION: energy required to break one mole of substance into its gaseous atoms
+        ENTHALPY OF DISSOCIATION: energy required to break a covalent bond, with each resulting ion getting the same number of electrons
+        Enthalpy of formation is < 0 (energetically favorable) because of lattice energy
+    COORDINATION NUMBER: in an ionic crystal, number of cations surrounding an anion (or vice versa)
+        E.g. tetrahedral crystals have coordination number = 4
+    Properties of ionic compounds
+        Solids that form crystals
+        Non-directional: same ionic attractions in all directions
+        High melting and boiling points => solid at room temperature (because of strong electrostatic attractions)
+        Fragile: disturbing the crystal can turn attractions into repulsions
+        Can't conduce electricity
+        Soluble in polar solvents
+COVALENT BOND: bond in which atoms share electrons
+    Usually between non-metals
+    LEWIS DOT DIAGRAM: represents atoms with valence electrons as dots
+        Useful to study covalent bonds between main-group elements
+    LONE ELECTRON PAIR: pair of valence electrons that are not shared (not part of any bond in the molecule)
+    BOND ELECTRON PAIR: pair of valence electrons that are shared between two atoms
+        Can be replaced by a single line
+    FORMAL CHARGE: for an atom in a covalent molecule, charge that the atom would have if the bond electrons are shared equally
+        Formal charge = Valence electrons - (lone pairs + 1/2 * bonding electrons)
+        The most likely Lewis structure is the one that has formal charge as closer to zero as possible
+    Not all molecules follow the octet rule, even within the main-group elements
+        RADICAL: molecule/ion with an unpaired valence electron
+            Total sum of valence electrons is odd => no way to satisfy octet rule
+            Highly reactive
+        Incomplete octets: one atom surrounded by less than 8 electrons, but the molecule is stable
+        Expanded octets: one atom surrounded by more than 8 electrons, but the molecule is stable
+            Requires 3d orbitals => the surrounded atom must be in period >= 3
+    COORDINATE COVALENT BOND: covalent bond where all shared electrons are given by the same atom
+
+
+
+    
+
 There won't be 4 and 5 electron bonds in the 2nd period because there are no free orbitals (this is more than 8 electrons)
 Polar = it has a dipole moment > 0
     Same atom = non-polar
 Each bond has a dipole moment, total dipole moment is vector sum of individual moments for each bond in the molecule
     Individual dipole moments may be != 0, and total be == 0 (e.g. symmetry)
-Lone pair = pair of valence electrons that are not shared (not part of any bond in the molecule)
 Dotted line = para adentro, bold line = afuera
 Only polar solvents can solve ionic compounds
 Distance between atoms in a covalent bond is smaller for double/triple/... bonds
 Resonant structures: structures that are also possible for a molecule. In reality, all present to some extent
+INTRAMOLECULAR FORCES: electrostatic forces between atoms in the same molecule
+INTERMOLECULAR FORCES: electrostatic forces between molecules
 Electron pairs tend to repulse each other, whether they are part of a bond or not => angular structures
     Electron pair geometry: the geometry of the pairs, e.g. tetrahedral
         When separating 4 regions of space: tetrahedral
@@ -43,3 +81,5 @@ H bond: H with N, O, F with a lone pair
 H bonds increase melting/boiling points: stronger attractive forces
 
 
+
+No need to remember eq for lattice energy

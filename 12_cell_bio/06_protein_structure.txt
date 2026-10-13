@@ -1,7 +1,6 @@
 Background
     CHIRAL: object that can be distinguished from its mirror image
     HEAT-SHOCK PROTEIN: protein that does not denature with high temperatures
-    COORDINATE COVALENT BOND: covalent bond where all shared electrons are given by the same atom
     COORDINATION COMPLEX: formed by a central ion (usually metallic) bound to other molecules
 Amino-acids
     α-carbon joined to amino group (NH2), carboxyl (COOH), hydrogen, side chain (R)
