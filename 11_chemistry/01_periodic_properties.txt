@@ -45,6 +45,7 @@ ELECTRONIC CONFIGURATION: distribution of electrons for a certain atom/ion
             Each big box is a subshell
             Each small box is an orbital's 3D region (i.e. fixed n, l, m_l)
             Each arrow is an electron. Arrow up for m_s = 1/2, down for -1/2
+    GROUND-STATE ELECTRON CONFIGURATION: the most stable electron configuration for an atom
     How to build electronic configurations
         AUFBAU PRINCIPLE: orbitals with lower energy levels are filled first
             1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, 5s, ...
@@ -52,6 +53,8 @@ ELECTRONIC CONFIGURATION: distribution of electrons for a certain atom/ion
             I.e. each orbital with the same (n, l, m_l) can fit two electrons with != spin
         HUND'S RULE: when filling a subshell, the most stable configuration is the one with the biggest number of unpaired electrons
             PAIRED ELECTRONS: pair of electrons within the same orbital (same n, l, m_l), but different spin
+            Multiplicity of a subshell: P = 2S + 1, with S = sum(m_s)
+            Lowest energy configuration maximizes multiplicity
         These are rules of thumb with exceptions
             Half-filled and fully-filled nd orbitals are particularly stable
             Cu is [Ar] 3d⁵ 4s¹, instead of  [Ar] 3d⁴ 4s²
@@ -62,6 +65,12 @@ Magnetism
         All electrons are paired in its electronic configuration
     PARAMAGNETIC ATOM: atom or ion that is strongly attracted by a magnetic field
         Some electrons are unpaired in its electronic configuration
+ELECTRON SHIELDING: effect where electrons in lower energy levels reduce the total electrostatic attraction between nucleus and electrons at higher energy levels
+    Electrons at lower energy levels repulse the ones at higher energy level => lower attraction than at lower energy levels
+    EFFECTIVE NUCLEAR CHARGE (Z_eff): effective charge experienced by a certain electron after accounting for shielding
+        Usually expressed for valence electrons
+    SHIELDING CONSTANT (S): for a given electron (usually a valence electron), avg num electrons at lower energy levels
+    Z_eff = Z - S
 PERIODIC PROPERTIES: atomic radius, ionization energy, electron affinity, electronegativity
     All tendencies shown here are general tendencies with exceptions, specially in transition metals
 ATOMIC RADIUS: distance from the nucleus to outermost electrons
@@ -76,23 +85,25 @@ IONIZATION ENERGY: amount of energy required to extract an electron from an atom
     FIRST IONIZATION ENERGY: ionization energy to extract the first electron
     N-TH IONIZATION ENERGY: ionization energy to extract the N-th atom from a N-1 cation
     Decreases when going down a group: more electrons at higher energy levels, easier to extract
-    Increases when going forward a period: TBC
+    Increases when going forward a period: same shielding, but higher Z => higher Z_eff
         Exceptions: if removing one electron would yield a specially stable config, ionization energy would decrease
         E.g. Be has 2s^2, B has 2s^2 2p^1. Removing one electron from B yields 2s^2 => Ionization energy for B < Be
         Same for N and O: N < O because removing one electron from O yields a half-full p orbital, stable
-    Second ionization energy always > first, but jump is not equal for all elements
-        If the initial cation is specially stable (e.g. isoelectronic to a noble gas), then it is big
-        E.g. 2nd ionization energy for Li very high
-        E.g. 2nd ionization energy for Be small, but 3rd one very high
+    Second ionization energy always > first
+        Because removing an electron reduces electron-electron repulsion => bigger Z_eff
+        Jump is not equal for all elements
+            If the initial cation is specially stable (e.g. isoelectronic to a noble gas), then it is big
+            E.g. 2nd ionization energy for Li very high
+            E.g. 2nd ionization energy for Be small, but 3rd one very high
     Elements with smaller ionization energies tend to appear as cations in nature (e.g. Na in NaCl)
 ELECTRON AFFINITY: amount of energy released when an electron is added to a neutral atom, in gas phase
     Measures the tendency of an element to gain electrons
     Varies in the same way as ionization energy for the same reasons
-    TBC: exceptions
     Elements with bigger electron affinities tend to appear as anions in nature (e.g. Cl in NaCl)
+    Measured as energy required to remove an electron from an anion
+        Some anions unstable => more difficult to measure
 ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a covalent bond
     When a bond is formed, electrons tend to spend more time closer to the most electronegative atom
     Molecules formed by elements with very different electronegativities form polar compounds
-    
-
+    Same general tendency as ionization energy, and because of the same reasons
 Exam question: order elements by periodic properties
