@@ -102,9 +102,12 @@ ELECTRON AFFINITY: amount of energy released when an electron is added to a neut
     Elements with bigger electron affinities tend to appear as anions in nature (e.g. Cl in NaCl)
     Measured as energy required to remove an electron from an anion
         Some anions unstable => more difficult to measure
-ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a covalent bond
+ELECTRONEGATIVITY: ability of an element to attract electrons in the context of a chemical bond
     When a bond is formed, electrons tend to spend more time closer to the most electronegative atom
-    Molecules formed by elements with very different electronegativities form polar compounds
+    Very different electronegativities (difference > 1.7) => ionic compounds
+    Mildly different electronegativities (difference 0.4 - 1.7) => polar covalent compounds
+    Similar electronegativities (difference < 0.4) => non-polar compounds
+    In reality, all bonds have mixed behavior: covalent bond with ionic character, ionic bond with covalent character
     Same general tendency as ionization energy, and because of the same reasons
 Element classification
     ALKALI METALS: elements in group 1, outer orbital ns1
