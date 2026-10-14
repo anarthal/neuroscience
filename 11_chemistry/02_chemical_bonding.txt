@@ -25,8 +25,10 @@ IONIC BOND: bond in which an atom species donates electrons to another, forming 
         Soluble in polar solvents
 COVALENT BOND: bond in which atoms share electrons
     Usually between non-metals
-    LEWIS DOT DIAGRAM: represents atoms with valence electrons as dots
+    LEWIS MODEL: model that tries to explain chemical bonding by sharing valence electrons
+        Simple and visual model, but limited
         Useful to study covalent bonds between main-group elements
+        LEWIS DOT DIAGRAM: represents atoms with valence electrons as dots
     LONE ELECTRON PAIR: pair of valence electrons that are not shared (not part of any bond in the molecule)
     BOND ELECTRON PAIR: pair of valence electrons that are shared between two atoms
         Can be represented by a single line
@@ -64,6 +66,11 @@ COVALENT BOND: bond in which atoms share electrons
         Both bond and lone electron pairs contribute to geometry
         Electron pair geometry: the geometry of the pairs, considering lone pairs as if they were regular atoms
             Predicts molecular geometry
+            2 pairs => linear
+            3 pairs => trigonal planar
+            4 pairs => tetrahedral (109.5º)
+            5 pairs => trigonal bipyramidal
+            6 pairs => octahedral
         Try to maximize the distance between electron pairs
         Multiple bonds are treated like single bonds
         If multiple central atoms are present, treat them independently
@@ -71,25 +78,37 @@ COVALENT BOND: bond in which atoms share electrons
         When separating 4 regions of space: tetrahedral (109.5º)
         The lone pairs cause more repulsion than the bond-forming pairs
             E.g. NH3 is not an exact tetrahedral
+    VALENCE BOND THEORY: model that tries to explain chemical bonding by accommodating valence electrons in the atom's electronic orbitals
+        Localized model: each valence electron is assigned to the orbitals of two particular atoms
+        Valence electrons are shared because two orbitals overlap, in phase
+        Explains more phenomena than Lewis' theory
+        SIGMA BOND: covalent bond caused by two orbitals overlapping along the line joining the two nuclei
+            The strongest type
+            The most usual type for single bonds
+        PI BOND: covalent bond caused by two orbitals overlapping outside the line joining the two nuclei
+            Each orbital should have two lobes, and both lobes overlap laterally
+            Weaker than sigma bonds
+            In multiple bonds, only one can be sigma, the rest are pi
+        Orbital hybridization: tries to explain molecular geometry with valence bond theory
+            To form bonds, electrons become unpaired first
+                E.g. C is [He] 2s² 2p² => becomes [He] 2s¹ 2p³ for bonding in CH4
+            Symmetrical geometries form because some orbitals in the atom combine into a hybrid orbital when bonding
+                E.g. CH4 is tetrahedral, so orbitals 2s¹ 2p³ hybridize into 4 hybrid sp³ orbitals
+            Predict electron-pair geometry with VSEPR first, then deduce hybridization
+                Linear =>               2 bonding orbitals => 2x sp    orbitals
+                Trigonal planar =>      3 bonding orbitals => 3x sp²   orbitals
+                Tetrahedral =>          4 bonding orbitals => 4x sp³   orbitals
+                Trigonal bipyramidal => 5 bonding orbitals => 5x sp³d  orbitals
+                Octahedral =>           6 bonding orbitals => 6x sp³d² orbitals
+    
+            
+        
+
 
 
 
 Dotted line = para adentro, bold line = afuera
 
-
-Valence bond theory: a bond is interpreted as the overlap of several orbitals
-Sigma bond: the overlapping occurs along the line joining atomic nuclei
-Pi bond: the overlapping occurs outside the line joining atomic nuclei
-Double bonds may contain only one sigma bond, the other has to be pi
-To form a bond, you need an unpaired electron. E.g. even if C is 1s² 2s² 2p², a reconfiguration happens before bonding: becomes [He] 2s¹ 2p³
-Hybridization theory: for CH4, we know that geometry is tetrahedral
-    but if we try to apply valence bond theory, we wouldn't get tetrahedral: we have s¹ and p³ electrons
-    Proposal: the resulting orbitals are neither s nor p, but a hybrid, and all equal (sp³)
-    Also sp², if there are only 3 electrons hybridizing, and sp if there are only 2
-    sp³ yields tetrahedral, sp² trigonal planar, sp linear. Look for electron pair geometry, not for molecular geometry!
-    C2H2 (triple bond): C with H is sp, then 2 pi bonds and 1 sigma bond to form the triple bond
-    sp³d: one electron from s to d => trigonal bipyramidal
-    sp³d² => octahedral
 Miscibility given by intermolecular forces: e.g. if you have dipole-dipole interactions they mix, but if you mix polar and non-polar they don't mix
 H bond: H with N, O, F with a lone pair
 H bonds increase melting/boiling points: stronger attractive forces
