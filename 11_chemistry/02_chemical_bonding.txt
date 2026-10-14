@@ -60,19 +60,23 @@ COVALENT BOND: bond in which atoms share electrons
             != 0 if the atoms have != electronegativity
         Total dipole moment = vector sum of all bond dipole moments
             A polyatomic molecule can be non-polar even with bond dipole moments != 0 (e.g. symmetry)
-        
+    VALENCE-SHELL ELECTRON-PAIR REPULSION MODEL (VSEPR): model that predicts molecular geometry from Lewis models
+        Both bond and lone electron pairs contribute to geometry
+        Electron pair geometry: the geometry of the pairs, considering lone pairs as if they were regular atoms
+            Predicts molecular geometry
+        Try to maximize the distance between electron pairs
+        Multiple bonds are treated like single bonds
+        If multiple central atoms are present, treat them independently
+        When separating 3 regions of space: trigonal planar
+        When separating 4 regions of space: tetrahedral (109.5º)
+        The lone pairs cause more repulsion than the bond-forming pairs
+            E.g. NH3 is not an exact tetrahedral
 
 
 
 Dotted line = para adentro, bold line = afuera
 
-Electron pairs tend to repulse each other, whether they are part of a bond or not => angular structures
-    Electron pair geometry: the geometry of the pairs, e.g. tetrahedral
-        When separating 4 regions of space: tetrahedral
-        When separating 3 regions of space: trigonal planar
-    Molecular geometry: the one for the molecule, e.g. angular for water, trigonal pyramidal for NH3
-    The lone pair causes more repulsion than the bond-forming pairs
-        E.g. NH3 is not an exact tetrahedral
+
 Valence bond theory: a bond is interpreted as the overlap of several orbitals
 Sigma bond: the overlapping occurs along the line joining atomic nuclei
 Pi bond: the overlapping occurs outside the line joining atomic nuclei
