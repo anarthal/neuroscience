@@ -1,6 +1,5 @@
 VALENCE ELECTRONS: electrons in outer shells in an atom. The ones involved in forming chemical bonds
 INTRAMOLECULAR FORCES: electrostatic forces between atoms in the same molecule
-INTERMOLECULAR FORCES: electrostatic forces between molecules
 BOND DISTANCE: distance between the centers of two atoms involved in a chemical bond
     Applicable to both covalent and ionic bonds
 BOND ANGLE: angle between the lines joining three atoms bond together
@@ -100,19 +99,26 @@ COVALENT BOND: bond in which atoms share electrons
                 Tetrahedral =>          4 bonding orbitals => 4x sp³   orbitals
                 Trigonal bipyramidal => 5 bonding orbitals => 5x sp³d  orbitals
                 Octahedral =>           6 bonding orbitals => 6x sp³d² orbitals
-    
-            
+INTERMOLECULAR FORCES: electrostatic forces between molecules
+    Smaller than intramolecular forces, but give rise to physical properties => important
+    Ion-ion: attraction between anions and cations in ionic bonding
+    Ion-dipole: attraction between an ion and a covalent polar molecule
+        HYDRATION: when a compound solves in water, process where water molecules surround its ions. Ion-dipole interaction
+    Dipole-dipole: between polar molecules
+        Explains why polar substances mix with other polar substances, but not with non-polar ones
+    Dipole-induced dipole: between polar and non-polar molecules
+        Polar molecules may distort the non-polar ones and induce a dipole in them
+        The bigger the non-polar atom/molecule, the easier is to induce a dipole in it
+        Usually important with mixtures. E.g. may ease the solubility of a non-polar substance in a polar one
+    LONDON FORCES: forces between all molecules due to instantaneous dipole induction
+        Due to random electron movements, a dipole is induced temporarily => induces other dipoles and causes forces
+        The bigger the non-polar atom/molecule, the stronger
+        Explains why noble gases can become liquids at low T
+        Explains why substances with atoms in the same group increase their boiling points with their molar mass
+    HYDROGEN BOND: very strong dipole-dipole interactions between H and N/O/F in another molecule
+        Much stronger than other dipole-dipole interactions
+        Between H's nucleus and N/O/F lone pair(s)
+        Explains high boiling point of water
         
-
-
-
-
 Dotted line = para adentro, bold line = afuera
-
-Miscibility given by intermolecular forces: e.g. if you have dipole-dipole interactions they mix, but if you mix polar and non-polar they don't mix
-H bond: H with N, O, F with a lone pair
-H bonds increase melting/boiling points: stronger attractive forces
-
-
-
 No need to remember eq for lattice energy
