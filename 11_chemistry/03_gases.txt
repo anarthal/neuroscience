@@ -1,0 +1,19 @@
+VAPOR PRESSURE: for a liquid, pressure that the molecules that evaporate exert in equilibrium
+    NORMAL BOILING POINT: T for which vapor pressure == P_atm
+    Increases with temperature exponentially
+    CLAUSIUS-CLAPEYRON EQUATION: relation between P_vapor and T
+        ln(P) = -(H_vapor/RT) + C
+        H_vapor: molar enthalpy of vaporization. Supposed to remain constant with T
+        C: constant. Use the formula only to compute differences
+Phase diagrams
+    TRIPLE POINT: (P, T) point where 3 phases co-exist
+    CRITICAL POINT: (P, T) point such that for higher P and T, the substance exists as a supercritical fluid
+    SUPERCRITICAL FLUID: intermediate state between phase and gas, reached at very high P and T
+Solution magnitudes
+    MOLARITY: moles of solute by unit volume of solution
+    MOLALITY: moles of solute by unit mass of solvent
+    MOLAR FRACTION (χ): moles of solute by total moles of substance in the solution
+HENRY'S LAW: solubility of a gas increases linearly with pressure
+    Solubility (max molarity) = k_H * p
+    k_H: constant that depends on the gas, the solvent and T
+
