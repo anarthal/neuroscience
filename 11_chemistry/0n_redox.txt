@@ -1,0 +1,28 @@
+oxidation: reaction where a species donates electrons
+    The species becomes oxidized
+    Oxidation number increases
+reduction: reaction where a species accepts electrons
+    The species becomes reduced
+    Oxidation number decreases
+oxidation number: the charge that each atom in a molecule/ion would have if all bonds were pure ionic
+    E.g. in H2O, O has -2, H has +1
+redox reaction: pair of oxidation and reduction reactions
+    The element that gets oxidized reduces the other => reducing agent
+    The element that gets reduced oxidizes the other => oxidizing agent
+Electrochemical cell
+    The salt bridge is required because otherwise charge builds up in the solution => neutralizes the carge
+    The salt bridge is a gel
+E > 0 => spontaneous
+E_cell = E_cathode - E_anode, where E_n are the tabulated potentials at std conditions for the elements in anode and cathode
+    Std conditions: 1M, p=1atm
+    Potentials represent potentials measured in standard hydrogen electrode (she)
+    Has a platinum electrode, inert
+    Surrounded by H2 at 1atm
+    Solution contains protons
+    H+ reduces to H2 gas. This reaction, by convention, has E=0
+    To determine E_n, create a cell with the element of interest and the she, and measure
+    E_n is standard reduction potential. E_n >> 0 => big tendency to become reduced (so it'd be the cathode)
+Faraday's constant: charge of 1 mole of electrons
+    F = N_A * Q_e
+
+
