@@ -1,0 +1,26 @@
+reaction rate: moles/s of reactants that become products
+    V = -1/a * (d[A]/dt) where a is stechiometric coefficient of reactant A
+rate law: rate of reaction = constant * (concentration of reactants)^n
+    n: order of reaction
+    Must be determined experimentally for each reaction
+    Applies to the start of the reaction (?)
+    each reactant has a reaction order, called partial reaction orders
+    order of reaction must be an int, >= 0
+    global reaction order = sum(partial reaction orders)
+Integrated rate raw: change of concentration with time
+Half-life time/half-reaction time (t_1/2): time that takes for a reaction to reduce the concentration to 1/2
+    For a 1st order reaction, t_1/2 does not depend on [A]_0
+    For a 2nd order reaction, it does
+Collision theory: for a reaction to start you must have
+    Molecules colliding
+    The collision must be adequate
+        They must have enough energy to start the reaction
+        They should be properly oriented
+    Rate proportional to the number of collisions by time
+Activation energy: the minimal amount of energy by mole to initiate the reaction
+    Even in an exothermic reaction, you need an activation energy, unrelated to ΔH
+    This can be explained by considering that the products go into an intermediate state with higher energy than reactants or products
+    If we reverse an exothermic reaction, we get an endothermic one. To activate it, we need the exothermic's Ea + ΔH
+        So the endothermic one has always > Ea than its reverse exothermic
+        
+
