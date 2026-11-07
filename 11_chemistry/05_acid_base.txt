@@ -1,0 +1,66 @@
+Behavior of substances when dissolved in water
+    ELECTROLYTE: substance that, when dissolved in water, produces a solution that conduces electricity
+        STRONG ELECTROLYTE: substance that, when dissolved in water, completely dissociates into its ions => solution conduces electricity well
+        WEAK ELECTROLYTE: substance that, when dissolved in water, dissociates into its ions only partly => solution conduces electricity less than for a strong electrolyte
+    NON-ELECTROLYTE: substance that, when dissolved in water, produces a solution that does not conduce electricity
+Chemical equations in aqueous solutions
+    Molecular equation: chemical equation written as if substances did not dissociate into ions
+        E.g. HCl + NaOH => NaCl + H2O
+    Ionic equation: chemical equation that shows individual ions instead of the substances that dissociate
+        E.g. H⁺ + Cl⁻ + Na⁺ + OH⁻ => Na⁺ + Cl⁻ + H2O
+    Spectator ion: ions that do not participate in the ionic equation
+        E.g. Cl⁻ and Na⁺
+    Net ionic equation: ionic equation with the spectator ions removed
+        E.g. H⁺ + OH⁻ => H2O
+NEUTRALIZATION REACTION: reaction between an acid and a base to form compounds that are neither acid nor basic
+SALT HYDROLYSIS REACTION: reaction between one of the salt's ions and water. Generally affects pH
+Arrhenius theory
+    ARRHENIUS ACID: substance that ionizes in water to form protons (H⁺)
+    ARRHENIUS BASE: substance that ionizes in water to form hydroxide ions (OH⁻)
+    Limitation: spans only aqueous solutions
+    Neutralization understood as: acid + base => salt + water
+    STRONG ACID: acid that completely ionizes in water (strong electrolyte)
+    WEAK ACID: acid that ionizes in water only partly (weak electrolyte)
+    STRONG BASE: base that completely ionizes in water (strong electrolyte)
+    WEAK BASE: base that ionizes in water only partly (weak electrolyte)
+Brønsted-Lowry theory
+    Generalizes Arrhenius' theory to not require substances to be in aqueous solution to be acids or bases
+    BRONSTED ACID: substance that can donate a proton to another
+    BRONSTED BASE: substance that can accept a proton from another
+    CONJUGATE BASE: Bronsted acid after it has donated a proton (acid - H⁺)
+    CONJUGATE ACID: Bronsted base after it has accepted a proton (base + H⁺)
+    ACID-BASE CONJUGATE PAIR: a Bronsted acid or base and its conjugate
+    POLYPROTIC ACID: acid that can donate more than one proton
+    AMPHOTERIC: substance that may act as an acid or a base. E.g. water
+Ion-product of water
+    Self-ionization of water: H2O <=> H⁺ + OH⁻
+    Occurs naturally for pure water, but with very small concentrations
+    Equilibrium constant Kw = 1.0e-14 = [H⁺][OH⁻]
+        Holds for all aqueous solutions
+    For pure water, [H⁺] = [OH⁻] = 1.0e-7
+    pH = -log10[H⁺]
+Dissociation constants of weak acids and weak bases
+    Dissociation of a weak acid A: HA <=> H⁺ + A⁻
+    Dissociation constant of a weak acid: equilibrium constant Ka = [H⁺][A⁻]/[HA]
+        Ka is a property of each acid
+    COMMON-ION EFFECT: the degree of dissociation of a weak acid/base is reduced if we add a substance that shares a common ion
+        In the dissociation equation above, if we add a salt that dissociates into A⁻, equilibrium shifted towards reactants
+    HENDERSON-HASSELBALCH EQUATION: can be used to approximate the pH of a solution with a weak acid and its corresponding salt
+        pKa = -log10(Ka)
+        pH = pKa + log10([A⁻]/[HA])
+        We can approximate equilibrium concentrations by initial concentrations because the common-ion effect makes dissociation small enough
+    Dissociation of a weak base B: B + H2O <=> HB⁺ + OH⁻
+    Dissociation constant of a weak base: equilibrium constant Kb = [HB⁺][OH⁻]/[B]
+        Same treatment as Ka
+    For an acid A and its conjugate base B, Ka * Kb = Kw
+        Strong acid => weak conjugate base and vice-versa
+    Polyprotic acids have several Ka values, one for each successive ionization
+        Ka1 for the 1st proton they lose, Ka2 for the 2nd...
+        Kan > Ka(n+1)
+    
+    
+    
+TITRATION: procedure to find the concentration of an acid/base by neutralizing it
+    TITRAND: in a titration, the compound whose concentration we want to measure
+    TITRANT: in a titration, the compound that gets added to neutralize the titrand
+

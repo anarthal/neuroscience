@@ -31,7 +31,7 @@ ECM
             Nutrients (e.g. glucose)
             Respiratory gases (e.g. O2 and CO2)
             Metabolic wastes
-            ELECTROLYTES: ions solved in plasma (e.g. Na+)
+            Electrolytes: ions solved in plasma (e.g. Na+)
 Cell population
     FORMED ELEMENTS: cell population of blood
     HEMATOCRIT (HCT)/PACKED CELL VOLUME (PCV): volume % of reed blood cells in blood
