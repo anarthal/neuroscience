@@ -1,0 +1,10 @@
+PARTITION COEFFICIENT: ratio of concentrations of solute in two immiscible liquids at equilibrium
+Separation by extraction: separate compounds based on their solubility differences in immiscible liquids
+    Usually one polar solvent (e.g. water) and a non-polar one (e.g. organic solvent)
+THIN-LAYER CHROMATOGRAPHY (TLC): the stationary phase is a thin layer of adsorbent material, and the mobile phase rises through it by capillarity
+    The mobile phase is placed in a horizontal plate
+    The stationary phase (thin layer) is placed in vertical, so the mobile phase can rise through it
+    The more a molecule interacts with the stationary phase, the less it rises
+    The solvent is the one that rises the most
+    Retention factor (Rf): distance risen by a molecule / distance risen by the solute. Akin to retention time
+    
