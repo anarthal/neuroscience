@@ -32,6 +32,7 @@ Brønsted-Lowry theory
     ACID-BASE CONJUGATE PAIR: a Bronsted acid or base and its conjugate
     POLYPROTIC ACID: acid that can donate more than one proton
     AMPHOTERIC: substance that may act as an acid or a base. E.g. water
+    HYDRONIUM ION: H3O⁺ ion. Hydrated from of H⁺. Protons really exist under this form in aqueous solution, but are written as H⁺ for simplicity
 Ion-product of water
     Self-ionization of water: H2O <=> H⁺ + OH⁻
     Occurs naturally for pure water, but with very small concentrations
@@ -57,10 +58,17 @@ Dissociation constants of weak acids and weak bases
     Polyprotic acids have several Ka values, one for each successive ionization
         Ka1 for the 1st proton they lose, Ka2 for the 2nd...
         Kan > Ka(n+1)
-    
-    
-    
-TITRATION: procedure to find the concentration of an acid/base by neutralizing it
+ACID-BASE INDICATOR: chemical with different color depending in the medium's pH
+    Usually weak acids
+    The acid HI and its conjugate base I⁻ have different colors
+    In acidic pHs, HI predominates => the mixture has HI's color. In basic pHs, I⁻ predominates => the mixture has I⁻ color
+    If 0.1 < [HI]/[I⁻] < 10, we can't appreciate which exact color it has => we detect the change in a pH = pKI +- 1
+TITRATION/VOLUMETRIC ANALYSIS: procedure to find the concentration of an acid/base by neutralizing it
     TITRAND: in a titration, the compound whose concentration we want to measure
-    TITRANT: in a titration, the compound that gets added to neutralize the titrand
-
+    TITRANT/TITRATOR: in a titration, the compound that gets added to neutralize the titrand
+    The titrand is added gradually until the analyze has been completely neutralized => measure the required titrant volume
+    TITRATION EQUIVALENCE POINT/TITRATION END POINT: point in the titration where the analyte has been completely neutralized
+        At this point, pH experiments a drastic change
+    Add an indicator to find out when the end point is reached
+        The indicator's pKI should be similar to the expected pH at the end point
+    Or use a pH meter
