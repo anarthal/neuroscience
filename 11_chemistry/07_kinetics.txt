@@ -22,5 +22,25 @@ Activation energy: the minimal amount of energy by mole to initiate the reaction
     This can be explained by considering that the products go into an intermediate state with higher energy than reactants or products
     If we reverse an exothermic reaction, we get an endothermic one. To activate it, we need the exothermic's Ea + ΔH
         So the endothermic one has always > Ea than its reverse exothermic
-        
+Elementary reaction: one that happens in a single step
+    Other reactions happen as the sum of several elementary steps
+    Not all steps occur at the same velocity. Rate limited by the slowest step
+    Reaction intermediate: species that does not appear except for intermediate steps
+    Molecularity: the total number of molecules in the reactants
+    For a reaction to be elementary, the molecularity must be equal to the reaction order (necessary but not sufficient)
+A catalyst does not change the thermodynamic parameters, but it reduces the activation energy
+    Because the reaction will take a different pathway
+    Homogeneous catalyst: same phase as the reactant (e.g. in solution)
+    Heterogeneous catalyst: != phase as the reactant. Easier to remove and more specific to the process
+Enzyme catalysis: can be understood as a several-step process
+    Forming the enzyme-substrate complex (equilibrium): E + S <=> ES
+    Forming the product: ES => P + E
+    The slowest step is forming the product
+    If [S] is very high, then V increases linearly with [E]
+    Otherwise, Michaelis-Menten equation: V0 = (Vmax * [S]) / (Km + [S]) (at a fixed [E])
+        Vmax: velocity when [S] is very high
+        This is a 'saturation curve'
+        For V0 = Vmax/2 => [S] = Km
+        Km: Michaelis-Menten constant
+    
 
